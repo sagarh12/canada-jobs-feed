@@ -13,7 +13,16 @@ It replaces the AI Ignite class feed for the "Tech & Data" field, which only sea
 | Indeed Canada | [JobSpy](https://github.com/speedyapply/JobSpy) | Canada-wide, plus Toronto, Ottawa, Waterloo, Montreal, Vancouver, Calgary, Edmonton, Winnipeg and Halifax |
 | LinkedIn | JobSpy | Same places |
 | Job Bank (Government of Canada) | Its search pages, newest first | All provinces and territories |
-| Employer career sites | Their RSS feeds (SAP SuccessFactors) | Rogers, Bell, TELUS, Hydro One, OPG, Toronto Hydro, Canada Post, Purolator, Bombardier, University of Toronto, Halton Region |
+| Employer career sites | Their RSS feeds (SAP SuccessFactors) | Scotiabank, Deloitte, EY, SAP, Rogers, Bell, TELUS, Hydro One, OPG, Toronto Hydro, Canada Post, Purolator, Bombardier, University of Toronto, Halton Region |
+| Employer hiring systems | Their Workday boards, read newest first and narrowed to Canada | RBC (incl. early talent), TD, CIBC (incl. campus), BMO, Desjardins, Manulife, Sun Life (incl. campus), Intact, iA, Ontario Teachers', OMERS, HOOPP (incl. students), Interac, Moneris, Fidelity Canada, Mastercard, PwC, BDO, Raymond Chabot Grant Thornton, Thomson Reuters, NVIDIA, Salesforce, Intel, Cisco, Ciena, Autodesk, CDW, CAE, Canadian Tire, Enbridge, Cenovus |
+| Employer job APIs | Their own careers-site search | KPMG Canada, Microsoft (Canada), IBM (Canada) |
+
+Employer jobs come straight from the company's own hiring system, usually hours or days before
+they show up on LinkedIn or Indeed. They aren't searched by keyword, so only titles that name tech
+work (software, data, IT, cyber, cloud, QA…) or an early-career role (new grad, graduate, intern,
+co-op, student, junior, campus, rotational…) in Canada are kept. To add an employer on Workday, add
+its `(name, host, site)` from the board's address, `https://<host>.myworkdayjobs.com/<site>`, to
+`WORKDAY` in `feed.py`.
 
 Search terms: software developer, software engineer, data analyst, data engineer, business
 intelligence analyst, IT support, help desk, cyber security analyst, SOC analyst, network
@@ -58,8 +67,8 @@ The repo is public because Actions minutes are free and unlimited for public rep
 | Field | Meaning |
 | --- | --- |
 | `posted` | `YYYY-MM-DD`, or a full ISO time when the board gives one |
-| `source` | `Indeed`, `LinkedIn`, `Job Bank`, or `<Employer> careers` (for example `Rogers careers`) |
-| `years` | The most years of experience the job asks for, or `null` if it names none. Read from the description (Indeed) or Job Bank's Experience field. LinkedIn jobs are `null` here; the sheet reads LinkedIn pages itself. |
+| `source` | `Indeed`, `LinkedIn`, `Job Bank`, or `<Employer> careers` (for example `TD careers`, `KPMG careers`) |
+| `years` | The most years of experience the job asks for, or `null` if it names none. Read from the description (Indeed, KPMG, IBM and the RSS career sites) or Job Bank's Experience field. LinkedIn jobs are `null` here; the sheet reads LinkedIn pages itself. |
 
 `years` uses the same rules as the sheet's experience check: "0-2 years" counts as 0, and
 "less than 2 years", "graduated within 2 years" and "3 years preferred / an asset" don't count as

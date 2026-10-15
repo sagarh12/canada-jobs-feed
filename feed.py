@@ -9,7 +9,10 @@ Sources:
   • Government of Canada Job Bank (its search pages, newest first, all provinces)
   • Employer career sites with RSS feeds (SuccessFactors): Rogers, Bell, TELUS,
     Hydro One, OPG, Toronto Hydro, Canada Post, Purolator, Bombardier,
-    University of Toronto, Halton Region
+    University of Toronto, Halton Region, Scotiabank, Deloitte, EY, SAP
+  • Employer hiring systems read directly, so jobs arrive before they reach the
+    job boards: banks, insurers, pension funds, the Big 4 and big tech on Workday,
+    plus KPMG and Microsoft and IBM's own job APIs (see EMPLOYERS below)
 
 Each job carries `years`: the most years of experience its description asks for,
 or null. It lets the sheet check Indeed jobs, whose pages Google's servers can't open.
@@ -60,7 +63,49 @@ CAREER_RSS = {
     "jobs.hydroone.com": "Hydro One", "jobs.opg.com": "OPG", "jobs.torontohydro.com": "Toronto Hydro",
     "jobs.canadapost.ca": "Canada Post", "careers.purolator.com": "Purolator", "jobs.bombardier.com": "Bombardier",
     "jobs.utoronto.ca": "University of Toronto", "careers.halton.ca": "Halton Region",
+    "jobs.scotiabank.com": "Scotiabank", "careers.deloitte.ca": "Deloitte",
 }
+# Global employers on SuccessFactors: their RSS can't filter by country, so they're
+# searched by Canadian city names instead (the keyword matches the job's location).
+GLOBAL_RSS = {"careers.ey.com": "EY", "careers.sap.com": "SAP"}
+CITY_KEYWORDS = ["Canada", "Toronto", "Montreal", "Vancouver", "Calgary", "Ottawa", "Edmonton", "Waterloo", "Halifax", "Winnipeg"]
+
+# Employer boards on Workday: (name, host, site). Each is read newest first.
+# Boards for worldwide employers are narrowed to Canada with their own location filter.
+WORKDAY = [
+    ("RBC", "rbc.wd3", "RBCGLOBAL1"), ("RBC", "rbc.wd3", "rbcearlytalent1"),
+    ("TD", "td.wd3", "TD_Bank_Careers"), ("CIBC", "cibc.wd3", "search"), ("CIBC", "cibc.wd3", "campus"),
+    ("BMO", "bmo.wd3", "External"), ("Desjardins", "desjardins.wd10", "Desjardins"),
+    ("Manulife", "manulife.wd3", "MFCJH_Jobs"), ("Sun Life", "sunlife.wd3", "Experienced-Jobs"),
+    ("Sun Life", "sunlife.wd3", "Campus"), ("Intact", "intactfc.wd3", "intactfc"), ("iA Financial", "ia.wd3", "professional"),
+    ("Ontario Teachers'", "otppb.wd3", "OntarioTeachers_Careers"), ("OMERS", "omers.wd3", "OMERS_External"),
+    ("HOOPP", "hoopp.wd10", "HOOPP"), ("HOOPP", "hoopp.wd10", "HOOPPStudent"), ("Interac", "interac.wd3", "Interac"),
+    ("Moneris", "moneris.wd3", "Moneris"), ("Fidelity Canada", "fil.wd3", "fidelitycanada"),
+    ("Mastercard", "mastercard.wd1", "CorporateCareers"),
+    ("PwC", "pwc.wd3", "Global_Experienced_Careers"),  # its campus board has no Canadian jobs
+    ("BDO", "bdo.wd3", "BDO"), ("Raymond Chabot Grant Thornton", "rcgt.wd3", "External"),
+    ("Thomson Reuters", "thomsonreuters.wd5", "External_Career_Site"), ("NVIDIA", "nvidia.wd5", "NVIDIAExternalCareerSite"),
+    ("Salesforce", "salesforce.wd12", "External_Career_Site"), ("Intel", "intel.wd1", "External"),
+    ("Cisco", "cisco.wd5", "Cisco_Careers"), ("Ciena", "ciena.wd5", "Careers"), ("Autodesk", "autodesk.wd1", "Ext"),
+    ("CDW", "cdw.wd5", "Careers"), ("CAE", "cae.wd3", "career"),
+    ("Canadian Tire", "canadiantirecorporation.wd3", "Enterprise_External_Careers_Site"),
+    ("Enbridge", "enbridge.wd3", "enbridge_careers"), ("Cenovus", "cenovus.wd3", "careers"),
+]
+WORKDAY_PAGES = 10  # 20 jobs a page; reading stops sooner once jobs are older than the search window
+
+# Employer jobs aren't searched by keyword, so their titles must name tech work or an early-career role.
+TECH_OR_EARLY = re.compile(
+    r"\b(software|developer|programmer|engineer(ing)?|data|analyst|analytics|business intelligence|bi|it|"
+    r"information technology|technology|cloud|security|cyber|cybersecurity|soc|network|systems|infrastructure|"
+    r"help ?desk|service desk|desktop support|technical support|technician|qa|quality assurance|test|web|full[- ]stack|"
+    r"front[- ]?end|back[- ]?end|devops|sre|machine learning|ai|database|automation|digital|"
+    r"new grad|graduate|intern|internship|co-?op|student|entry[- ]level|junior|jr|campus|early talent|rotational|trainee)\b", re.I)
+CANADA = re.compile(r"\bcanada\b|,\s*CA\b|\bCA[-,]|\b(" + "|".join(["ontario", "quebec", "québec", "british columbia",
+    "colombie-britannique", "alberta", "manitoba", "saskatchewan", "nova scotia", "new brunswick", "newfoundland",
+    "prince edward island", "yukon", "northwest territories", "nunavut", "toronto", "montr[eé]al", "vancouver", "calgary",
+    "ottawa", "edmonton", "waterloo", "kitchener", "mississauga", "markham", "winnipeg", "halifax", "quebec city"]) + r")\b", re.I)
+
+# Same as the sheet's titleLevel()
 DEFAULT_PLACE = {"careers.halton.ca": "Oakville, ON, CA"}  # its feed leaves the location out
 
 # Same as the sheet's titleLevel(): senior and executive titles are dropped here to keep the file small.
@@ -220,9 +265,134 @@ def career_rss(host, term):
             posted = parsedate_to_datetime(pub).isoformat()
         except (TypeError, ValueError):
             continue
-        jobs.append({"title": name, "company": CAREER_RSS[host], "location": where or DEFAULT_PLACE.get(host, ""),
-                     "posted": posted, "link": link, "source": f"{CAREER_RSS[host]} careers", "years": None})
-    return jobs
+        company = CAREER_RSS.get(host) or GLOBAL_RSS[host]
+        about = re.search(r"<description>(.*?)</description>", it, re.S)
+        about = clean(re.sub(r"<[^>]+>", " ", unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", about.group(1))))) if about else ""
+        jobs.append({"title": name, "company": company, "location": where or DEFAULT_PLACE.get(host, ""),
+                     "posted": posted, "link": link, "source": f"{company} careers",
+                     "years": years_asked(about) if about else None})
+    return employer_jobs(jobs)
+
+
+def employer_jobs(jobs):
+    """Employer boards list every job: keep tech or early-career titles in Canada."""
+    return [j for j in jobs if TECH_OR_EARLY.search(j["title"]) and (not j["location"] or CANADA.search(j["location"]))]
+
+
+WD_HEADERS = {"User-Agent": UA["User-Agent"], "Content-Type": "application/json", "Accept": "application/json"}
+
+
+def workday_days_ago(posted_on):
+    """Workday says "Posted Today", "Posted Yesterday", "Posted 3 Days Ago", "Posted 30+ Days Ago"."""
+    p = (posted_on or "").lower()
+    if "today" in p:
+        return 0
+    if "yesterday" in p:
+        return 1
+    m = re.search(r"(\d+)\+?\s*days?", p)
+    return int(m.group(1)) if m else None
+
+
+def workday_canada_filter(facets):
+    """The board's own "Canada" location filter, if it has one: {facet: [id]}."""
+    for f in facets or []:
+        param = f.get("facetParameter", "")
+        for v in f.get("values", []):
+            if "values" in v:  # grouped facets
+                found = workday_canada_filter([dict(v, facetParameter=v.get("facetParameter", param))])
+                if found:
+                    return found
+            elif v.get("descriptor", "").strip().lower() == "canada" and re.search(r"country|hierarchy", param, re.I):
+                return {param: [v["id"]]}
+    return None
+
+
+def workday_board(name, host, site):
+    tenant = host.split(".")[0]
+    api = f"https://{host}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
+    first = requests.post(api, json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""}, headers=WD_HEADERS, timeout=30)
+    first.raise_for_status()
+    canada = workday_canada_filter(first.json().get("facets"))
+    today = now().astimezone(ET).date()
+    jobs = []
+    for page in range(WORKDAY_PAGES):
+        r = requests.post(api, json={"appliedFacets": canada or {}, "limit": 20, "offset": page * 20, "searchText": ""},
+                          headers=WD_HEADERS, timeout=30)
+        r.raise_for_status()
+        postings = r.json().get("jobPostings") or []
+        newest = None
+        for p in postings:
+            days = workday_days_ago(p.get("postedOn"))
+            if days is None or not p.get("externalPath"):
+                continue
+            newest = days if newest is None else min(newest, days)
+            where = clean(p.get("locationsText"))
+            if canada and not CANADA.search(where):
+                where = f"{where}, Canada" if where else "Canada"  # "3 Locations" inside the Canada filter
+            jobs.append({"title": clean(p.get("title")), "company": name, "location": where,
+                         "posted": (today - timedelta(days=days)).isoformat(),
+                         "link": f"https://{host}.myworkdayjobs.com/{site}{p['externalPath']}",
+                         "source": f"{name} careers", "years": None})
+        # Mostly newest first, not strictly: stop at a page with nothing new on it.
+        if len(postings) < 20 or newest is None or newest * 24 > SEARCH_HOURS:
+            break
+    return employer_jobs(jobs)
+
+
+def kpmg():
+    """KPMG Canada's careers site API (iCIMS), newest first, with descriptions."""
+    jobs = []
+    for page in range(1, 11):
+        r = requests.get("https://careers.kpmg.ca/api/jobs", headers=UA, timeout=30,
+                         params={"page": page, "sortBy": "posted_date", "descending": "true", "internal": "false"})
+        r.raise_for_status()
+        batch = [j["data"] for j in r.json().get("jobs", [])]
+        for d in batch:
+            about = clean(re.sub(r"<[^>]+>", " ", " ".join(d.get(k) or "" for k in ("description", "qualifications"))))
+            jobs.append({"title": clean(d.get("title")), "company": "KPMG",
+                         "location": clean(d.get("full_location") or d.get("location_name")) or "Canada",
+                         "posted": d["posted_date"].replace("+0000", "+00:00"),
+                         "link": f"https://careers.kpmg.ca/jobs/{d['slug']}?lang=en-us", "source": "KPMG careers",
+                         "years": years_asked(about) if about else None})
+        if len(batch) < 10 or posted_time(jobs[-1]["posted"]) < now() - timedelta(hours=SEARCH_HOURS):
+            break
+    return employer_jobs(jobs)
+
+
+def microsoft():
+    """Microsoft's careers search for Canada, newest first."""
+    jobs = []
+    for start in range(0, 100, 10):
+        r = requests.get("https://apply.careers.microsoft.com/api/pcsx/search", headers=UA, timeout=30,
+                         params={"domain": "microsoft.com", "query": "", "location": "Canada", "start": start, "sort_by": "timestamp"})
+        r.raise_for_status()
+        batch = r.json().get("data", {}).get("positions") or []
+        for p in batch:
+            jobs.append({"title": clean(p.get("name")), "company": "Microsoft",
+                         "location": "; ".join(p.get("standardizedLocations") or p.get("locations") or []) or "Canada",
+                         "posted": datetime.fromtimestamp(int(p["postedTs"]), timezone.utc).isoformat(),
+                         "link": f"https://apply.careers.microsoft.com{p['positionUrl']}", "source": "Microsoft careers", "years": None})
+        if len(batch) < 10 or posted_time(jobs[-1]["posted"]) < now() - timedelta(hours=SEARCH_HOURS):
+            break
+    return employer_jobs(jobs)
+
+
+def ibm():
+    """IBM's careers search for Canada, newest first."""
+    body = {"appId": "careers", "scopes": ["careers2"], "query": {"bool": {"must": []}},
+            "post_filter": {"term": {"field_keyword_05": "Canada"}}, "size": 100, "sort": [{"dcdate": "desc"}],
+            "lang": "zz", "localeSelector": {}, "sm": {"query": "", "lang": "zz"},
+            "_source": ["title", "url", "dcdate", "field_keyword_19", "description"]}
+    r = requests.post("https://www-api.ibm.com/search/api/v2", json=body, headers=WD_HEADERS, timeout=30)
+    r.raise_for_status()
+    jobs = []
+    for h in r.json().get("hits", {}).get("hits", []):
+        d = h["_source"]
+        about = clean(re.sub(r"<[^>]+>", " ", d.get("description") or ""))
+        jobs.append({"title": clean(d.get("title")), "company": "IBM",
+                     "location": f"{clean(d.get('field_keyword_19'))}, Canada".lstrip(", "), "posted": d.get("dcdate", ""),
+                     "link": d.get("url", ""), "source": "IBM careers", "years": years_asked(about) if about else None})
+    return employer_jobs(jobs)
 
 
 # ── Freshness and de-duplication ───────────────────────────────────────────
@@ -316,13 +486,19 @@ def run():
             add("Job Bank", jobbank_search, term)
 
     def career_sites():
-        for host in CAREER_RSS:
-            for term in TERMS:
-                add("Employer career sites", career_rss, host, term)
+        queries = [(h, t) for h in CAREER_RSS for t in [""] + TERMS] + [(h, c) for h in GLOBAL_RSS for c in CITY_KEYWORDS]
+        with ThreadPoolExecutor(max_workers=4) as rss:
+            list(rss.map(lambda q: add("Employer career sites", career_rss, *q), queries))
+
+    def employer_boards():
+        with ThreadPoolExecutor(max_workers=4) as boards:
+            list(boards.map(lambda b: add("Employer boards", workday_board, *b), WORKDAY))
+        for fn in (kpmg, microsoft, ibm):
+            add("Employer boards", fn)
 
 
-    with ThreadPoolExecutor(max_workers=6) as pool:
-        side = [pool.submit(linkedin), pool.submit(jobbank), pool.submit(career_sites)]
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        side = [pool.submit(f) for f in (linkedin, jobbank, career_sites, employer_boards)]
         list(pool.map(lambda q: add("Indeed", jobspy_search, "indeed", *q), searches))
         for f in side:
             f.result()
