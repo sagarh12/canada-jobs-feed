@@ -1,21 +1,24 @@
 {
- "updated": "2026-10-15T21:04:04+00:00",
+ "updated": "2026-10-15T21:15:38+00:00",
  "searches_run": {
   "Employer career sites": 215,
   "Job Bank": 14,
   "Indeed": 140,
   "Employer boards": 38,
-  "LinkedIn": 22
+  "Indeed (US remote)": 14,
+  "LinkedIn": 19
  },
  "found_this_run": {
-  "Employer career sites": 1227,
+  "Employer career sites": 1224,
   "Job Bank": 269,
-  "Indeed": 1914,
-  "Employer boards": 628,
-  "LinkedIn": 406
+  "Indeed": 1913,
+  "Employer boards": 626,
+  "Indeed (US remote)": 322,
+  "LinkedIn": 382
  },
- "in_feed": 880,
- "with_years": 211,
- "jobbank_postings_opened": 12,
- "seconds": 501
+ "in_feed": 823,
+ "us_remote_in_feed": 112,
+ "with_years": 297,
+ "jobbank_postings_opened": 15,
+ "seconds": 483
 }
