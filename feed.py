@@ -6,6 +6,8 @@ sheets read the file and apply their own filters.
 
 Sources:
   • Indeed Canada and LinkedIn, through JobSpy: Canada-wide plus nine big cities
+  • Fully remote US jobs from Indeed (hybrid and on-site US jobs are dropped). LinkedIn
+    isn't searched for these: its US results don't say whether a job is fully remote.
   • Government of Canada Job Bank (its search pages, newest first, all provinces)
   • Employer career sites with RSS feeds (SuccessFactors): Rogers, Bell, TELUS,
     Hydro One, OPG, Toronto Hydro, Canada Post, Purolator, Bombardier,
@@ -51,8 +53,10 @@ TERMS = [
 ]
 PLACES = ["Canada", "Toronto, ON", "Ottawa, ON", "Waterloo, ON", "Montreal, QC", "Vancouver, BC",
           "Calgary, AB", "Edmonton, AB", "Winnipeg, MB", "Halifax, NS"]
+US = "United States"  # searched for fully remote jobs only
 # Canada-wide searches return the most; city searches catch what those miss.
-RESULTS_PER_SEARCH = {"indeed": {"Canada": 100, "city": 50}, "linkedin": {"Canada": 50, "city": 25}}
+RESULTS_PER_SEARCH = {"indeed": {"Canada": 100, US: 50, "city": 50}, "linkedin": {"Canada": 50, US: 25, "city": 25}}
+NOT_REMOTE = re.compile(r"\bhybrid\b|\bon-?site\b|\bin[- ]office\b|\bin[- ]person\b", re.I)
 # Glassdoor, Google Jobs and ZipRecruiter fail inside JobSpy for Canada.
 SITE_LABEL = {"indeed": "Indeed", "linkedin": "LinkedIn"}
 
@@ -181,10 +185,12 @@ def jobbank_years(experience):
 
 def jobspy_search(site, term, place):
     from jobspy import scrape_jobs
+    us = place == US
+    # Indeed can't combine its remote filter with the date filter, so "remote" goes in the search instead.
     df = scrape_jobs(
-        site_name=[site], search_term=term, location=place, distance=50,
-        results_wanted=RESULTS_PER_SEARCH[site]["Canada" if place == "Canada" else "city"],
-        hours_old=SEARCH_HOURS, country_indeed="Canada", verbose=0,
+        site_name=[site], search_term=f"{term} remote" if us and site == "indeed" else term, location=place, distance=50,
+        results_wanted=RESULTS_PER_SEARCH[site].get(place, RESULTS_PER_SEARCH[site]["city"]),
+        hours_old=SEARCH_HOURS, country_indeed="USA" if us else "Canada", is_remote=us, verbose=0,
     )
     jobs = []
     for r in df.to_dict("records"):
@@ -196,9 +202,17 @@ def jobspy_search(site, term, place):
         if r.get("is_remote") is True and "remote" not in loc.lower():
             loc = f"{loc} (remote)".strip()
         description = re.sub(r"[\\*_#`]", "", clean(r.get("description")))  # markdown marks
-        jobs.append({"title": clean(r.get("title")), "company": clean(r.get("company")), "location": loc,
+        title = clean(r.get("title"))
+        if us:
+            # Fully remote only: marked remote, and nothing in it says hybrid or on-site.
+            if not (r.get("is_remote") is True or re.search(r"\bremote\b", f"{title} {loc}", re.I)):
+                continue
+            if NOT_REMOTE.search(f"{title} {loc} {description}"):
+                continue
+            loc = "Remote · United States"
+        jobs.append({"title": title, "company": clean(r.get("company")), "location": loc,
                      "posted": posted, "link": clean(r.get("job_url")), "source": SITE_LABEL[site],
-                     "years": years_asked(description) if description else None})
+                     "country": "US" if us else "CA", "years": years_asked(description) if description else None})
     return jobs
 
 
@@ -465,9 +479,9 @@ def run():
             found.extend(jobs or [])
         return jobs is not None
 
-    # Canada-wide searches first; city searches in a random order so runs that
-    # run out of time still cover every city over the day.
-    city_searches = [(t, p) for p in PLACES[1:] for t in TERMS]
+    # Canada-wide searches first; city and US-remote searches in a random order so
+    # runs that run out of time still cover every place over the day.
+    city_searches = [(t, p) for p in PLACES[1:] + [US] for t in TERMS]
     random.shuffle(city_searches)
     searches = [(t, "Canada") for t in TERMS] + city_searches
 
@@ -476,6 +490,8 @@ def run():
         # and it stops for this run after three failures in a row.
         failures = 0
         for term, place in searches:
+            if place == US:
+                continue
             if failures >= 3 or out_of_time():
                 break
             failures = 0 if add("LinkedIn", jobspy_search, "linkedin", term, place) else failures + 1
@@ -499,7 +515,7 @@ def run():
 
     with ThreadPoolExecutor(max_workers=8) as pool:
         side = [pool.submit(f) for f in (linkedin, jobbank, career_sites, employer_boards)]
-        list(pool.map(lambda q: add("Indeed", jobspy_search, "indeed", *q), searches))
+        list(pool.map(lambda q: add("Indeed (US remote)" if q[1] == US else "Indeed", jobspy_search, "indeed", *q), searches))
         for f in side:
             f.result()
     log(f"searches done in {round(time.monotonic() - started)}s: {searches_run}")
@@ -553,9 +569,11 @@ def main():
     jobs = merge(fresh)
     opened = fill_jobbank_years(jobs)
     updated = started.isoformat(timespec="seconds")
-    jobs = [{k: j.get(k) for k in ("title", "company", "location", "posted", "link", "source", "years")} for j in jobs]
+    jobs = [dict({k: j.get(k) for k in ("title", "company", "location", "posted", "link", "source")},
+                 country=j.get("country") or "CA", years=j.get("years")) for j in jobs]
     (OUT / "tech.json").write_text(json.dumps({"updated": updated, "jobs": jobs}, ensure_ascii=False, indent=0))
     status = {"updated": updated, "searches_run": searches_run, "found_this_run": stats, "in_feed": len(jobs),
+              "us_remote_in_feed": sum(j["country"] == "US" for j in jobs),
               "with_years": sum(j["years"] is not None for j in jobs), "jobbank_postings_opened": opened,
               "seconds": round((now() - started).total_seconds())}
     (OUT / "status.json").write_text(json.dumps(status, indent=1))

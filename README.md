@@ -1,6 +1,6 @@
 # canada-jobs-feed
 
-A job feed for [Job Scout](https://github.com/nruppatel16/jobscout-feed) that covers **all of Canada**.
+A job feed for [Job Scout](https://github.com/nruppatel16/jobscout-feed) that covers **all of Canada**, plus fully remote US jobs.
 It collects tech, data, cybersecurity and IT jobs for students, new grads and people with up to a
 year of experience, and publishes them as one JSON file that a Job Scout sheet reads.
 
@@ -12,6 +12,7 @@ It replaces the AI Ignite class feed for the "Tech & Data" field, which only sea
 | --- | --- | --- |
 | Indeed Canada | [JobSpy](https://github.com/speedyapply/JobSpy) | Canada-wide, plus Toronto, Ottawa, Waterloo, Montreal, Vancouver, Calgary, Edmonton, Winnipeg and Halifax |
 | LinkedIn | JobSpy | Same places |
+| Indeed (United States) | JobSpy, "<term> remote" | **Fully remote US jobs only**: kept only if marked remote, and dropped if the title, location or description says hybrid, on-site or in-office |
 | Job Bank (Government of Canada) | Its search pages, newest first | All provinces and territories |
 | Employer career sites | Their RSS feeds (SAP SuccessFactors) | Scotiabank, Deloitte, EY, SAP, Rogers, Bell, TELUS, Hydro One, OPG, Toronto Hydro, Canada Post, Purolator, Bombardier, University of Toronto, Halton Region |
 | Employer hiring systems | Their Workday boards, read newest first and narrowed to Canada | RBC (incl. early talent), TD, CIBC (incl. campus), BMO, Desjardins, Manulife, Sun Life (incl. campus), Intact, iA, Ontario Teachers', OMERS, HOOPP (incl. students), Interac, Moneris, Fidelity Canada, Mastercard, PwC, BDO, Raymond Chabot Grant Thornton, Thomson Reuters, NVIDIA, Salesforce, Intel, Cisco, Ciena, Autodesk, CDW, CAE, Canadian Tire, Enbridge, Cenovus |
@@ -58,6 +59,7 @@ The repo is public because Actions minutes are free and unlimited for public rep
       "posted": "2026-10-15",
       "link": "https://ca.indeed.com/viewjob?jk=...",
       "source": "Indeed",
+      "country": "CA",
       "years": 1
     }
   ]
@@ -68,6 +70,7 @@ The repo is public because Actions minutes are free and unlimited for public rep
 | --- | --- |
 | `posted` | `YYYY-MM-DD`, or a full ISO time when the board gives one |
 | `source` | `Indeed`, `LinkedIn`, `Job Bank`, or `<Employer> careers` (for example `TD careers`, `KPMG careers`) |
+| `country` | `CA`, or `US` for fully remote US jobs (their `location` is `Remote · United States`) |
 | `years` | The most years of experience the job asks for, or `null` if it names none. Read from the description (Indeed, KPMG, IBM and the RSS career sites) or Job Bank's Experience field. LinkedIn jobs are `null` here; the sheet reads LinkedIn pages itself. |
 
 `years` uses the same rules as the sheet's experience check: "0-2 years" counts as 0, and
