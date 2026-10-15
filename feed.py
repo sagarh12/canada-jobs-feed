@@ -516,6 +516,8 @@ def merge(fresh):
         t = posted_time(j.get("posted", ""))
         if not (j.get("link") and j.get("title") and t and t >= cutoff) or SENIOR.search(j["title"]):
             continue
+        if j.get("source", "").endswith(" careers") and not employer_jobs([j]):
+            continue  # kept from a run before the employer filter existed
         if j.get("years") is None:
             j["years"] = old_years.get(j["link"])
         k = dup_key(j)
