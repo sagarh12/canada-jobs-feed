@@ -31,8 +31,9 @@ so a run where a board blocks us doesn't empty the feed. The same job found on
 several boards is kept once (same company, title and city), with the employer's
 own link preferred over a job board's.
 
-`python feed.py` runs everything (every 30 minutes); `python feed.py quick` reads only
-the employers' own boards (every 10 minutes), so their new jobs show up sooner.
+`python feed.py` runs everything; `python feed.py quick` reads only the employers' own
+boards, so their new jobs show up sooner. `python feed.py auto` (what the 10-minute
+trigger runs) does a full run when the last one was 28+ minutes ago, else a quick one.
 """
 import json
 import os
@@ -54,6 +55,7 @@ SEARCH_HOURS = 48
 KEEP_HOURS = 48
 TIME_BUDGET = 8 * 60  # seconds; searches not started by then are skipped this run
 QUICK_BUDGET = 3 * 60  # the 10-minute employer-only run
+FULL_EVERY = 28 * 60  # auto mode: a full run when the last one was at least this long ago (seconds)
 OUT = Path(__file__).parent / "feed"
 UA = {"User-Agent": "Mozilla/5.0 (Canada jobs feed for Job Scout; +https://github.com/sagarh12/canada-jobs-feed)"}
 HTML = dict(UA, Accept="text/html")  # Job Bank returns 500 if Accept mentions JSON
@@ -910,11 +912,15 @@ def check():
 
 
 def main():
-    if sys.argv[1:] == ["check"]:
+    mode = (sys.argv[1:] or ["full"])[0]
+    if mode == "check":
         return check()
-    quick = sys.argv[1:] == ["quick"]
     OUT.mkdir(exist_ok=True)
     started = now()
+    old = json.loads((OUT / "status.json").read_text()) if (OUT / "status.json").exists() else {}
+    last_full = posted_time(old.get("last_full") or "")
+    quick = mode == "quick" or (mode == "auto" and last_full is not None
+                                and (started - last_full).total_seconds() < FULL_EVERY)
     path = OUT / "tech.json"
     had_feed = path.exists()
     known = {j["link"] for j in json.loads(path.read_text())["jobs"]} if had_feed else set()
@@ -928,12 +934,12 @@ def main():
     path.write_text(json.dumps({"updated": updated, "jobs": jobs}, ensure_ascii=False, indent=0))
     alerted = alert([j for j in jobs if j["link"] not in known]) if had_feed else 0
 
-    old = json.loads((OUT / "status.json").read_text()) if (OUT / "status.json").exists() else {}
     streak = old.get("zero_streak", {})
     for label in WATCHED:
         if label in searches_run:  # only sources this kind of run searched
             streak[label] = 0 if stats.get(label) else streak.get(label, 0) + 1
-    status = {"updated": updated, "mode": "quick" if quick else "full", "searches_run": searches_run,
+    status = {"updated": updated, "mode": "quick" if quick else "full", "last_full": old.get("last_full") if quick else updated,
+              "searches_run": searches_run,
               "found_this_run": stats, "in_feed": len(jobs), "us_remote_in_feed": sum(j["country"] == "US" for j in jobs),
               "with_years": sum(j["years"] is not None for j in jobs), "jobbank_postings_opened": opened,
               "alerts_sent": alerted, "zero_streak": streak, "seconds": round((now() - started).total_seconds())}
