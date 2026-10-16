@@ -14,7 +14,8 @@ Sources:
     University of Toronto, Halton Region, Scotiabank, Deloitte, EY, SAP
   • Employer hiring systems read directly, so jobs arrive before they reach the
     job boards: banks, insurers, pension funds, the Big 4 and big tech on Workday,
-    plus KPMG and Microsoft and IBM's own job APIs (see EMPLOYERS below)
+    plus KPMG and Microsoft and IBM's own job APIs. Automotive, utility and health
+    employers are read for tech roles only (see WORKDAY, ORACLE and TECH_ONLY below)
 
 Each job carries `years`: the most years of experience its description asks for,
 or null. It lets the sheet check Indeed jobs, whose pages Google's servers can't open.
@@ -68,14 +69,17 @@ CAREER_RSS = {
     "jobs.canadapost.ca": "Canada Post", "careers.purolator.com": "Purolator", "jobs.bombardier.com": "Bombardier",
     "jobs.utoronto.ca": "University of Toronto", "careers.halton.ca": "Halton Region",
     "jobs.scotiabank.com": "Scotiabank", "careers.deloitte.ca": "Deloitte",
+    "careers.ieso.ca": "IESO", "jobs.transalta.com": "TransAlta",
 }
+TECH_ONLY_RSS = {"careers.ieso.ca", "jobs.transalta.com"}
 # Global employers on SuccessFactors: their RSS can't filter by country, so they're
 # searched by Canadian city names instead (the keyword matches the job's location).
 GLOBAL_RSS = {"careers.ey.com": "EY", "careers.sap.com": "SAP"}
 CITY_KEYWORDS = ["Canada", "Toronto", "Montreal", "Vancouver", "Calgary", "Ottawa", "Edmonton", "Waterloo", "Halifax", "Winnipeg"]
 
-# Employer boards on Workday: (name, host, site). Each is read newest first.
+# Employer boards on Workday: (name, host, site[, TECH_ONLY]). Each is read newest first.
 # Boards for worldwide employers are narrowed to Canada with their own location filter.
+TECH_ONLY = True  # automotive, utility and health employers: tech roles only, no other student jobs
 WORKDAY = [
     ("RBC", "rbc.wd3", "RBCGLOBAL1"), ("RBC", "rbc.wd3", "rbcearlytalent1"),
     ("TD", "td.wd3", "TD_Bank_Careers"), ("CIBC", "cibc.wd3", "search"), ("CIBC", "cibc.wd3", "campus"),
@@ -94,7 +98,28 @@ WORKDAY = [
     ("CDW", "cdw.wd5", "Careers"), ("CAE", "cae.wd3", "career"),
     ("Canadian Tire", "canadiantirecorporation.wd3", "Enterprise_External_Careers_Site"),
     ("Enbridge", "enbridge.wd3", "enbridge_careers"), ("Cenovus", "cenovus.wd3", "careers"),
+    # Automotive
+    ("General Motors", "generalmotors.wd5", "Careers_GM", TECH_ONLY), ("Magna", "magna.wd3", "Magna", TECH_ONLY),
+    ("Nissan Canada", "alliance.wd3", "NissanPrivateExternal", TECH_ONLY), ("BlackBerry", "bb.wd3", "BlackBerry", TECH_ONLY),
+    ("BlackBerry QNX", "bb.wd3", "QNX", TECH_ONLY), ("BlackBerry", "bb.wd3", "Student", TECH_ONLY),
+    # Utilities and energy
+    ("Hydro Ottawa", "hydroottawa.wd3", "hydro_ottawa_careersite", TECH_ONLY), ("Bruce Power", "brucepower.wd3", "BrucePower", TECH_ONLY),
+    ("Capital Power", "capitalpower.wd10", "External", TECH_ONLY), ("ENMAX", "enmax.wd3", "ENMAXCareers", TECH_ONLY),
+    # Health: hospitals, pharma, medical technology and distribution
+    ("Sinai Health", "shn.wd10", "SHN_External_Career_Site", TECH_ONLY), ("Southlake Health", "southlake.wd10", "Southlake", TECH_ONLY),
+    ("Oak Valley Health", "oakvalleyhealth.wd10", "OakValleyHealth", TECH_ONLY), ("CHEO", "cheo.wd10", "External_Site", TECH_ONLY),
+    ("St. Joseph's Hamilton", "stjoes.wd10", "STJOESHAM", TECH_ONLY),
+    ("Public Health Ontario", "publichealthontario.wd10", "PHOCareerSite", TECH_ONLY),
+    ("McKesson Canada", "mckesson.wd3", "External_Careers", TECH_ONLY), ("Medtronic", "medtronic.wd1", "MedtronicCareers", TECH_ONLY),
+    ("Roche", "roche.wd3", "roche-ext", TECH_ONLY), ("Pfizer", "pfizer.wd1", "PfizerCareers", TECH_ONLY),
+    ("Johnson & Johnson", "jj.wd5", "JJ", TECH_ONLY), ("GSK", "gsk.wd5", "GSKCareers", TECH_ONLY),
+    ("AstraZeneca", "astrazeneca.wd3", "Careers", TECH_ONLY), ("Sanofi", "sanofi.wd3", "SanofiCareers", TECH_ONLY),
+    ("Baxter", "baxter.wd1", "baxter", TECH_ONLY), ("Philips", "philips.wd3", "jobs-and-careers", TECH_ONLY),
+    ("Abbott", "abbott.wd5", "abbottcareers", TECH_ONLY), ("Stryker", "stryker.wd1", "StrykerCareers", TECH_ONLY),
+    ("Novartis", "novartis.wd3", "Novartis_Careers", TECH_ONLY),
 ]
+# Employer boards on Oracle Recruiting: (name, API host, site, public job page prefix), narrowed to Canada.
+ORACLE = [("Ford", "efds.fa.em5.oraclecloud.com", "CX_1", "https://apply.ford.com/en/sites/CX_1/job/")]
 WORKDAY_PAGES = 10  # 20 jobs a page; reading stops sooner once jobs are older than the search window
 
 # Employer jobs aren't searched by keyword, so their titles must name tech work or an early-career role.
@@ -104,6 +129,13 @@ TECH_OR_EARLY = re.compile(
     r"help ?desk|service desk|desktop support|technical support|technician|qa|quality assurance|test|web|full[- ]stack|"
     r"front[- ]?end|back[- ]?end|devops|sre|machine learning|ai|database|automation|digital|"
     r"new grad|graduate|intern|internship|co-?op|student|entry[- ]level|junior|jr|campus|early talent|rotational|trainee)\b", re.I)
+# Stricter, for TECH_ONLY employers: "security" alone is a guard, "technician" a pharmacy or lab tech.
+TECH_ROLE = re.compile(
+    r"\b(software|developer|programmer|data|analytics|business intelligence|bi|it|information technology|cloud|"
+    r"cyber|cybersecurity|information security|soc|network|systems? (analyst|administrator|engineer)|infrastructure|"
+    r"help ?desk|service desk|desktop support|technical support|qa|quality assurance analyst|test (engineer|analyst)|"
+    r"web|full[- ]stack|front[- ]?end|back[- ]?end|devops|sre|machine learning|ai|database|digital|application|"
+    r"embedded|firmware|automation engineer|informatics|ehr|epic)\b", re.I)
 CANADA = re.compile(r"\bcanada\b|,\s*CA\b|\bCA[-,]|\b(" + "|".join(["ontario", "quebec", "québec", "british columbia",
     "colombie-britannique", "alberta", "manitoba", "saskatchewan", "nova scotia", "new brunswick", "newfoundland",
     "prince edward island", "yukon", "northwest territories", "nunavut", "toronto", "montr[eé]al", "vancouver", "calgary",
@@ -285,12 +317,13 @@ def career_rss(host, term):
         jobs.append({"title": name, "company": company, "location": where or DEFAULT_PLACE.get(host, ""),
                      "posted": posted, "link": link, "source": f"{company} careers",
                      "years": years_asked(about) if about else None})
-    return employer_jobs(jobs)
+    return employer_jobs(jobs, host in TECH_ONLY_RSS)
 
 
-def employer_jobs(jobs):
-    """Employer boards list every job: keep tech or early-career titles in Canada."""
-    return [j for j in jobs if TECH_OR_EARLY.search(j["title"]) and (not j["location"] or CANADA.search(j["location"]))]
+def employer_jobs(jobs, tech_only=False):
+    """Employer boards list every job: keep tech (or, unless tech_only, early-career) titles in Canada."""
+    titles = TECH_ROLE if tech_only else TECH_OR_EARLY
+    return [j for j in jobs if titles.search(j["title"]) and (not j["location"] or CANADA.search(j["location"]))]
 
 
 WD_HEADERS = {"User-Agent": UA["User-Agent"], "Content-Type": "application/json", "Accept": "application/json"}
@@ -321,7 +354,7 @@ def workday_canada_filter(facets):
     return None
 
 
-def workday_board(name, host, site):
+def workday_board(name, host, site, tech_only=False):
     tenant = host.split(".")[0]
     api = f"https://{host}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     first = requests.post(api, json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""}, headers=WD_HEADERS, timeout=30)
@@ -350,7 +383,32 @@ def workday_board(name, host, site):
         # Mostly newest first, not strictly: stop at a page with nothing new on it.
         if len(postings) < 20 or newest is None or newest * 24 > SEARCH_HOURS:
             break
-    return employer_jobs(jobs)
+    return employer_jobs(jobs, tech_only)
+
+
+def oracle_board(name, host, site, job_page):
+    """Oracle Recruiting (Candidate Experience) boards, newest first, inside their "Canada" location."""
+    api = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+
+    def search(extra):
+        r = requests.get(f"{api}?onlyData=true&expand=requisitionList.secondaryLocations"
+                         f"&finder=findReqs;siteNumber={site},limit=25,sortBy=POSTING_DATES_DESC{extra}", headers=UA, timeout=30)
+        r.raise_for_status()
+        return r.json()["items"][0]
+
+    canada = next((l["Id"] for l in search(",facetsList=LOCATIONS").get("locationsFacet", []) if l.get("Name") == "Canada"), None)
+    if not canada:
+        return []
+    jobs = []
+    for offset in range(0, 200, 25):
+        batch = search(f",locationId={canada},offset={offset}").get("requisitionList") or []
+        for r in batch:
+            jobs.append({"title": clean(r.get("Title")), "company": name, "location": clean(r.get("PrimaryLocation")) or "Canada",
+                         "posted": clean(r.get("PostedDate"))[:10], "link": f"{job_page}{r['Id']}",
+                         "source": f"{name} careers", "years": None})
+        if len(batch) < 25 or posted_time(jobs[-1]["posted"]) < now() - timedelta(hours=SEARCH_HOURS + 24):
+            break
+    return employer_jobs(jobs, tech_only=True)
 
 
 def kpmg():
@@ -509,6 +567,8 @@ def run():
     def employer_boards():
         with ThreadPoolExecutor(max_workers=4) as boards:
             list(boards.map(lambda b: add("Employer boards", workday_board, *b), WORKDAY))
+        for b in ORACLE:
+            add("Employer boards", oracle_board, *b)
         for fn in (kpmg, microsoft, ibm):
             add("Employer boards", fn)
 

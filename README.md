@@ -17,11 +17,16 @@ It replaces the AI Ignite class feed for the "Tech & Data" field, which only sea
 | Employer career sites | Their RSS feeds (SAP SuccessFactors) | Scotiabank, Deloitte, EY, SAP, Rogers, Bell, TELUS, Hydro One, OPG, Toronto Hydro, Canada Post, Purolator, Bombardier, University of Toronto, Halton Region |
 | Employer hiring systems | Their Workday boards, read newest first and narrowed to Canada | RBC (incl. early talent), TD, CIBC (incl. campus), BMO, Desjardins, Manulife, Sun Life (incl. campus), Intact, iA, Ontario Teachers', OMERS, HOOPP (incl. students), Interac, Moneris, Fidelity Canada, Mastercard, PwC, BDO, Raymond Chabot Grant Thornton, Thomson Reuters, NVIDIA, Salesforce, Intel, Cisco, Ciena, Autodesk, CDW, CAE, Canadian Tire, Enbridge, Cenovus |
 | Employer job APIs | Their own careers-site search | KPMG Canada, Microsoft (Canada), IBM (Canada) |
+| Automotive (tech roles only) | Workday; Oracle Recruiting for Ford | General Motors, Ford, Magna, Nissan Canada, BlackBerry / QNX |
+| Utilities and energy (tech roles only) | Workday; SuccessFactors RSS | Hydro Ottawa, Bruce Power, Capital Power, ENMAX, IESO, TransAlta (plus Hydro One, OPG, Toronto Hydro, Enbridge above) |
+| Health (tech roles only) | Workday | Hospitals: Sinai Health, Southlake, Oak Valley Health, CHEO, St. Joseph's Hamilton, Public Health Ontario. Pharma and medtech: McKesson, Medtronic, Roche, Pfizer, Johnson & Johnson, GSK, AstraZeneca, Sanofi, Baxter, Philips, Abbott, Stryker, Novartis |
 
 Employer jobs come straight from the company's own hiring system, usually hours or days before
 they show up on LinkedIn or Indeed. They aren't searched by keyword, so only titles that name tech
 work (software, data, IT, cyber, cloud, QA…) or an early-career role (new grad, graduate, intern,
-co-op, student, junior, campus, rotational…) in Canada are kept. To add an employer on Workday, add
+co-op, student, junior, campus, rotational…) in Canada are kept. Automotive, utility and health
+employers are stricter: tech titles only (software, data, IT, cyber, cloud, embedded, informatics…),
+so nursing, plant and pharmacy jobs stay out. To add an employer on Workday, add
 its `(name, host, site)` from the board's address, `https://<host>.myworkdayjobs.com/<site>`, to
 `WORKDAY` in `feed.py`.
 
