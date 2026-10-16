@@ -202,13 +202,14 @@ def is_senior(title):
 
 
 # Quebec jobs are left out, unless the job also names a place outside Quebec ("Montreal or Toronto").
+# "Montréal, QC (remote)" is still a Quebec job.
 QUEBEC = re.compile(r"\b(qu[eé]bec|montr[eé]al|laval|gatineau|longueuil|sherbrooke|trois-rivi[eè]res|saguenay|l[eé]vis|"
                     r"terrebonne|brossard|boucherville|boisbriand|blainville|mirabel|dorval|pointe-claire|kirkland|"
                     r"saint-laurent|st-laurent|st\.? laurent|saint-j[eé]r[oô]me|drummondville|granby|rimouski)\b", re.I)
 QUEBEC_CODE = re.compile(r"(,|\(|^|\s)QC\b")
 ELSEWHERE = re.compile(r"\b(ontario|british columbia|alberta|manitoba|saskatchewan|nova scotia|new brunswick|newfoundland|"
                        r"prince edward|yukon|nunavut|northwest territories|toronto|ottawa|vancouver|calgary|edmonton|"
-                       r"winnipeg|halifax|waterloo|mississauga|remote|united states)\b|(,|\(|\s)(ON|BC|AB|MB|SK|NS|NB|NL|PE)\b", re.I)
+                       r"winnipeg|halifax|waterloo|mississauga|united states)\b|(,|\(|\s)(ON|BC|AB|MB|SK|NS|NB|NL|PE)\b", re.I)
 
 
 def in_quebec_only(loc):

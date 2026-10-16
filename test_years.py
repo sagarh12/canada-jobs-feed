@@ -41,7 +41,7 @@ class YearsAsked(unittest.TestCase):
 class Filters(unittest.TestCase):
     def test_quebec(self):
         cases = {"Montreal, QC": True, "Montréal, Quebec, CA, H3B": True, "Laval": True, "Gatineau, QC, Canada": True,
-                 "Saint-Laurent, Québec, CA": True, "Montreal or Toronto": False, "Toronto, ON": False,
+                 "Saint-Laurent, Québec, CA": True, "Gatineau, QC, CA (remote)": True, "Montréal, QC, CA (remote)": True, "Montreal or Toronto": False, "Toronto, ON": False,
                  "Remote · Canada": False, "Ottawa, ON": False, "Canada": False, "Vancouver, BC": False}
         for loc, quebec in cases.items():
             with self.subTest(loc=loc):
