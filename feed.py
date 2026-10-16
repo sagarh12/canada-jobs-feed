@@ -16,15 +16,26 @@ Sources:
     job boards: banks, insurers, pension funds, the Big 4 and big tech on Workday,
     plus KPMG and Microsoft and IBM's own job APIs. Automotive, utility and health
     employers are read for tech roles only (see WORKDAY, ORACLE and TECH_ONLY below)
+  • Tech companies on Greenhouse, Lever, Ashby and SmartRecruiters (Canadian
+    start-ups and scale-ups, plus big US tech for their Canadian and fully remote jobs)
+  • Public sector: City of Toronto, BC Public Service (tech roles only)
 
 Each job carries `years`: the most years of experience its description asks for,
 or null. It lets the sheet check Indeed jobs, whose pages Google's servers can't open.
 
+Jobs in Quebec, and jobs that require French (French titles, or descriptions asking
+for French or bilingualism), are left out.
+
 Only jobs posted in the last 48 hours are searched for and kept, merged across runs,
 so a run where a board blocks us doesn't empty the feed. The same job found on
-several boards is kept once (same company, title and city).
+several boards is kept once (same company, title and city), with the employer's
+own link preferred over a job board's.
+
+`python feed.py` runs everything (every 30 minutes); `python feed.py quick` reads only
+the employers' own boards (every 10 minutes), so their new jobs show up sooner.
 """
 import json
+import os
 import random
 import re
 import sys
@@ -42,6 +53,7 @@ import requests
 SEARCH_HOURS = 48
 KEEP_HOURS = 48
 TIME_BUDGET = 8 * 60  # seconds; searches not started by then are skipped this run
+QUICK_BUDGET = 3 * 60  # the 10-minute employer-only run
 OUT = Path(__file__).parent / "feed"
 UA = {"User-Agent": "Mozilla/5.0 (Canada jobs feed for Job Scout; +https://github.com/sagarh12/canada-jobs-feed)"}
 HTML = dict(UA, Accept="text/html")  # Job Bank returns 500 if Accept mentions JSON
@@ -51,8 +63,12 @@ TERMS = [
     "software developer", "software engineer", "data analyst", "data engineer", "business intelligence analyst",
     "IT support", "help desk", "cyber security analyst", "SOC analyst", "network administrator",
     "cloud engineer", "QA analyst", "new grad software", "junior developer",
+    # Internships, co-ops and new-grad roles
+    "software intern", "software developer co-op", "data analyst intern", "data science intern", "IT co-op",
+    "cybersecurity intern", "computer science student", "summer student technology", "new graduate software engineer",
+    "entry level data analyst", "junior IT analyst", "technical support analyst",
 ]
-PLACES = ["Canada", "Toronto, ON", "Ottawa, ON", "Waterloo, ON", "Montreal, QC", "Vancouver, BC",
+PLACES = ["Canada", "Toronto, ON", "Ottawa, ON", "Waterloo, ON", "Vancouver, BC",
           "Calgary, AB", "Edmonton, AB", "Winnipeg, MB", "Halifax, NS"]
 US = "United States"  # searched for fully remote jobs only
 # Canada-wide searches return the most; city searches catch what those miss.
@@ -69,13 +85,13 @@ CAREER_RSS = {
     "jobs.canadapost.ca": "Canada Post", "careers.purolator.com": "Purolator", "jobs.bombardier.com": "Bombardier",
     "jobs.utoronto.ca": "University of Toronto", "careers.halton.ca": "Halton Region",
     "jobs.scotiabank.com": "Scotiabank", "careers.deloitte.ca": "Deloitte",
-    "careers.ieso.ca": "IESO", "jobs.transalta.com": "TransAlta",
+    "careers.ieso.ca": "IESO", "jobs.transalta.com": "TransAlta", "jobs.toronto.ca": "City of Toronto",
 }
-TECH_ONLY_RSS = {"careers.ieso.ca", "jobs.transalta.com"}
+TECH_ONLY_RSS = {"careers.ieso.ca", "jobs.transalta.com", "jobs.toronto.ca"}
 # Global employers on SuccessFactors: their RSS can't filter by country, so they're
 # searched by Canadian city names instead (the keyword matches the job's location).
 GLOBAL_RSS = {"careers.ey.com": "EY", "careers.sap.com": "SAP"}
-CITY_KEYWORDS = ["Canada", "Toronto", "Montreal", "Vancouver", "Calgary", "Ottawa", "Edmonton", "Waterloo", "Halifax", "Winnipeg"]
+CITY_KEYWORDS = ["Canada", "Toronto", "Vancouver", "Calgary", "Ottawa", "Edmonton", "Waterloo", "Halifax", "Winnipeg"]
 
 # Employer boards on Workday: (name, host, site[, TECH_ONLY]). Each is read newest first.
 # Boards for worldwide employers are narrowed to Canada with their own location filter.
@@ -117,10 +133,35 @@ WORKDAY = [
     ("Baxter", "baxter.wd1", "baxter", TECH_ONLY), ("Philips", "philips.wd3", "jobs-and-careers", TECH_ONLY),
     ("Abbott", "abbott.wd5", "abbottcareers", TECH_ONLY), ("Stryker", "stryker.wd1", "StrykerCareers", TECH_ONLY),
     ("Novartis", "novartis.wd3", "Novartis_Careers", TECH_ONLY),
+    # More big tech
+    ("Adobe", "adobe.wd5", "external_experienced"), ("HP", "hp.wd5", "ExternalCareerSite"),
 ]
 # Employer boards on Oracle Recruiting: (name, API host, site, public job page prefix), narrowed to Canada.
 ORACLE = [("Ford", "efds.fa.em5.oraclecloud.com", "CX_1", "https://apply.ford.com/en/sites/CX_1/job/")]
 WORKDAY_PAGES = 10  # 20 jobs a page; reading stops sooner once jobs are older than the search window
+
+# Tech companies' public job boards: {board id: name}. Each returns every open job at once.
+GREENHOUSE = {
+    "geotab": "Geotab", "d2l": "D2L", "hootsuite": "Hootsuite", "tenstorrent": "Tenstorrent", "ritual": "Ritual",
+    "fellow": "Fellow", "diligent": "Diligent", "stackadapt": "StackAdapt", "flipp": "Flipp", "lyft": "Lyft",
+    "stripe": "Stripe", "databricks": "Databricks", "cloudflare": "Cloudflare", "datadog": "Datadog", "twilio": "Twilio",
+    "okta": "Okta", "instacart": "Instacart", "coinbase": "Coinbase", "robinhood": "Robinhood", "samsara": "Samsara",
+    "pinterest": "Pinterest", "dropbox": "Dropbox", "affirm": "Affirm", "figma": "Figma", "brex": "Brex",
+    "scaleai": "Scale AI", "anthropic": "Anthropic",
+}
+ASHBY = {
+    "wealthsimple": "Wealthsimple", "cohere": "Cohere", "1password": "1Password", "koho": "KOHO", "benevity": "Benevity",
+    "jobber": "Jobber", "lightspeedhq": "Lightspeed", "thinkific": "Thinkific", "float": "Float", "neofinancial": "Neo Financial",
+    "top-hat": "Top Hat", "sonder": "Sonder", "trulioo": "Trulioo", "clearco": "Clearco", "hopper": "Hopper",
+    "miovision": "Miovision", "procurify": "Procurify", "visier": "Visier", "snowflake": "Snowflake", "plaid": "Plaid",
+    "notion": "Notion", "ramp": "Ramp", "openai": "OpenAI",
+}
+LEVER = {"pointclickcare": "PointClickCare", "wattpad": "Wattpad", "waveapps": "Wave", "achievers": "Achievers",
+         "magnetforensics": "Magnet Forensics", "wishpond": "Wishpond"}
+SMARTRECRUITERS = {"Ubisoft2": "Ubisoft", "Visa": "Visa", "BoschGroup": "Bosch"}
+# Phenom career sites: their search page embeds the newest jobs. (name, search page)
+PHENOM = [("OpenText", "https://careers.opentext.com/us/en")]
+US_PLACE = re.compile(r"\b(united states|usa|u\.s\.a?\.?|us)\b", re.I)
 
 # Employer jobs aren't searched by keyword, so their titles must name tech work or an early-career role.
 TECH_OR_EARLY = re.compile(
@@ -144,10 +185,63 @@ CANADA = re.compile(r"\bcanada\b|,\s*CA\b|\bCA[-,]|\b(" + "|".join(["ontario", "
 # Same as the sheet's titleLevel()
 DEFAULT_PLACE = {"careers.halton.ca": "Oakville, ON, CA"}  # its feed leaves the location out
 
-# Same as the sheet's titleLevel(): senior and executive titles are dropped here to keep the file small.
+# Same as the sheet's titleLevel(): senior and executive titles are dropped here to keep the file small,
+# unless the title is also a student or new-grad role ("Product Owner Co-op").
 SENIOR = re.compile(r"\b(senior|sr|lead|principal|staff|manager|supervisor|architect|superintendent|expert|chief|"
                     r"ceo|cfo|cto|coo|cio|cmo|president|vp|svp|evp|founder|co-founder|owner|partner|director|"
-                    r"head of|general manager|managing director)\b|\b(III|IV|V)\b", re.I)
+                    r"head of|general manager|managing director)\b", re.I)
+SENIOR_LEVEL = re.compile(r"\b(III|IV|V)\b")  # case matters: "V" is a level, "v" isn't
+EARLY = re.compile(r"\b(intern|interns|internship|co-?op|coop|student|new grad|graduate|entry[- ]level|junior|jr|"
+                   r"campus|early talent|trainee|apprentice|work term|summer)\b", re.I)
+
+
+def is_senior(title):
+    return bool(SENIOR.search(title) or SENIOR_LEVEL.search(title)) and not EARLY.search(title)
+
+
+# Quebec jobs are left out, unless the job also names a place outside Quebec ("Montreal or Toronto").
+QUEBEC = re.compile(r"\b(qu[eé]bec|montr[eé]al|laval|gatineau|longueuil|sherbrooke|trois-rivi[eè]res|saguenay|l[eé]vis|"
+                    r"terrebonne|brossard|boucherville|boisbriand|blainville|mirabel|dorval|pointe-claire|kirkland|"
+                    r"saint-laurent|st-laurent|st\.? laurent|saint-j[eé]r[oô]me|drummondville|granby|rimouski)\b", re.I)
+QUEBEC_CODE = re.compile(r"(,|\(|^|\s)QC\b")
+ELSEWHERE = re.compile(r"\b(ontario|british columbia|alberta|manitoba|saskatchewan|nova scotia|new brunswick|newfoundland|"
+                       r"prince edward|yukon|nunavut|northwest territories|toronto|ottawa|vancouver|calgary|edmonton|"
+                       r"winnipeg|halifax|waterloo|mississauga|remote|united states)\b|(,|\(|\s)(ON|BC|AB|MB|SK|NS|NB|NL|PE)\b", re.I)
+
+
+def in_quebec_only(loc):
+    loc = loc or ""
+    return bool(QUEBEC.search(loc) or QUEBEC_CODE.search(loc)) and not ELSEWHERE.search(loc)
+
+
+# French job titles ("Stagiaire en développement", "Analyste de données", "Développeur(se)").
+FRENCH_TITLE = re.compile(
+    r"\b(stagiaire|d[ée]veloppeu(r|se|r\(se\))|analyste|ing[ée]nieur|ing[ée]nieure|technicien|technicienne|conseill[eè]re?|"
+    r"sp[ée]cialiste|gestionnaire|charg[ée]e?|[ée]tudiante?|finissante?|informatique|donn[ée]es|logiciel|r[ée]seau|"
+    r"adjointe?|programmeu(r|se)|coordonnat(eur|rice)|soutien|poste|emploi|t[ée]l[ée]travail)\b"
+    r"|\w\((e|ne|se|trice|euse)\)|\w·e\b", re.I)
+# A description that requires French (an asset / preferred doesn't count).
+FRENCH_REQUIRED = re.compile(
+    r"bilingu(al|alism|e)\b[^.;]{0,60}\b(english|french|anglais|fran[cç]ais)\b"
+    r"|\b(english|anglais)\s*(and|&|et)\s*(french|fran[cç]ais)\b[^.;]{0,40}\b(required|mandatory|essential|must|obligatoire)"
+    r"|\b(fluen\w*|proficien\w*|command|mastery|knowledge)\s+(in|of)\s+(the\s+)?french\b"
+    r"|\bfrench\b[^.;]{0,30}\b(required|mandatory|essential|is a must|a requirement)\b"
+    r"|\b(required|mandatory|essential|must)\b[^.;]{0,40}\bfrench\b"
+    r"|\bfrench[- ]speaking\b|\bma[iî]trise (du|de la langue) fran[cç]ais|\bbilingue\b", re.I)
+NOT_REQUIRED_NEAR = re.compile(r"\b(asset|preferred|nice to have|bonus|atout|an advantage|desirable|considered a plus|is a plus)\b", re.I)
+
+
+def french_required(text):
+    for m in FRENCH_REQUIRED.finditer(text or ""):
+        if not NOT_REQUIRED_NEAR.search(text[m.start():m.end() + 50]):
+            return True
+    return False
+
+
+def left_out(j):
+    """Quebec jobs, French jobs and senior titles aren't kept."""
+    return in_quebec_only(j.get("location")) or bool(FRENCH_TITLE.search(j.get("title", ""))) or j.get("french") \
+        or is_senior(j.get("title", ""))
 
 PROVINCES = {"ON": "Ontario", "BC": "British Columbia", "AB": "Alberta", "QC": "Quebec", "MB": "Manitoba", "SK": "Saskatchewan",
              "NS": "Nova Scotia", "NB": "New Brunswick", "NL": "Newfoundland and Labrador", "PE": "Prince Edward Island",
@@ -175,6 +269,11 @@ YEAR_PATTERNS = [
     re.compile(rf"\b{_N}{_SPAN}(?:years?|yrs?)'?\s+(?:of\s+)?(?:professional|relevant|related|hands-on|industry|progressive|working|work|post-graduate)\b", re.I | re.A),
     # "experience: 3+ years", "experience of at least 2 years"
     re.compile(rf"\bexperience\b[^.;!?]{{0,40}}?\b{_N}{_SPAN}(?:years?|yrs?)\b", re.I | re.A),
+    # "Minimum 2 years in a software role", "2+ years developing web applications": no word "experience",
+    # so only with "minimum / at least / requires" before or "+" after (not "over 10 years in business").
+    re.compile(rf"(?:\b(?:minimum(?:\s+of)?|min\.?|at\s+least|requires?|required|must\s+have)\s+{_N}{_SPAN}|\b{_N}\s*(?:\+|plus)\s*)"
+               rf"(?:years?|yrs?)'?\s+(?:as\s+an?|in\s+an?|in\s+the|in|developing|building|designing|working|programming|"
+               rf"coding|supporting|administering|managing)\b", re.I | re.A),
 ]
 NOT_REQUIRED_BEFORE = re.compile(r"\b(within|last|past|less than|under|up to|no more than|maximum of|max\.?|fewer than)\s*(the\s*)?(last\s*)?$", re.I)
 NOT_REQUIRED_AFTER = re.compile(r"^[^.;!?]{0,40}\b(preferred|is an asset|an asset|nice to have|is a bonus|bonus)\b", re.I)
@@ -193,7 +292,7 @@ def years_asked(text):
                 continue
             if NOT_REQUIRED_AFTER.search(t[m.end():m.end() + 60]):
                 continue
-            word = m.group(1).lower()
+            word = next(g for g in m.groups() if g).lower()
             y = YEAR_WORDS[word] if word in YEAR_WORDS else int(word)
             if y <= 15:  # bigger numbers are company history, not requirements
                 most = max(most or 0, y)
@@ -244,7 +343,8 @@ def jobspy_search(site, term, place):
             loc = "Remote · United States"
         jobs.append({"title": title, "company": clean(r.get("company")), "location": loc,
                      "posted": posted, "link": clean(r.get("job_url")), "source": SITE_LABEL[site],
-                     "country": "US" if us else "CA", "years": years_asked(description) if description else None})
+                     "country": "US" if us else "CA", "years": years_asked(description) if description else None,
+                     "french": french_required(description)})
     return jobs
 
 
@@ -281,15 +381,18 @@ def jobbank_search(term):
     return jobs
 
 
-def jobbank_posting_years(link):
-    """Years from a Job Bank posting's Experience field, or its description if it has none."""
+def jobbank_posting(link):
+    """(years, french) from a Job Bank posting: its Experience field (or description) and Languages field."""
     r = requests.get(link, headers=HTML, timeout=30)
     r.raise_for_status()
-    field = re.search(r'property="experienceRequirements qualification"[^>]*>\s*<span>([^<]+)', r.text)
-    if field:
-        return jobbank_years(field.group(1))
     text = re.search(r'property="description">(.*?)</span>', r.text, re.S)
-    return years_asked(clean(re.sub(r"<[^>]+>", " ", text.group(1)))) if text else None
+    text = clean(re.sub(r"<[^>]+>", " ", text.group(1))) if text else ""
+    langs = re.search(r"<h4>Languages</h4>\s*<p[^>]*>([^<]+)", r.text)
+    # "English", "English or French" are fine; "French", "English and French", "Bilingual" aren't.
+    french = bool(langs and re.search(r"french|bilingual", langs.group(1), re.I) and not re.search(r"\bor\b", langs.group(1)))
+    field = re.search(r'property="experienceRequirements qualification"[^>]*>\s*<span>([^<]+)', r.text)
+    years = jobbank_years(field.group(1)) if field else (years_asked(text) if text else None)
+    return years, french or french_required(text)
 
 
 def career_rss(host, term):
@@ -316,14 +419,16 @@ def career_rss(host, term):
         about = clean(re.sub(r"<[^>]+>", " ", unescape(re.sub(r"<!\[CDATA\[|\]\]>", "", about.group(1))))) if about else ""
         jobs.append({"title": name, "company": company, "location": where or DEFAULT_PLACE.get(host, ""),
                      "posted": posted, "link": link, "source": f"{company} careers",
-                     "years": years_asked(about) if about else None})
+                     "years": years_asked(about) if about else None, "french": french_required(about)})
     return employer_jobs(jobs, host in TECH_ONLY_RSS)
 
 
-def employer_jobs(jobs, tech_only=False):
-    """Employer boards list every job: keep tech (or, unless tech_only, early-career) titles in Canada."""
+def employer_jobs(jobs, tech_only=False, keep_us=False):
+    """Employer boards list every job: keep tech (or, unless tech_only, early-career) titles in Canada
+    (and, with keep_us, fully remote US jobs)."""
     titles = TECH_ROLE if tech_only else TECH_OR_EARLY
-    return [j for j in jobs if titles.search(j["title"]) and (not j["location"] or CANADA.search(j["location"]))]
+    return [j for j in jobs if titles.search(j["title"]) and (not j["location"] or CANADA.search(j["location"])
+                                                              or (keep_us and j.get("country") == "US"))]
 
 
 WD_HEADERS = {"User-Agent": UA["User-Agent"], "Content-Type": "application/json", "Accept": "application/json"}
@@ -425,7 +530,7 @@ def kpmg():
                          "location": clean(d.get("full_location") or d.get("location_name")) or "Canada",
                          "posted": d["posted_date"].replace("+0000", "+00:00"),
                          "link": f"https://careers.kpmg.ca/jobs/{d['slug']}?lang=en-us", "source": "KPMG careers",
-                         "years": years_asked(about) if about else None})
+                         "years": years_asked(about) if about else None, "french": french_required(about)})
         if len(batch) < 10 or posted_time(jobs[-1]["posted"]) < now() - timedelta(hours=SEARCH_HOURS):
             break
     return employer_jobs(jobs)
@@ -463,8 +568,132 @@ def ibm():
         about = clean(re.sub(r"<[^>]+>", " ", d.get("description") or ""))
         jobs.append({"title": clean(d.get("title")), "company": "IBM",
                      "location": f"{clean(d.get('field_keyword_19'))}, Canada".lstrip(", "), "posted": d.get("dcdate", ""),
-                     "link": d.get("url", ""), "source": "IBM careers", "years": years_asked(about) if about else None})
+                     "link": d.get("url", ""), "source": "IBM careers", "years": years_asked(about) if about else None,
+                     "french": french_required(about)})
     return employer_jobs(jobs)
+
+
+# Stricter than CANADA: on these boards ", CA" is usually California.
+CANADA_STRICT = re.compile(CANADA.pattern.replace(r",\s*CA\b|\bCA[-,]|", "") + r"|\b(ON|BC|AB|MB|SK|NS|NB|NL|PE),\s*CA\b|\bCAN\b", re.I)
+
+
+def where(locations, remote=False):
+    """("CA", location) for a job in Canada, ("US", "Remote · United States") for a fully remote US job, else None."""
+    text = "; ".join(l for l in locations if l)
+    canadian = [part.strip(" ()") for part in re.split(r"[;|•/]| or ", text) if CANADA_STRICT.search(part)]
+    if canadian:
+        return "CA", "; ".join(dict.fromkeys(canadian))
+    remote = remote or re.search(r"\bremote\b", text, re.I)
+    if remote and US_PLACE.search(text) and not NOT_REMOTE.search(text):
+        return "US", "Remote · United States"
+    return None
+
+
+def board_job(company, title, locations, remote, posted, link, about=""):
+    place = where(locations, remote)
+    if not place or not posted:
+        return None
+    return {"title": clean(title), "company": company, "location": place[1], "posted": posted, "link": link,
+            "source": f"{company} careers", "country": place[0],
+            "years": years_asked(about) if about else None, "french": french_required(about)}
+
+
+def fresh_only(jobs):
+    cutoff = now() - timedelta(hours=SEARCH_HOURS)
+    return [j for j in jobs if j and (posted_time(j["posted"]) or cutoff) >= cutoff]
+
+
+def greenhouse(board, company):
+    r = requests.get(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs", headers=UA, timeout=30)
+    r.raise_for_status()
+    return employer_jobs(fresh_only(
+        board_job(company, j.get("title"), [(j.get("location") or {}).get("name", "")], False,
+                  j.get("first_published") or j.get("updated_at"), j.get("absolute_url"))
+        for j in r.json().get("jobs", [])), keep_us=True)
+
+
+def ashby(board, company):
+    r = requests.get(f"https://api.ashbyhq.com/posting-api/job-board/{board}", headers=UA, timeout=30)
+    r.raise_for_status()
+    jobs = []
+    for j in r.json().get("jobs", []):
+        if j.get("isListed") is False:
+            continue
+        places = [j.get("location", "")] + [l.get("location", "") for l in j.get("secondaryLocations") or []]
+        country = ((j.get("address") or {}).get("postalAddress") or {}).get("addressCountry", "")
+        places.append(country)
+        jobs.append(board_job(company, j.get("title"), places, j.get("isRemote") or j.get("workplaceType") == "Remote",
+                              j.get("publishedAt"), j.get("jobUrl"), j.get("descriptionPlain", "")))
+    return employer_jobs(fresh_only(jobs), keep_us=True)
+
+
+def lever(board, company):
+    r = requests.get(f"https://api.lever.co/v0/postings/{board}?mode=json", headers=UA, timeout=30)
+    r.raise_for_status()
+    jobs = []
+    for j in r.json():
+        cats = j.get("categories") or {}
+        country = {"CA": "Canada", "US": "United States"}.get(j.get("country"), j.get("country") or "")
+        places = [cats.get("location", "")] + (cats.get("allLocations") or []) + [country]
+        posted = datetime.fromtimestamp(j["createdAt"] / 1000, timezone.utc).isoformat() if j.get("createdAt") else ""
+        jobs.append(board_job(company, j.get("text"), places, j.get("workplaceType") == "remote", posted,
+                              j.get("hostedUrl"), f"{j.get('descriptionPlain', '')} {j.get('additionalPlain', '')}"))
+    return employer_jobs(fresh_only(jobs), keep_us=True)
+
+
+def smartrecruiters(company_id, company):
+    r = requests.get(f"https://api.smartrecruiters.com/v1/companies/{company_id}/postings",
+                     params={"country": "ca", "limit": 100}, headers=UA, timeout=30)
+    r.raise_for_status()
+    jobs = []
+    for j in r.json().get("content", []):
+        loc = j.get("location") or {}
+        places = [", ".join(x for x in (loc.get("city"), loc.get("region"), "Canada") if x)]
+        jobs.append(board_job(company, j.get("name"), places, loc.get("remote"), j.get("releasedDate"),
+                              f"https://jobs.smartrecruiters.com/{company_id}/{j.get('id')}"))
+    return employer_jobs(fresh_only(jobs))
+
+
+def phenom(company, base):
+    """Phenom career sites embed the newest jobs in their search page; read a few pages of them."""
+    jobs = []
+    for start in range(0, 100, 10):
+        r = requests.get(f"{base}/search-results", params={"keywords": "", "sortBy": "Most recent", "from": start},
+                         headers={"User-Agent": "Mozilla/5.0 (Macintosh) Chrome/124"}, timeout=30)
+        r.raise_for_status()
+        i = r.text.find('"eagerLoadRefineSearch":')
+        if i < 0:
+            break
+        data, _ = json.JSONDecoder().raw_decode(r.text, i + len('"eagerLoadRefineSearch":'))
+        batch = (data.get("data") or {}).get("jobs") or []
+        for j in batch:
+            jobs.append(board_job(company, j.get("title"), [j.get("cityStateCountry") or j.get("location") or ""],
+                                  False, (j.get("postedDate") or "").replace(".000+0000", "+00:00"),
+                                  f"{base}/job/{j.get('jobSeqNo') or j.get('jobId')}", j.get("descriptionTeaser", "")))
+        if len(batch) < 10 or posted_time(jobs[-1]["posted"] if jobs[-1] else "") is None \
+                or posted_time(jobs[-1]["posted"]) < now() - timedelta(hours=SEARCH_HOURS):
+            break
+    return employer_jobs(fresh_only(jobs))
+
+
+def bc_public_service():
+    """BC Public Service postings (about 100, all pages), tech roles only."""
+    jobs = []
+    for page in range(1, 5):
+        r = requests.get(f"https://bcpublicservice.hua.hrsmart.com/hr/ats/JobSearch/viewAll/jobSearchPaginationExternal_page:{page}",
+                         headers=HTML, timeout=30)
+        r.raise_for_status()
+        rows = re.findall(r"<tr>\s*<td>(.*?)</td>\s*<td>(\d+)</td>\s*<td><a href=\"(/hr/ats/Posting/view/\d+)\">\s*<span>(.*?)</span>"
+                          r".*?</td>\s*<td>.*?</td>\s*<td>(.*?)</td>\s*<td>(.*?)</td>\s*<td>(\d+/\d+/\d{4})</td>", r.text, re.S)
+        for ministry, _id, href, title, style, loc, opened in rows:
+            posted = datetime.strptime(opened, "%m/%d/%Y").date().isoformat()
+            jobs.append({"title": clean(title), "company": f"BC Public Service ({clean(ministry)})",
+                         "location": clean(re.sub(r"<[^>]+>", " ", loc)) or "British Columbia, Canada", "posted": posted,
+                         "link": "https://bcpublicservice.hua.hrsmart.com" + href, "source": "BC Public Service careers",
+                         "years": None})
+        if len(rows) < 25:  # not strictly newest first, so all pages are read
+            break
+    return employer_jobs(fresh_only(jobs), tech_only=True)
 
 
 # ── Freshness and de-duplication ───────────────────────────────────────────
@@ -516,12 +745,13 @@ def dup_key(j):
 
 # ── Run ────────────────────────────────────────────────────────────────────
 
-def run():
+def run(quick=False):
     started = time.monotonic()
+    budget = QUICK_BUDGET if quick else TIME_BUDGET
     found, stats, searches_run, lock = [], {}, {}, threading.Lock()
 
     def out_of_time():
-        return time.monotonic() - started > TIME_BUDGET
+        return time.monotonic() - started > budget
 
     def add(label, fn, *args):
         if out_of_time():
@@ -544,12 +774,12 @@ def run():
     searches = [(t, "Canada") for t in TERMS] + city_searches
 
     def linkedin():
-        # LinkedIn rate-limits quickly: one search at a time, a few seconds apart,
-        # and it stops for this run after three failures in a row.
+        # LinkedIn rate-limits quickly: one search at a time, a few seconds apart, Canada-wide
+        # only (about 25s each), in a random order so every term is covered over a few runs.
+        # It stops for this run after three failures in a row.
         failures = 0
-        for term, place in searches:
-            if place == US:
-                continue
+        for term in random.sample(TERMS, len(TERMS)):
+            place = "Canada"
             if failures >= 3 or out_of_time():
                 break
             failures = 0 if add("LinkedIn", jobspy_search, "linkedin", term, place) else failures + 1
@@ -560,7 +790,8 @@ def run():
             add("Job Bank", jobbank_search, term)
 
     def career_sites():
-        queries = [(h, t) for h in CAREER_RSS for t in [""] + TERMS] + [(h, c) for h in GLOBAL_RSS for c in CITY_KEYWORDS]
+        # Quick runs read each site's 20 newest jobs; full runs also search every term.
+        queries = [(h, t) for h in CAREER_RSS for t in [""] + ([] if quick else TERMS)] + [(h, c) for h in GLOBAL_RSS for c in CITY_KEYWORDS]
         with ThreadPoolExecutor(max_workers=4) as rss:
             list(rss.map(lambda q: add("Employer career sites", career_rss, *q), queries))
 
@@ -569,13 +800,22 @@ def run():
             list(boards.map(lambda b: add("Employer boards", workday_board, *b), WORKDAY))
         for b in ORACLE:
             add("Employer boards", oracle_board, *b)
-        for fn in (kpmg, microsoft, ibm):
+        for b in PHENOM:
+            add("Employer boards", phenom, *b)
+        for fn in (kpmg, microsoft, ibm, bc_public_service):
             add("Employer boards", fn)
 
+    def startup_boards():
+        boards = ([(greenhouse, *b) for b in GREENHOUSE.items()] + [(ashby, *b) for b in ASHBY.items()]
+                  + [(lever, *b) for b in LEVER.items()] + [(smartrecruiters, *b) for b in SMARTRECRUITERS.items()])
+        with ThreadPoolExecutor(max_workers=6) as ats:
+            list(ats.map(lambda b: add("Tech company boards", *b), boards))
 
-    with ThreadPoolExecutor(max_workers=8) as pool:
-        side = [pool.submit(f) for f in (linkedin, jobbank, career_sites, employer_boards)]
-        list(pool.map(lambda q: add("Indeed (US remote)" if q[1] == US else "Indeed", jobspy_search, "indeed", *q), searches))
+    employer_sources = (career_sites, employer_boards, startup_boards)
+    with ThreadPoolExecutor(max_workers=9) as pool:
+        side = [pool.submit(f) for f in employer_sources + (() if quick else (linkedin, jobbank))]
+        if not quick:
+            list(pool.map(lambda q: add("Indeed (US remote)" if q[1] == US else "Indeed", jobspy_search, "indeed", *q), searches))
         for f in side:
             f.result()
     log(f"searches done in {round(time.monotonic() - started)}s: {searches_run}")
@@ -590,16 +830,22 @@ def merge(fresh):
     by_link, by_key = {}, {}
     for j in old + fresh:  # newer runs win
         t = posted_time(j.get("posted", ""))
-        if not (j.get("link") and j.get("title") and t and t >= cutoff) or SENIOR.search(j["title"]):
+        if not (j.get("link") and j.get("title") and t and t >= cutoff) or left_out(j):
             continue
-        if j.get("source", "").endswith(" careers") and not employer_jobs([j]):
+        if j.get("source", "").endswith(" careers") and not employer_jobs([j], keep_us=True):
             continue  # kept from a run before the employer filter existed
         if j.get("years") is None:
             j["years"] = old_years.get(j["link"])
         k = dup_key(j)
         if k in by_key and by_key[k] != j["link"]:
             kept = by_link[by_key[k]]  # same job already found on another board
-            if kept.get("years") is None:
+            if is_employer(j) and not is_employer(kept):
+                # The employer's own posting wins: applying there is faster than through a job board.
+                del by_link[kept["link"]]
+                j["years"] = j["years"] if j.get("years") is not None else kept.get("years")
+                by_key[k] = j["link"]
+                by_link[j["link"]] = j
+            elif kept.get("years") is None:
                 kept["years"] = j.get("years")
             continue
         by_key[k] = j["link"]
@@ -607,13 +853,17 @@ def merge(fresh):
     return sorted(by_link.values(), key=lambda j: posted_time(j["posted"]), reverse=True)
 
 
+def is_employer(j):
+    return j.get("source", "").endswith(" careers")
+
+
 def fill_jobbank_years(jobs, limit=300):
-    """Job Bank search pages don't show experience: open the postings not checked yet."""
+    """Job Bank search pages don't show experience or languages: open the postings not checked yet."""
     todo = [j for j in jobs if j["source"] == "Job Bank" and j.get("years") is None][:limit]
 
     def check(j):
         try:
-            j["years"] = jobbank_posting_years(j["link"])
+            j["years"], j["french"] = jobbank_posting(j["link"])
         except Exception as e:
             log(f"  Job Bank posting {j['link']}: {type(e).__name__}: {str(e)[:100]}")
 
@@ -622,20 +872,71 @@ def fill_jobbank_years(jobs, limit=300):
     return len(todo)
 
 
+# ── Phone alerts and health check ──────────────────────────────────────────
+
+ALERTS_PER_RUN = 15
+
+
+def alert(new_jobs):
+    """Push new internship / co-op / new-grad jobs to the phone through ntfy.sh, if NTFY_TOPIC is set."""
+    topic = os.environ.get("NTFY_TOPIC")
+    picks = [j for j in new_jobs if EARLY.search(j["title"]) and (j.get("years") is None or j["years"] <= 1)]
+    if not topic or not picks:
+        return 0
+    for j in picks[:ALERTS_PER_RUN]:
+        try:
+            requests.post("https://ntfy.sh/", timeout=15, json={
+                "topic": topic, "title": f"{j['title']} · {j['company']}"[:200], "click": j["link"], "tags": ["briefcase"],
+                "message": f"{j['location']} · {j['source']}" + (f" · asks {j['years']} yr" if j.get("years") is not None else "")})
+        except requests.RequestException as e:
+            log(f"  alert: {type(e).__name__}: {str(e)[:100]}")
+    if len(picks) > ALERTS_PER_RUN:
+        requests.post("https://ntfy.sh/", timeout=15, json={"topic": topic, "title": f"+{len(picks) - ALERTS_PER_RUN} more new jobs",
+                                                           "message": "See the Job Scout sheet."})
+    return len(picks)
+
+
+# A source that finds nothing this many runs in a row fails the workflow, so GitHub emails you.
+HEALTH_RUNS = 3
+WATCHED = ["Indeed", "LinkedIn", "Job Bank", "Employer career sites", "Employer boards", "Tech company boards"]
+
+
+def check():
+    status = json.loads((OUT / "status.json").read_text())
+    broken = [f"{k} ({n} runs)" for k, n in status.get("zero_streak", {}).items() if n >= HEALTH_RUNS]
+    if broken:
+        log("Found no jobs several runs in a row: " + ", ".join(broken))
+        sys.exit(1)
+
+
 def main():
+    if sys.argv[1:] == ["check"]:
+        return check()
+    quick = sys.argv[1:] == ["quick"]
     OUT.mkdir(exist_ok=True)
     started = now()
-    fresh, stats, searches_run = run()
+    path = OUT / "tech.json"
+    had_feed = path.exists()
+    known = {j["link"] for j in json.loads(path.read_text())["jobs"]} if had_feed else set()
+    fresh, stats, searches_run = run(quick)
     jobs = merge(fresh)
-    opened = fill_jobbank_years(jobs)
+    opened = 0 if quick else fill_jobbank_years(jobs)
+    jobs = [j for j in jobs if not j.get("french")]  # Job Bank postings' languages are only known now
     updated = started.isoformat(timespec="seconds")
     jobs = [dict({k: j.get(k) for k in ("title", "company", "location", "posted", "link", "source")},
                  country=j.get("country") or "CA", years=j.get("years")) for j in jobs]
-    (OUT / "tech.json").write_text(json.dumps({"updated": updated, "jobs": jobs}, ensure_ascii=False, indent=0))
-    status = {"updated": updated, "searches_run": searches_run, "found_this_run": stats, "in_feed": len(jobs),
-              "us_remote_in_feed": sum(j["country"] == "US" for j in jobs),
+    path.write_text(json.dumps({"updated": updated, "jobs": jobs}, ensure_ascii=False, indent=0))
+    alerted = alert([j for j in jobs if j["link"] not in known]) if had_feed else 0
+
+    old = json.loads((OUT / "status.json").read_text()) if (OUT / "status.json").exists() else {}
+    streak = old.get("zero_streak", {})
+    for label in WATCHED:
+        if label in searches_run:  # only sources this kind of run searched
+            streak[label] = 0 if stats.get(label) else streak.get(label, 0) + 1
+    status = {"updated": updated, "mode": "quick" if quick else "full", "searches_run": searches_run,
+              "found_this_run": stats, "in_feed": len(jobs), "us_remote_in_feed": sum(j["country"] == "US" for j in jobs),
               "with_years": sum(j["years"] is not None for j in jobs), "jobbank_postings_opened": opened,
-              "seconds": round((now() - started).total_seconds())}
+              "alerts_sent": alerted, "zero_streak": streak, "seconds": round((now() - started).total_seconds())}
     (OUT / "status.json").write_text(json.dumps(status, indent=1))
     log(json.dumps(status))
 

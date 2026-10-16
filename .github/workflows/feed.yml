@@ -2,8 +2,13 @@ name: Update job feed
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may start a few minutes late)
+    - cron: "25,55 * * * *"   # full run: job boards + employers (GitHub may start a few minutes late)
+    - cron: "*/10 * * * *"    # quick run: employers' own job boards only, so new postings show up sooner
   workflow_dispatch:          # "Run workflow" button in the Actions tab
+    inputs:
+      mode:
+        description: "full or quick"
+        default: full
 
 concurrency:
   group: feed
@@ -16,21 +21,28 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      MODE: ${{ (github.event.schedule == '*/10 * * * *' || inputs.mode == 'quick') && 'quick' || 'full' }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
     steps:
       - uses: actions/checkout@v4
+      - name: Start from the latest feed (another run may have just published)
+        run: git pull --ff-only
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
       - run: python -m unittest test_years
-      - run: python feed.py
+      - run: python feed.py ${{ env.MODE == 'quick' && 'quick' || '' }}
       - name: Publish the new feed
         run: |
           git config user.name "canada-jobs-feed bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add feed
           git diff --cached --quiet && exit 0
-          git commit -m "Update job feed"
+          git commit -m "Update job feed ($MODE)"
           git pull --rebase -X theirs
           git push
+      - name: Check every source still finds jobs
+        run: python feed.py check
