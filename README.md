@@ -56,14 +56,28 @@ data analyst, junior IT analyst, technical support analyst.
 
 ## Schedule
 
-GitHub Actions (`.github/workflows/feed.yml`) runs:
-- `python feed.py` (full run, about 9 minutes) at :25 and :55 every hour;
-- `python feed.py quick` (employers' own boards only, about 1.5 minutes) every 10 minutes, so
-  new employer postings show up sooner.
+GitHub's own schedule runs far less often than asked when GitHub is busy (on 2026-10-15,
+"every 30 minutes" ran about every 2 hours). So the workflow is started **every 10 minutes from
+outside**, by a small Google Apps Script project (`trigger/trigger.gs`) that calls GitHub's API.
+Each of those runs is in `auto` mode:
+- a **full run** (job boards + employers, about 9 minutes) when the last full run was 28+ minutes ago;
+- otherwise a **quick run** (employers' own boards only, about 1.5 minutes).
 
-Each run commits the `feed/` folder when it changes. You can also start a run from the **Actions**
-tab with **Run workflow** (mode `full` or `quick`). GitHub starts scheduled runs late, or skips
-them, when it's busy.
+A GitHub schedule at :17 and :47 stays as a backup. You can also start a run from the **Actions**
+tab with **Run workflow** (mode `auto`, `full` or `quick`). Each run commits the `feed/` folder
+when it changes.
+
+**Setting up the trigger** (once):
+1. GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** →
+   Generate new token. Repository access: **Only select repositories** → `canada-jobs-feed`.
+   Permissions → Repository permissions → **Actions: Read and write** (nothing else). Pick an expiry.
+2. [script.google.com](https://script.google.com) → **New project** → paste `trigger/trigger.gs` → save.
+3. Project Settings (gear) → **Script properties** → add `GITHUB_TOKEN` = the token.
+4. Choose `setUp` in the toolbar → **Run** → approve the permissions. It starts a run right away,
+   then every 10 minutes. `stop` turns it off.
+
+When the token expires, runs fall back to GitHub's own schedule: make a new token and replace the
+script property.
 
 **Health check:** if a source (Indeed, LinkedIn, Job Bank, employer sites, employer boards, tech
 company boards) finds nothing 3 runs in a row, the run fails and GitHub emails you.
