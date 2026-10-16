@@ -23,8 +23,8 @@ Sources:
 Each job carries `years`: the most years of experience its description asks for,
 or null. It lets the sheet check Indeed jobs, whose pages Google's servers can't open.
 
-Jobs in Quebec, and jobs that require French (French titles, or descriptions asking
-for French or bilingualism), are left out.
+Jobs in Quebec, jobs that require French (French titles, or descriptions asking
+for French or bilingualism) and part-time jobs are left out.
 
 Only jobs posted in the last 48 hours are searched for and kept, merged across runs,
 so a run where a board blocks us doesn't empty the feed. The same job found on
@@ -241,10 +241,26 @@ def french_required(text):
     return False
 
 
+# Part-time jobs are left out; a job offered as either part-time or full-time stays.
+PART_TIME = re.compile(r"\bpart[- ]?time\b|\btemps partiel\b", re.I)
+FULL_TIME = re.compile(r"\bfull[- ]?time\b|\bcontract\b|\btemps plein\b", re.I)
+PART_TIME_DESC = re.compile(r"\b(this is an?|is an?|hiring an?|seeking an?|for an?)\s+(permanent\s+|temporary\s+|casual\s+)?part[- ]time\s+"
+                            r"(position|role|job|opportunity|employee|basis)\b|\bpart[- ]time\s+\(\d", re.I)
+
+
+def part_time(*types, description=""):
+    """True for a part-time-only job: its job type(s) or title say part-time and not full-time or contract,
+    or its description says it's a part-time position."""
+    text = " ".join(t for t in types if t)
+    if PART_TIME.search(text) and not FULL_TIME.search(text):
+        return True
+    return bool(PART_TIME_DESC.search(description or "")) and not FULL_TIME.search(description or "")
+
+
 def left_out(j):
-    """Quebec jobs, French jobs and senior titles aren't kept."""
+    """Quebec jobs, French jobs, part-time jobs and senior titles aren't kept."""
     return in_quebec_only(j.get("location")) or bool(FRENCH_TITLE.search(j.get("title", ""))) or j.get("french") \
-        or is_senior(j.get("title", ""))
+        or j.get("part_time") or part_time(j.get("title", "")) or is_senior(j.get("title", ""))
 
 PROVINCES = {"ON": "Ontario", "BC": "British Columbia", "AB": "Alberta", "QC": "Quebec", "MB": "Manitoba", "SK": "Saskatchewan",
              "NS": "Nova Scotia", "NB": "New Brunswick", "NL": "Newfoundland and Labrador", "PE": "Prince Edward Island",
@@ -347,7 +363,9 @@ def jobspy_search(site, term, place):
         jobs.append({"title": title, "company": clean(r.get("company")), "location": loc,
                      "posted": posted, "link": clean(r.get("job_url")), "source": SITE_LABEL[site],
                      "country": "US" if us else "CA", "years": years_asked(description) if description else None,
-                     "french": french_required(description)})
+                     "french": french_required(description),
+                     "part_time": part_time(clean(r.get("job_type")).replace("parttime", "part-time").replace("fulltime", "full-time"),
+                                            description=description)})
     return jobs
 
 
@@ -385,7 +403,8 @@ def jobbank_search(term):
 
 
 def jobbank_posting(link):
-    """(years, french) from a Job Bank posting: its Experience field (or description) and Languages field."""
+    """(years, french, part_time) from a Job Bank posting: its Experience field (or description),
+    Languages field and employment terms."""
     r = requests.get(link, headers=HTML, timeout=30)
     r.raise_for_status()
     text = re.search(r'property="description">(.*?)</span>', r.text, re.S)
@@ -395,7 +414,9 @@ def jobbank_posting(link):
     french = bool(langs and re.search(r"french|bilingual", langs.group(1), re.I) and not re.search(r"\bor\b", langs.group(1)))
     field = re.search(r'property="experienceRequirements qualification"[^>]*>\s*<span>([^<]+)', r.text)
     years = jobbank_years(field.group(1)) if field else (years_asked(text) if text else None)
-    return years, french or french_required(text)
+    terms = re.search(r'property="employmentType"[^>]*>(.*?)</(?:p|li|span)>\s*(?:<span[^>]*>([^<]*))?', r.text, re.S)
+    terms = clean(re.sub(r"<[^>]+>", " ", " ".join(g or "" for g in terms.groups()))) if terms else ""
+    return years, french or french_required(text), part_time(terms)
 
 
 def career_rss(host, term):
@@ -592,13 +613,14 @@ def where(locations, remote=False):
     return None
 
 
-def board_job(company, title, locations, remote, posted, link, about=""):
+def board_job(company, title, locations, remote, posted, link, about="", job_type=""):
     place = where(locations, remote)
     if not place or not posted:
         return None
     return {"title": clean(title), "company": company, "location": place[1], "posted": posted, "link": link,
             "source": f"{company} careers", "country": place[0],
-            "years": years_asked(about) if about else None, "french": french_required(about)}
+            "years": years_asked(about) if about else None, "french": french_required(about),
+            "part_time": part_time(job_type, description=about)}
 
 
 def fresh_only(jobs):
@@ -626,7 +648,8 @@ def ashby(board, company):
         country = ((j.get("address") or {}).get("postalAddress") or {}).get("addressCountry", "")
         places.append(country)
         jobs.append(board_job(company, j.get("title"), places, j.get("isRemote") or j.get("workplaceType") == "Remote",
-                              j.get("publishedAt"), j.get("jobUrl"), j.get("descriptionPlain", "")))
+                              j.get("publishedAt"), j.get("jobUrl"), j.get("descriptionPlain", ""),
+                              re.sub(r"(?<=[a-z])(?=[A-Z])", "-", j.get("employmentType") or "")))  # "PartTime" → "Part-Time"
     return employer_jobs(fresh_only(jobs), keep_us=True)
 
 
@@ -640,7 +663,8 @@ def lever(board, company):
         places = [cats.get("location", "")] + (cats.get("allLocations") or []) + [country]
         posted = datetime.fromtimestamp(j["createdAt"] / 1000, timezone.utc).isoformat() if j.get("createdAt") else ""
         jobs.append(board_job(company, j.get("text"), places, j.get("workplaceType") == "remote", posted,
-                              j.get("hostedUrl"), f"{j.get('descriptionPlain', '')} {j.get('additionalPlain', '')}"))
+                              j.get("hostedUrl"), f"{j.get('descriptionPlain', '')} {j.get('additionalPlain', '')}",
+                              cats.get("commitment", "")))
     return employer_jobs(fresh_only(jobs), keep_us=True)
 
 
@@ -653,7 +677,8 @@ def smartrecruiters(company_id, company):
         loc = j.get("location") or {}
         places = [", ".join(x for x in (loc.get("city"), loc.get("region"), "Canada") if x)]
         jobs.append(board_job(company, j.get("name"), places, loc.get("remote"), j.get("releasedDate"),
-                              f"https://jobs.smartrecruiters.com/{company_id}/{j.get('id')}"))
+                              f"https://jobs.smartrecruiters.com/{company_id}/{j.get('id')}",
+                              job_type=(j.get("typeOfEmployment") or {}).get("label", "")))
     return employer_jobs(fresh_only(jobs))
 
 
@@ -866,7 +891,7 @@ def fill_jobbank_years(jobs, limit=300):
 
     def check(j):
         try:
-            j["years"], j["french"] = jobbank_posting(j["link"])
+            j["years"], j["french"], j["part_time"] = jobbank_posting(j["link"])
         except Exception as e:
             log(f"  Job Bank posting {j['link']}: {type(e).__name__}: {str(e)[:100]}")
 
@@ -928,7 +953,7 @@ def main():
     fresh, stats, searches_run = run(quick)
     jobs = merge(fresh)
     opened = 0 if quick else fill_jobbank_years(jobs)
-    jobs = [j for j in jobs if not j.get("french")]  # Job Bank postings' languages are only known now
+    jobs = [j for j in jobs if not (j.get("french") or j.get("part_time"))]  # Job Bank postings' details are only known now
     updated = started.isoformat(timespec="seconds")
     jobs = [dict({k: j.get(k) for k in ("title", "company", "location", "posted", "link", "source")},
                  country=j.get("country") or "CA", years=j.get("years")) for j in jobs]

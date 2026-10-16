@@ -40,7 +40,10 @@ computer science student, summer student technology, new graduate software engin
 data analyst, junior IT analyst, technical support analyst.
 
 **Left out:**
-- Jobs in Quebec (a job that also names a place outside Quebec, like "Montreal or Toronto", stays).
+- Jobs in Quebec (a job that also names a place outside Quebec, like "Montreal or Toronto", stays;
+  "Montréal, QC (remote)" is still a Quebec job).
+- Part-time jobs: by job type (Indeed, LinkedIn, Ashby, Lever, SmartRecruiters, Job Bank), by title, or
+  by a description saying it's a part-time position. A job offered as full-time or part-time stays.
 - Jobs that require French: French titles, Job Bank postings whose Languages field asks for French
   or both languages, and descriptions asking for French or bilingualism ("French is an asset" is fine).
 - Senior, lead, manager and executive titles, unless the title is also a student or new-grad role

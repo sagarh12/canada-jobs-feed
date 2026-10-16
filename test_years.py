@@ -1,7 +1,7 @@
 """Checks for the feed's parsers and filters: python -m unittest test_years"""
 import unittest
 
-from feed import french_required, in_quebec_only, is_senior, jobbank_years, left_out, years_asked
+from feed import french_required, in_quebec_only, is_senior, jobbank_years, left_out, part_time, years_asked
 
 
 class YearsAsked(unittest.TestCase):
@@ -76,6 +76,22 @@ class Filters(unittest.TestCase):
             with self.subTest(title=t):
                 self.assertFalse(left_out({"title": t, "location": "Toronto, ON"}))
         self.assertFalse(is_senior("Lead Generation Intern"))
+
+    def test_part_time(self):
+        self.assertTrue(left_out({"title": "Part-Time IT Support Technician", "location": "Toronto, ON"}))
+        self.assertTrue(left_out({"title": "Data Analyst (Part Time)", "location": "Toronto, ON"}))
+        self.assertTrue(left_out({"title": "Help Desk Analyst", "location": "Toronto, ON", "part_time": True}))
+        self.assertFalse(left_out({"title": "Help Desk Analyst - Full-Time or Part-Time", "location": "Toronto, ON"}))
+        cases = {("part-time",): True, ("part-time, full-time",): True and False, ("full-time",): False,
+                 ("contract",): False, ("Part-Time",): True, ("Full-time permanent",): False, ("Part time",): True,
+                 ("Permanent employment Full time",): False, ("",): False}
+        cases[("part-time, full-time",)] = False
+        for types, expected in cases.items():
+            with self.subTest(types=types):
+                self.assertEqual(part_time(*types), expected)
+        self.assertTrue(part_time(description="This is a part-time position, 20 hours a week."))
+        self.assertFalse(part_time(description="Full-time role. Part-time students welcome to apply for other roles."))
+        self.assertFalse(part_time(description="We offer flexible hours."))
 
 
 if __name__ == "__main__":
