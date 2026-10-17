@@ -121,6 +121,7 @@ The repo is public because Actions minutes are free and unlimited for public rep
 | `posted` | `YYYY-MM-DD`, or a full ISO time when the board gives one |
 | `source` | `Indeed`, `LinkedIn`, `Job Bank`, or `<Employer> careers` (for example `TD careers`, `KPMG careers`) |
 | `country` | `CA`, or `US` for fully remote US jobs (their `location` is `Remote · United States`) |
+| `apply` | Only when known (Indeed, LinkedIn): the employer's own application page, for example a Greenhouse or Workday link |
 | `years` | The most years of experience the job asks for, or `null` if it names none. Read from the description (Indeed, KPMG, IBM and the RSS career sites) or Job Bank's Experience field. LinkedIn jobs are `null` here; the sheet reads LinkedIn pages itself. |
 
 `years` uses the same rules as the sheet's experience check: "0-2 years" counts as 0, and

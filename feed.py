@@ -362,6 +362,7 @@ def jobspy_search(site, term, place):
             loc = "Remote · United States"
         jobs.append({"title": title, "company": clean(r.get("company")), "location": loc,
                      "posted": posted, "link": clean(r.get("job_url")), "source": SITE_LABEL[site],
+                     "apply": clean(r.get("job_url_direct")),  # the employer's own application page, when the board gives it
                      "country": "US" if us else "CA", "years": years_asked(description) if description else None,
                      "french": french_required(description),
                      "part_time": part_time(clean(r.get("job_type")).replace("parttime", "part-time").replace("fulltime", "full-time"),
@@ -855,6 +856,7 @@ def merge(fresh):
     old = json.loads(path.read_text())["jobs"] if path.exists() else []
     cutoff = now() - timedelta(hours=KEEP_HOURS)
     old_years = {j["link"]: j.get("years") for j in old if j.get("years") is not None}
+    old_apply = {j["link"]: j["apply"] for j in old if j.get("apply")}
     by_link, by_key = {}, {}
     for j in old + fresh:  # newer runs win
         t = posted_time(j.get("posted", ""))
@@ -864,6 +866,8 @@ def merge(fresh):
             continue  # kept from a run before the employer filter existed
         if j.get("years") is None:
             j["years"] = old_years.get(j["link"])
+        if not j.get("apply") and j["link"] in old_apply:
+            j["apply"] = old_apply[j["link"]]
         k = dup_key(j)
         if k in by_key and by_key[k] != j["link"]:
             kept = by_link[by_key[k]]  # same job already found on another board
@@ -956,7 +960,8 @@ def main():
     jobs = [j for j in jobs if not (j.get("french") or j.get("part_time"))]  # Job Bank postings' details are only known now
     updated = started.isoformat(timespec="seconds")
     jobs = [dict({k: j.get(k) for k in ("title", "company", "location", "posted", "link", "source")},
-                 country=j.get("country") or "CA", years=j.get("years")) for j in jobs]
+                 country=j.get("country") or "CA", years=j.get("years"),
+                 **({"apply": j["apply"]} if j.get("apply") and j["apply"] != j.get("link") else {})) for j in jobs]
     path.write_text(json.dumps({"updated": updated, "jobs": jobs}, ensure_ascii=False, indent=0))
     alerted = alert([j for j in jobs if j["link"] not in known]) if had_feed else 0
 
