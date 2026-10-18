@@ -1,27 +1,16 @@
 {
-"updated": "2026-10-18T12:49:47+00:00",
+"updated": "2026-10-18T12:59:48+00:00",
 "jobs": [
 {
-"title": "Office Assistant",
-"company": "PRIMAL CONTRACTING",
-"location": "Winnipeg, MB, CA",
+"title": "Azure DevOps Engineer",
+"company": "Westley Resource",
+"location": "Remote · United States",
 "posted": "2026-10-18",
-"link": "https://ca.indeed.com/viewjob?jk=63fc98cdeef3d28b",
+"link": "https://www.indeed.com/viewjob?jk=44fbda5907302381",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-assistant-63fc98cdeef3d28b"
-},
-{
-"title": "Software Design Co-op, Nuclear",
-"company": "Eclipse Automation",
-"location": "Cambridge, ON, CA",
-"posted": "2026-10-18",
-"link": "https://ca.indeed.com/viewjob?jk=5ceb92d146c63ab6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://jobs.dayforcehcm.com/en-CA/eclipse/CANDIDATEPORTAL/jobs/4199"
+"apply": "http://www.indeed.com/job/azure-devops-engineer-44fbda5907302381"
 },
 {
 "title": "Controls Software Design Co-op",
@@ -35,15 +24,26 @@
 "apply": "https://jobs.dayforcehcm.com/en-CA/eclipse/CANDIDATEPORTAL/jobs/4193"
 },
 {
-"title": "Azure DevOps Engineer",
-"company": "Westley Resource",
-"location": "Remote · United States",
+"title": "Software Design Co-op, Nuclear",
+"company": "Eclipse Automation",
+"location": "Cambridge, ON, CA",
 "posted": "2026-10-18",
-"link": "https://www.indeed.com/viewjob?jk=44fbda5907302381",
+"link": "https://ca.indeed.com/viewjob?jk=5ceb92d146c63ab6",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/azure-devops-engineer-44fbda5907302381"
+"apply": "https://jobs.dayforcehcm.com/en-CA/eclipse/CANDIDATEPORTAL/jobs/4199"
+},
+{
+"title": "Office Assistant",
+"company": "PRIMAL CONTRACTING",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-10-18",
+"link": "https://ca.indeed.com/viewjob?jk=63fc98cdeef3d28b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-assistant-63fc98cdeef3d28b"
 },
 {
 "title": "Analyst, Leasing Services",
@@ -1340,6 +1340,66 @@
 "location": "North York, Ontario, Canada",
 "posted": "2026-10-17",
 "link": "https://www.linkedin.com/jobs/view/4472083566",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Data Lakehouse",
+"company": "Braze",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4472033051",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Inventory Control Coordinator - ChamClad",
+"company": "Wausau Supply Company",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4472239050",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "PepsiCo Canada: Sales Strategy Winter 2027 Co-op",
+"company": "PepsiCo",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4470199996",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Control Intern",
+"company": "Interfor",
+"location": "Elk Lake, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4460777099",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forestry Operations Intern",
+"company": "Interfor",
+"location": "Elk Lake, Ontario, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4460766873",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CCaaS Engineer",
+"company": "Accenture",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-17",
+"link": "https://www.linkedin.com/jobs/view/4461920716",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11314,6 +11374,27 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-16",
 "link": "https://www.linkedin.com/jobs/view/4480525349",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Agricultural Marketing Specialist (Resident Agent)",
+"company": "US Agricultural Marketing Service",
+"location": "Remote · United States",
+"posted": "2026-10-16",
+"link": "https://www.indeed.com/viewjob?jk=f06c9e8157c9a63d",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/888990300"
+},
+{
+"title": "DevOps Engineer( Databricks)",
+"company": "TekStaff IT Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-16",
+"link": "https://www.linkedin.com/jobs/view/4480395357",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
