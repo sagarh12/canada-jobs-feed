@@ -1,79 +1,16 @@
 {
-"updated": "2026-10-19T04:39:46+00:00",
+"updated": "2026-10-19T04:49:43+00:00",
 "jobs": [
 {
-"title": "Solutions Design IT Specialist",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-19",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Solutions-Design-IT-Specialist_R_1510852",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Penetration Testing Analyst",
-"company": "Sun Life",
-"location": "2 Locations, Canada",
-"posted": "2026-10-19",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Penetration-Testing-Analyst_JR00128690",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Government Relations & External Affairs Intern",
-"company": "Interac",
-"location": "Toronto",
-"posted": "2026-10-19",
-"link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Government-Relations---External-Affairs-Intern_REQ-2402",
-"source": "Interac careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Technical Support & Software Development",
-"company": "iMVR",
-"location": "Beamsville, ON, CA",
-"posted": "2026-10-19",
-"link": "https://ca.indeed.com/viewjob?jk=e08559669383c361",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/technical-support-software-development-e08559669383c361"
-},
-{
-"title": "Front Desk Sales & Administrative Assistant",
-"company": "Azura Window Coverings Supply",
-"location": "Markham, ON, CA",
-"posted": "2026-10-19",
-"link": "https://ca.indeed.com/viewjob?jk=a270ed7bea468cd6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/front-desk-sales-administrative-assistant-a270ed7bea468cd6"
-},
-{
 "title": "IT Support & Systems Engineer",
 "company": "Jitterbit",
-"location": "Dryden, ON, CA (remote)",
+"location": "Victoria, BC, CA (remote)",
 "posted": "2026-10-19",
-"link": "https://ca.indeed.com/viewjob?jk=5bc12f6d56e2bc69",
+"link": "https://ca.indeed.com/viewjob?jk=cb0b7987a21564c8",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jobs.smartrecruiters.com/Jitterbit/744000156222378-it-support-systems-engineer"
-},
-{
-"title": "IT Support & Systems Engineer",
-"company": "Jitterbit",
-"location": "Kenora, ON, CA (remote)",
-"posted": "2026-10-19",
-"link": "https://ca.indeed.com/viewjob?jk=a0c7cf3c3a652974",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://jobs.smartrecruiters.com/Jitterbit/744000156222590-it-support-systems-engineer"
+"apply": "https://jobs.smartrecruiters.com/Jitterbit/744000156222638-it-support-systems-engineer"
 },
 {
 "title": "IT Support & Systems Engineer",
@@ -89,13 +26,76 @@
 {
 "title": "IT Support & Systems Engineer",
 "company": "Jitterbit",
-"location": "Victoria, BC, CA (remote)",
+"location": "Kenora, ON, CA (remote)",
 "posted": "2026-10-19",
-"link": "https://ca.indeed.com/viewjob?jk=cb0b7987a21564c8",
+"link": "https://ca.indeed.com/viewjob?jk=a0c7cf3c3a652974",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jobs.smartrecruiters.com/Jitterbit/744000156222638-it-support-systems-engineer"
+"apply": "https://jobs.smartrecruiters.com/Jitterbit/744000156222590-it-support-systems-engineer"
+},
+{
+"title": "IT Support & Systems Engineer",
+"company": "Jitterbit",
+"location": "Dryden, ON, CA (remote)",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=5bc12f6d56e2bc69",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.smartrecruiters.com/Jitterbit/744000156222378-it-support-systems-engineer"
+},
+{
+"title": "Front Desk Sales & Administrative Assistant",
+"company": "Azura Window Coverings Supply",
+"location": "Markham, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=a270ed7bea468cd6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-sales-administrative-assistant-a270ed7bea468cd6"
+},
+{
+"title": "Technical Support & Software Development",
+"company": "iMVR",
+"location": "Beamsville, ON, CA",
+"posted": "2026-10-19",
+"link": "https://ca.indeed.com/viewjob?jk=e08559669383c361",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-support-software-development-e08559669383c361"
+},
+{
+"title": "Government Relations & External Affairs Intern",
+"company": "Interac",
+"location": "Toronto",
+"posted": "2026-10-19",
+"link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Government-Relations---External-Affairs-Intern_REQ-2402",
+"source": "Interac careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Penetration Testing Analyst",
+"company": "Sun Life",
+"location": "2 Locations, Canada",
+"posted": "2026-10-19",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Penetration-Testing-Analyst_JR00128690",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Design IT Specialist",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-19",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Solutions-Design-IT-Specialist_R_1510852",
+"source": "TD careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Business Analyst Specialist (Fixed Income / Accounting)",
