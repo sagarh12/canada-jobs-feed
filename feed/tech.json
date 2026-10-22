@@ -1,17 +1,6 @@
 {
-"updated": "2026-10-22T02:09:56+00:00",
+"updated": "2026-10-22T02:19:46+00:00",
 "jobs": [
-{
-"title": "Product Developer",
-"company": "Moe's Home Collection",
-"location": "Vancouver, BC, CA",
-"posted": "2026-10-22",
-"link": "https://ca.indeed.com/viewjob?jk=7d4e6214cd3836f2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://recruiting.ultipro.ca/MOE5000MOER/JobBoard/2573a05f-4943-4b17-a846-dbe94371cb98/OpportunityDetail?opportunityId=aaa9ade7-bbd4-4298-a871-a8f50ba0fb76&postingId=95acfc83-556d-44eb-bdbc-540c1ff956fa"
-},
 {
 "title": "Assistant Technical Developer (Apparel)",
 "company": "Oak + Fort",
@@ -22,6 +11,17 @@
 "country": "CA",
 "years": null,
 "apply": "https://app-elb.pushoperations.com/ats/job-postings/bec661b0-2d47-43be-b165-34fb0e745abf/public"
+},
+{
+"title": "Product Developer",
+"company": "Moe's Home Collection",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=7d4e6214cd3836f2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.ultipro.ca/MOE5000MOER/JobBoard/2573a05f-4943-4b17-a846-dbe94371cb98/OpportunityDetail?opportunityId=aaa9ade7-bbd4-4298-a871-a8f50ba0fb76&postingId=95acfc83-556d-44eb-bdbc-540c1ff956fa"
 },
 {
 "title": "Building System Technician",
@@ -52,6 +52,16 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 4
+},
+{
+"title": "Financial Analyst, Bombardier Toronto Site",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-22T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Financial-Analyst%2C-Bombardier-Toronto-Site-ON-L5S-1W1/1288194301/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 7
 },
 {
 "title": "Solution Engineer Cloud & AI Infrastructure",
@@ -3649,6 +3659,91 @@
 "location": "Regina, Saskatchewan, Canada",
 "posted": "2026-10-21",
 "link": "https://www.linkedin.com/jobs/view/4482188981",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Analyst, Nuclear Industry",
+"company": "BWX Technologies",
+"location": "Cambridge, ON, CA",
+"posted": "2026-10-21",
+"link": "https://ca.indeed.com/viewjob?jk=c98ae52d8a12d9a7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.bwxt.com/job/Cambridge-Engineering-Analyst%2C-Nuclear-Industry-ON/1442273700/"
+},
+{
+"title": "AI Data Engineer (contract)",
+"company": "Microsoft",
+"location": "Remote · United States",
+"posted": "2026-10-21",
+"link": "https://www.indeed.com/viewjob?jk=3ef5f538400554d0",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://us.microsoft.talentnet.community/jobs/f7790f3b-47b9-44e3-b5ec-0bc154ae7a40"
+},
+{
+"title": "Regional SNV Technical Support",
+"company": "Dollar Loan Center",
+"location": "Remote · United States",
+"posted": "2026-10-21",
+"link": "https://www.indeed.com/viewjob?jk=69fe14b2b226d008",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://phx.us-west.paycomonline.net/v4/ats/web.php/portal/95E4FA8142C1AD70D245332EFA4ABA66/jobs/34780?source=Indeed"
+},
+{
+"title": "GIS Analyst",
+"company": "City of Aspen",
+"location": "Remote · United States",
+"posted": "2026-10-21",
+"link": "https://www.indeed.com/viewjob?jk=bc5d2684353cc3d5",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://phe.tbe.taleo.net/phe03/ats/careers/v2/viewRequisition?org=ASPENGOV&cws=45&rid=2734"
+},
+{
+"title": "PeopleSoft Developer (PeopleCode / PL-SQL)",
+"company": "VeeRteq Solutions Inc.",
+"location": "Remote · United States",
+"posted": "2026-10-21",
+"link": "https://www.indeed.com/viewjob?jk=f67049b2ac767851",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://candidateportal.ceipal.com/job-details/-wgq2yzVD1g-L5DgHecNZ5WxfVdkMOrehxLwqn_L4RY#.job_boards.Indeed"
+},
+{
+"title": "Full Stack Software Engineer, New Grad - Quora (Remote)",
+"company": "Quora",
+"location": "(remote)",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4482024485",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Engineer",
+"company": "Mysten Labs",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4482031329",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud DevOps",
+"company": "SOTI",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4482030253",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -9701,7 +9796,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618202&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18378848-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc7dce9bf-ccf6-11f1-b828-31033e97af46%26rx_job%3D2618202%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261022T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618202"
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618202&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18378848-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc7dce9bf-ccf6-11f1-b828-31033e97af46%26rx_job%3D2618202%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261022T020403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618202"
 },
 {
 "title": "Auto Uptime Advocate (Remote - Michigan)",
@@ -12499,6 +12594,17 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Employability Skills Developer, Opportunities Fund London",
+"company": "YMCA of Southwestern Ontario",
+"location": "Chatham-Kent, ON, CA",
+"posted": "2026-10-20",
+"link": "https://ca.indeed.com/viewjob?jk=80dd6ae49f214ca3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/wat0904/CANDIDATEPORTAL/jobs/7274"
 },
 {
 "title": "Vehicle Systems Engineering",
