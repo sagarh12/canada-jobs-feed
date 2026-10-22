@@ -146,20 +146,38 @@ WORKDAY_PAGES = 10  # 20 jobs a page; reading stops sooner once jobs are older t
 GREENHOUSE = {
     "geotab": "Geotab", "d2l": "D2L", "hootsuite": "Hootsuite", "tenstorrent": "Tenstorrent", "ritual": "Ritual",
     "fellow": "Fellow", "diligent": "Diligent", "stackadapt": "StackAdapt", "flipp": "Flipp", "lyft": "Lyft",
-    "stripe": "Stripe", "databricks": "Databricks", "cloudflare": "Cloudflare", "datadog": "Datadog", "twilio": "Twilio",
-    "okta": "Okta", "instacart": "Instacart", "coinbase": "Coinbase", "robinhood": "Robinhood", "samsara": "Samsara",
-    "pinterest": "Pinterest", "dropbox": "Dropbox", "affirm": "Affirm", "figma": "Figma", "brex": "Brex",
-    "scaleai": "Scale AI", "anthropic": "Anthropic",
+    "stripe": "Stripe", "databricks": "Databricks", "cloudflare": "Cloudflare", "datadog": "Datadog",
+    "twilio": "Twilio", "okta": "Okta", "instacart": "Instacart", "coinbase": "Coinbase", "robinhood": "Robinhood",
+    "samsara": "Samsara", "pinterest": "Pinterest", "dropbox": "Dropbox", "affirm": "Affirm", "figma": "Figma",
+    "brex": "Brex", "scaleai": "Scale AI", "anthropic": "Anthropic", "abnormalsecurity": "Abnormal Security",
+    "asana": "Asana", "bitwarden": "Bitwarden", "braze": "Braze", "carta": "Carta", "chainguard": "Chainguard",
+    "circleci": "CircleCI", "collibra": "Collibra", "cribl": "Cribl", "dataiku": "Dataiku", "discord": "Discord",
+    "elastic": "Elastic", "expel": "Expel", "faire": "Faire", "fivetran": "Fivetran", "gitlab": "GitLab",
+    "grafanalabs": "Grafana Labs", "gusto": "Gusto", "honeycomb": "Honeycomb", "lattice": "Lattice",
+    "launchdarkly": "LaunchDarkly", "mercury": "Mercury", "mixpanel": "Mixpanel", "mongodb": "MongoDB",
+    "monzo": "Monzo", "netlify": "Netlify", "pagerduty": "PagerDuty", "planetscale": "PlanetScale",
+    "reddit": "Reddit", "securityscorecard": "SecurityScorecard", "shakepay": "Shakepay",
+    "sigmacomputing": "Sigma Computing", "storyblok": "Storyblok", "tailscale": "Tailscale", "tines": "Tines",
+    "toast": "Toast", "tulip": "Tulip", "vercel": "Vercel", "wizinc": "Wiz", "zscaler": "Zscaler",
 }
 ASHBY = {
-    "wealthsimple": "Wealthsimple", "cohere": "Cohere", "1password": "1Password", "koho": "KOHO", "benevity": "Benevity",
-    "jobber": "Jobber", "lightspeedhq": "Lightspeed", "thinkific": "Thinkific", "float": "Float", "neofinancial": "Neo Financial",
-    "top-hat": "Top Hat", "sonder": "Sonder", "trulioo": "Trulioo", "clearco": "Clearco", "hopper": "Hopper",
-    "miovision": "Miovision", "procurify": "Procurify", "visier": "Visier", "snowflake": "Snowflake", "plaid": "Plaid",
-    "notion": "Notion", "ramp": "Ramp", "openai": "OpenAI",
+    "wealthsimple": "Wealthsimple", "cohere": "Cohere", "1password": "1Password", "koho": "KOHO",
+    "benevity": "Benevity", "jobber": "Jobber", "lightspeedhq": "Lightspeed", "thinkific": "Thinkific",
+    "float": "Float", "neofinancial": "Neo Financial", "top-hat": "Top Hat", "sonder": "Sonder",
+    "trulioo": "Trulioo", "clearco": "Clearco", "hopper": "Hopper", "miovision": "Miovision",
+    "procurify": "Procurify", "visier": "Visier", "snowflake": "Snowflake", "plaid": "Plaid", "notion": "Notion",
+    "ramp": "Ramp", "openai": "OpenAI", "amplitude": "Amplitude", "anyscale": "Anyscale", "cerebras": "Cerebras",
+    "clickhouse": "ClickHouse", "drata": "Drata", "hex": "Hex", "iterable": "Iterable", "kira": "Kira",
+    "linear": "Linear", "loopio": "Loopio", "nerdwallet": "NerdWallet", "nubank": "Nubank",
+    "perplexity": "Perplexity", "pinecone": "Pinecone", "replit": "Replit", "sanity": "Sanity",
+    "secureframe": "Secureframe", "semgrep": "Semgrep", "sentry": "Sentry", "snyk": "Snyk", "socket": "Socket",
+    "supabase": "Supabase", "temporal": "Temporal", "vanta": "Vanta", "webflow": "Webflow", "zapier": "Zapier",
 }
-LEVER = {"pointclickcare": "PointClickCare", "wattpad": "Wattpad", "waveapps": "Wave", "achievers": "Achievers",
-         "magnetforensics": "Magnet Forensics", "wishpond": "Wishpond"}
+LEVER = {
+    "pointclickcare": "PointClickCare", "wattpad": "Wattpad", "waveapps": "Wave", "achievers": "Achievers",
+    "magnetforensics": "Magnet Forensics", "wishpond": "Wishpond", "arcadia": "Arcadia", "policyme": "PolicyMe",
+    "sophos": "Sophos", "waabi": "Waabi",
+}
 SMARTRECRUITERS = {"Ubisoft2": "Ubisoft", "Visa": "Visa", "BoschGroup": "Bosch"}
 # Phenom career sites: their search page embeds the newest jobs. (name, search page)
 PHENOM = [("OpenText", "https://careers.opentext.com/us/en")]
