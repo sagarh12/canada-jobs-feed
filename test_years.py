@@ -1,6 +1,8 @@
 """Checks for the feed's parsers and filters: python -m unittest test_years"""
 import unittest
 
+import feed
+
 from feed import french_required, in_quebec_only, is_senior, jobbank_years, left_out, part_time, years_asked
 
 
@@ -92,6 +94,16 @@ class Filters(unittest.TestCase):
         self.assertTrue(part_time(description="This is a part-time position, 20 hours a week."))
         self.assertFalse(part_time(description="Full-time role. Part-time students welcome to apply for other roles."))
         self.assertFalse(part_time(description="We offer flexible hours."))
+
+
+class JobDetails(unittest.TestCase):
+    def test_salary_start_and_qualifications(self):
+        d = feed.job_details('What you bring\n- BSc in Computer Science\n- Python\nBenefits\n- Dental\n'
+                             'Salary: $60,000 to $75,000 per year. Start date: May 2027')
+        self.assertEqual(d, {'salary': '$60,000 to $75,000 per year', 'start': 'May 2027',
+                             'quals': ['BSc in Computer Science', 'Python']})
+        self.assertEqual(feed.job_details('', 25.0, 30.0, 'hourly', 'CAD'), {'salary': '$25 - $30 CAD per hour'})
+        self.assertEqual(feed.job_details('Nothing here', float('nan'), None), {})
 
 
 if __name__ == "__main__":

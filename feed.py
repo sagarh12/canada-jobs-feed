@@ -266,6 +266,56 @@ PART_TIME_DESC = re.compile(r"\b(this is an?|is an?|hiring an?|seeking an?|for a
                             r"(position|role|job|opportunity|employee|basis)\b|\bpart[- ]time\s+\(\d", re.I)
 
 
+# Salary, start date and the main qualifications, read from the description for the robot's Telegram cards.
+QUAL_HEADING = re.compile(r"(qualifications?|requirements?|what you(.ll)? (bring|need|have)|what we.re looking for|"
+                          r"who you are|you have|must.haves?|about you|your profile|required skills)\b", re.I)
+QUAL_END = re.compile(r"(nice to have|preferred|bonus|benefits|what we offer|perks|about us|responsibilities|"
+                      r"what you.ll do|compensation|how to apply|why join)\b", re.I)
+MONEY = re.compile(r"(?:CAD|USD|C\$|US\$|\$)\s?\d[\d,]*(?:\.\d+)?\s?[kK]?(?:\s?(?:-|–|to)\s?(?:CAD|USD|C\$|US\$|\$)?\s?\d[\d,]*"
+                   r"(?:\.\d+)?\s?[kK]?)?(?:\s?(?:CAD|USD))?(?:\s?(?:per|/|an|a)\s?(?:hour|hr|year|yr|annum|month))?", re.I)
+START = re.compile(r"(?:start(?:ing)? date|start(?:s|ing)?(?: in| on)?|available to start)[:\s-]*((?:january|february|march|april|"
+                   r"may|june|july|august|september|october|november|december|summer|fall|autumn|winter|spring)[a-z]*\.?\s*\d{0,2},?"
+                   r"\s*\d{4}|immediately|asap)", re.I)
+
+
+DETAILS = ("salary", "start", "quals")
+
+
+def job_details(description, low=None, high=None, interval="", currency=""):
+    """{'salary', 'start', 'quals'} with only what the posting says (an empty dict when it says nothing)."""
+    text = description or ""
+    out = {}
+    num = lambda v: v is not None and v == v and v > 0  # pandas NaN != NaN
+    if num(low) or num(high):
+        amt = " - ".join(f"${v:,.0f}" for v in (low, high) if num(v))
+        per = {"hourly": "hour", "yearly": "year", "monthly": "month", "weekly": "week", "daily": "day"}.get(interval, interval)
+        out["salary"] = f"{amt} {currency or ''} {('per ' + per) if per else ''}".replace("  ", " ").strip()
+    else:
+        m = MONEY.search(text)
+        if m and re.search(r"\d{2}", m.group(0)):
+            out["salary"] = m.group(0).strip()
+    m = START.search(text)
+    if m:
+        out["start"] = m.group(1).strip().rstrip(",")
+    lines = [l.strip(" -•*\t") for l in re.split(r"\n|(?<=[.!?])\s{2,}", text)]
+    quals, on = [], False
+    for l in lines:
+        if not l:
+            continue
+        if len(l) < 70 and QUAL_HEADING.match(l):
+            on = True
+            continue
+        if on and len(l) < 70 and QUAL_END.match(l):
+            break
+        if on and 3 < len(l) < 300:
+            quals.append(l[:140])
+            if len(quals) == 4:
+                break
+    if quals:
+        out["quals"] = quals
+    return out
+
+
 def part_time(*types, description=""):
     """True for a part-time-only job: its job type(s) or title say part-time and not full-time or contract,
     or its description says it's a part-time position."""
@@ -384,7 +434,9 @@ def jobspy_search(site, term, place):
                      "country": "US" if us else "CA", "years": years_asked(description) if description else None,
                      "french": french_required(description),
                      "part_time": part_time(clean(r.get("job_type")).replace("parttime", "part-time").replace("fulltime", "full-time"),
-                                            description=description)})
+                                            description=description),
+                     **job_details(description, r.get("min_amount"), r.get("max_amount"), clean(r.get("interval")),
+                                   clean(r.get("currency")))})
     return jobs
 
 
@@ -639,7 +691,7 @@ def board_job(company, title, locations, remote, posted, link, about="", job_typ
     return {"title": clean(title), "company": company, "location": place[1], "posted": posted, "link": link,
             "source": f"{company} careers", "country": place[0],
             "years": years_asked(about) if about else None, "french": french_required(about),
-            "part_time": part_time(job_type, description=about)}
+            "part_time": part_time(job_type, description=about), **job_details(about)}
 
 
 def fresh_only(jobs):
@@ -875,6 +927,7 @@ def merge(fresh):
     cutoff = now() - timedelta(hours=KEEP_HOURS)
     old_years = {j["link"]: j.get("years") for j in old if j.get("years") is not None}
     old_apply = {j["link"]: j["apply"] for j in old if j.get("apply")}
+    old_details = {j["link"]: {k: j[k] for k in DETAILS if j.get(k)} for j in old if any(j.get(k) for k in DETAILS)}
     by_link, by_key = {}, {}
     for j in old + fresh:  # newer runs win
         t = posted_time(j.get("posted", ""))
@@ -886,6 +939,8 @@ def merge(fresh):
             j["years"] = old_years.get(j["link"])
         if not j.get("apply") and j["link"] in old_apply:
             j["apply"] = old_apply[j["link"]]
+        for k, v in old_details.get(j["link"], {}).items():
+            j.setdefault(k, v)
         k = dup_key(j)
         if k in by_key and by_key[k] != j["link"]:
             kept = by_link[by_key[k]]  # same job already found on another board
@@ -979,7 +1034,8 @@ def main():
     updated = started.isoformat(timespec="seconds")
     jobs = [dict({k: j.get(k) for k in ("title", "company", "location", "posted", "link", "source")},
                  country=j.get("country") or "CA", years=j.get("years"),
-                 **({"apply": j["apply"]} if j.get("apply") and j["apply"] != j.get("link") else {})) for j in jobs]
+                 **({"apply": j["apply"]} if j.get("apply") and j["apply"] != j.get("link") else {}),
+                 **{k: j[k] for k in DETAILS if j.get(k)}) for j in jobs]
     path.write_text(json.dumps({"updated": updated, "jobs": jobs}, ensure_ascii=False, indent=0))
     alerted = alert([j for j in jobs if j["link"] not in known]) if had_feed else 0
 
