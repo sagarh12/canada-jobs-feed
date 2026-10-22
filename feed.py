@@ -52,7 +52,7 @@ from urllib.parse import quote_plus
 import requests
 
 SEARCH_HOURS = 48
-KEEP_HOURS = 48
+KEEP_HOURS = 72  # the auto-apply robot applies to jobs up to 3 days old
 TIME_BUDGET = 8 * 60  # seconds; searches not started by then are skipped this run
 QUICK_BUDGET = 3 * 60  # the 10-minute employer-only run
 FULL_EVERY = 28 * 60  # auto mode: a full run when the last one was at least this long ago (seconds)

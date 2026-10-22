@@ -49,7 +49,7 @@ data analyst, junior IT analyst, technical support analyst.
 - Senior, lead, manager and executive titles, unless the title is also a student or new-grad role
   ("Product Owner Co-op").
 
-- Only jobs posted in the last **48 hours** are searched for and kept.
+- Searches ask for jobs posted in the last **48 hours**; jobs stay in the feed for **3 days** (the auto-apply robot applies up to 3 days back).
 - Results are merged across runs, so a run where a board blocks the scraper doesn't empty the feed.
 - The same job found on several boards is kept once (same company, title and city), with the
   employer's own link preferred over a job board's.
