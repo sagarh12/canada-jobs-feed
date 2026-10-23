@@ -1,373 +1,124 @@
 {
-"updated": "2026-10-23T08:29:48+00:00",
+"updated": "2026-10-23T08:39:48+00:00",
 "jobs": [
 {
-"title": "Business Strategy & Operations Analyst",
-"company": "CVS Health",
+"title": "Data Engineer Remote",
+"company": "Cisco",
 "location": "Remote · United States",
 "posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=7006d5e075d9cf0f",
+"link": "https://www.indeed.com/viewjob?jk=9de1e766d4b3a4ab",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://careers.cisco.com/global/en/job/2027223",
+"salary": "$111,700 - $203,100 USD per year",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Machine learning",
+"Airflow",
+"dbt",
+"ETL / data pipelines",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"Git",
+"Infrastructure as code",
+"SIEM",
+"Vulnerability management"
+]
+},
+{
+"title": "Intern, Enterprise Transformation and AI Strategy (Summer 2027)",
+"company": "Investment Management Corporation of Ontario",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=185cb41641c1c932",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://imcoinvest.wd3.myworkdayjobs.com/en-US/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
+"salary": "$45,000 to $65,000",
+"skills": [
+"Power BI",
+"Excel",
+"Microsoft 365"
+]
+},
+{
+"title": "Business Analyst & Tester (SECRET) (REMOTE)",
+"company": "Koniag Government Services",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=f22ec70e424dd374",
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://click.appcast.io/t/Q2Ww3oAokUdiz4rk6Y9begbenwE4oDbSyMJYSHWO0ww=",
-"salary": "$66,330 - $145,860 USD per year",
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14370",
+"salary": "$90,000 - $150,000 USD per year",
 "skills": [
-"Microsoft 365",
-"Figma"
+"Excel",
+"Google Workspace",
+"Agile / Scrum"
+]
+},
+{
+"title": "AI Data Scientist (REMOTE)",
+"company": "Koniag Government Services",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=e43045d62ea3d31c",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14880",
+"salary": "$135,000 - $175,000 USD per year",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Machine learning",
+"NLP",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Statistics",
+"AWS",
+"Azure",
+"Google Cloud",
+"Agile / Scrum"
 ]
 },
 {
 "title": "Administrative Assistant",
 "company": "",
-"location": "Toronto, ON, CA",
+"location": "Brampton, ON, CA",
 "posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=c230eb7151fae6f1",
+"link": "https://ca.indeed.com/viewjob?jk=3ae6e854eccfe143",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-c230eb7151fae6f1",
+"apply": "http://ca.indeed.com/job/administrative-assistant-3ae6e854eccfe143",
 "salary": "$24.00-$28.00 per hour",
 "skills": [
 "Google Workspace"
 ]
 },
 {
-"title": "Junior System Administrator",
-"company": "0footprint Tech Services Inc",
-"location": "Richmond, BC, CA",
+"title": "Administrative Assistant",
+"company": "",
+"location": "Ottawa, ON, CA",
 "posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=78e79f605374ac56",
+"link": "https://ca.indeed.com/viewjob?jk=d257e0aac70c770e",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/junior-system-administrator-78e79f605374ac56",
-"salary": "$21.00-$24.00 per hour",
-"skills": [
-"Python",
-"PowerShell",
-"AWS",
-"Azure",
-"Google Cloud",
-"Linux",
-"Cybersecurity",
-"IAM",
-"Firewalls",
-"Windows",
-"macOS",
-"Microsoft 365",
-"Help desk / troubleshooting",
-"Azure certification"
-]
-},
-{
-"title": "Technical Support Analyst",
-"company": "Cakes Technology Inc.",
-"location": "Richmond Hill, ON, CA (remote)",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=0847201d646f3102",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/technical-support-analyst-0847201d646f3102",
-"salary": "$42,000.00-$52,000.00 per year",
-"skills": [
-"Azure",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Embedded systems",
-"ITIL"
-]
-},
-{
-"title": "Field Technician",
-"company": "Connectra Technologies",
-"location": "Hamilton, ON, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=69d8a0debbdde6b0",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/field-technician-69d8a0debbdde6b0",
-"salary": "$35.00 per hour",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "Engineer I",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
-"source": "TD careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Customer Support (Legal Accounting)",
-"company": "ActionStep",
-"location": "Edmonton, AB, CA (remote)",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=761a88e747dc0bce",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://apply.workable.com/j/40D1A61904",
-"salary": "$55,000 - 60,000",
-"skills": [
-"Excel",
-"Help desk / troubleshooting",
-"Agile / Scrum"
-]
-},
-{
-"title": "CNC Machinist/Programmer",
-"company": "STEMA PUNCH AND DIE",
-"location": "Cambridge, ON, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=d612f470ef911fdc",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-d612f470ef911fdc",
-"salary": "$27.00-$31.00 per hour",
-"skills": [
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "Front Desk Receptionist",
-"company": "AHS IMMIGRATION SERVICES INC",
-"location": "Edmonton, AB, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=9357374facdfc91f",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-9357374facdfc91f",
-"salary": "$15.90-$17.00 per hour",
+"apply": "http://ca.indeed.com/job/administrative-assistant-d257e0aac70c770e",
+"salary": "$24.00-$28.00 per hour",
 "skills": [
 "Google Workspace"
-]
-},
-{
-"title": "Verification Engineer – AI SoC Development",
-"company": "Intel",
-"location": "Canada, Toronto",
-"posted": "2026-10-23",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
-"source": "Intel careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Freelance Web Developer",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=da90644295a89967",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/freelance-web-developer-da90644295a89967",
-"salary": "$20.00-$70.00 per hour",
-"skills": [
-"JavaScript",
-"PHP",
-"HTML/CSS",
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "USACO Instructor / Competitive Programming Coach — Remote",
-"company": "Aurora International Consulting LLC",
-"location": "Remote · United States",
-"posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=064ada14ec4f585c",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/usaco-instructor-competitive-programming-coach-remote-064ada14ec4f585c",
-"salary": "$50 - $100 USD per hour",
-"skills": [
-"C++",
-"Data structures & algorithms"
-]
-},
-{
-"title": "Backend Engineer (Min 3 Years Full Time)",
-"company": "TransCrypts",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=ac8e6d05ea51c4c5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/backend-engineer-min-3-years-full-time-ac8e6d05ea51c4c5",
-"salary": "$20",
-"skills": [
-"TypeScript",
-"Node.js",
-"REST APIs",
-"LLMs / GenAI",
-"PostgreSQL",
-"Google Cloud",
-"Terraform",
-"Git",
-"Infrastructure as code",
-"Monitoring",
-"Networking (TCP/IP, DNS)",
-"Testing (unit, automated)",
-"System design",
-"Mobile (iOS / Android)",
-"Postman"
-]
-},
-{
-"title": "Salon Assistant/Receptionist",
-"company": "The Urban Cave Barber & Beauty Salon",
-"location": "Surrey, BC, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=150836dfebacda48",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/salon-assistantreceptionist-150836dfebacda48",
-"salary": "$18.25-$19.00 per hour"
-},
-{
-"title": "Systems Configuration & Support Technician – Full-Time",
-"company": "",
-"location": "Markham, ON, CA (remote)",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=9d6af3dafee168d6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/systems-configuration-support-technician-full-time-9d6af3dafee168d6",
-"salary": "$20–$35 CAD per hour",
-"skills": [
-"Linux",
-"Networking (TCP/IP, DNS)",
-"Firewalls",
-"Windows",
-"Help desk / troubleshooting",
-"Embedded systems"
-]
-},
-{
-"title": "Software Engineer / AI Engineer",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=e3d7b6d0cbf7b773",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/software-engineer-ai-engineer-e3d7b6d0cbf7b773",
-"salary": "$106,000 - $129,000 USD per year",
-"skills": [
-"Python",
-"Java",
-"JavaScript",
-"C++",
-"Machine learning",
-"LLMs / GenAI"
-]
-},
-{
-"title": "AI Systems Development & Business Automation Assistant",
-"company": "Becoming Institute",
-"location": "Remote · United States",
-"posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=05279af1fd079090",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/ai-systems-development-business-automation-assistant-05279af1fd079090",
-"salary": "$15.00 per hour"
-},
-{
-"title": "Business Analyst (REMOTE)",
-"company": "Koniag Government Services",
-"location": "Remote · United States",
-"posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=c7dc4c0d25de43ad",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14390",
-"salary": "$120,000 - $140,000 USD per year",
-"skills": [
-"Agile / Scrum"
-]
-},
-{
-"title": "CLM Business Analyst",
-"company": "BAE Systems USA",
-"location": "Remote · United States",
-"posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=bdc666df3980562b",
-"source": "Indeed",
-"country": "US",
-"years": 6,
-"apply": "https://jobs.baesystems.com/global/en/job/130641BR",
-"salary": "$96,623 - $164,259 USD per year",
-"skills": [
-"Agile / Scrum"
-]
-},
-{
-"title": "Software Developer (Remote)",
-"company": "Koniag Government Services",
-"location": "Remote · United States",
-"posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=43bf1458302024d7",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15287",
-"salary": "$100,000 - $130,000 USD per year",
-"skills": [
-"Java",
-"SQL",
-"SQL Server",
-"Agile / Scrum"
-]
-},
-{
-"title": "Jr Developer – DevOps & BI Dev Focus ( REMOTE)",
-"company": "Koniag Government Services",
-"location": "Remote · United States",
-"posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=e9f1016e988fe06f",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14461",
-"salary": "$90,000 - $130,000 USD per year",
-"skills": [
-"SQL",
-"React",
-"Angular",
-"Vue",
-"Node.js",
-".NET",
-"ETL / data pipelines",
-"Power BI",
-"Tableau",
-"Data visualization",
-"Azure",
-"Docker",
-"Kubernetes",
-"CI/CD",
-"GitHub Actions",
-"Git",
-"Agile / Scrum",
-"Testing (unit, automated)",
-"SDLC"
 ]
 },
 {
@@ -407,123 +158,372 @@
 ]
 },
 {
-"title": "Administrative Assistant",
-"company": "",
-"location": "Ottawa, ON, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=d257e0aac70c770e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-d257e0aac70c770e",
-"salary": "$24.00-$28.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Administrative Assistant",
-"company": "",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=3ae6e854eccfe143",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-3ae6e854eccfe143",
-"salary": "$24.00-$28.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "AI Data Scientist (REMOTE)",
+"title": "Jr Developer – DevOps & BI Dev Focus ( REMOTE)",
 "company": "Koniag Government Services",
 "location": "Remote · United States",
 "posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=e43045d62ea3d31c",
+"link": "https://www.indeed.com/viewjob?jk=e9f1016e988fe06f",
 "source": "Indeed",
 "country": "US",
-"years": 5,
-"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14880",
-"salary": "$135,000 - $175,000 USD per year",
+"years": 1,
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14461",
+"salary": "$90,000 - $130,000 USD per year",
 "skills": [
-"Python",
-"R",
 "SQL",
-"Machine learning",
-"NLP",
+"React",
+"Angular",
+"Vue",
+"Node.js",
+".NET",
 "ETL / data pipelines",
 "Power BI",
 "Tableau",
-"Statistics",
-"AWS",
+"Data visualization",
 "Azure",
-"Google Cloud",
-"Agile / Scrum"
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"SDLC"
 ]
 },
 {
-"title": "Business Analyst & Tester (SECRET) (REMOTE)",
+"title": "Software Developer (Remote)",
 "company": "Koniag Government Services",
 "location": "Remote · United States",
 "posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=f22ec70e424dd374",
+"link": "https://www.indeed.com/viewjob?jk=43bf1458302024d7",
 "source": "Indeed",
 "country": "US",
-"years": 5,
-"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14370",
-"salary": "$90,000 - $150,000 USD per year",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15287",
+"salary": "$100,000 - $130,000 USD per year",
 "skills": [
-"Excel",
-"Google Workspace",
+"Java",
+"SQL",
+"SQL Server",
 "Agile / Scrum"
 ]
 },
 {
-"title": "Intern, Enterprise Transformation and AI Strategy (Summer 2027)",
-"company": "Investment Management Corporation of Ontario",
-"location": "Toronto, ON, CA",
+"title": "CLM Business Analyst",
+"company": "BAE Systems USA",
+"location": "Remote · United States",
 "posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=185cb41641c1c932",
+"link": "https://www.indeed.com/viewjob?jk=bdc666df3980562b",
 "source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://imcoinvest.wd3.myworkdayjobs.com/en-US/IMCO/job/Toronto---16-York-St/Intern--Enterprise-Transformation-and-AI-Strategy--Summer-2027-_R26-155-1",
-"salary": "$45,000 to $65,000",
+"country": "US",
+"years": 6,
+"apply": "https://jobs.baesystems.com/global/en/job/130641BR",
+"salary": "$96,623 - $164,259 USD per year",
 "skills": [
-"Power BI",
-"Excel",
-"Microsoft 365"
+"Agile / Scrum"
 ]
 },
 {
-"title": "Data Engineer Remote",
-"company": "Cisco",
+"title": "Business Analyst (REMOTE)",
+"company": "Koniag Government Services",
 "location": "Remote · United States",
 "posted": "2026-10-23",
-"link": "https://www.indeed.com/viewjob?jk=9de1e766d4b3a4ab",
+"link": "https://www.indeed.com/viewjob?jk=c7dc4c0d25de43ad",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "https://careers.cisco.com/global/en/job/2027223",
-"salary": "$111,700 - $203,100 USD per year",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/14390",
+"salary": "$120,000 - $140,000 USD per year",
+"skills": [
+"Agile / Scrum"
+]
+},
+{
+"title": "AI Systems Development & Business Automation Assistant",
+"company": "Becoming Institute",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=05279af1fd079090",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/ai-systems-development-business-automation-assistant-05279af1fd079090",
+"salary": "$15.00 per hour"
+},
+{
+"title": "Software Engineer / AI Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=e3d7b6d0cbf7b773",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-engineer-ai-engineer-e3d7b6d0cbf7b773",
+"salary": "$106,000 - $129,000 USD per year",
 "skills": [
 "Python",
-"SQL",
-"REST APIs",
+"Java",
+"JavaScript",
+"C++",
 "Machine learning",
-"Airflow",
-"dbt",
-"ETL / data pipelines",
+"LLMs / GenAI"
+]
+},
+{
+"title": "Systems Configuration & Support Technician – Full-Time",
+"company": "",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=9d6af3dafee168d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/systems-configuration-support-technician-full-time-9d6af3dafee168d6",
+"salary": "$20–$35 CAD per hour",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Firewalls",
+"Windows",
+"Help desk / troubleshooting",
+"Embedded systems"
+]
+},
+{
+"title": "Salon Assistant/Receptionist",
+"company": "The Urban Cave Barber & Beauty Salon",
+"location": "Surrey, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=150836dfebacda48",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/salon-assistantreceptionist-150836dfebacda48",
+"salary": "$18.25-$19.00 per hour"
+},
+{
+"title": "Backend Engineer (Min 3 Years Full Time)",
+"company": "TransCrypts",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=ac8e6d05ea51c4c5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/backend-engineer-min-3-years-full-time-ac8e6d05ea51c4c5",
+"salary": "$20",
+"skills": [
+"TypeScript",
+"Node.js",
+"REST APIs",
+"LLMs / GenAI",
+"PostgreSQL",
+"Google Cloud",
+"Terraform",
+"Git",
+"Infrastructure as code",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Testing (unit, automated)",
+"System design",
+"Mobile (iOS / Android)",
+"Postman"
+]
+},
+{
+"title": "USACO Instructor / Competitive Programming Coach — Remote",
+"company": "Aurora International Consulting LLC",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=064ada14ec4f585c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/usaco-instructor-competitive-programming-coach-remote-064ada14ec4f585c",
+"salary": "$50 - $100 USD per hour",
+"skills": [
+"C++",
+"Data structures & algorithms"
+]
+},
+{
+"title": "Freelance Web Developer",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=da90644295a89967",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/freelance-web-developer-da90644295a89967",
+"salary": "$20.00-$70.00 per hour",
+"skills": [
+"JavaScript",
+"PHP",
+"HTML/CSS",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Verification Engineer – AI SoC Development",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-10-23",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Front Desk Receptionist",
+"company": "AHS IMMIGRATION SERVICES INC",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=9357374facdfc91f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-9357374facdfc91f",
+"salary": "$15.90-$17.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "STEMA PUNCH AND DIE",
+"location": "Cambridge, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=d612f470ef911fdc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-d612f470ef911fdc",
+"salary": "$27.00-$31.00 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Customer Support (Legal Accounting)",
+"company": "ActionStep",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=761a88e747dc0bce",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/40D1A61904",
+"salary": "$55,000 - 60,000",
+"skills": [
+"Excel",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+]
+},
+{
+"title": "Engineer I",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-23",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
+"source": "TD careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Field Technician",
+"company": "Connectra Technologies",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=69d8a0debbdde6b0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-technician-69d8a0debbdde6b0",
+"salary": "$35.00 per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Technical Support Analyst",
+"company": "Cakes Technology Inc.",
+"location": "Richmond Hill, ON, CA (remote)",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=0847201d646f3102",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-support-analyst-0847201d646f3102",
+"salary": "$42,000.00-$52,000.00 per year",
+"skills": [
+"Azure",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Embedded systems",
+"ITIL"
+]
+},
+{
+"title": "Junior System Administrator",
+"company": "0footprint Tech Services Inc",
+"location": "Richmond, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=78e79f605374ac56",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-system-administrator-78e79f605374ac56",
+"salary": "$21.00-$24.00 per hour",
+"skills": [
+"Python",
+"PowerShell",
 "AWS",
 "Azure",
 "Google Cloud",
-"CI/CD",
-"Git",
-"Infrastructure as code",
-"SIEM",
-"Vulnerability management"
+"Linux",
+"Cybersecurity",
+"IAM",
+"Firewalls",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Azure certification"
+]
+},
+{
+"title": "Administrative Assistant",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=c230eb7151fae6f1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-c230eb7151fae6f1",
+"salary": "$24.00-$28.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Business Strategy & Operations Analyst",
+"company": "CVS Health",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=7006d5e075d9cf0f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://click.appcast.io/t/Q2Ww3oAokUdiz4rk6Y9begbenwE4oDbSyMJYSHWO0ww=",
+"salary": "$66,330 - $145,860 USD per year",
+"skills": [
+"Microsoft 365",
+"Figma"
 ]
 },
 {
