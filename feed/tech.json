@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T00:49:52+00:00",
+"updated": "2026-10-23T00:59:43+00:00",
 "jobs": [
 {
 "title": "CNC Machinist/Programmer",
@@ -38,6 +38,11 @@
 "3+ years of experience in FP&A, corporate finance, investment banking, consulting, or public accounting; experience in SaaS or a subscriptio",
 "Strong proficiency in Excel or Google Sheets, including building models from raw data",
 "You’ll thrive as a Financial Analyst, GTM if you:"
+],
+"skills": [
+"SQL",
+"Excel",
+"Salesforce"
 ]
 },
 {
@@ -48,7 +53,12 @@
 "link": "https://jobs.ashbyhq.com/openai/cec9ba9a-0b2d-4e90-8482-01ccc72234fb",
 "source": "OpenAI careers",
 "country": "US",
-"years": null
+"years": null,
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"Hardware setup"
+]
 },
 {
 "title": "Software Engineer II",
@@ -74,6 +84,9 @@
 "3+ years supporting one or more regulated industries, including Public Sector, Healthcare, Education, Utilities, or similarly regulated envi",
 "Nice to have: fintech/payments, identity, fraud, or income-verification experience; familiarity with public-sector procurement, systems inte",
 "Experience leading complex technical evaluations and partnering strategically with AEs across multistakeholder pursuits."
+],
+"skills": [
+"REST APIs"
 ]
 },
 {
@@ -90,6 +103,9 @@
 "3+ years supporting one or more regulated industries, including Public Sector, Healthcare, Education, Utilities, or similarly regulated envi",
 "Nice to have: fintech/payments, identity, fraud, or income-verification experience; familiarity with public-sector procurement, systems inte",
 "Experience leading complex technical evaluations and partnering strategically with AEs across multistakeholder pursuits."
+],
+"skills": [
+"REST APIs"
 ]
 },
 {
@@ -106,6 +122,12 @@
 "A track record architecting UX systems. Before AI, you designed and built the foundations of user experience at scale — design systems, comp",
 "A love for design that shows up in your work. Since AI, you've used it to build compelling examples and more sophisticated systems than were",
 "Agentic systems that help design scale. Ideally you've built them — agents, tooling, or infrastructure that let designers do more, faster, a"
+],
+"skills": [
+"REST APIs",
+"Git",
+"Monitoring",
+"Figma"
 ]
 },
 {
@@ -123,6 +145,9 @@
 "Extensive experience building with and for agents",
 "Track record of shipping high-quality products at scale",
 "Comfort and excitement to be customer-facing"
+],
+"skills": [
+"Embedded systems"
 ]
 },
 {
@@ -140,6 +165,9 @@
 "Extensive experience building with and for agents",
 "Track record of shipping high-quality products at scale",
 "Comfort and excitement to be customer-facing"
+],
+"skills": [
+"Embedded systems"
 ]
 },
 {
@@ -177,6 +205,15 @@
 "Humility: You're not afraid to ask \"stupid\" questions and make mistakes (as long as you learn from them).",
 "Curiosity: You look for better ways of doing things, even if everyone seems happy with how they are.",
 "Teamwork: We work together, and succeed as a team!"
+],
+"skills": [
+"Rust",
+"REST APIs",
+"Machine learning",
+"NLP",
+"Oracle",
+"Cybersecurity",
+"System design"
 ]
 },
 {
@@ -187,7 +224,16 @@
 "link": "https://jobs.ashbyhq.com/cerebras/aa63c764-2bca-479f-92eb-e2e2c942e383",
 "source": "Cerebras careers",
 "country": "US",
-"years": null
+"years": null,
+"skills": [
+"Python",
+".NET",
+"PyTorch",
+"Machine learning",
+"Deep learning",
+"LLMs / GenAI",
+"Hardware setup"
+]
 },
 {
 "title": "Compute & Infrastructure Accounting",
@@ -197,7 +243,14 @@
 "link": "https://jobs.ashbyhq.com/openai/4b7246e7-0eaf-4e35-865b-1ef693527ff4",
 "source": "OpenAI careers",
 "country": "US",
-"years": 10
+"years": 10,
+"skills": [
+"Oracle",
+"Hardware setup",
+"System design",
+"SAP",
+"Embedded systems"
+]
 },
 {
 "title": "Software Engineer, Identity Infrastructure",
@@ -207,7 +260,19 @@
 "link": "https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
 "source": "OpenAI careers",
 "country": "US",
-"years": null
+"years": null,
+"skills": [
+"Python",
+"Go",
+"Rust",
+"REST APIs",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Encryption / PKI",
+"Hardware setup",
+"System design"
+]
 },
 {
 "title": "Software Support Specialist (Temporary)",
@@ -3414,6 +3479,22 @@
 "Humility: You're not afraid to ask \"stupid\" questions and make mistakes (as long as you learn from them).",
 "Curiosity: You look for better ways of doing things, even if everyone seems happy with how they are.",
 "Teamwork: We work together, and succeed as a team!"
+],
+"skills": [
+"JavaScript",
+"TypeScript",
+"HTML/CSS",
+"React",
+"REST APIs",
+"Machine learning",
+"NLP",
+"Oracle",
+"Git",
+"Cybersecurity",
+"Selenium / Cypress",
+"Jest / PyTest",
+"System design",
+"Figma"
 ]
 },
 {
@@ -3431,6 +3512,21 @@
 "Humility: You're not afraid to ask \"stupid\" questions and make mistakes (as long as you learn from them).",
 "Curiosity: You look for better ways of doing things, even if everyone seems happy with how they are.",
 "Teamwork: We work together, and succeed as a team!"
+],
+"skills": [
+"Python",
+"Go",
+"REST APIs",
+"Machine learning",
+"NLP",
+"Oracle",
+"Terraform",
+"Git",
+"Cybersecurity",
+"SIEM",
+"Incident response",
+"Vulnerability management",
+"Threat intelligence"
 ]
 },
 {
@@ -3448,6 +3544,20 @@
 "Humility: You're not afraid to ask \"stupid\" questions and make mistakes (as long as you learn from them).",
 "Curiosity: You look for better ways of doing things, even if everyone seems happy with how they are.",
 "Teamwork: We work together, and succeed as a team!"
+],
+"skills": [
+"Go",
+"REST APIs",
+"Machine learning",
+"NLP",
+"Oracle",
+"AWS",
+"CI/CD",
+"Monitoring",
+"Cybersecurity",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"System design"
 ]
 },
 {
@@ -3465,6 +3575,19 @@
 "Humility: You're not afraid to ask \"stupid\" questions and make mistakes (as long as you learn from them).",
 "Curiosity: You look for better ways of doing things, even if everyone seems happy with how they are.",
 "Teamwork: We work together, and succeed as a team!"
+],
+"skills": [
+"Python",
+"Go",
+"Ruby",
+"Node.js",
+"Machine learning",
+"NLP",
+"Oracle",
+"Monitoring",
+"Cybersecurity",
+"IAM",
+"System design"
 ]
 },
 {
@@ -3482,6 +3605,16 @@
 "Humility: You're not afraid to ask \"stupid\" questions and make mistakes (as long as you learn from them).",
 "Curiosity: You look for better ways of doing things, even if everyone seems happy with how they are.",
 "Teamwork: We work together, and succeed as a team!"
+],
+"skills": [
+"Go",
+"Rust",
+"Machine learning",
+"NLP",
+"Oracle",
+"Cybersecurity",
+"NIST / ISO 27001",
+"Data structures & algorithms"
 ]
 },
 {
@@ -3499,6 +3632,19 @@
 "Humility: You're not afraid to ask \"stupid\" questions and make mistakes (as long as you learn from them).",
 "Curiosity: You look for better ways of doing things, even if everyone seems happy with how they are.",
 "Teamwork: We work together, and succeed as a team!"
+],
+"skills": [
+"JavaScript",
+"TypeScript",
+"React",
+"Machine learning",
+"NLP",
+"Oracle",
+"CI/CD",
+"Git",
+"Cybersecurity",
+"System design",
+"Figma"
 ]
 },
 {
@@ -3526,6 +3672,21 @@
 "Experience developing with APIs, webhooks, and integrations between distributed systems",
 "Hands-on experience close to support: as a support or technical support engineer, or by building tools or integrations for a support, CS, or",
 "Confidence with Git and safe, version-controlled deployment workflows"
+],
+"skills": [
+"JavaScript",
+"TypeScript",
+"React",
+"Node.js",
+"REST APIs",
+"LLMs / GenAI",
+"Git",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Ticketing (ServiceNow, Jira)",
+"System design",
+"Salesforce",
+"Embedded systems"
 ]
 },
 {
@@ -3543,6 +3704,10 @@
 "Approachable and clear — you can walk a new hire through our badging process or settle a frustrated visitor with the same ease",
 "Thorough and consistent — you follow procedures, document your work accurately, and notice when a process isn't working",
 "Clear on your scope — you handle routine matters on your own and escalate early when something needs a second set of eyes"
+],
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Jira"
 ]
 },
 {
@@ -3619,6 +3784,17 @@
 "FULL-STACK ENGINEERING",
 "Strong software engineering background with experience designing, building, and shipping production applications.",
 "Proficiency in Python and/or TypeScript, including modern backend frameworks and frontend technologies such as React or Next.js."
+],
+"skills": [
+"Python",
+"TypeScript",
+"React",
+"Next.js",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"ETL / data pipelines",
+"Vector databases"
 ]
 },
 {
@@ -3669,7 +3845,19 @@
 "link": "https://jobs.ashbyhq.com/openai/0ca02747-5c97-432b-95c5-4b9099bce992",
 "source": "OpenAI careers",
 "country": "US",
-"years": 7
+"years": 7,
+"skills": [
+"Python",
+"SQL",
+"scikit-learn",
+"TensorFlow",
+"PyTorch",
+"Machine learning",
+"LLMs / GenAI",
+"Statistics",
+"Hardware setup",
+"System design"
+]
 },
 {
 "title": "2027 UK Corporate Banking Summer Internship (London (UK), ENG, GB)",
@@ -3845,6 +4033,23 @@
 "Deep, hands-on AWS expertise — able to architect complex multi-region, multi-account environments from first principles. AWS Solutions Archi",
 "Expert-level Terraform; experience with Atlantis or similar GitOps workflows for infrastructure.",
 "Strong programming skills in Python, Go, or similar — comfortable writing production-grade automation, not just scripts."
+],
+"skills": [
+"Python",
+"Go",
+".NET",
+"Machine learning",
+"AWS",
+"Kubernetes",
+"Terraform",
+"Monitoring",
+"SOC",
+"Incident response",
+"IAM",
+"NIST / ISO 27001",
+"Cloud security",
+"Hardware setup",
+"System design"
 ]
 },
 {
@@ -3855,7 +4060,34 @@
 "link": "https://jobs.lever.co/pointclickcare/6ec25484-b204-48a6-ab91-7b0b1625aa02",
 "source": "PointClickCare careers",
 "country": "CA",
-"years": null
+"years": null,
+"skills": [
+"Python",
+"Java",
+"SQL",
+"Bash/Shell",
+"React",
+"Angular",
+"Spring Boot",
+"REST APIs",
+"LLMs / GenAI",
+"MySQL",
+"SQL Server",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"Ansible",
+"CI/CD",
+"Jenkins",
+"Git",
+"Linux",
+"Monitoring",
+"Cybersecurity",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"SDLC"
+]
 },
 {
 "title": "AI Security Sales Executive, Public Sector",
@@ -3921,6 +4153,18 @@
 "Hands-on experience working in customer facing roles.",
 "Ability to multitask and efficiently handle multiple competing priorities, delegating when necessary while being highly organized, detail or",
 "Empathetic mindset for the customer and a commitment to delving deep into the challenges they present or experience."
+],
+"skills": [
+"Python",
+"Go",
+"Swift",
+"REST APIs",
+"LLMs / GenAI",
+"GitLab",
+"Git",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Figma"
 ]
 },
 {
@@ -3937,6 +4181,18 @@
 "7 plus years of pre-sales experience in a Sales Engineering or Solutions Engineering role.",
 "Hands-on experience working with enterprise customers in the security or technical SaaS space.",
 "Ability to multitask and efficiently handle multiple competing priorities, delegating when necessary while being highly organized, detail or"
+],
+"skills": [
+"Python",
+"Go",
+"Swift",
+"REST APIs",
+"LLMs / GenAI",
+"GitLab",
+"Git",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Figma"
 ]
 },
 {
@@ -3953,6 +4209,17 @@
 "Prior experience in security, developer tools, or SaaS environments",
 "Hands-on technical background: prior software engineering, data science, or equivalent role",
 "Deep familiarity with package managers (at least one of npm or PyPI) and programming ecosystems (at least one of JavaScript or Python)"
+],
+"skills": [
+"Python",
+"JavaScript",
+"Swift",
+"REST APIs",
+"GitLab",
+"Git",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Figma"
 ]
 },
 {
@@ -3980,6 +4247,21 @@
 "At least 2 years of software engineering experience",
 "A bias toward automation and leverage — you reach for systems and tooling before you reach for elbow grease",
 "Hands-on experience shipping with AI coding tools (Claude Code, Cursor, Copilot, or similar) as a genuine part of your workflow"
+],
+"skills": [
+"Java",
+"Go",
+"Rust",
+"React",
+"REST APIs",
+"Kafka",
+"Vector databases",
+"AWS",
+"Azure",
+"Google Cloud",
+"Monitoring",
+"Microsoft 365",
+"System design"
 ]
 },
 {
@@ -4011,7 +4293,11 @@
 "source": "Notion careers",
 "country": "US",
 "years": null,
-"salary": "$150,000 - $180,000 per year"
+"salary": "$150,000 - $180,000 per year",
+"skills": [
+"SQL",
+"Salesforce"
+]
 },
 {
 "title": "Associate Treasury Reporting & Analytics",
@@ -4028,6 +4314,11 @@
 "Report Management: Proven experience overseeing end-to-end report lifecycle management, from requirements gathering to delivery. Ability to ",
 "Treasury Systems Expertise: 2+ years of hands-on experience with Kyriba Treasury Management System, including report configuration, data ext",
 "Organization & planning: Plans, organizes, and schedules in a productive manner, allowing for a focus on key priorities and regular updates"
+],
+"skills": [
+"SQL",
+"Power BI",
+"Excel"
 ]
 },
 {
@@ -11518,7 +11809,25 @@
 "link": "https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f",
 "source": "Snowflake careers",
 "country": "CA",
-"years": 2
+"years": 2,
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"LangChain",
+"Hugging Face",
+"Snowflake",
+"Vector databases",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"Linux",
+"Windows",
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Software Engineer, Growth Platforms",
