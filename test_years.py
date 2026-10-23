@@ -101,9 +101,27 @@ class JobDetails(unittest.TestCase):
         d = feed.job_details('What you bring\n- BSc in Computer Science\n- Python\nBenefits\n- Dental\n'
                              'Salary: $60,000 to $75,000 per year. Start date: May 2027')
         self.assertEqual(d, {'salary': '$60,000 to $75,000 per year', 'start': 'May 2027',
-                             'quals': ['BSc in Computer Science', 'Python']})
+                             'quals': ['BSc in Computer Science', 'Python'], 'skills': ['Python']})
         self.assertEqual(feed.job_details('', 25.0, 30.0, 'hourly', 'CAD'), {'salary': '$25 - $30 CAD per hour'})
         self.assertEqual(feed.job_details('Nothing here', float('nan'), None), {})
+
+
+class Keywords(unittest.TestCase):
+    def test_technical_keywords_without_look_alikes(self):
+        import keywords
+        found = keywords.skills('Python, SQL and React; AWS (EC2), Docker, CI/CD, Spring Boot, C++ and C#. Power BI a plus.')
+        self.assertEqual(found, ['Python', 'C++', 'C#', 'SQL', 'React', 'Spring Boot', 'Power BI', 'AWS', 'Docker', 'CI/CD'])
+        self.assertEqual(keywords.skills('Spring 2027 term. Express your interest. Excellent pay. Go above and beyond.'), [])
+
+    def test_tally_counts_each_job_once(self):
+        import keywords, tempfile
+        from pathlib import Path
+        d = Path(tempfile.mkdtemp())
+        jobs = [{'link': 'a', 'skills': ['Python', 'SQL']}, {'link': 'b', 'skills': ['Python']}, {'link': 'c'}]
+        self.assertEqual(keywords.tally(jobs, d / 's.json', d / 'k.csv', today='2026-10-22'), 2)
+        self.assertEqual(keywords.tally(jobs, d / 's.json', d / 'k.csv', today='2026-10-23'), 0)
+        rows = (d / 'k.csv').read_text().splitlines()
+        self.assertTrue(rows[1].startswith('1,Python,Language,100%,2,2,2'))
 
 
 if __name__ == "__main__":
