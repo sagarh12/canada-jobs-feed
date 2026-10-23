@@ -39,7 +39,7 @@ KEYWORDS = [
     ('TensorFlow', 'Data & AI', r'tensorflow'), ('PyTorch', 'Data & AI', r'pytorch'), ('Keras', 'Data & AI', r'\bkeras\b'),
     ('Machine learning', 'Data & AI', r'machine learning|\bml\b'), ('Deep learning', 'Data & AI', r'deep learning|neural net'),
     ('LLMs / GenAI', 'Data & AI', r'\bllms?\b|large language model|generative ai|gen ?ai\b|gpt|prompt engineering'),
-    ('RAG', 'Data & AI', r'\brag\b|retrieval.augmented'), ('NLP', 'Data & AI', r'\bnlp\b|natural language processing'),
+    ('RAG', 'Data & AI', r'\brag\b|retrieval.augmented( generation)?'), ('NLP', 'Data & AI', r'\bnlp\b|natural language processing'),
     ('Computer vision', 'Data & AI', r'computer vision|opencv'), ('LangChain', 'Data & AI', r'langchain|llamaindex'),
     ('Hugging Face', 'Data & AI', r'hugging ?face'), ('Spark', 'Data & AI', r'\bspark\b|pyspark'), ('Hadoop', 'Data & AI', r'\bhadoop\b'),
     ('Airflow', 'Data & AI', r'\bairflow\b'), ('dbt', 'Data & AI', r'(?-i)\bdbt\b'), ('Kafka', 'Data & AI', r'\bkafka\b'),
