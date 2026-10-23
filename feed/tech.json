@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T02:09:50+00:00",
+"updated": "2026-10-23T02:19:48+00:00",
 "jobs": [
 {
 "title": "CNC Machinist/Programmer",
@@ -55,6 +55,66 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Professional, Engineering, Systems - Weekend Shift",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Professional%2C-Engineering%2C-Systems-Weekend-Shift-ON-L5S-1W1/1441048033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Professional, Engineering - Ground & Flight Testing Integrator",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-23T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Professional%2C-Engineering-Ground-&-Flight-Testing-Integrator-ON-L5S-1W1/1441168733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Data Scientist, AI & Machine Learning",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M5H 1H1",
+"posted": "2026-10-23T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Data-Scientist%2C-AI-&-Machine-Learning-ON-M5H-1H1/606448017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Modern Endpoint Management Engineer",
+"company": "Scotiabank",
+"location": "Scarborough, ON, CA, M5V2T3",
+"posted": "2026-10-23T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Scarborough-Modern-Endpoint-Management-Engineer-ON-M5V2T3/604737317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Modern Workplace Engineer - Intune & Endpoint Management",
+"company": "Scotiabank",
+"location": "Scarborough, ON, CA, M5V2T3",
+"posted": "2026-10-23T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Scarborough-Modern-Workplace-Engineer-Intune-&-Endpoint-Management-ON-M5V2T3/604738817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "PAM Solution Support Engineer",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M1K5L1",
+"posted": "2026-10-23T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-PAM-Solution-Support-Engineer-ON-M1K5L1/604735317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 3
 },
 {
 "title": "Global Leaves and Accommodations Analyst",
@@ -790,7 +850,14 @@
 "country": "US",
 "years": null,
 "apply": "https://grnh.se/bl7pc2ug7us",
-"salary": "$110,000 - $150,000 USD per year"
+"salary": "$110,000 - $150,000 USD per year",
+"skills": [
+"Python",
+"C++",
+"Unity",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
 },
 {
 "title": "Security Platform Engineer (SIEM)",
@@ -3673,7 +3740,10 @@
 "country": "US",
 "years": 3,
 "apply": "https://newchartertech.wd12.myworkdayjobs.com/NewCharterTechnologies/job/New-Charter-CO---Denver/Accounts-Receivable-Specialist_JR0954",
-"salary": "$65,000"
+"salary": "$65,000",
+"skills": [
+"Excel"
+]
 },
 {
 "title": "Backend Developer (AWS)",
@@ -4674,7 +4744,10 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/customer-technical-support-specialist-wood-finishes-166aa90fa561b673",
-"salary": "$60,000"
+"salary": "$60,000",
+"skills": [
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Financial Analyst",
@@ -5288,6 +5361,167 @@
 "Help desk / troubleshooting",
 "Hardware setup"
 ]
+},
+{
+"title": "Supply Chain Analyst I",
+"company": "Actalent",
+"location": "North Vancouver, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482411000",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QE Automation Engineer",
+"company": "Kapitus",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=ce86f21d739e160c",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://grnh.se/k94213s89us",
+"salary": "$96,300 - $154,400 USD per year",
+"skills": [
+"Python",
+"JavaScript",
+"TypeScript",
+"SQL",
+"REST APIs",
+"AWS",
+"CI/CD",
+"Jenkins",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest",
+"System design",
+"Postman",
+"Salesforce"
+]
+},
+{
+"title": "Infrastructure Planning & Intelligence Analyst",
+"company": "City of Calgary",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=25391a0d97cfef16",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://recruiting.calgary.ca/psc/hcm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST_FL&JobOpeningId=315527&PostingSeq=1&SiteId=1",
+"salary": "$46.21 - 61.78 per hour",
+"skills": [
+"Power BI"
+]
+},
+{
+"title": "Onsite Technician",
+"company": "Hemmersbach",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=622f5fe4bd1087f0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.hemmersbach.com/en/career/20377",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Onsite Technician",
+"company": "Hemmersbach",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=dd9f2a48076ded2e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.hemmersbach.com/en/career/20373",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Managed Services Analyst",
+"company": "Navanta",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=3c5d5f11f97671d0",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=dd130521-04a9-4509-9e54-5bc2b5d9f9cd&ccId=19000101_000001&jobId=580115&source=IN&lang=en_US",
+"skills": [
+"Microsoft 365",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Onsite Technician",
+"company": "Hemmersbach",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=8ba5631be4f7dde0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.hemmersbach.com/en/career/20372",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Secondary Math Teacher",
+"company": "Summit Management Consulting",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=1d50410f3b4cf8c7",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://fromthesummit.com/careers/?gnk=job&gni=8a78839fa1559acc01a164a77bd11df8&gns=Indeed+Free"
+},
+{
+"title": "Business Operations Analyst",
+"company": "AppLovin",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482194874",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "Thomson Reuters",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481189188",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Linux Development Engineer - eLxr Distribution",
+"company": "Aptiv",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482405807",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Developer Intern, Provisioning - Winter 2027",
@@ -12314,7 +12548,10 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/889452000",
-"salary": "$121,785 - $187,093 USD per year"
+"salary": "$121,785 - $187,093 USD per year",
+"skills": [
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Electronics Engineer",
@@ -12340,7 +12577,11 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://www.usajobs.gov:443/job/889588500"
+"apply": "https://www.usajobs.gov:443/job/889588500",
+"salary": "$129,763 - $197,200 USD per year",
+"skills": [
+"Statistics"
+]
 },
 {
 "title": "SUPERVISORY GENERAL ENGINEER",
@@ -12562,7 +12803,12 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/889662900",
-"salary": "$75,278 - $97,867 USD per year"
+"salary": "$75,278 - $97,867 USD per year",
+"skills": [
+"Statistics",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "CNC Programmer / Operator – 5-Axis Router",
@@ -12758,7 +13004,15 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://newpage.io/careers/T1hRM3Jvdm9VSk5yL0dyRE1BeWhGQT09"
+"apply": "https://newpage.io/careers/T1hRM3Jvdm9VSk5yL0dyRE1BeWhGQT09",
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"CI/CD",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+]
 },
 {
 "title": "Analyst, information technology (IT)",
@@ -18628,7 +18882,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618202&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18378848-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc7dce9bf-ccf6-11f1-b828-31033e97af46%26rx_job%3D2618202%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261023T000403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618202",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618202&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18378848-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc7dce9bf-ccf6-11f1-b828-31033e97af46%26rx_job%3D2618202%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261023T020423Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618202",
 "salary": "$80,001 - $120,000 USD per year",
 "skills": [
 "Excel",
