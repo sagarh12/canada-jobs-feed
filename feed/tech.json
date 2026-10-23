@@ -1,6 +1,43 @@
 {
-"updated": "2026-10-23T21:09:50+00:00",
+"updated": "2026-10-23T21:19:50+00:00",
 "jobs": [
+{
+"title": "Software Developer, DevOps",
+"company": "Benevity",
+"location": "Calgary, Alberta; Vancouver, British Columbia; Canada",
+"posted": "2026-10-23T21:15:15.476+00:00",
+"link": "https://jobs.ashbyhq.com/benevity/867b18d3-a888-40b4-8186-8dee8f340886",
+"source": "Benevity careers",
+"country": "CA",
+"years": null,
+"quals": [
+"A proven track record in DevOps, SRE, or platform engineering supporting production SaaS at a meaningful scale",
+"Strong hands-on AWS experience across compute, networking, and IAM, utilizing Well-Architected principles alongside solid Terraform skills",
+"Deep familiarity with CI/CD platforms like GitHub Actions or Jenkins, specifically building reusable workflows, templates, and shared librar",
+"Practical programming ability in Python or similar languages for automation, maintaining the habits of a developer with version control and "
+],
+"skills": [
+"Python",
+"LLMs / GenAI",
+"PostgreSQL",
+"MySQL",
+"SQL Server",
+"AWS",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"Git",
+"Infrastructure as code",
+"Monitoring",
+"Incident response",
+"IAM",
+"System design"
+]
+},
 {
 "title": "AI Lab Builder- Vancouver",
 "company": "KPMG",
@@ -4377,6 +4414,357 @@
 "source": "Enbridge careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Software developer",
+"company": "McCain Foods",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50568656",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Procurement Associate Co-op (Winter 2027)",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-23",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Procurement-Associate-Co-op--Winter-2027-_2621955",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer",
+"company": "OCS Ontario Cannabis Store",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=066f1b9b02dbd6d0",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/ocs/CANDIDATEPORTAL/jobs/3372",
+"salary": "$100,000- $115,000",
+"skills": [
+"Python",
+"Bash/Shell",
+"PowerShell",
+"React",
+"Spring Boot",
+"Databricks",
+"MySQL",
+"SQL Server",
+"Elasticsearch",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Infrastructure as code",
+"Networking (TCP/IP, DNS)",
+"Incident response",
+"Vulnerability management",
+"EDR",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "Software Developer II",
+"company": "Pollard Banknote Limited",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=657d5d00101ac259",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://pollardbanknote.hiringplatform.ca/processes/a070b36a-a7da-4ad7-a0b5-b2e5ea8113ff?locale=en&source=indeed",
+"skills": [
+"Java",
+"TypeScript",
+"React",
+"React Native",
+"Next.js",
+"REST APIs",
+"LLMs / GenAI",
+"MySQL",
+"AWS",
+"Docker",
+"Kubernetes",
+"Git",
+"Microservices",
+"Agile / Scrum",
+"System design",
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "Analyst II, BI",
+"company": "FYidoctors",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=2789c0a568e9059a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.ultipro.ca/FYI5000FYID/JobBoard/3d8debde-b43d-451a-9d95-37584008133f/OpportunityDetail?opportunityId=abc46d48-f87b-4872-8393-cc2885bd54b8&postingId=b4c5df83-8d0e-48ed-98f1-ab82f9ccb5d5",
+"skills": [
+"SQL",
+"Power BI",
+"Statistics",
+"Git",
+"Help desk / troubleshooting",
+"Data structures & algorithms"
+]
+},
+{
+"title": "Business Analytics Intern",
+"company": "Maple Leaf Sports & Entertainment",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=8233a5d5dcd2bfa3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://mlse.wd3.myworkdayjobs.com/MLSE_Internship/job/Toronto-Ontario/Business-Analytics-Intern_JR0000893",
+"salary": "$45",
+"skills": [
+"Python",
+"SQL",
+"Databricks",
+"Excel",
+"Statistics",
+"Ticketing (ServiceNow, Jira)",
+"System design"
+]
+},
+{
+"title": "Specialist, Infrastructure Planning",
+"company": "Enbridge",
+"location": "3 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Edmonton-AB-CAN/Specialist--Infrastructure-Planning_73567-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integrated Planning & Communications Student (4 months) - Winter 2027",
+"company": "Canadian Tire",
+"location": "Calgary, AB",
+"posted": "2026-10-23",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Integrated-Planning---Communications-Student--4-months----Winter-2027_JR165205-1",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=0e8789861ffd3d96",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/prysmhealth/327ec0f3-9c40-4036-aa3b-7e805261e0a2?utm_source=yvb1m0WXg8",
+"salary": "$170,000 - $230,000 USD per year",
+"skills": [
+"Python",
+"TypeScript",
+"SQL",
+"React",
+"Node.js",
+"Machine learning",
+"LLMs / GenAI",
+"ETL / data pipelines",
+"PostgreSQL",
+"Vector databases",
+"AWS",
+"Terraform",
+"GitHub Actions",
+"Git",
+"Jest / PyTest",
+"System design"
+]
+},
+{
+"title": "Data Center Operations System Engineer - Plano, TX",
+"company": "Lambda",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=3e406bbef4acd8e3",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/Lambda/a467c9e6-fa5f-45eb-af15-355247650efc?utm_source=xb6aQJ58Pe",
+"salary": "$89,000 - $119,000 USD per year",
+"skills": [
+"Machine learning",
+"AWS",
+"Linux",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira"
+]
+},
+{
+"title": "Product Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=42e53f74ed17fda4",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/prysmhealth/bc6e788e-1cbb-4551-a738-e25e05a941c8?utm_source=yvb1m0WXg8",
+"salary": "$170,000 - $230,000 USD per year",
+"skills": [
+"TypeScript",
+"React",
+"Node.js",
+"REST APIs",
+"PostgreSQL",
+"Vector databases",
+"AWS",
+"Terraform",
+"GitHub Actions",
+"Git",
+"Jest / PyTest"
+]
+},
+{
+"title": "Software Engineer",
+"company": "Praxis Precision Medicines, Inc.",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=9f88ee1ecaedcf94",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://grnh.se/g7xpf8pj8us",
+"salary": "$105,000 - $125,000 USD per year",
+"skills": [
+"REST APIs",
+"AWS",
+"CI/CD",
+"Monitoring",
+"Incident response",
+"IAM",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design"
+]
+},
+{
+"title": "Operations Analyst",
+"company": "Magnet Forensics",
+"location": "Waterloo, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=41de484e4d28075d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.lever.co/magnetforensics/111ea4d2-d53f-4447-bf69-16488a9e1c25",
+"salary": "$65,000 to $75,000",
+"skills": [
+"Spark",
+"Salesforce",
+"Embedded systems"
+]
+},
+{
+"title": "CNC Programmer",
+"company": "GTA Machining Solutions",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=a3a436c8e09f2037",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/cnc-programmer-a3a436c8e09f2037",
+"salary": "$38.00-$46.00 per hour"
+},
+{
+"title": "IT Programmer (SQL/EDI) - 12months contract",
+"company": "Sofina Foods",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=5bd2cc20c9ad075e",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/sofinafoods/CANDIDATEPORTAL/jobs/12731",
+"salary": "$64,393 - $90,082",
+"skills": [
+"SQL",
+"REST APIs",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"SDLC"
+]
+},
+{
+"title": "Operational Finance Analyst",
+"company": "Resolve Sleep Health Inc",
+"location": "Bedford, NS, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=24ce372f8cae03f5",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=142bdced-8206-4e60-9aae-d60f8176a093&ccId=19000101_000001&jobId=591433&source=IN&lang=en_CA",
+"salary": "$70,000",
+"skills": [
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Platform Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=cbcc9cf6703240f6",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/prysmhealth/eec79970-109a-4c9e-969b-4083c00cfc9f?utm_source=yvb1m0WXg8",
+"salary": "$170,000 - $230,000 USD per year",
+"skills": [
+"TypeScript",
+"React",
+"Node.js",
+"PostgreSQL",
+"Vector databases",
+"AWS",
+"Kubernetes",
+"Terraform",
+"GitHub Actions",
+"Git",
+"SOC",
+"NIST / ISO 27001",
+"Jest / PyTest"
+]
+},
+{
+"title": "Clinical Laboratory Scientist",
+"company": "US Military Treatment Facilities under DHA",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=8ee8a4c64e0d9058",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.usajobs.gov:443/job/889870500",
+"salary": "$62,629 - $81,423 USD per year",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Systems Engineer - Behavior Verification",
@@ -14685,6 +15073,56 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-22",
 "link": "https://www.linkedin.com/jobs/view/4481609289",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Workflow Automations Specialist",
+"company": "Yorkville University",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482757761",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Manual QA - Device/POS/Retail",
+"company": "Infoya",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481605656",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Backend (Streaming)",
+"company": "Affirm",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4472365950",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Telematics",
+"company": "Lyft",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4465666196",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Full Stack Microservice Developer",
+"company": "Reveille Technologies,Inc",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481615147",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -25641,6 +26079,16 @@
 "years": null
 },
 {
+"title": "Student Intern, Supplier Quality",
+"company": "Celestica",
+"location": "Newmarket, Ontario, Canada",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4481170184",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Cloud Support Engineer - Japanese Speaking",
 "company": "Snowflake",
 "location": "CA-Ontario-Toronto; Canada",
@@ -25874,16 +26322,6 @@
 "link": "https://stripe.com/jobs/search?gh_jid=8301379",
 "source": "Stripe careers",
 "country": "CA",
-"years": null
-},
-{
-"title": "Product Data Scientist - Youth, Families and Learning",
-"company": "OpenAI",
-"location": "Remote · United States",
-"posted": "2026-10-20T21:21:22.316+00:00",
-"link": "https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1",
-"source": "OpenAI careers",
-"country": "US",
 "years": null
 }
 ]
