@@ -1,6 +1,26 @@
 {
-"updated": "2026-10-23T22:39:51+00:00",
+"updated": "2026-10-23T22:49:46+00:00",
 "jobs": [
+{
+"title": "Backend Engineer, Knowledge Graph (Rust)",
+"company": "GitLab",
+"location": "Remote, Canada",
+"posted": "2026-10-23T18:47:07-04:00",
+"link": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+"source": "GitLab careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, AI",
+"company": "Asana",
+"location": "Vancouver, BC",
+"posted": "2026-10-23T18:42:38-04:00",
+"link": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
+"source": "Asana careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Public Sector Delivery Analyst",
 "company": "Cohere",
@@ -657,7 +677,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/pM-9iWQ6SGzSRAmvgK9DpVURmppf1TLI3YYLSKU_AQQ#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/pFuV3ISA1Ez4LJCXkLYUz7hwcp2bWHItIxnVqK5lHDY#.job_boards.Indeed",
 "skills": [
 "Java",
 "React",
@@ -701,7 +721,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 8,
-"apply": "https://candidateportal.ceipal.com/job-details/j7gRvtLJGkT51YzE9WbPAmlsuNg5sMLmPv0LqATBKGA#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/pdTZ0aImHLl4cIFOQkqYl7ismuOxvoy3UVdNSvOs_K8#.job_boards.Indeed",
 "skills": [
 "AWS",
 "Azure",
@@ -1352,7 +1372,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/bbgd9DWcBPgbyUAZFbkPSfhIGBAi-UlqV5jKGGTBjOg#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/fDjXvDPRYac-RWknERUHKs6z9sq3G3b7RnP4VtK_X0c#.job_boards.Indeed",
 "skills": [
 "Agile / Scrum"
 ]
@@ -1366,7 +1386,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/3ZR6lfvy8e4szHEPWxlrdtTsGOXVmqHt-8IrAFFr4-Y#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/yiOqke4WiYzZqXZn43eZ-5G92SxUC3F92AXdZSBeZ64#.job_boards.Indeed",
 "skills": [
 "Help desk / troubleshooting",
 "Agile / Scrum",
@@ -1382,7 +1402,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/sm7vCM0J8hQ_bF6MW4Lk5e0Ut6TILMDxOZxd8vui5jw#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/XhPLcMBeF6ec-xY8Hva9iNkQYJ8JY-aItfl690vqypg#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "Microservices",
@@ -1566,7 +1586,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 7,
-"apply": "https://candidateportal.ceipal.com/job-details/AYGulhVFDIVjA_qlPEiR79M8XrXlEoyo_L-7gfXIo-8#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/7lfYGrmOc0xhy-msTWTFZ3kudazfD3Ch1JRv1mIGBrg#.job_boards.Indeed",
 "skills": [
 "Java",
 "JavaScript",
@@ -5164,6 +5184,189 @@
 "salary": "$20 - $22 USD per hour",
 "skills": [
 "System design"
+]
+},
+{
+"title": "26-75 Corporate Financial Analyst (18 months, Casual)",
+"company": "Technical Safety BC",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=f91e2a82939b31e7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://recruiting.ultipro.ca/BRI5000/JobBoard/70d2813a-3f44-e8eb-07c7-d55d82a0f98a/OpportunityDetail?opportunityId=44ea7ca6-b1de-451f-a4a6-d0e66015fde2&postingId=a405ad1b-b2ee-4bd8-88b9-d4f7bf45299a",
+"salary": "$49.09/hour",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Technical Support Specialist - Telecom",
+"company": "ServiceTitan",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=d345d5c97f2270f8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Manitoba-Remote/Technical-Support-Specialist---Telecom_JR116336",
+"salary": "$20k",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Salesforce"
+]
+},
+{
+"title": "Technical Support Specialist - Back Office",
+"company": "ServiceTitan",
+"location": "Esquimalt, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=a811bdd48ac63719",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Ontario-Remote/Technical-Support-Specialist---Back-Office_JR116334",
+"salary": "$20k",
+"skills": [
+"Help desk / troubleshooting",
+"Salesforce"
+]
+},
+{
+"title": "Accounting Analyst",
+"company": "Amcor",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=e9bc71d8a7cc8a46",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://amcor.wd5.myworkdayjobs.com/Amcor_External_Career_Site/job/ARP-Manchester-MI/Accounting-Analyst_REQ_97813",
+"salary": "$85,600 - $117,700 USD per year",
+"skills": [
+"Power BI",
+"Tableau",
+"Excel",
+"SAP"
+]
+},
+{
+"title": "Technical Support Specialist - Back Office",
+"company": "ServiceTitan",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=843f7e569436ac3f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Ontario-Remote/Technical-Support-Specialist---Back-Office_JR116334",
+"salary": "$20k",
+"skills": [
+"Help desk / troubleshooting",
+"Salesforce"
+]
+},
+{
+"title": "Technical Support Specialist - Telecom",
+"company": "ServiceTitan",
+"location": "Halifax, NS, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=204e4a4be9c7c42e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Manitoba-Remote/Technical-Support-Specialist---Telecom_JR116336",
+"salary": "$20k",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Salesforce"
+]
+},
+{
+"title": "Triage Technician, IT-Remote",
+"company": "Heartland Dental",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=bbcfa1cb915a5851",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://click.appcast.io/t/3dm940WABWJ1MJan9liLNsmasyO1Q7g3l5YPb_Cb6Pc=",
+"skills": [
+"Excel",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Intermediate QA Tester – AI-Generated Code Testing – Job Description",
+"company": "iVedha Inc.",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=785ed5bdd76889f9",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/intermediate-qa-tester-ai-generated-code-testing-job-description-785ed5bdd76889f9",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"SQL",
+"REST APIs",
+"LLMs / GenAI",
+"PostgreSQL",
+"MySQL",
+"Oracle",
+"BigQuery",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"Git",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Mobile (iOS / Android)",
+"Postman"
+]
+},
+{
+"title": "Training Instructor, Vocational Training Instructor - Custodial Services",
+"company": "Federal Bureau of Prisons",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=eac8c5ccaa89e6ed",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://www.usajobs.gov:443/job/890009500",
+"salary": "$63,780 - $82,301 USD per year"
+},
+{
+"title": "Group Leader",
+"company": "Zoll Medical Corporation",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=381a976af1a2f960",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pawtucket-RI/Group-Leader_R20666",
+"salary": "$23 - $29 USD per hour",
+"skills": [
+"Excel",
+"Agile / Scrum"
 ]
 },
 {
@@ -13721,7 +13924,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/OgiI5RINTpK-DiganNyl4SsiLOB4Dsfn8UF2DS6Ws94#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/58feOlQr7COUC_2a8_YdaiF0fREaEDfRkZJoAZ08olc#.job_boards.Indeed",
 "skills": [
 "Python",
 "SQL",
@@ -15683,6 +15886,95 @@
 "location": "Saint John, New Brunswick, Canada",
 "posted": "2026-10-22",
 "link": "https://www.linkedin.com/jobs/view/4481787567",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Platform Engineer - AI/ML Infrastructure",
+"company": "Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481603456",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Helpdesk Technician",
+"company": "BTY Group",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4478165904",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst - QA(remote)",
+"company": "Maximus",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=48f99a64a11df699",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://maximus.avature.net/careers/Job-Description?folderId=44376&source=Indeed",
+"salary": "$59,100 - $68,000 USD per year",
+"skills": [
+".NET"
+]
+},
+{
+"title": "Landscape Architecture Intern",
+"company": "Kimley-Horn",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=ec885c4318ec4d2a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers-kimley-horn.icims.com/jobs/27315/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Associate Support Analyst Intern",
+"company": "Berkley",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=f8057b9b5076bfb8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers-berkley.icims.com/jobs/14534/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Hardware setup"
+]
+},
+{
+"title": "Azure Data Engineer",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481621221",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Compliance Coordinator",
+"company": "Natural Factors",
+"location": "Coquitlam, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480087533",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -23089,7 +23381,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/JZxX9aHNax5M00bPp0SKiV9_ES-esF4wzC6LyTjZb-4#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/oMh1JZG_A9IqC-xZkVaxT4Jyzj5DrsgZSyBooENN5as#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "Oracle",
@@ -25495,7 +25787,10 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/889551600",
-"salary": "$40,736 - $80,243 USD per year"
+"salary": "$40,736 - $80,243 USD per year",
+"skills": [
+"Statistics"
+]
 },
 {
 "title": "Correctional Officer (Correctional Counselor)",
@@ -26647,6 +26942,31 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Software Engineer",
+"company": "Resmed",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4470483257",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Civil Engineering Intern- Roadway",
+"company": "Kimley-Horn",
+"location": "Remote · United States",
+"posted": "2026-10-21",
+"link": "https://www.indeed.com/viewjob?jk=b2ac4c95b12bb324",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers-kimley-horn.icims.com/jobs/27289/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$34 - $35 USD per hour",
+"skills": [
+"Excel"
+]
 },
 {
 "title": "Cloud Support Engineer - Japanese Speaking",
