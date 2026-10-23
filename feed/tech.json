@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T23:39:48+00:00",
+"updated": "2026-10-23T23:49:48+00:00",
 "jobs": [
 {
 "title": "Frontend Engineer - Design Systems",
@@ -2643,7 +2643,7 @@
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Equity-Derivatives-Operations-Analyst-II_R_1517169",
 "source": "TD careers",
 "country": "CA",
-"years": null
+"years": 5
 },
 {
 "title": "Personal Banking Associate Trainee",
@@ -3414,7 +3414,7 @@
 "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Information-Security_2619392-1",
 "source": "CIBC careers",
 "country": "CA",
-"years": null
+"years": 5
 },
 {
 "title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
@@ -5678,6 +5678,153 @@
 "Tableau",
 "Statistics",
 "Networking (TCP/IP, DNS)"
+]
+},
+{
+"title": "IT Support Specialist",
+"company": "The Shaw Group",
+"location": "Lantz, NS, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=4ccfd989076a761e",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://theshawgroup.applytojob.com/apply/aTZ663fo41/IT-Support-Specialist?source=INDE&~",
+"skills": [
+"LLMs / GenAI",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+"
+]
+},
+{
+"title": "Machine Learning Engineer - Client: National Safety Services (Full Time Perm) - Remote",
+"company": "",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=7ad9cf4f596c71c7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.employmenthero.com/application_jobs/e6d039d9-9daa-45be-95c2-a0a7faf57a05/view?source=INDEED",
+"skills": [
+"Python",
+"SQL",
+"FastAPI",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"LangChain",
+"Airflow",
+"ETL / data pipelines",
+"PostgreSQL",
+"Vector databases",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"CI/CD",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"System design"
+]
+},
+{
+"title": "Educational Assistant - Long Term Occasional - 0.96 FTE",
+"company": "Upper Canada District School Board",
+"location": "Kemptville, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=6b21648f6bf07d0c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ucdsb.simplication.com/Applicant/jobposting/jobdetails.aspx?JOB_POSTING_ID=a4c9b997-e794-4515-b3f5-9f5a512b262d&PAGE=1&locale=en&maf=0&sReferer=ATEINDEEDFEEDSIMP"
+},
+{
+"title": "IT Support Specialist",
+"company": "Federal Heath",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=e792ab2ca9b9749e",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://federalheath.applytojob.com/apply/gFTviONcT5/IT-Support-Specialist?source=INDE&~",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Business Analyst (REMOTE)",
+"company": "Aveanna Healthcare",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=3c85942e443346bf",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.aveanna.com/job/168391/business-analyst-remote-it-us-tx-austin/?j=0",
+"salary": "$65,000 - $75,000 USD per year",
+"start": "ASAP",
+"skills": [
+"C",
+"SQL",
+"VBA",
+"REST APIs",
+"Tableau",
+"Excel",
+"SQL Server",
+"Agile / Scrum"
+]
+},
+{
+"title": "Engineering Intern, Buildings",
+"company": "TYLin",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=cd6023000012e22a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gi.wd1.myworkdayjobs.com/en-US/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Engineering-Intern--Buildings_6566",
+"salary": "$20 - $30",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Distinguished Software Engineer - USA",
+"company": "AutoRABIT Holding Inc.",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=a27f2406beaea60a",
+"source": "Indeed",
+"country": "US",
+"years": 15,
+"apply": "https://autorabit.applytojob.com/apply/GmVN9Av5QY/Distinguished-Software-Engineer-USA?source=INDE&~",
+"salary": "$265,000 - $295,000 USD per year",
+"skills": [
+"Java",
+"Spring Boot",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"AWS",
+"Azure",
+"Kubernetes",
+"CI/CD",
+"Microservices",
+"Infrastructure as code",
+"Monitoring",
+"System design",
+"Salesforce"
 ]
 },
 {
@@ -12796,7 +12943,7 @@
 "country": "US",
 "years": 5,
 "apply": "https://moriassociates.applytojob.com/apply/cwKCk4nzN9/Software-Configuration-Management-Specialist?source=INDE&~",
-"salary": "$108,000 - $120,000 USD per year",
+"salary": "$108,000 - $150,000 USD per year",
 "skills": [
 "Jenkins",
 "GitLab",
@@ -16399,6 +16546,51 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Business Data Analyst",
+"company": "LawDepot",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480088746",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Firefox Desktop Integrations",
+"company": "Mozilla",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4478854032",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Engineer II",
+"company": "TraceGains",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482786367",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Help Desk Specialist",
+"company": "Briljent",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=fcbfc0315a447f36",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://apply.workable.com/j/61ACEEE1A9",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+]
 },
 {
 "title": "Developer Intern, Provisioning - Winter 2027",
