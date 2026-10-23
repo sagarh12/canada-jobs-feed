@@ -1,21 +1,6 @@
 {
-"updated": "2026-10-23T03:39:47+00:00",
+"updated": "2026-10-23T03:49:47+00:00",
 "jobs": [
-{
-"title": "CNC Machinist/Programmer",
-"company": "STEMA PUNCH AND DIE",
-"location": "Cambridge, ON, CA",
-"posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=d612f470ef911fdc",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-d612f470ef911fdc",
-"salary": "$27.00-$31.00 per hour",
-"skills": [
-"Help desk / troubleshooting"
-]
-},
 {
 "title": "Customer Support Analyst (Legal Accounting)",
 "company": "ActionStep",
@@ -31,6 +16,21 @@
 "Excel",
 "Help desk / troubleshooting",
 "Agile / Scrum"
+]
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "STEMA PUNCH AND DIE",
+"location": "Cambridge, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=d612f470ef911fdc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-d612f470ef911fdc",
+"salary": "$27.00-$31.00 per hour",
+"skills": [
+"Help desk / troubleshooting"
 ]
 },
 {
@@ -5892,6 +5892,172 @@
 "years": null
 },
 {
+"title": "Database administrator (DBA)",
+"company": "Sapphiretechus",
+"location": "Fergus, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50563397",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Integrated Logistics Support (ILS) Analyst",
+"company": "GeoSpectrum Technologies",
+"location": "Dartmouth, NS, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=cdfea6a4627ff1d1",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://geospectrum.bamboohr.com/careers/290?source=indeed&src=indeed&postedDate=2026-10-22",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Software Engineering Intern - Connected Systems (Summer 2027)",
+"company": "Rivian and Volkswagen Group Technologies",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=20a7a14a8fa9e571",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec",
+"salary": "$30.00",
+"skills": [
+"Python",
+"Java",
+"C++",
+"Go",
+"Kafka",
+"ETL / data pipelines",
+"Redis",
+"DynamoDB",
+"AWS",
+"Kubernetes",
+"Cybersecurity",
+"Testing (unit, automated)",
+"System design",
+"Embedded systems"
+]
+},
+{
+"title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
+"company": "Rivian and Volkswagen Group Technologies",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=fe5e5c2c481cc325",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1",
+"salary": "$30.00",
+"skills": [
+"Python",
+"C++",
+"C",
+"Linux",
+"Cybersecurity",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Testing (unit, automated)",
+"Mobile (iOS / Android)",
+"Embedded systems"
+]
+},
+{
+"title": "C++ Developer",
+"company": "INETCO Systems Ltd.",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=2876b0889f224bef",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://inetco.bamboohr.com/careers/47?source=indeed&src=indeed&postedDate=2026-10-22",
+"skills": [
+"C++",
+"REST APIs",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Agile / Scrum"
+]
+},
+{
+"title": "Software Developer – Steel Detailing",
+"company": "JMT Consultants",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=db68d52a562df13f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jmtconsultants.bamboohr.com/careers/505?source=indeed&src=indeed&postedDate=2026-10-22",
+"skills": [
+"C",
+".NET",
+"REST APIs",
+"ETL / data pipelines",
+"CI/CD",
+"Microsoft 365"
+]
+},
+{
+"title": "Research Assistant - Clinical Research Database Specialist",
+"company": "University of British Columbia",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=3ebe886069331d6b",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Research-Assistant---Clinical-Research-Database-Specialist_JR26432",
+"salary": "$5,538.94 - $6,497.44 CAD",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting",
+"System design"
+]
+},
+{
+"title": "Clerk Assortment - ERP ( 4 months contract )",
+"company": "Sobeys",
+"location": "Stellarton, Nova Scotia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482424046",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Internet Support Specialist - Bilingual",
+"company": "Ideatek Telcom LLC",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=aa5a5028d0910beb",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4609050/Ideatek/Internet-Support-Specialist-Bilingual?source=Indeed_Feed",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "GuestTek Interactive Entertainment Ltd.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4479494075",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Developer Intern, Provisioning - Winter 2027",
 "company": "1Password",
 "location": "Canada",
@@ -11089,7 +11255,11 @@
 "country": "CA",
 "years": 1,
 "apply": "https://iqmetrix.applytojob.com/apply/ix5VoxpmUD/Client-Support-Specialist?source=INDE&~",
-"salary": "$17"
+"salary": "$17",
+"skills": [
+"Help desk / troubleshooting",
+"Salesforce"
+]
 },
 {
 "title": "Engineering Analyst - PEY Co-op Student",
