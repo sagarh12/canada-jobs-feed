@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T01:39:51+00:00",
+"updated": "2026-10-23T01:49:51+00:00",
 "jobs": [
 {
 "title": "CNC Machinist/Programmer",
@@ -1087,7 +1087,11 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/akwego-program-coordinator-c6893d7c78798d61",
-"salary": "$45,000–$50,000"
+"salary": "$45,000–$50,000",
+"skills": [
+"Excel",
+"Statistics"
+]
 },
 {
 "title": "Application Support Technician",
@@ -2103,7 +2107,16 @@
 "country": "CA",
 "years": 8,
 "apply": "https://app.journeyfront.com/job-board/gatestone/JB-50537f52/JP-dd81a571300d",
-"salary": "$85,000"
+"salary": "$85,000",
+"skills": [
+"Excel",
+"AWS",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Help desk / troubleshooting",
+"VMware / virtualization"
+]
 },
 {
 "title": "Business Analyst",
@@ -3378,7 +3391,12 @@
 "country": "CA",
 "years": 3,
 "apply": "https://www.brightshores.ca/job-openings/administrative-assistant-organizational-development-550-26/",
-"salary": "$53,576 – $67,907"
+"salary": "$53,576 – $67,907",
+"skills": [
+"Excel",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
 },
 {
 "title": "Data Analyst",
@@ -3508,7 +3526,10 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12907"
+"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12907",
+"skills": [
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Ops Strategic Data Analyst",
@@ -3709,7 +3730,10 @@
 "country": "CA",
 "years": 3,
 "apply": "http://ca.indeed.com/job/job-developer-temporary-contract-08f6fc561bb4c96e",
-"salary": "$33.36"
+"salary": "$33.36",
+"skills": [
+"Microsoft 365"
+]
 },
 {
 "title": "Student Central Officer",
@@ -4539,7 +4563,10 @@
 "country": "CA",
 "years": 2,
 "apply": "https://jobs.tjx.com/global/en/job/TJCOGLOBALREQ168667EXTERNALENGLOBAL/Financial-Analyst-Lease-Administration?utm_source=INDEED&utm_medium=phenom-feeds",
-"salary": "$ 61,582.50-$86,215.50 /year"
+"salary": "$ 61,582.50-$86,215.50 /year",
+"skills": [
+"Oracle"
+]
 },
 {
 "title": "Production Support IT Computer Operator/Analyst",
@@ -5090,6 +5117,136 @@
 "apply": "https://www.macewan.ca/about-macewan/careers/opportunities/postings/?competition=26.10.263",
 "skills": [
 "Cybersecurity"
+]
+},
+{
+"title": "QA Analyst",
+"company": "Corpay",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=a28c3b2c63659a22",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.dayforcehcm.com/en-US/corpay/CANDIDATEPORTAL/jobs/57372",
+"salary": "$80,000 – $100,000",
+"skills": [
+"SQL",
+"REST APIs",
+"CI/CD",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"System design",
+"Postman"
+]
+},
+{
+"title": "Co-op Student, Data and Analytics - BC Cancer - Vancouver",
+"company": "Provincial Health Services Authority (PHSA)",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=7fcaf4d2dba33b35",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.phsa.ca/job/co-op-student-data-and-analytics-bc-cancer-vancouver",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Power BI",
+"Statistics",
+"SQL Server",
+"Windows"
+]
+},
+{
+"title": "Police Criminal Intelligence Analyst - Junior",
+"company": "City of Red Deer",
+"location": "Red Deer, AB, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=4a77df7d6c7a9635",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://fa-eyjj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/10373",
+"salary": "$480",
+"skills": [
+"LLMs / GenAI",
+"Excel",
+"Statistics"
+]
+},
+{
+"title": "Contract Business Solutions Analyst",
+"company": "Cenovus Energy",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=f02da919b4edaeae",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://cenovus-portal.clientconnections.com/jobs?jobId=02ddafae-9c1d-4700-9db8-461c9ba652ad",
+"skills": [
+"Microsoft 365",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Deposit Operations Specialist",
+"company": "Nextier Bank",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=d10213fcb374e2a1",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=677a5fb9-ec55-4c26-b81d-082287f52786&ccId=19000101_000001&jobId=544933&source=IN&lang=en_US",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Cost Analyst",
+"company": "Cenovus Energy",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=5a97a2aa233dbe83",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://cenovus.wd3.myworkdayjobs.com/en-US/careers/job/CA-AB-Calgary/Cost-Analyst_R-411228",
+"salary": "$1,000",
+"skills": [
+"Python",
+"SQL",
+"LLMs / GenAI",
+"Databricks",
+"Excel",
+"Data visualization",
+"SAP"
+]
+},
+{
+"title": "IT Specialist",
+"company": "Lorval Capital Management",
+"location": "Langley, BC, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=d720eb52ead3f221",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-CA/lcm/LCMPostingSite/jobs/2170",
+"skills": [
+"Linux",
+"Windows",
+"macOS",
+"Help desk / troubleshooting",
+"Hardware setup"
 ]
 },
 {
@@ -8441,7 +8598,31 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/workday-financial-consultant-443122a3ebfcb85b",
-"salary": "$55.00 per hour"
+"salary": "$55.00 per hour",
+"skills": [
+"Python",
+"JavaScript",
+"SQL",
+"Bash/Shell",
+"REST APIs",
+"PostgreSQL",
+"MySQL",
+"SQL Server",
+"Oracle",
+"NoSQL",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Jenkins",
+"Git",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Help desk / troubleshooting",
+"VMware / virtualization"
+]
 },
 {
 "title": "Digital Operations - Network Analyst",
@@ -8705,7 +8886,13 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://bluemantis.pinpointhq.com/postings/c1c2a699-1c75-4b51-b6a5-a089add78357?utm_medium=job_board&utm_source=indeed"
+"apply": "https://bluemantis.pinpointhq.com/postings/c1c2a699-1c75-4b51-b6a5-a089add78357?utm_medium=job_board&utm_source=indeed",
+"salary": "$17 - $19 USD per hour",
+"skills": [
+"Cybersecurity",
+"Help desk / troubleshooting",
+"CompTIA A+"
+]
 },
 {
 "title": "Data engineer",
@@ -9840,7 +10027,23 @@
 "source": "Indeed",
 "country": "CA",
 "years": 7,
-"apply": "https://careers.qinetiq.com/job/Medicine-Hat-Software-Requirements-&-Release-Engineer-Albe/1450018333/"
+"apply": "https://careers.qinetiq.com/job/Medicine-Hat-Software-Requirements-&-Release-Engineer-Albe/1450018333/",
+"skills": [
+"Python",
+"C++",
+"C",
+"MATLAB",
+"Bash/Shell",
+"Excel",
+"Azure",
+"Jenkins",
+"GitLab",
+"Git",
+"Hardware setup",
+"Agile / Scrum",
+"Jira",
+"Embedded systems"
+]
 },
 {
 "title": "AI Software Developer (Burlington, ON)",
@@ -12331,7 +12534,10 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/cnc-programmer-operator-5-axis-router-46460f515928c682",
-"salary": "$21.45-$38.64 per hour"
+"salary": "$21.45-$38.64 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Manual Tester (Web & Mobile)",
@@ -15493,6 +15699,26 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-21",
 "link": "https://www.linkedin.com/jobs/view/4480790954",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Residential Installation Technician",
+"company": "Beanfield",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4481146904",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Transportation Analyst",
+"company": "McKesson",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4473288534",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
