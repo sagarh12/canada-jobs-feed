@@ -51,6 +51,8 @@ from urllib.parse import quote_plus
 
 import requests
 
+import keywords
+
 SEARCH_HOURS = 48
 KEEP_HOURS = 72  # the auto-apply robot applies to jobs up to 3 days old
 TIME_BUDGET = 8 * 60  # seconds; searches not started by then are skipped this run
@@ -278,7 +280,7 @@ START = re.compile(r"(?:start(?:ing)? date|start(?:s|ing)?(?: in| on)?|available
                    r"\s*\d{4}|immediately|asap)", re.I)
 
 
-DETAILS = ("salary", "start", "quals")
+DETAILS = ("salary", "start", "quals", "skills")
 
 
 def job_details(description, low=None, high=None, interval="", currency=""):
@@ -313,6 +315,9 @@ def job_details(description, low=None, high=None, interval="", currency=""):
                 break
     if quals:
         out["quals"] = quals
+    found = keywords.skills(text)
+    if found:
+        out["skills"] = found  # technical keywords, tallied into feed/keywords.csv
     return out
 
 
@@ -1037,6 +1042,7 @@ def main():
                  **({"apply": j["apply"]} if j.get("apply") and j["apply"] != j.get("link") else {}),
                  **{k: j[k] for k in DETAILS if j.get(k)}) for j in jobs]
     path.write_text(json.dumps({"updated": updated, "jobs": jobs}, ensure_ascii=False, indent=0))
+    tallied = keywords.tally(jobs, OUT / "keywords_state.json", OUT / "keywords.csv")
     alerted = alert([j for j in jobs if j["link"] not in known]) if had_feed else 0
 
     streak = old.get("zero_streak", {})
@@ -1047,7 +1053,7 @@ def main():
               "searches_run": searches_run,
               "found_this_run": stats, "in_feed": len(jobs), "us_remote_in_feed": sum(j["country"] == "US" for j in jobs),
               "with_years": sum(j["years"] is not None for j in jobs), "jobbank_postings_opened": opened,
-              "alerts_sent": alerted, "zero_streak": streak, "seconds": round((now() - started).total_seconds())}
+              "alerts_sent": alerted, "keyword_jobs_added": tallied, "zero_streak": streak, "seconds": round((now() - started).total_seconds())}
     (OUT / "status.json").write_text(json.dumps(status, indent=1))
     log(json.dumps(status))
 
