@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T20:39:49+00:00",
+"updated": "2026-10-23T20:49:48+00:00",
 "jobs": [
 {
 "title": "AI Lab Builder- Vancouver",
@@ -40,7 +40,7 @@
 "link": "https://www.fivetran.com/careers/job?gh_jid=8028409003",
 "source": "Fivetran careers",
 "country": "CA",
-"years": null
+"years": 1
 },
 {
 "title": "Software Engineer II - Full Stack",
@@ -3888,6 +3888,487 @@
 "years": null
 },
 {
+"title": "Data Engineer (12 Month Contract)",
+"company": "Real Estate Works",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=627087f42c0ce790",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://www.rew.works/open/data-eng-contract",
+"salary": "$100,000 - $130,000 per year",
+"quals": [
+"You are passionate about personal and professional growth, always seeking new knowledge and innovative technologies.",
+"You thrive on sharing insights and knowledge with peers to foster a culture of learning and continuous improvement.",
+"You can maintain a balance between independent work and teamwork, contributing positively to team dynamics and company culture.",
+"Creativity is in your DNA. You run head-first at problems with real enthusiasm, always on the look-out for solutions that add value and make"
+],
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"AWS",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Object-oriented programming"
+]
+},
+{
+"title": "Intermediate Software Developer",
+"company": "Propel Holdings",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=37ea47cc562e8c60",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://recruiting.ultipro.ca/PRO5004PROPH/JobBoard/385f656b-0bbd-4ae7-b936-f2983728cf6e/OpportunityDetail?opportunityId=fad38ac6-c3b1-4cbd-912d-64518cc04363&postingId=c0fef393-97de-49a3-8d5a-fc5bf7748a30",
+"salary": "$90,000 – $115,000",
+"skills": [
+"Java",
+"SQL",
+"React",
+"Spring Boot",
+"REST APIs",
+"LLMs / GenAI",
+"Statistics",
+"AWS",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Banking Conversion Programmer",
+"company": "BanqSI",
+"location": "Remote, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=b1a01d285d735993",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ats.rippling.com/banqsi/jobs/626e2fc4-ee30-44f9-aad5-2dab1dfc7c62?jobSite=Indeed",
+"skills": [
+"SQL",
+"ETL / data pipelines",
+"Oracle",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Front End Engineer",
+"company": "Strana Talent Inc.",
+"location": "Saint John, NB, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=1fce85c8182648ab",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://www.strana.ca/en/job-openings/front-end-engineer/?source=Indeed&l=en"
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "Technicut Tool Inc",
+"location": "Windsor, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=ab974eb4849da8ab",
+"source": "Indeed",
+"country": "CA",
+"years": 8,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-ab974eb4849da8ab",
+"salary": "$28.00–$39.00 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Ottawa, Ontario",
+"posted": "2026-10-23",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Ottawa-Ontario/Personal-Banking-Associate-Trainee_R_1508061",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Summer Co-op 2027 - Venture Capital",
+"company": "Manulife",
+"location": "Toronto, Ontario",
+"posted": "2026-10-23",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Desk Analyst",
+"company": "The University of Northern British Columbia",
+"location": "Prince George, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=90801bfa7a356e3a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://indeed.njoyn.com/cl/xweb/XWeb.asp?page=jobdetails&clid=125926&JobID=J1026-0225&BRID=326902&sbdid=936",
+"salary": "$55,091.40 - $57,348.20",
+"skills": [
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"Agile / Scrum",
+"ITIL"
+]
+},
+{
+"title": "System Support Associate",
+"company": "Infinite Investment Systems",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=b5b2af35627d86e6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/system-support-associate-b5b2af35627d86e6",
+"salary": "$50,000.00-$60,000.00 per year",
+"skills": [
+"Excel",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+]
+},
+{
+"title": "Desktop Support Analyst",
+"company": "The University of Northern British Columbia",
+"location": "Prince George, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=4888040a9ca9f551",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://indeed.njoyn.com/cl/xweb/XWeb.asp?page=jobdetails&clid=125926&JobID=J1026-0229&BRID=326899&sbdid=936",
+"salary": "$62,644.40 to $65,228.80",
+"skills": [
+"Linux",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"Agile / Scrum"
+]
+},
+{
+"title": "Technician, Customer and Network Support",
+"company": "Cogeco",
+"location": "Pembroke, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=4f8c885c795ff7f5",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://cogeco.wd3.myworkdayjobs.com/en-US/Cogeco_Careers/job/Pembroke-ON/Technician--Customer-and-Network-Support_JR9970-1",
+"skills": [
+"Agile / Scrum"
+]
+},
+{
+"title": "CNC Programmer",
+"company": "Welbilt",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=92966980eb7b8254",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=20b91199-7058-4d99-8092-cf8b9bd66aa4&ccId=9200748522929_2&jobId=552093&source=IN&lang=en_CA",
+"skills": [
+"HTML/CSS",
+"Excel",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Technical Specialist",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=0665e0fb3b1c92c0",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=44929&SiteId=1&PostingSeq=1"
+},
+{
+"title": "Technical /Research Support I",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=3100d2f1c6bb9104",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=44928&SiteId=1&PostingSeq=1"
+},
+{
+"title": "Learning Services Assistant",
+"company": "Humber College",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=6065d0da304cc558",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://humber.taleo.net/careersection/hbr_ex/jobdetail.ftl?job=37353&tz=GMT-05%3A00&tzname=America%2FChicago",
+"salary": "$28.38 - $32.70",
+"skills": [
+"Statistics"
+]
+},
+{
+"title": "Student Services Associate (Temporary)",
+"company": "Sheridan College",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=1c93eac60de81f13",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://indeed.njoyn.com/cl3/xweb/XWeb.asp?page=jobdetails&clid=55117&JobID=J1026-0559&BRID=365526&sbdid=936",
+"salary": "$32.74 - $37.78",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Student Services Associate",
+"company": "Sheridan College",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=cee1b7639ec092cf",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://indeed.njoyn.com/cl3/xweb/XWeb.asp?page=jobdetails&clid=55117&JobID=J0726-0973&BRID=365521&sbdid=936",
+"salary": "$32.74 - $37.78",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Management Analyst I - 2723 - Augusta - Limited Period",
+"company": "State of Maine",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=4f804897d6abdaf2",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://maine.wd5.myworkdayjobs.com/en-US/Executive/job/Augusta-Maine/Management-Analyst-I---2723---Augusta---Limited-Period_R26-04447",
+"salary": "$23 - $32 USD per hour",
+"skills": [
+"REST APIs",
+"Excel"
+]
+},
+{
+"title": "Software Engineering Intern/Co-op (Canada) - Summer 2027",
+"company": "Telus",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=bd432b56697be722",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2?utm_source=MYODkQkbGg",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"Kotlin",
+"Swift",
+"REST APIs",
+"Statistics",
+"Agile / Scrum"
+]
+},
+{
+"title": "SUPV Interdisciplinary",
+"company": "US Defense Information Systems Agency",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=95ea31241424cb5f",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/889685800",
+"salary": "$169,279 - $197,200 USD per year",
+"skills": [
+"Machine learning",
+"Statistics",
+"Hardware setup",
+"Embedded systems"
+]
+},
+{
+"title": "Associate Data Analyst",
+"company": "Konrad Group",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=d92cf7c38214e4ea",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://grnh.se/utm7w5gi3us",
+"salary": "$70,000 to $80,000",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Databricks",
+"Snowflake",
+"Power BI",
+"Tableau",
+"Looker",
+"Statistics",
+"A/B testing",
+"Data visualization",
+"BigQuery"
+]
+},
+{
+"title": "Information Technology Analyst, Faculty of Engineering",
+"company": "McMaster University",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=8228e2d78ab30cc2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=79352&PostingSeq=1",
+"salary": "$38.46 - $54.06",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "SESSIONAL FACULTY- Operations Management, 3DA3, Predictive Analytics, Winter 2027",
+"company": "McMaster University",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=d24d33951b240eee",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1002&JobOpeningId=79373&PostingSeq=1",
+"salary": "$9,750",
+"skills": [
+"Python",
+"Machine learning",
+"Statistics"
+]
+},
+{
+"title": "Copy of Full Stack Software Engineer",
+"company": "Audien Hearing",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=00ca9fd38364c900",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://ats.rippling.com/audien-hearing/jobs/80ef83f4-47bc-4bae-8204-875757fa6acf?jobSite=Indeed",
+"skills": [
+"SQL",
+"React",
+"Next.js",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"dbt",
+"ETL / data pipelines",
+"Snowflake",
+"Looker",
+"Data visualization",
+"Salesforce"
+]
+},
+{
+"title": "Commodity Supply Analyst I",
+"company": "Gas South",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=4cc045c217878c9b",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://grnh.se/2jhx6hsy1us",
+"salary": "$76,000 - $79,000 USD per year",
+"skills": [
+"SQL",
+"Excel",
+"Statistics"
+]
+},
+{
+"title": "Associate Financial Strategist",
+"company": "IMA Financial Group",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=5f09be80abee7d36",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://grnh.se/pvojlb0j7us",
+"salary": "$65,000 - $70,000 USD per year"
+},
+{
+"title": "Data Modeler",
+"company": "NTT DATA",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=f0fc2520db929e99",
+"source": "Indeed",
+"country": "US",
+"years": 12,
+"apply": "https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=vtjdnw5v1z1v2psgylbu76nbkkhb0y080epfxtsjq71b065808wxj6cim4ud5upr&SearchString=&StatesString=&source=indeed.com&id=33289414&compid=-1",
+"salary": "$30",
+"skills": [
+"SQL",
+"ETL / data pipelines",
+"Databricks",
+"Snowflake",
+"PostgreSQL",
+"SQL Server",
+"Oracle",
+"BigQuery",
+"AWS",
+"Azure",
+"Google Cloud",
+"Agile / Scrum",
+"Data structures & algorithms",
+"System design",
+"SAP"
+]
+},
+{
+"title": "Civil Engineer - DIRECT HIRE",
+"company": "US Federal Highway Administration",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=54599f36db7eeb0c",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/889464600",
+"salary": "$83,935 - $130,786 USD per year"
+},
+{
 "title": "Systems Engineer - Behavior Verification",
 "company": "Waabi",
 "location": "Toronto, ON; Remote Canada",
@@ -4272,6 +4753,16 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 3
+},
+{
+"title": "Sessional Lecturer - VPSB89H3S 2D Digital Animation",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-23T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-VPSB89H3S-2D-Digital-Animation-ON/607335717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Financial Analyst, GTM",
@@ -9946,7 +10437,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://parkland-careers.ttcportals.com/fr-CA/jobs/18386581-it-applications-support-specialist-health-safety-environmental-hse-and-transportation-systems?tm_job=2026-1292&tm_event=view&tm_company=89837",
+"apply": "https://parkland-careers.ttcportals.com/en/jobs/18386570-it-applications-support-specialist-health-safety-environmental-hse-and-transportation-systems?tm_job=2026-1292&tm_event=view&tm_company=89837",
 "skills": [
 "Python",
 "SQL",
@@ -10074,7 +10565,7 @@
 ]
 },
 {
-"title": "Cyber Security Solutions Sales Specialist",
+"title": "Cyber Security Solutions Sales Specialist (Canada)",
 "company": "Cognizant",
 "location": "Halifax, NS, CA",
 "posted": "2026-10-22",
@@ -10082,7 +10573,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 15,
-"apply": "https://careers.cognizant.com/global-en/jobs/00071064921/cyber-security-solutions-sales-specialist/",
+"apply": "https://careers.cognizant.com/global-en/jobs/00071064921/cyber-security-solutions-sales-specialist-canada/",
 "salary": "$170,000 to $180,000",
 "skills": [
 "Cybersecurity",
@@ -10764,7 +11255,7 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/automotive-service-advisor-front-desk-coordinator-0911cc4a0d8325c3",
-"salary": "$24.00-$28.00 per hour"
+"salary": "$22.00-$26.00 per hour"
 },
 {
 "title": "Administrative Assistant (Secretary 1)",
@@ -11372,7 +11863,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://parkland-careers.ttcportals.com/fr-CA/jobs/18386738-retail-point-of-sale-pos-integration-specialist?tm_job=2026-1291&tm_event=view&tm_company=89837",
+"apply": "https://parkland-careers.ttcportals.com/en/jobs/18386726-retail-point-of-sale-pos-integration-specialist?tm_job=2026-1291&tm_event=view&tm_company=89837",
 "skills": [
 "Python",
 "SQL",
@@ -14051,6 +14542,139 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-10-22",
 "link": "https://www.linkedin.com/jobs/view/4482719381",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Specialist",
+"company": "CGI",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=0c0d229b47789685",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1026-1797&BRID=1342823&sbdid=936",
+"salary": "$100,000–$150,000",
+"skills": [
+"Java",
+".NET",
+"SDLC"
+]
+},
+{
+"title": "Firmware Engineer",
+"company": "Nokia",
+"location": "Kanata, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480081492",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II",
+"company": "Electronic Arts (EA)",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480078469",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Online Software Engineer - EA SPORTS™ NHL",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480081458",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Winter Intern 2027 - Product Innovation & Development",
+"company": "Mackenzie Investments",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482759244",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Process Engineer Co-Op",
+"company": "IKO North America",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4472641622",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Helpdesk Analyst",
+"company": "UST",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=77c3b3336c1f5adf",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://usource.ripplehire.com/candidate/?token=U1ccBLdbhtbNjipyden0&lang=en&source=INDEED&ref=INDEED#detail/job/66958",
+"salary": "$36,000 - $54,000 USD per year",
+"skills": [
+"Cybersecurity",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Cloud Data Engineer (BigQuery)",
+"company": "Synechron",
+"location": "",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480087114",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Workstation Support Technologist - Corporate Services Group",
+"company": "Canadian Bank Note Company, Limited",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4443298294",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Support Engineer",
+"company": "SoTalent",
+"location": "",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480080505",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Analyst 4 (Ansible/Linux)",
+"company": "FortisBC",
+"location": "Surrey, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4445797729",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Engineer, Lab Automation & Robotics",
+"company": "Intrepid Labs",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481609289",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -20466,7 +21090,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://parkland-careers.ttcportals.com/en/jobs/18384282-inventory-analyst-intern-may-2027-4-month-term?tm_job=2026-1274&tm_event=view&tm_company=89837",
+"apply": "https://parkland-careers.ttcportals.com/fr-CA/jobs/18384296-inventory-analyst-intern-may-2027-4-month-term?tm_job=2026-1274&tm_event=view&tm_company=89837",
 "skills": [
 "Power BI",
 "Excel",
@@ -20482,7 +21106,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://parkland-careers.ttcportals.com/en/jobs/18381959-risk-analyst-intern-may-2027-4-or-8-month-term?tm_job=2026-1273&tm_event=view&tm_company=89837"
+"apply": "https://parkland-careers.ttcportals.com/fr-CA/jobs/18381975-risk-analyst-intern-may-2027-4-or-8-month-term?tm_job=2026-1273&tm_event=view&tm_company=89837"
 },
 {
 "title": "Examinations Coordinator",
@@ -24992,6 +25616,16 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-10-21",
 "link": "https://www.linkedin.com/jobs/view/4481156194",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Project Management Office (TPMO) Student",
+"company": "Canada Life",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-21",
+"link": "https://www.linkedin.com/jobs/view/4481151804",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
