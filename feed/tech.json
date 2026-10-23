@@ -1,195 +1,348 @@
 {
-"updated": "2026-10-23T04:39:51+00:00",
+"updated": "2026-10-23T04:49:48+00:00",
 "jobs": [
 {
-"title": "Front Desk Receptionist",
-"company": "AHS IMMIGRATION SERVICES INC",
-"location": "Edmonton, AB, CA",
+"title": "Junior System Administrator",
+"company": "0footprint Tech Services Inc",
+"location": "Richmond, BC, CA",
 "posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=9357374facdfc91f",
+"link": "https://ca.indeed.com/viewjob?jk=78e79f605374ac56",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-9357374facdfc91f",
-"salary": "$15.90-$17.00 per hour",
+"apply": "http://ca.indeed.com/job/junior-system-administrator-78e79f605374ac56",
+"salary": "$21.00-$24.00 per hour",
 "skills": [
-"Google Workspace"
+"Python",
+"PowerShell",
+"AWS",
+"Azure",
+"Google Cloud",
+"Linux",
+"Cybersecurity",
+"IAM",
+"Firewalls",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Azure certification"
 ]
 },
 {
-"title": "Software Engineer II (Backend - Java)",
-"company": "Mastercard",
-"location": "Vancouver, Canada",
+"title": "Technical Support Analyst",
+"company": "Cakes Technology Inc.",
+"location": "Richmond Hill, ON, CA (remote)",
 "posted": "2026-10-23",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-II--Backend---Java-_R-291922",
-"source": "Mastercard careers",
+"link": "https://ca.indeed.com/viewjob?jk=0847201d646f3102",
+"source": "Indeed",
 "country": "CA",
-"years": null
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-support-analyst-0847201d646f3102",
+"salary": "$42,000.00-$52,000.00 per year",
+"skills": [
+"Azure",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Embedded systems",
+"ITIL"
+]
 },
 {
-"title": "Workday Platform Engineer",
-"company": "Manulife",
+"title": "Field Technician",
+"company": "Connectra Technologies",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=69d8a0debbdde6b0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/field-technician-69d8a0debbdde6b0",
+"salary": "$35.00 per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Engineer I",
+"company": "TD",
 "location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Workday-Platform-Engineer_JR26100211-1",
-"source": "Manulife careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Cost Analyst",
-"company": "Cenovus",
-"location": "CA-AB-Calgary",
+"title": "Business Insights Specialist ( Data Quality & Validation Financial Crimes)",
+"company": "TD",
+"location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Cost-Analyst_R-411228",
-"source": "Cenovus careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Insights-Specialist--Financial-Crimes-_R_1514130",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Payroll Analyst",
-"company": "Manulife",
-"location": "3 Locations, Canada",
+"title": "Actuarial Analyst-1",
+"company": "TD",
+"location": "TD Centre - TD Tower - 66 Wellington Street West Insurance, Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Payroll-Analyst_JR26081976",
-"source": "Manulife careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Centre---TD-Tower---66-Wellington-Street-West-Insurance-Toronto-Ontario/Actuarial-Analyst-1_R_1515730",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Engineer in Training I Infrastructure Planning",
-"company": "Enbridge",
-"location": "2 Locations, Canada",
+"title": "Applied Machine Learning Scientist I ATH# 5645 (Tabular Deep Learning Model Validation)",
+"company": "TD",
+"location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2",
-"source": "Enbridge careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I-ATH--5645--Tabular-Deep-Learning-Model-Validation-_R_1514923",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Software Developer Intern - Winter 2027",
-"company": "Ciena",
-"location": "Ottawa",
+"title": "Personal Banker Trainee",
+"company": "TD",
+"location": "Sherwood Park, Alberta",
 "posted": "2026-10-23",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
-"source": "Ciena careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Sherwood-Park-Alberta/Personal-Banker-Trainee_R_1513278",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Analyst, Data Governance",
-"company": "Canadian Tire",
-"location": "Oakville, ON, Canada",
+"title": "AVP, AI & Innovation",
+"company": "TD",
+"location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Analyst--Data-Governance_JR151508",
-"source": "Canadian Tire careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AVP--AI-Products---Innovation_R_1507906",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Compiler Engineering Graduate Intern",
-"company": "Intel",
-"location": "Canada, Toronto",
+"title": "Relationship Manager Business Markets Intern",
+"company": "RBC",
+"location": "GREATER SUDBURY / GRAND SUDBURY, Ontario, Canada",
 "posted": "2026-10-23",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
-"source": "Intel careers",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/GREATER-SUDBURY--GRAND-SUDBURY-Ontario-Canada/Relationship-Manager-Business-Markets-Intern_R-0000190956",
+"source": "RBC careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Field CISO, Cyber Risk",
-"company": "CDW",
-"location": "Thornhill - ON 17, Canada",
+"title": "Business Banking Relationship Manager Trainee",
+"company": "BMO",
+"location": "Goderich, ON, CAN, Canada",
 "posted": "2026-10-23",
-"link": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Thornhill---ON-17/Field-CISO--Cyber-Risk_R26_00002964-1",
-"source": "CDW careers",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Goderich-ON-CAN/Business-Banking-Relationship-Manager-Trainee_R260026355",
+"source": "BMO careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "I&T Resilience and Data Governance Specialist",
-"company": "ENMAX",
-"location": "ENMAX Place, Calgary, AB",
+"title": "Global Markets, Customized Solutions Group Intern/ Co-op Winter 2027",
+"company": "TD",
+"location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://enmax.wd3.myworkdayjobs.com/ENMAXCareers/job/ENMAX-Place-Calgary-AB/I-T-Resilience-and-Data-Governance-Specialist_R0012606",
-"source": "ENMAX careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets--Customized-Solutions-Group-Intern--Co-op-Winter-2027_R_1518509",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Financial Analyst, Corporate Accounting (15 Month Contract)",
-"company": "Canadian Tire",
+"title": "Applied AI Research Scientist",
+"company": "CIBC",
 "location": "Toronto, ON",
 "posted": "2026-10-23",
-"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Financial-Analyst--Corporate-Accounting--15-Month-Contract-_JR167086",
-"source": "Canadian Tire careers",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Applied-AI-Research-Scientist_2621530",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Advisor Intern",
+"company": "RBC",
+"location": "HAMILTON, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HAMILTON-Ontario-Canada/Financial-Advisor_R-0000184478",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Enablement Analyst co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-23",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Enablement-Analyst-co-op_2621800",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst – Front Office Application Engineer",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-23",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Analyst---Front-Office-Application-Engineer_R_1518435",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banker Trainee",
+"company": "TD",
+"location": "Espanola, Ontario",
+"posted": "2026-10-23",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Espanola-Ontario/Personal-Banker-Trainee_R_1516365",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Climate Risk Analytics & Reporting, Analyst ( New or Recent Graduate Opportunity) Immediate Start Date",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-23",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Analytics---Reporting--Analyst---New-or-Recent-Graduate-Opportunity--Immediate-Start-Date_R260028351-1",
+"source": "BMO careers",
 "country": "CA",
 "years": 1
 },
 {
-"title": "Technician II Utility Service",
-"company": "Enbridge",
-"location": "Dryden, ON, CAN, Canada",
+"title": "Software/Application Developer Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
 "posted": "2026-10-23",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Dryden-ON-CAN/Technician-II-Utility-Service_73352-1",
-"source": "Enbridge careers",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
+"source": "CIBC careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "IT Technician",
-"company": "iA Financial",
+"title": "Operations Analyst II - Western Field Auditor - (ATHN 461)",
+"company": "TD",
+"location": "Calgary, Alberta",
+"posted": "2026-10-23",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Operations-Analyst-II---Western-Field-Auditor---461_R_1503657",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "WFM Real Time Analyst co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-23",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/WFM-Real-Time-Analyst-co-op_2621769-2",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist, Credit Risk Strategy (RESL) (ATH 5274)",
+"company": "TD",
 "location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://ia.wd3.myworkdayjobs.com/professional/job/Toronto-Ontario/Technicien-ne--TI_JR10028157",
-"source": "iA Financial careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist--Credit-Risk-Strategy--RESL---ATH-5274-_R_1518135",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Utility Services Technician II",
-"company": "Enbridge",
-"location": "Geraldton, ON, CAN, Canada",
+"title": "Software Engineer II",
+"company": "TD",
+"location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Geraldton-ON-CAN/Utility-Services-Technician-II_72497-1",
-"source": "Enbridge careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1503082",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Analyst, Real Estate",
-"company": "HOOPP",
-"location": "Toronto, Ontario, Canada",
+"title": "Credit Analyst",
+"company": "CIBC",
+"location": "Concord, ON, Canada",
 "posted": "2026-10-23",
-"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Analyst--Real-Estate_JR102604",
-"source": "HOOPP careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Security Platform Engineer (SIEM)",
-"company": "Sun Life",
-"location": "3 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Security-Platform-Engineer--SIEM-_JR00126894",
-"source": "Sun Life careers",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Concord-ON/Credit-Analyst_2621727",
+"source": "CIBC careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "CNC Machinist/Programmer",
-"company": "STEMA PUNCH AND DIE",
-"location": "Cambridge, ON, CA",
+"title": "Analyst, Risk Governance and Controls (New or Recent Graduate Opportunity)",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
 "posted": "2026-10-23",
-"link": "https://ca.indeed.com/viewjob?jk=d612f470ef911fdc",
-"source": "Indeed",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Risk-Governance-and-Controls--New-or-Recent-Graduate-Opportunity-_R260029487",
+"source": "BMO careers",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-d612f470ef911fdc",
-"salary": "$27.00-$31.00 per hour",
-"skills": [
-"Help desk / troubleshooting"
-]
+"years": null
+},
+{
+"title": "Software Engineer II (Cloud Engineer)",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Software-Engineer-II--Cloud-Engineer-_R_1499291-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Credit Analyst",
+"company": "BMO",
+"location": "Vaughan, ON, CAN, Canada",
+"posted": "2026-10-23",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Vaughan-ON-CAN/Credit-Analyst_R260029573",
+"source": "BMO careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Machine Learning Engineer Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-23",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Research Operations & AI Enablement, Winter 2027 Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-23",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate, DevOps Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-23",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--DevOps-Engineer_R260029694",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Banking Advisor Intern",
+"company": "RBC",
+"location": "NORTH BAY, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/NORTH-BAY-Ontario-Canada/Banking-Advisor-Intern_R-0000190989-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Customer Support Analyst (Legal Accounting)",
@@ -209,284 +362,194 @@
 ]
 },
 {
-"title": "Banking Advisor Intern",
-"company": "RBC",
-"location": "NORTH BAY, Ontario, Canada",
+"title": "CNC Machinist/Programmer",
+"company": "STEMA PUNCH AND DIE",
+"location": "Cambridge, ON, CA",
 "posted": "2026-10-23",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/NORTH-BAY-Ontario-Canada/Banking-Advisor-Intern_R-0000190989-1",
-"source": "RBC careers",
+"link": "https://ca.indeed.com/viewjob?jk=d612f470ef911fdc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-d612f470ef911fdc",
+"salary": "$27.00-$31.00 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Security Platform Engineer (SIEM)",
+"company": "Sun Life",
+"location": "3 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Security-Platform-Engineer--SIEM-_JR00126894",
+"source": "Sun Life careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Associate, DevOps Engineer",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
+"title": "Analyst, Real Estate",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--DevOps-Engineer_R260029694",
-"source": "BMO careers",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Analyst--Real-Estate_JR102604",
+"source": "HOOPP careers",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Utility Services Technician II",
+"company": "Enbridge",
+"location": "Geraldton, ON, CAN, Canada",
+"posted": "2026-10-23",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Geraldton-ON-CAN/Utility-Services-Technician-II_72497-1",
+"source": "Enbridge careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Research Operations & AI Enablement, Winter 2027 Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-23",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Machine Learning Engineer Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-23",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Credit Analyst",
-"company": "BMO",
-"location": "Vaughan, ON, CAN, Canada",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Vaughan-ON-CAN/Credit-Analyst_R260029573",
-"source": "BMO careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Software Engineer II (Cloud Engineer)",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Software-Engineer-II--Cloud-Engineer-_R_1499291-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Risk Governance and Controls (New or Recent Graduate Opportunity)",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Risk-Governance-and-Controls--New-or-Recent-Graduate-Opportunity-_R260029487",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Credit Analyst",
-"company": "CIBC",
-"location": "Concord, ON, Canada",
-"posted": "2026-10-23",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Concord-ON/Credit-Analyst_2621727",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Engineer II",
-"company": "TD",
+"title": "IT Technician",
+"company": "iA Financial",
 "location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1503082",
-"source": "TD careers",
+"link": "https://ia.wd3.myworkdayjobs.com/professional/job/Toronto-Ontario/Technicien-ne--TI_JR10028157",
+"source": "iA Financial careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Data Scientist, Credit Risk Strategy (RESL) (ATH 5274)",
-"company": "TD",
-"location": "Toronto, Ontario",
+"title": "Technician II Utility Service",
+"company": "Enbridge",
+"location": "Dryden, ON, CAN, Canada",
 "posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist--Credit-Risk-Strategy--RESL---ATH-5274-_R_1518135",
-"source": "TD careers",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Dryden-ON-CAN/Technician-II-Utility-Service_73352-1",
+"source": "Enbridge careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "WFM Real Time Analyst co-op",
-"company": "CIBC",
+"title": "Financial Analyst, Corporate Accounting (15 Month Contract)",
+"company": "Canadian Tire",
 "location": "Toronto, ON",
 "posted": "2026-10-23",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/WFM-Real-Time-Analyst-co-op_2621769-2",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Operations Analyst II - Western Field Auditor - (ATHN 461)",
-"company": "TD",
-"location": "Calgary, Alberta",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Operations-Analyst-II---Western-Field-Auditor---461_R_1503657",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software/Application Developer Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-23",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Climate Risk Analytics & Reporting, Analyst ( New or Recent Graduate Opportunity) Immediate Start Date",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Analytics---Reporting--Analyst---New-or-Recent-Graduate-Opportunity--Immediate-Start-Date_R260028351-1",
-"source": "BMO careers",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Financial-Analyst--Corporate-Accounting--15-Month-Contract-_JR167086",
+"source": "Canadian Tire careers",
 "country": "CA",
 "years": 1
 },
 {
-"title": "Personal Banker Trainee",
-"company": "TD",
-"location": "Espanola, Ontario",
+"title": "I&T Resilience and Data Governance Specialist",
+"company": "ENMAX",
+"location": "ENMAX Place, Calgary, AB",
 "posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Espanola-Ontario/Personal-Banker-Trainee_R_1516365",
-"source": "TD careers",
+"link": "https://enmax.wd3.myworkdayjobs.com/ENMAXCareers/job/ENMAX-Place-Calgary-AB/I-T-Resilience-and-Data-Governance-Specialist_R0012606",
+"source": "ENMAX careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Analyst – Front Office Application Engineer",
-"company": "TD",
+"title": "Field CISO, Cyber Risk",
+"company": "CDW",
+"location": "Thornhill - ON 17, Canada",
+"posted": "2026-10-23",
+"link": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Thornhill---ON-17/Field-CISO--Cyber-Risk_R26_00002964-1",
+"source": "CDW careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Compiler Engineering Graduate Intern",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-10-23",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Data Governance",
+"company": "Canadian Tire",
+"location": "Oakville, ON, Canada",
+"posted": "2026-10-23",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Analyst--Data-Governance_JR151508",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer Intern - Winter 2027",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-23",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer in Training I Infrastructure Planning",
+"company": "Enbridge",
+"location": "2 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Payroll Analyst",
+"company": "Manulife",
+"location": "3 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Payroll-Analyst_JR26081976",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cost Analyst",
+"company": "Cenovus",
+"location": "CA-AB-Calgary",
+"posted": "2026-10-23",
+"link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Cost-Analyst_R-411228",
+"source": "Cenovus careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Workday Platform Engineer",
+"company": "Manulife",
 "location": "Toronto, Ontario",
 "posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Analyst---Front-Office-Application-Engineer_R_1518435",
-"source": "TD careers",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Workday-Platform-Engineer_JR26100211-1",
+"source": "Manulife careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Business Enablement Analyst co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
+"title": "Software Engineer II (Backend - Java)",
+"company": "Mastercard",
+"location": "Vancouver, Canada",
 "posted": "2026-10-23",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Enablement-Analyst-co-op_2621800",
-"source": "CIBC careers",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-II--Backend---Java-_R-291922",
+"source": "Mastercard careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Financial Advisor Intern",
-"company": "RBC",
-"location": "HAMILTON, Ontario, Canada",
+"title": "Front Desk Receptionist",
+"company": "AHS IMMIGRATION SERVICES INC",
+"location": "Edmonton, AB, CA",
 "posted": "2026-10-23",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HAMILTON-Ontario-Canada/Financial-Advisor_R-0000184478",
-"source": "RBC careers",
+"link": "https://ca.indeed.com/viewjob?jk=9357374facdfc91f",
+"source": "Indeed",
 "country": "CA",
-"years": null
-},
-{
-"title": "Applied AI Research Scientist",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-23",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Applied-AI-Research-Scientist_2621530",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Global Markets, Customized Solutions Group Intern/ Co-op Winter 2027",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets--Customized-Solutions-Group-Intern--Co-op-Winter-2027_R_1518509",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Banking Relationship Manager Trainee",
-"company": "BMO",
-"location": "Goderich, ON, CAN, Canada",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Goderich-ON-CAN/Business-Banking-Relationship-Manager-Trainee_R260026355",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Relationship Manager Business Markets Intern",
-"company": "RBC",
-"location": "GREATER SUDBURY / GRAND SUDBURY, Ontario, Canada",
-"posted": "2026-10-23",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/GREATER-SUDBURY--GRAND-SUDBURY-Ontario-Canada/Relationship-Manager-Business-Markets-Intern_R-0000190956",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "AVP, AI & Innovation",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AVP--AI-Products---Innovation_R_1507906",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banker Trainee",
-"company": "TD",
-"location": "Sherwood Park, Alberta",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Sherwood-Park-Alberta/Personal-Banker-Trainee_R_1513278",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Applied Machine Learning Scientist I ATH# 5645 (Tabular Deep Learning Model Validation)",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I-ATH--5645--Tabular-Deep-Learning-Model-Validation-_R_1514923",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Actuarial Analyst-1",
-"company": "TD",
-"location": "TD Centre - TD Tower - 66 Wellington Street West Insurance, Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Centre---TD-Tower---66-Wellington-Street-West-Insurance-Toronto-Ontario/Actuarial-Analyst-1_R_1515730",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Insights Specialist ( Data Quality & Validation Financial Crimes)",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Insights-Specialist--Financial-Crimes-_R_1514130",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Engineer I",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
-"source": "TD careers",
-"country": "CA",
-"years": null
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-9357374facdfc91f",
+"salary": "$15.90-$17.00 per hour",
+"skills": [
+"Google Workspace"
+]
 },
 {
 "title": "Associate Professor/Professor - Data Science Computation",
@@ -3443,7 +3506,35 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Careers/job/Remote---Austin-Metro/Back-End-Software-Engineer--Contractor-_2026-8654"
+"apply": "https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Careers/job/Remote---Austin-Metro/Back-End-Software-Engineer--Contractor-_2026-8654",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"C++",
+"C",
+"Ruby",
+"React",
+"Angular",
+"Vue",
+"Node.js",
+"REST APIs",
+"Pandas",
+"NumPy",
+"Airflow",
+"Kafka",
+"ETL / data pipelines",
+"PostgreSQL",
+"MongoDB",
+"Redis",
+"AWS",
+"Ansible",
+"Serverless",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design"
+]
 },
 {
 "title": "Entry Level Scientist- Viral Clearance",
@@ -4539,7 +4630,21 @@
 "country": "US",
 "years": 4,
 "apply": "https://jobs.dayforcehcm.com/en-US/corpay/CANDIDATEPORTAL/jobs/57368",
-"salary": "$129,000 - $161,800 USD per year"
+"salary": "$129,000 - $161,800 USD per year",
+"skills": [
+"Java",
+"Ruby",
+"React",
+"Angular",
+"Ruby on Rails",
+"REST APIs",
+"PostgreSQL",
+"Redis",
+"Elasticsearch",
+"AWS",
+"Help desk / troubleshooting",
+"Mobile (iOS / Android)"
+]
 },
 {
 "title": "Appian Developer SME",
@@ -6570,6 +6675,74 @@
 "years": null
 },
 {
+"title": "Gameplay Software Engineer - EA SPORTS™ FC",
+"company": "Electronic Arts",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=4c276d052bb287f6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-FC/215783",
+"salary": "$104,500 - $142,800 CAD",
+"skills": [
+"C++",
+"Data structures & algorithms",
+"Object-oriented programming"
+]
+},
+{
+"title": "IT Support Specialist",
+"company": "",
+"location": "Richmond Hill, ON, CA (remote)",
+"posted": "2026-10-22",
+"link": "https://ca.indeed.com/viewjob?jk=802056c167c6c6e4",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/itscareers/66529?origin=indeed",
+"salary": "$60,000–$75,000 per year",
+"skills": [
+"SQL",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"CompTIA A+",
+"ITIL"
+]
+},
+{
+"title": "Security Operations Center Analyst",
+"company": "Allied Universal",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=4563dbeb8367b65b",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://apply-v41.jobsync.io/indeed/r-app/70a7a29d3d14e8c4237b55b5727ec1a85a91b1d603ef6692955289a7/",
+"salary": "$25.00 / Hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"SOC"
+]
+},
+{
+"title": "Threat and Vulnerability Management Analyst",
+"company": "Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481378894",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Developer Intern, Provisioning - Winter 2027",
 "company": "1Password",
 "location": "Canada",
@@ -7678,7 +7851,25 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI3NDY3ODcsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed"
+"apply": "https://stefaninilatam.gupy.io/job/eyJqb2JJZCI6MTI3NDY3ODcsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
+"skills": [
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"HTML/CSS",
+"React",
+"Angular",
+".NET",
+"REST APIs",
+"PostgreSQL",
+"AWS",
+"CI/CD",
+"Git",
+"Serverless",
+"Infrastructure as code",
+"IAM"
+]
 },
 {
 "title": "IT Infrastructure Services 4",
@@ -8733,7 +8924,10 @@
 "country": "US",
 "years": 3,
 "apply": "http://www.indeed.com/job/freelance-developer-needed-6e02fc53a7a8114c",
-"salary": "$10,000.00 per month"
+"salary": "$10,000.00 per month",
+"skills": [
+"Laravel"
+]
 },
 {
 "title": "K-12 Academic Tutor (Remote | Structured Online Program)",
@@ -10825,7 +11019,15 @@
 "country": "US",
 "years": null,
 "apply": "https://ltm.ripplehire.com/candidate/?token=9Aa9pI3RrIq6QiXMSxNS&lang=en&source=INDEED&ref=INDEED#detail/job/902452",
-"salary": "$100,000 - $110,000 USD per year"
+"salary": "$100,000 - $110,000 USD per year",
+"skills": [
+"Java",
+"SQL",
+"REST APIs",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"System design"
+]
 },
 {
 "title": "Platform Data Engineer",
@@ -11067,7 +11269,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/4bm2giHQgKZCaBKOfr2bpPaq_l-OUNljk4li92QW1k4#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/3ce7Jl7TA7LbSLC3Pw2zMntMWuiR-RLW2eLwo7HG8yE#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "SAP"
@@ -11207,7 +11409,11 @@
 "country": "US",
 "years": null,
 "apply": "http://www.indeed.com/job/software-engineer-ai-applications-df0a9ca216293c17",
-"salary": "$150,000 - $200,000 USD per year"
+"salary": "$150,000 - $200,000 USD per year",
+"skills": [
+"JavaScript",
+"TypeScript"
+]
 },
 {
 "title": "CLDRSRC10324 - Software Developer - IBM ACE/IIB/MessageBroker - Toronto - Onsite - Contract",
@@ -11218,7 +11424,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/XkketiKHBXVKcn8RkyxyFZhCyOKv-s2tf5Wf-CrxLJU#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/HF_WqwCclvzLiwgy2UKxaB-CktM-soXhevlEk6d43_A#.job_boards.Indeed",
 "skills": [
 "Java",
 "SQL",
@@ -12419,7 +12625,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/ezC-o5yjKBButJasCgs4IUxSnkCWlhDjB8pgknRYWm4#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/Ml3C_sKC4JruTkV6ez8-gBtGK70qNjAsN1xP2Ei5plI#.job_boards.Indeed",
 "skills": [
 "SQL",
 "Oracle",
@@ -13435,7 +13641,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 4,
-"apply": "https://candidateportal.ceipal.com/job-details/mQkMty_pZ4JQoOimjR2r7KADmC_vhngTdDQAG5raS3U#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/NYAFWXnTYI60VIDNiV3_TLjQhEyDAWusMLVnUh2_wZI#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "Oracle",
@@ -13615,7 +13821,11 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/889277200",
-"salary": "$104,502 - $160,638 USD per year"
+"salary": "$104,502 - $160,638 USD per year",
+"skills": [
+"System design",
+"Embedded systems"
+]
 },
 {
 "title": "January 2027 Coal and Coke Quality Co-op (Engineering/Geology)",
