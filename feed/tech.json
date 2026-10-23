@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T22:09:45+00:00",
+"updated": "2026-10-23T22:19:51+00:00",
 "jobs": [
 {
 "title": "Public Sector Delivery Analyst",
@@ -5010,6 +5010,160 @@
 "REST APIs",
 "Hardware setup",
 "Testing (unit, automated)"
+]
+},
+{
+"title": "Database administrator (DBA)",
+"company": "City of Maple Ridge",
+"location": "Maple Ridge, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50568896",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Replenishment Analyst",
+"company": "The North West Company",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=08c06a97d855fc08",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.northwest.ca/careers/100898-North-West-Company-Corporate/jobs/16867716-Replenishment-Analyst/",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Infrastructure Analyst - Business Analyst II",
+"company": "Bow Valley College",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=591a54d0d9e02988",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://bowvalleycollege.wd10.myworkdayjobs.com/en-US/BowValleyCollege/job/Calgary---Downtown-Campus/Infrastructure-Analyst---Business-Analyst-II_JR1000000274",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"ITIL"
+]
+},
+{
+"title": "Full Stack IT Developer",
+"company": "Paladin Airport Security Services",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=92542d4b8b518c24",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://joblinkapply.com/joblink/7067/Job/Index/876456?Referrer=Indeed",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C++",
+"C",
+"SQL",
+"REST APIs",
+"SQL Server",
+"Azure",
+"CI/CD",
+"Git",
+"Serverless",
+"Agile / Scrum",
+"Data structures & algorithms",
+"System design"
+]
+},
+{
+"title": "Navigation & Machine Learning Engineering Intern (16 Months)",
+"company": "Trimble",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=cff1c247693630da",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
+"start": "May 2027",
+"skills": [
+"Python",
+"C++",
+"C",
+"Machine learning",
+"Git",
+"Linux",
+"Hardware setup",
+"Agile / Scrum",
+"Jira",
+"Data structures & algorithms",
+"Embedded systems"
+]
+},
+{
+"title": "Software Engineering Intern",
+"company": "Trimble",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=74dcefd9ee16a016",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
+"start": "May 2027",
+"skills": [
+"Python",
+"JavaScript",
+"C++",
+"C",
+"HTML/CSS",
+"Git",
+"Agile / Scrum",
+"Jira",
+"Data structures & algorithms",
+"Embedded systems"
+]
+},
+{
+"title": "Power BI / Insurance Analytics Developer",
+"company": "EXL Service",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=0b0139cb09b7b562",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/preview/21855",
+"skills": [
+"SQL",
+"Databricks",
+"Snowflake",
+"Power BI",
+"SQL Server",
+"Azure"
+]
+},
+{
+"title": "Legal Operations Analyst",
+"company": "IP House UK Holdings Ltd",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=5138063e57ffa01f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://ats.rippling.com/ip-house/jobs/ce0e8133-d2a8-47ab-a471-53074229bd35?jobSite=Indeed",
+"salary": "$20 - $22 USD per hour",
+"skills": [
+"System design"
 ]
 },
 {
@@ -10261,7 +10415,7 @@
 ]
 },
 {
-"title": "Terraform Developer",
+"title": "Cloud Infrastructure Data Engineering Specialist - Terraform",
 "company": "Capgemini",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-22",
@@ -15469,6 +15623,66 @@
 "location": "Rocanville, Saskatchewan, Canada",
 "posted": "2026-10-22",
 "link": "https://www.linkedin.com/jobs/view/4480079718",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Tester Co-op",
+"company": "Critical Environment Technologies",
+"location": "Delta, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481605782",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "HVP/Cert Engineer Intern",
+"company": "Aptiv",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482774126",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Developer",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481609745",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "TVM Analyst - Vulnerability Assessment & Management",
+"company": "Pacer Group",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4480088464",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Student (Summer 2027)",
+"company": "J.D. Irving, Limited",
+"location": "Saint John, New Brunswick, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481779738",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Student (Summer 2027)",
+"company": "J.D. Irving, Limited",
+"location": "Saint John, New Brunswick, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481787567",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
