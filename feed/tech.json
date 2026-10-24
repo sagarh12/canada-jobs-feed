@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T20:09:52+00:00",
+"updated": "2026-10-24T20:19:48+00:00",
 "jobs": [
 {
 "title": "Software Engineer, Ad Signals",
@@ -671,6 +671,60 @@
 "years": null,
 "apply": "https://jobs.carolinaeasthealth.com/job/new-bern/monitor-tech-i/242/102382140112",
 "salary": "$15 - $23 USD per hour"
+},
+{
+"title": "ICAM Data Engineer – IGA Analytics & Reporting",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=f5c57e6854cb26a4",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://www.gdit.com/careers/job/b53bb5a92/icam-data-engineer-iga-analytics-reporting/",
+"salary": "$127,500 - $172,500 USD per year",
+"skills": [
+"Python",
+"SQL",
+"Spark",
+"ETL / data pipelines",
+"Power BI",
+"Azure",
+"CI/CD",
+"Cybersecurity",
+"Data structures & algorithms",
+"CompTIA Security+"
+]
+},
+{
+"title": "DevOps Engineer - Platform Enablement & Automation Services",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=d6a79e3a07877187",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.gdit.com/careers/job/bff380316/devops-engineer-platform-enablement-automation-services/",
+"salary": "$127,500 - $172,500 USD per year",
+"skills": [
+"Node.js",
+"Elasticsearch",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"GitLab",
+"Infrastructure as code",
+"Monitoring",
+"Vulnerability management",
+"IAM",
+"Cloud security",
+"Help desk / troubleshooting",
+"System design",
+"CompTIA Security+"
+]
 },
 {
 "title": "Directeur(rice), Projets d'infrastructure",
@@ -8993,7 +9047,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618389&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393914-cybersecurity-ops-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db8421273-cf52-11f1-a9a2-81f0875918f6%26rx_job%3D2618389%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T180405Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618389",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618389&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393914-cybersecurity-ops-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db8421273-cf52-11f1-a9a2-81f0875918f6%26rx_job%3D2618389%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T200402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618389",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Python",
@@ -11293,6 +11347,148 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4483137607",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Integration Engineer",
+"company": "2iSolutions Inc.",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483142472",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Software Developer",
+"company": "EPITEC",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4471478957",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Distinguished Software Engineer, Sensor (Remote)",
+"company": "CrowdStrike",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=15c225d95d4aaea4",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-TX/Distinguished-Software-Engineer--Sensor--Remote-_R30441-1",
+"skills": [
+"C++",
+"C",
+"Linux",
+"Cybersecurity",
+"EDR",
+"Windows",
+"macOS",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "IoT Test Engineer",
+"company": "QualityAI",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481351910",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Coordinator – Civil – Major Projects - EHTH",
+"company": "Bird Construction",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474380306",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Continuous Improvement Technician - Rotating Shifts (Days/Afternoons/Nights)",
+"company": "Wonderbrands",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4466331047",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Manufacturing Test Developer, Product Engineering",
+"company": "Ross Video",
+"location": "Iroquois, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4464828766",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supplier Quality Auditor",
+"company": "SPX Technologies",
+"location": "Field, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483129480",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer - Mercury Command",
+"company": "Mercury",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480689468",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Administrator",
+"company": "Altis",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481944533",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Security Governance Consultant",
+"company": "Confiar Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481958238",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
+"company": "Rivian and Volkswagen Group Technologies",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481648237",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Developer",
+"company": "Chapman Tate Associates",
+"location": "British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480658925",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -22826,6 +23022,16 @@
 "years": null
 },
 {
+"title": "Developer Intern, Extension Excellence - Winter 2027",
+"company": "1Password",
+"location": "",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482793075",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Developer Intern, Provisioning - Winter 2027",
 "company": "1Password",
 "location": "Canada",
@@ -23581,16 +23787,6 @@
 "Help desk / troubleshooting",
 "Figma"
 ]
-},
-{
-"title": "AI Engineer, Developer Relations",
-"company": "Cerebras",
-"location": "Remote · United States",
-"posted": "2026-10-21T20:18:48.281+00:00",
-"link": "https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4",
-"source": "Cerebras careers",
-"country": "US",
-"years": null
 }
 ]
 }
