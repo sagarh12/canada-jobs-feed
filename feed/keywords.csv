@@ -1,37 +1,37 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,45%,461,461,461,2026-10-24
+1,Help desk / troubleshooting,IT support,46%,463,463,463,2026-10-24
 2,SQL,Language,27%,278,278,278,2026-10-24
 3,REST APIs,Framework,25%,250,250,250,2026-10-24
 4,Python,Language,24%,244,244,244,2026-10-24
 5,Excel,Data & AI,20%,200,200,200,2026-10-24
-6,Hardware setup,IT support,20%,199,199,199,2026-10-24
+6,Hardware setup,IT support,20%,200,200,200,2026-10-24
 7,System design,Practice,19%,191,191,191,2026-10-24
 8,Agile / Scrum,Practice,17%,168,168,168,2026-10-24
 9,Azure,Cloud & DevOps,17%,168,168,168,2026-10-24
 10,Microsoft 365,IT support,15%,154,154,154,2026-10-24
-11,Git,Cloud & DevOps,14%,145,145,145,2026-10-24
-12,Windows,IT support,14%,145,145,145,2026-10-24
+11,Windows,IT support,14%,146,146,146,2026-10-24
+12,Git,Cloud & DevOps,14%,145,145,145,2026-10-24
 13,AWS,Cloud & DevOps,13%,136,136,136,2026-10-24
 14,Cybersecurity,Security,12%,124,124,124,2026-10-24
 15,CI/CD,Cloud & DevOps,12%,121,121,121,2026-10-24
-16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,116,116,116,2026-10-24
-17,LLMs / GenAI,Data & AI,11%,112,112,112,2026-10-24
-18,"Ticketing (ServiceNow, Jira)",IT support,11%,111,111,111,2026-10-24
+16,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,117,117,117,2026-10-24
+17,"Ticketing (ServiceNow, Jira)",IT support,11%,113,113,113,2026-10-24
+18,LLMs / GenAI,Data & AI,11%,112,112,112,2026-10-24
 19,Statistics,Data & AI,11%,109,109,109,2026-10-24
 20,Power BI,Data & AI,11%,108,108,108,2026-10-24
 21,IAM,Security,10%,99,99,99,2026-10-24
-22,ETL / data pipelines,Data & AI,9%,95,95,95,2026-10-24
-23,Java,Language,9%,95,95,95,2026-10-24
-24,Linux,Cloud & DevOps,9%,95,95,95,2026-10-24
-25,JavaScript,Language,9%,87,87,87,2026-10-24
-26,Jira,Practice,9%,87,87,87,2026-10-24
+22,Linux,Cloud & DevOps,9%,96,96,96,2026-10-24
+23,ETL / data pipelines,Data & AI,9%,95,95,95,2026-10-24
+24,Java,Language,9%,95,95,95,2026-10-24
+25,Jira,Practice,9%,88,88,88,2026-10-24
+26,JavaScript,Language,9%,87,87,87,2026-10-24
 27,"Testing (unit, automated)",Practice,8%,85,85,85,2026-10-24
 28,SQL Server,Database,8%,81,81,81,2026-10-24
 29,Machine learning,Data & AI,7%,74,74,74,2026-10-24
 30,C,Language,7%,73,73,73,2026-10-24
 31,Oracle,Database,7%,70,70,70,2026-10-24
 32,Data structures & algorithms,Practice,7%,67,67,67,2026-10-24
-33,React,Framework,7%,66,66,66,2026-10-24
+33,React,Framework,6%,66,66,66,2026-10-24
 34,HTML/CSS,Language,6%,64,64,64,2026-10-24
 35,Kubernetes,Cloud & DevOps,6%,61,61,61,2026-10-24
 36,Salesforce,Practice,6%,61,61,61,2026-10-24
@@ -39,8 +39,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 38,TypeScript,Language,6%,58,58,58,2026-10-24
 39,Monitoring,Cloud & DevOps,6%,56,56,56,2026-10-24
 40,SDLC,Practice,6%,56,56,56,2026-10-24
-41,Google Cloud,Cloud & DevOps,5%,55,55,55,2026-10-24
-42,Firewalls,Security,5%,54,54,54,2026-10-24
+41,Firewalls,Security,5%,55,55,55,2026-10-24
+42,Google Cloud,Cloud & DevOps,5%,55,55,55,2026-10-24
 43,Vulnerability management,Security,5%,54,54,54,2026-10-24
 44,PostgreSQL,Database,5%,50,50,50,2026-10-24
 45,PowerShell,Language,5%,50,50,50,2026-10-24
@@ -62,11 +62,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 61,Infrastructure as code,Cloud & DevOps,3%,33,33,33,2026-10-24
 62,MySQL,Database,3%,33,33,33,2026-10-24
 63,SAP,Practice,3%,31,31,31,2026-10-24
-64,Angular,Framework,3%,29,29,29,2026-10-24
-65,CompTIA A+,Certification,3%,29,29,29,2026-10-24
-66,Jenkins,Cloud & DevOps,3%,29,29,29,2026-10-24
-67,Microservices,Cloud & DevOps,3%,29,29,29,2026-10-24
-68,macOS,IT support,3%,29,29,29,2026-10-24
+64,macOS,IT support,3%,30,30,30,2026-10-24
+65,Angular,Framework,3%,29,29,29,2026-10-24
+66,CompTIA A+,Certification,3%,29,29,29,2026-10-24
+67,Jenkins,Cloud & DevOps,3%,29,29,29,2026-10-24
+68,Microservices,Cloud & DevOps,3%,29,29,29,2026-10-24
 69,Go,Language,3%,27,27,27,2026-10-24
 70,Encryption / PKI,Security,3%,26,26,26,2026-10-24
 71,Object-oriented programming,Practice,3%,26,26,26,2026-10-24
@@ -146,4 +146,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 145,Laravel,Framework,0%,1,1,1,2026-10-24
 146,Verilog/VHDL,Language,0%,1,1,1,2026-10-24
 
-,Based on 1015 postings in the last 30 days (1015 all time)
+,Based on 1017 postings in the last 30 days (1017 all time)
