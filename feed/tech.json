@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T19:59:46+00:00",
+"updated": "2026-10-24T20:09:52+00:00",
 "jobs": [
 {
 "title": "Software Engineer, Ad Signals",
@@ -23591,38 +23591,6 @@
 "source": "Cerebras careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Full-Stack Software Engineer, Experience",
-"company": "Pinecone",
-"location": "Remote · United States",
-"posted": "2026-10-21T20:01:29.020+00:00",
-"link": "https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d",
-"source": "Pinecone careers",
-"country": "US",
-"years": 2,
-"salary": "$138",
-"quals": [
-"You should have:",
-"At least 2 years of software engineering experience",
-"A bias toward automation and leverage — you reach for systems and tooling before you reach for elbow grease",
-"Hands-on experience shipping with AI coding tools (Claude Code, Cursor, Copilot, or similar) as a genuine part of your workflow"
-],
-"skills": [
-"Java",
-"Go",
-"Rust",
-"React",
-"REST APIs",
-"Kafka",
-"Vector databases",
-"AWS",
-"Azure",
-"Google Cloud",
-"Monitoring",
-"Microsoft 365",
-"System design"
-]
 }
 ]
 }
