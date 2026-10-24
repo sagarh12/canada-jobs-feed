@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T17:19:50+00:00",
+"updated": "2026-10-24T18:49:48+00:00",
 "jobs": [
 {
 "title": "Software Engineer, Ad Signals",
@@ -527,6 +527,65 @@
 ]
 },
 {
+"title": "Data Engineer | VA Claims Modernization",
+"company": "LMI",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=f863407c9ba3ee3a",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers-lmi.icims.com/jobs/14777/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$120,000 - $180,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"VBA",
+"REST APIs",
+"Machine learning",
+"NLP",
+"Spark",
+"Airflow",
+"ETL / data pipelines",
+"Databricks",
+"Snowflake",
+"Power BI",
+"PostgreSQL",
+"SQL Server",
+"AWS",
+"Azure",
+"CI/CD",
+"Git",
+"Infrastructure as code",
+"Networking (TCP/IP, DNS)",
+"Encryption / PKI",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design"
+]
+},
+{
+"title": "AI Engineer (Intern)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=49b44a066f23f905",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/ai-engineer-intern-49b44a066f23f905",
+"skills": [
+"Python",
+"Java",
+"Machine learning",
+"Deep learning",
+"Help desk / troubleshooting",
+"Data structures & algorithms"
+]
+},
+{
 "title": "Directeur(rice), Projets d'infrastructure",
 "company": "Deloitte",
 "location": "Toronto, ON, CA, M5H 0A9",
@@ -655,6 +714,16 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Winter 2027: Sessional Lecturer: LMP1210H: Basic principles machine learning biomedical research",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-24T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Winter-2027-Sessional-Lecturer-LMP1210H-Basic-principles-machine-learning-biomedical-research-ON/607341117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Frontend Engineer - Design Systems",
@@ -3640,7 +3709,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://app.jvistg2.com/CompanyJobs/Job.aspx?j=oawXAfwX&loc=CgOqYfwc&s=Indeed",
+"apply": "https://app.jobvite.com/CompanyJobs/Job.aspx?j=oawXAfwX&loc=CgOqYfwc&s=Indeed",
 "skills": [
 "LLMs / GenAI",
 "Help desk / troubleshooting"
@@ -3861,7 +3930,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://app.jvistg2.com/CompanyJobs/Job.aspx?j=oawXAfwX&loc=CiVvVfwn&s=Indeed",
+"apply": "https://app.jobvite.com/CompanyJobs/Job.aspx?j=oawXAfwX&loc=CiVvVfwn&s=Indeed",
 "skills": [
 "LLMs / GenAI",
 "Help desk / troubleshooting"
@@ -6209,7 +6278,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/Z-XtmVZtqvn6OLgzWYXbPawHbjEkl1xd4LPZdn-qbU8#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/TRnBdAyzwg9Wrb6E4uXKTMpmHgmxx3wNvk4yiW8n1o4#.job_boards.Indeed",
 "skills": [
 "AWS",
 "Docker",
@@ -8432,7 +8501,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01884636&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01884636%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Dbfd31bfc-cf30-11f1-85c8-f771e37d4d4c%26rx_job%3D01884636%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T140410Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01884636&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01884636%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Dbfd31bfc-cf30-11f1-85c8-f771e37d4d4c%26rx_job%3D01884636%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T180417Z%26rx_vp%3Dcpc",
 "skills": [
 "JavaScript",
 "Bash/Shell",
@@ -8837,7 +8906,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618389&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393914-cybersecurity-ops-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db8421273-cf52-11f1-a9a2-81f0875918f6%26rx_job%3D2618389%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T160402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618389",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618389&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393914-cybersecurity-ops-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db8421273-cf52-11f1-a9a2-81f0875918f6%26rx_job%3D2618389%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T180405Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618389",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Python",
@@ -10317,6 +10386,486 @@
 "location": "Markham, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4437814751",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support Specialist (Chinese Speaking Preferred)",
+"company": "Kiokii and...",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482655481",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Technical Support Specialist Level I",
+"company": "Olympus Corporation",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4434587873",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator",
+"company": "ZenaTech Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483127304",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Engineer ( Data Center)",
+"company": "Calian Group",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481647132",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SD-WAN Network Engineer",
+"company": "Experis Canada",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481928781",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst, Intern",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474529035",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "2027 Winter Co-op Vehicle Sales, Service and Marketing",
+"company": "General Motors",
+"location": "Oshawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4473014821",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Finance Analyst Co-Op Student",
+"company": "BCAA",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4463946395",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Underwriting Co-Op Student (Summer term, May - August 2027)",
+"company": "Liberty Mutual Canada",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481902323",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer - AWS, Snowflake, DBT",
+"company": "Aviva Canada",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4464820076",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer - Big Data / PySpark",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481695961",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "Kumaran Systems",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4424258452",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Python Developer",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480677189",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SQL Developer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481905399",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning Engineer - EA SPORTS™ FC",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4443630360",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advanced Data Analyst - EA SPORTS™ FC",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4434800412",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Analytics Delivery 2",
+"company": "BCLC",
+"location": "British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482797472",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Vineyard Business Analyst",
+"company": "Mark Anthony Group",
+"location": "West Kelowna, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474506930",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cost Controller - Reporting & Analytics",
+"company": "Turner & Townsend",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4464524675",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales & Pricing Analyst - Brampton, ON",
+"company": "Victaulic",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4465835748",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer, Amazon Private Brands",
+"company": "Amazon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474546776",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer II",
+"company": "Pollard Digital Solutions",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481917318",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Backend Developer (.NET)",
+"company": "Appnovation",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480584845",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Buyer (Co-op)",
+"company": "S&C Electric Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4465350658",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op/Intern Developer, Machine Learning",
+"company": "Kinaxis",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483127484",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op/Intern Developer, Machine Learning",
+"company": "Kinaxis",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483139181",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op/Intern Developer, Machine Learning",
+"company": "Kinaxis",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483135348",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op/Intern Developer, Machine Learning",
+"company": "Kinaxis",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483121771",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Developer",
+"company": "BrainRidge Consulting",
+"location": "New Brunswick, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483127427",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Systems Developer",
+"company": "Grantek",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480672891",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Engineer - Brand - Fullstack, Backend or Frontend",
+"company": "Faire",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4445775944",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Category Business Analyst ( Evergreen)",
+"company": "Canadian Tire Corporation",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/3889603562",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Analyst",
+"company": "Edelman",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4446814279",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Coordinator, Buying",
+"company": "dentsu",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4478164959",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Commission Data Specialist",
+"company": "RBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4465838803",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Strategic Financial Analyst - FP&A / Commercial - Global SaaS Tech",
+"company": "Actionstep",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474542429",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support (Legal Accounting)",
+"company": "Actionstep",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482805576",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Support Specialist",
+"company": "SurveyMonkey",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481933074",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Remote Bilingual Customer Experience Representative",
+"company": "Allegion",
+"location": "Mississauga, Ontario, Canada (remote)",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474599080",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Operations & Cybersecurity Specialist",
+"company": "Jobgether",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481911634",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Intel Engineer, WW Promotions and Events Data and Insights",
+"company": "Amazon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4455914834",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Retention Analyst",
+"company": "Aspire Systems",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481926452",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist, ONCAP - 12 Month Contract",
+"company": "Onex",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4471499918",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Analyst",
+"company": "Alquemy Search & Consulting",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481939305",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Quality Assurance- Global Payments Engineering ( Future Opportunites)",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4464129070",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supplier Quality Engineer",
+"company": "Ampco Manufacturers Inc.",
+"location": "Coquitlam, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483194090",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Developer Intern, Credential Brokering - Winter 2027",
+"company": "1Password",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483105699",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Firmware Engineer Intern - Winter 2027",
+"company": "Marvell Technology",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4473152717",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -21672,7 +22221,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://app.jvistg2.com/CompanyJobs/Job.aspx?j=o7Y0Afwp&s=Indeed",
+"apply": "https://app.jobvite.com/CompanyJobs/Job.aspx?j=o7Y0Afwp&s=Indeed",
 "salary": "$62,466 - $145,789 USD per year",
 "skills": [
 "Azure",
@@ -21730,6 +22279,111 @@
 "location": "",
 "posted": "2026-10-22",
 "link": "https://www.linkedin.com/jobs/view/4456335290",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Procurement Specialist",
+"company": "Salas O'Brien",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=d0a0b31f6bd0dfac",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting2.ultipro.com/SAL1016SALO/JobBoard/3347ce03-ba60-4bdc-8af2-26369c80b18f/OpportunityDetail?opportunityId=1b58139b-a208-43f5-8905-c7a4f844bac2&postingId=28b01c52-a064-4288-a30a-479747256920",
+"skills": [
+"Excel",
+"Ticketing (ServiceNow, Jira)",
+"Hardware setup"
+]
+},
+{
+"title": "Technical Support Engineer",
+"company": "COGENT SECURITY",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=ac21b7fad823ee20",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.ashbyhq.com/cogent-security/9083137e-100e-4701-a112-732a6a7e5775?utm_source=MpJlZLwREO",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Machine learning",
+"ETL / data pipelines",
+"Databricks",
+"AWS",
+"Azure",
+"Google Cloud",
+"Cybersecurity",
+"Vulnerability management",
+"IAM",
+"EDR",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira"
+]
+},
+{
+"title": "Quality Coordinator Co-op",
+"company": "Tetra Tech",
+"location": "Pickering, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482755782",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst",
+"company": "Winchesters",
+"location": "North York, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481601783",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support Technician",
+"company": "Burnaby School District - SD41",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4481611100",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Laboratory Quality Assurance Specialist - St. John's",
+"company": "AGAT Laboratories",
+"location": "",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4478936563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Continuous Improvement Technician (Night Shift)",
+"company": "Wonderbrands",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482760820",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Linux Intern",
+"company": "Aptiv",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-22",
+"link": "https://www.linkedin.com/jobs/view/4482754789",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -22551,53 +23205,6 @@
 "link": "https://cribl.io/job-detail/?gh_jid=6227896004",
 "source": "Cribl careers",
 "country": "US",
-"years": null
-},
-{
-"title": "Ecosystem Growth Engineer",
-"company": "Notion",
-"location": "Remote · United States",
-"posted": "2026-10-21T18:45:02.761+00:00",
-"link": "https://jobs.ashbyhq.com/notion/45f60d0e-e44f-40c5-985e-4096a8966860",
-"source": "Notion careers",
-"country": "US",
-"years": null,
-"salary": "$150,000 - $180,000 per year",
-"skills": [
-"SQL",
-"Salesforce"
-]
-},
-{
-"title": "Associate Treasury Reporting & Analytics",
-"company": "Wealthsimple",
-"location": "Remote (Canada; Canada",
-"posted": "2026-10-21T18:19:52.136+00:00",
-"link": "https://jobs.ashbyhq.com/wealthsimple/95d17671-6a4a-4543-848d-2bfe1f3e16e0",
-"source": "Wealthsimple careers",
-"country": "CA",
-"years": 3,
-"salary": "$155",
-"quals": [
-"Relevant experience: Demonstrated success in Treasury and financial operations, banking and payments, or other operations roles in related f",
-"Report Management: Proven experience overseeing end-to-end report lifecycle management, from requirements gathering to delivery. Ability to ",
-"Treasury Systems Expertise: 2+ years of hands-on experience with Kyriba Treasury Management System, including report configuration, data ext",
-"Organization & planning: Plans, organizes, and schedules in a productive manner, allowing for a focus on key priorities and regular updates"
-],
-"skills": [
-"SQL",
-"Power BI",
-"Excel"
-]
-},
-{
-"title": "Data Scientist",
-"company": "Coinbase",
-"location": "Remote - Canada",
-"posted": "2026-10-21T13:35:27-04:00",
-"link": "https://www.coinbase.com/careers/positions/8304046?gh_jid=8304046",
-"source": "Coinbase careers",
-"country": "CA",
 "years": null
 }
 ]
