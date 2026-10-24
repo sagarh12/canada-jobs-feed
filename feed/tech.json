@@ -1,17 +1,247 @@
 {
-"updated": "2026-10-24T10:09:50+00:00",
+"updated": "2026-10-24T10:29:48+00:00",
 "jobs": [
 {
-"title": "Math Tutor",
-"company": "Ahead Learning",
-"location": "Surrey, BC, CA",
+"title": "Information technology (IT) analyst",
+"company": "Omega Tool Corp",
+"location": "Tecumseh, Ontario, Canada",
 "posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=a0e54ede911c8f18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571643",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "The HR Pro",
+"location": "Various locations, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571587",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software developer",
+"company": "Atimi",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571580",
+"source": "Job Bank",
+"country": "CA",
+"years": 4
+},
+{
+"title": "Downtown Campus Service Support",
+"company": "British Columbia Institute of Technology",
+"location": "Burnaby, BC, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=8a6d20d702192d80",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.bcit.ca/postings/10765",
+"salary": "$325",
+"skills": [
+"Excel",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Architecture Research Intern (Predictive Modelling & Simulations), 12-months",
+"company": "Alberta Motor Association",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=a275df495582fec1",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/math-tutor-a0e54ede911c8f18",
-"salary": "$18.25-$36.00 per hour"
+"apply": "https://albertamotorassociation.wd3.myworkdayjobs.com/en-US/AMA/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921",
+"skills": [
+"Python",
+"NumPy",
+"LLMs / GenAI",
+"Statistics",
+"Data structures & algorithms"
+]
+},
+{
+"title": "Cybersecurity specialist",
+"company": "Silaris Solutions Inc",
+"location": "Milton, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571474",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Software Development Engineer (SDE) | United States",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=672640712bab7960",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-development-engineer-sde-united-states-672640712bab7960",
+"salary": "$94,900 - $115,000 USD per year",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C++",
+"C",
+"Ruby",
+"SQL",
+"VBA",
+"React",
+"Ruby on Rails",
+"REST APIs",
+"MySQL",
+"AWS",
+"CI/CD",
+"Git",
+"Linux",
+"Microservices",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "Intermediate Process Mechanical Engineer- Water",
+"company": "Stantec",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=a380dcac20ba8192",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://rr.jobsyn.org/18C612515AC042979945813F8B063C691554"
+},
+{
+"title": "Digital & Treasury Analyst",
+"company": "GROVE BANK & TRUST",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=83cb773056aff446",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b1ea3d87-a101-4eaf-96d6-9b82b8845a27&ccId=19000101_000001&jobId=560371&source=IN&lang=en_US",
+"skills": [
+"Excel",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"System design"
+]
+},
+{
+"title": "IT Operations & Case Management Specialist",
+"company": "Blueprint Technologies",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/hl8sjriw1us",
+"salary": "$28 - $32 USD per hour",
+"skills": [
+"Excel",
+"Azure",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Azure certification"
+]
+},
+{
+"title": "Business Analyst - REMOTE",
+"company": "Knock",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://grnh.se/92h2xfbe4us",
+"salary": "$86,500 - $114,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Looker",
+"Excel",
+"Data visualization",
+"Microsoft 365",
+"System design"
+]
+},
+{
+"title": "Receptionist/Sales",
+"company": "Body Vision Fitness Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
+"salary": "$18.00-$20.00 per hour"
+},
+{
+"title": "UX Designer",
+"company": "CarltonOne Engagement",
+"location": "Markham, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=0b39dfd4223b464e",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a42524a5-e19f-4788-838a-370ca1272e62&ccId=19000101_000003&lang=en_CA&locale=en_CA&jobId=570806",
+"salary": "$115,000 to $135,000",
+"skills": [
+"Azure",
+"Cybersecurity",
+"SOC",
+"Incident response",
+"IAM",
+"NIST / ISO 27001",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira",
+"System design",
+"SAP",
+"CISSP",
+"ITIL"
+]
+},
+{
+"title": "Verification Engineer – AI SoC Development",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-10-24",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software developer",
+"company": "Bell Canada",
+"location": "Bedford, Nova Scotia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50570724",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
 "title": "Cyber Security Specialist",
@@ -51,216 +281,16 @@
 ]
 },
 {
-"title": "Software developer",
-"company": "Bell Canada",
-"location": "Bedford, Nova Scotia, Canada",
+"title": "Math Tutor",
+"company": "Ahead Learning",
+"location": "Surrey, BC, CA",
 "posted": "2026-10-24",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50570724",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Verification Engineer – AI SoC Development",
-"company": "Intel",
-"location": "Canada, Toronto",
-"posted": "2026-10-24",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
-"source": "Intel careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "UX Designer",
-"company": "CarltonOne Engagement",
-"location": "Markham, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=0b39dfd4223b464e",
-"source": "Indeed",
-"country": "CA",
-"years": 10,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a42524a5-e19f-4788-838a-370ca1272e62&ccId=19000101_000003&lang=en_CA&locale=en_CA&jobId=570806",
-"salary": "$115,000 to $135,000",
-"skills": [
-"Azure",
-"Cybersecurity",
-"SOC",
-"Incident response",
-"IAM",
-"NIST / ISO 27001",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Jira",
-"System design",
-"SAP",
-"CISSP",
-"ITIL"
-]
-},
-{
-"title": "Receptionist/Sales",
-"company": "Body Vision Fitness Inc.",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
-"salary": "$18.00-$20.00 per hour"
-},
-{
-"title": "Business Analyst - REMOTE",
-"company": "Knock",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://grnh.se/92h2xfbe4us",
-"salary": "$86,500 - $114,000 USD per year",
-"skills": [
-"Python",
-"SQL",
-"ETL / data pipelines",
-"Power BI",
-"Tableau",
-"Looker",
-"Excel",
-"Data visualization",
-"Microsoft 365",
-"System design"
-]
-},
-{
-"title": "IT Operations & Case Management Specialist",
-"company": "Blueprint Technologies",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://grnh.se/hl8sjriw1us",
-"salary": "$28 - $32 USD per hour",
-"skills": [
-"Excel",
-"Azure",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Jira",
-"Azure certification"
-]
-},
-{
-"title": "Digital & Treasury Analyst",
-"company": "GROVE BANK & TRUST",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=83cb773056aff446",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b1ea3d87-a101-4eaf-96d6-9b82b8845a27&ccId=19000101_000001&jobId=560371&source=IN&lang=en_US",
-"skills": [
-"Excel",
-"Cybersecurity",
-"Microsoft 365",
-"Help desk / troubleshooting",
-"System design"
-]
-},
-{
-"title": "Intermediate Process Mechanical Engineer- Water",
-"company": "Stantec",
-"location": "Edmonton, AB, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=a380dcac20ba8192",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://rr.jobsyn.org/18C612515AC042979945813F8B063C691554"
-},
-{
-"title": "Software Development Engineer (SDE) | United States",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=672640712bab7960",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/software-development-engineer-sde-united-states-672640712bab7960",
-"salary": "$94,900 - $115,000 USD per year",
-"skills": [
-"Python",
-"Java",
-"JavaScript",
-"C++",
-"C",
-"Ruby",
-"SQL",
-"VBA",
-"React",
-"Ruby on Rails",
-"REST APIs",
-"MySQL",
-"AWS",
-"CI/CD",
-"Git",
-"Linux",
-"Microservices",
-"Agile / Scrum",
-"System design"
-]
-},
-{
-"title": "Cybersecurity specialist",
-"company": "Silaris Solutions Inc",
-"location": "Milton, Ontario, Canada",
-"posted": "2026-10-24",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571474",
-"source": "Job Bank",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Architecture Research Intern (Predictive Modelling & Simulations), 12-months",
-"company": "Alberta Motor Association",
-"location": "Edmonton, AB, CA (remote)",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=a275df495582fec1",
+"link": "https://ca.indeed.com/viewjob?jk=a0e54ede911c8f18",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://albertamotorassociation.wd3.myworkdayjobs.com/en-US/AMA/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921",
-"skills": [
-"Python",
-"NumPy",
-"LLMs / GenAI",
-"Statistics",
-"Data structures & algorithms"
-]
-},
-{
-"title": "Downtown Campus Service Support",
-"company": "British Columbia Institute of Technology",
-"location": "Burnaby, BC, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=8a6d20d702192d80",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://careers.bcit.ca/postings/10765",
-"salary": "$325",
-"skills": [
-"Excel",
-"Help desk / troubleshooting",
-"Hardware setup"
-]
+"apply": "http://ca.indeed.com/job/math-tutor-a0e54ede911c8f18",
+"salary": "$18.25-$36.00 per hour"
 },
 {
 "title": "Directeur(rice), Projets d'infrastructure",
@@ -1498,7 +1528,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/8Qzxb4lcYW8Lq9rGMMxICq6oGOVEy83TRen6GXPCq4g#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/Y4QPeLKHJ8u8x4fq53OkMJg5MCb1ffJvMNyRns69bso#.job_boards.Indeed",
 "skills": [
 "Java",
 "React",
@@ -1542,7 +1572,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 8,
-"apply": "https://candidateportal.ceipal.com/job-details/otq5yvRT_GWhpqWcLqbk7-kdN0NA3a5Wqf89zPgQ07Y#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/dHGlUF62x1Dr9xju_q78dIDEhh8-a-xqt3m80565HO4#.job_boards.Indeed",
 "skills": [
 "AWS",
 "Azure",
@@ -2163,7 +2193,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/yK6xQ9zaXhzomTCXUj3_G3qYj1eBf5rJgG0ptm6FxYY#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/dTocKe36gp6nC-D7J7X7aLN3VixpYjlXw4X0_f1UYVs#.job_boards.Indeed",
 "skills": [
 "Agile / Scrum"
 ]
@@ -2177,7 +2207,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/7zr4164_2oTqbjTBMGX5HLcMctsaR2XlV0IG2IJyYIs#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/jwKVdyE0Zy-dzAj8jZnVBTgV26H_Kpdn07avWLUh3g0#.job_boards.Indeed",
 "skills": [
 "Help desk / troubleshooting",
 "Agile / Scrum",
@@ -2193,7 +2223,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/AJllbhQHtQfio8V6QMFCtliHUlsoZpTcAqgq60FF1cI#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/ZXUl9pU_gwAQhDNBV1YdREPLHSUeeBRgU1ogIKCHYK0#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "Microservices",
@@ -2317,7 +2347,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 7,
-"apply": "https://candidateportal.ceipal.com/job-details/JWxiNOv14xAlfy9k09bTfgJPoCWgHxHbabNec_40mX4#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/OuTGwuQx4Bd1Ww339OBlt1oDbFgfRYhfaQAbo3LWrb0#.job_boards.Indeed",
 "skills": [
 "Java",
 "JavaScript",
@@ -7887,7 +7917,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/lgQKGk24gQQ6i16iRtrbQE3N2EDQe9cU9wnsjGH1l7s#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/ED7TwbopTeMQkF_fe8KVqgQOw97hoArqvr9l1Dybqmw#.job_boards.Indeed",
 "skills": [
 "Machine learning",
 "Docker",
@@ -7904,7 +7934,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 15,
-"apply": "https://candidateportal.ceipal.com/job-details/GS2EF-_KnTaobPDzPX0etzp6dkyp05d0RHGYvucU8V4#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/7rHooguyeZlX9oF82nmf8fCwtJMBf3BU06MMOa_zcxY#.job_boards.Indeed",
 "skills": [
 "SQL",
 "REST APIs",
@@ -7947,7 +7977,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/CC_XgejTvanRESMJLnQhJkPpk5UBcIH288PmeCo5PdY#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/WpuHcH0shBU__O4yo1zw87itgeVLzosJSpwkj5hHnJk#.job_boards.Indeed",
 "skills": [
 "Python",
 "Java",
@@ -8168,7 +8198,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01884636&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01884636%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Dbfd31bfc-cf30-11f1-85c8-f771e37d4d4c%26rx_job%3D01884636%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T060406Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3426&rx_jobId=01884636&rx_url=https%3A%2F%2Fcareers.rtx.com%2Fglobal%2Fen%2Fjob%2F01884636%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122223%26rx_id%3Dbfd31bfc-cf30-11f1-85c8-f771e37d4d4c%26rx_job%3D01884636%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T100438Z%26rx_vp%3Dcpc",
 "skills": [
 "JavaScript",
 "Bash/Shell",
@@ -8482,6 +8512,131 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4472816898",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software developer",
+"company": "Maarut",
+"location": "Canada",
+"posted": "2026-10-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571623",
+"source": "Job Bank",
+"country": "CA",
+"years": 15
+},
+{
+"title": "Electronic commerce (e-commerce) Web site developer",
+"company": "KittySpout",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571678",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Operations Engineer",
+"company": "Take-Two Interactive",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4455690944",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-Op/Intern Support and Learning Platform Administrator",
+"company": "Kinaxis",
+"location": "Remote, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=3e5d779e6a69d474",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers-kinaxis.icims.com/jobs/35299/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$19.46 - $28.55",
+"start": "January 2027",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Salesforce"
+]
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Spektrix",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571600",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Northern Lights College",
+"location": "Fort St. John, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571672",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Laboratory Quality Assurance Specialist - Dartmouth",
+"company": "AGAT Laboratories",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4478939569",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Ops Analyst",
+"company": "SAIC",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=8876c9241b860b59",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618389&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393914-cybersecurity-ops-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db8421273-cf52-11f1-a9a2-81f0875918f6%26rx_job%3D2618389%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T100404Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618389",
+"salary": "$40,001 - $80,000 USD per year",
+"skills": [
+"Python",
+"PowerShell",
+"Linux",
+"Monitoring",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"EDR",
+"Threat intelligence",
+"Windows",
+"CompTIA Security+"
+]
+},
+{
+"title": "IT Specialist",
+"company": "Fairmont Hotels & Resorts",
+"location": "Jasper, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482858306",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Applications Support Specialist",
+"company": "Apex Systems",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482861371",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -17052,7 +17207,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/JEjljCzgnb1VT2-xijzqQJTrBd8beRB26rjFsqW3uwk#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/8LCKEf1f-RBo7RZCDW8uToPxEC4wIImkYqkX2NXWa5A#.job_boards.Indeed",
 "skills": [
 "Python",
 "SQL",
