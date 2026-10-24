@@ -1,139 +1,33 @@
 {
-"updated": "2026-10-24T08:09:49+00:00",
+"updated": "2026-10-24T08:19:50+00:00",
 "jobs": [
 {
-"title": "Software developer",
-"company": "Bell Canada",
-"location": "Bedford, Nova Scotia, Canada",
+"title": "Architecture Research Intern (Predictive Modelling & Simulations), 12-months",
+"company": "Alberta Motor Association",
+"location": "Edmonton, AB, CA (remote)",
 "posted": "2026-10-24",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50570724",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Verification Engineer – AI SoC Development",
-"company": "Intel",
-"location": "Canada, Toronto",
-"posted": "2026-10-24",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
-"source": "Intel careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "UX Designer",
-"company": "CarltonOne Engagement",
-"location": "Markham, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=0b39dfd4223b464e",
+"link": "https://ca.indeed.com/viewjob?jk=a275df495582fec1",
 "source": "Indeed",
 "country": "CA",
-"years": 10,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a42524a5-e19f-4788-838a-370ca1272e62&ccId=19000101_000003&lang=en_CA&locale=en_CA&jobId=570806",
-"salary": "$115,000 to $135,000",
-"skills": [
-"Azure",
-"Cybersecurity",
-"SOC",
-"Incident response",
-"IAM",
-"NIST / ISO 27001",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Jira",
-"System design",
-"SAP",
-"CISSP",
-"ITIL"
-]
-},
-{
-"title": "Receptionist/Sales",
-"company": "Body Vision Fitness Inc.",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
-"salary": "$18.00-$20.00 per hour"
-},
-{
-"title": "Business Analyst - REMOTE",
-"company": "Knock",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://grnh.se/92h2xfbe4us",
-"salary": "$86,500 - $114,000 USD per year",
+"years": null,
+"apply": "https://albertamotorassociation.wd3.myworkdayjobs.com/en-US/AMA/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921",
 "skills": [
 "Python",
-"SQL",
-"ETL / data pipelines",
-"Power BI",
-"Tableau",
-"Looker",
-"Excel",
-"Data visualization",
-"Microsoft 365",
-"System design"
+"NumPy",
+"LLMs / GenAI",
+"Statistics",
+"Data structures & algorithms"
 ]
 },
 {
-"title": "IT Operations & Case Management Specialist",
-"company": "Blueprint Technologies",
-"location": "Remote · United States",
+"title": "Cybersecurity specialist",
+"company": "Silaris Solutions Inc",
+"location": "Milton, Ontario, Canada",
 "posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://grnh.se/hl8sjriw1us",
-"salary": "$28 - $32 USD per hour",
-"skills": [
-"Excel",
-"Azure",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Jira",
-"Azure certification"
-]
-},
-{
-"title": "Digital & Treasury Analyst",
-"company": "GROVE BANK & TRUST",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=83cb773056aff446",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b1ea3d87-a101-4eaf-96d6-9b82b8845a27&ccId=19000101_000001&jobId=560371&source=IN&lang=en_US",
-"skills": [
-"Excel",
-"Cybersecurity",
-"Microsoft 365",
-"Help desk / troubleshooting",
-"System design"
-]
-},
-{
-"title": "Intermediate Process Mechanical Engineer- Water",
-"company": "Stantec",
-"location": "Edmonton, AB, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=a380dcac20ba8192",
-"source": "Indeed",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50571474",
+"source": "Job Bank",
 "country": "CA",
-"years": 5,
-"apply": "https://rr.jobsyn.org/18C612515AC042979945813F8B063C691554"
+"years": 5
 },
 {
 "title": "Software Development Engineer (SDE) | United States",
@@ -167,6 +61,150 @@
 "Agile / Scrum",
 "System design"
 ]
+},
+{
+"title": "Intermediate Process Mechanical Engineer- Water",
+"company": "Stantec",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=a380dcac20ba8192",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://rr.jobsyn.org/18C612515AC042979945813F8B063C691554"
+},
+{
+"title": "Digital & Treasury Analyst",
+"company": "GROVE BANK & TRUST",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=83cb773056aff446",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b1ea3d87-a101-4eaf-96d6-9b82b8845a27&ccId=19000101_000001&jobId=560371&source=IN&lang=en_US",
+"skills": [
+"Excel",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"System design"
+]
+},
+{
+"title": "IT Operations & Case Management Specialist",
+"company": "Blueprint Technologies",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/hl8sjriw1us",
+"salary": "$28 - $32 USD per hour",
+"skills": [
+"Excel",
+"Azure",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Azure certification"
+]
+},
+{
+"title": "Business Analyst - REMOTE",
+"company": "Knock",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://grnh.se/92h2xfbe4us",
+"salary": "$86,500 - $114,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Looker",
+"Excel",
+"Data visualization",
+"Microsoft 365",
+"System design"
+]
+},
+{
+"title": "Receptionist/Sales",
+"company": "Body Vision Fitness Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
+"salary": "$18.00-$20.00 per hour"
+},
+{
+"title": "UX Designer",
+"company": "CarltonOne Engagement",
+"location": "Markham, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=0b39dfd4223b464e",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a42524a5-e19f-4788-838a-370ca1272e62&ccId=19000101_000003&lang=en_CA&locale=en_CA&jobId=570806",
+"salary": "$115,000 to $135,000",
+"skills": [
+"Azure",
+"Cybersecurity",
+"SOC",
+"Incident response",
+"IAM",
+"NIST / ISO 27001",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira",
+"System design",
+"SAP",
+"CISSP",
+"ITIL"
+]
+},
+{
+"title": "Verification Engineer – AI SoC Development",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-10-24",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software developer",
+"company": "Bell Canada",
+"location": "Bedford, Nova Scotia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50570724",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Directeur(rice), Projets d'infrastructure",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-10-24T07:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Directeur%28rice%29%2C-Projets-d'infrastructure-ON-M5H-0A9/1433938100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Intern, Project Engineering - Global 5500/6500 (Winter 2027)",
@@ -8122,6 +8160,27 @@
 "years": 3,
 "apply": "https://careers.purdue.edu/PurdueUniversityGlobal/job/Purdue-Global-Full-Time-Faculty%2C-English-&-Rhetoric-%28Remote%29/44704-en_US",
 "salary": "$64,000"
+},
+{
+"title": "Professor, Community and Justice Services",
+"company": "LOYALIST COLLEGE",
+"location": "Belleville, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=b1dc82008aee1d3c",
+"source": "Indeed",
+"country": "CA",
+"years": 8,
+"apply": "https://gjobs.neogov.ca/careers/loyalistcollege/jobs/121219/professor-community-and-justice-services"
+},
+{
+"title": "Associate Cloud Engineer",
+"company": "Aptiv",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482833918",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Systems Engineer - Behavior Verification",
