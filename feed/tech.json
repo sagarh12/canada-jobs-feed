@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-24T02:09:50+00:00",
+"updated": "2026-10-24T02:19:52+00:00",
 "jobs": [
 {
 "title": "UX Designer",
@@ -29,6 +29,16 @@
 "CISSP",
 "ITIL"
 ]
+},
+{
+"title": "Intern, Project Engineering - Global 5500/6500 (Winter 2027)",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-24T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Intern%2C-Project-Engineering-Global-55006500-%28Winter-2027%29-ON-L5S-1W1/1441554633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Assistant Professor - Emerging Directions in Chemical Engineering",
@@ -116,6 +126,26 @@
 "location": "Toronto, ON, CA, M5H 1H1",
 "posted": "2026-10-24T02:00:00+00:00",
 "link": "https://jobs.scotiabank.com/job/Toronto-Crypto-Platform-Engineer-ON-M5H-1H1/603947817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "ServiceNow Developer",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M5H 1H1",
+"posted": "2026-10-24T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-ServiceNow-Developer-ON-M5H-1H1/603030017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer (Data Modeling/Data Governance)",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M2H0A1",
+"posted": "2026-10-24T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/Tangerine/job/Toronto-Data-Engineer-%28Data-ModelingData-Governance%29-ON-M2H0A1/606471417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 5
@@ -6866,6 +6896,185 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4482821072",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Application Analyst (WMS)",
+"company": "Canada Cartage",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=0e64d429a2a065d8",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-CA/ccgroup/CANDIDATEPORTAL/jobs/836",
+"skills": [
+"SQL",
+"REST APIs",
+"Power BI",
+"Excel",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "DevOps Engineer",
+"company": "Pillway",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-23",
+"link": "https://ca.indeed.com/viewjob?jk=c1615eac15e69c11",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://app.workwolf.com/pipelineLink/AZDPAAR4?utm_source=indeed",
+"skills": [
+"LLMs / GenAI",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Infrastructure as code",
+"SIEM",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Penetration testing",
+"IAM",
+"Firewalls",
+"NIST / ISO 27001",
+"Cloud security",
+"System design",
+"Azure certification",
+"CISSP"
+]
+},
+{
+"title": "Internship - Software Engineering",
+"company": "Veeda AI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482800933",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "iHeartMedia",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=7ee46c78faf5051e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://iheartmedia.wd5.myworkdayjobs.com/en-US/External_iHM/job/Virtual-CA/Data-Analyst_Req39536-2",
+"salary": "$24 - $30 USD per hour",
+"skills": [
+"Python",
+"SQL",
+"Pandas",
+"Looker",
+"Excel",
+"Data visualization",
+"AWS",
+"Linux",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Automation Engineer",
+"company": "JLL",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=eab452bbe3a15182",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://click.appcast.io/t/wYKLkdsJfVNRQKXRTic-EUgR6duIvNjek6eIh651Xuc=",
+"salary": "$90,000 - $110,000 USD per year",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Cloud Infrastructure & Operations Engineer (AWS)",
+"company": "BrandRank.ai",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=c0114e9080900d1c",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/cloud-infrastructure-operations-engineer-aws-c0114e9080900d1c",
+"salary": "$100,000 - $120,000 USD per year",
+"skills": [
+"Python",
+"Bash/Shell",
+"Django",
+"FastAPI",
+"LLMs / GenAI",
+"AWS",
+"Docker",
+"Terraform",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Linux",
+"Infrastructure as code",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"SOC",
+"Incident response",
+"IAM",
+"NIST / ISO 27001"
+]
+},
+{
+"title": "Application Programmer Analyst I",
+"company": "University of Kentucky",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=ca92b38e66c131dd",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://ukjobs.uky.edu/postings/653174",
+"salary": "$53,061 - $87,526 USD per year",
+"skills": [
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"HTML/CSS",
+".NET",
+"jQuery",
+"SQL Server",
+"Azure",
+"Linux",
+"Object-oriented programming",
+"System design",
+"SDLC"
+]
+},
+{
+"title": "Linux Engineering Intern",
+"company": "Aptiv",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482817382",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Environmental Data Analyst",
+"company": "Stantec",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483301020",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
