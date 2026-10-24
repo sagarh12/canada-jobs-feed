@@ -1,5 +1,5 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,46%,463,463,463,2026-10-24
+1,Help desk / troubleshooting,IT support,45%,463,463,463,2026-10-24
 2,SQL,Language,27%,278,278,278,2026-10-24
 3,REST APIs,Framework,25%,250,250,250,2026-10-24
 4,Python,Language,24%,244,244,244,2026-10-24
@@ -14,7 +14,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 13,AWS,Cloud & DevOps,13%,136,136,136,2026-10-24
 14,Cybersecurity,Security,12%,124,124,124,2026-10-24
 15,CI/CD,Cloud & DevOps,12%,121,121,121,2026-10-24
-16,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,117,117,117,2026-10-24
+16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,117,117,117,2026-10-24
 17,"Ticketing (ServiceNow, Jira)",IT support,11%,113,113,113,2026-10-24
 18,LLMs / GenAI,Data & AI,11%,112,112,112,2026-10-24
 19,Statistics,Data & AI,11%,109,109,109,2026-10-24
@@ -79,10 +79,10 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 78,GitHub Actions,Cloud & DevOps,2%,21,21,21,2026-10-24
 79,CISSP,Certification,2%,20,20,20,2026-10-24
 80,NLP,Data & AI,2%,20,20,20,2026-10-24
-81,R,Language,2%,19,19,19,2026-10-24
-82,SIEM,Security,2%,19,19,19,2026-10-24
-83,Spring Boot,Framework,2%,19,19,19,2026-10-24
-84,Google Workspace,IT support,2%,18,18,18,2026-10-24
+81,Google Workspace,IT support,2%,19,19,19,2026-10-24
+82,R,Language,2%,19,19,19,2026-10-24
+83,SIEM,Security,2%,19,19,19,2026-10-24
+84,Spring Boot,Framework,2%,19,19,19,2026-10-24
 85,Selenium / Cypress,Practice,2%,16,16,16,2026-10-24
 86,Vector databases,Database,2%,16,16,16,2026-10-24
 87,Airflow,Data & AI,1%,15,15,15,2026-10-24
@@ -146,4 +146,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 145,Laravel,Framework,0%,1,1,1,2026-10-24
 146,Verilog/VHDL,Language,0%,1,1,1,2026-10-24
 
-,Based on 1017 postings in the last 30 days (1017 all time)
+,Based on 1018 postings in the last 30 days (1018 all time)
