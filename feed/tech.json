@@ -1,79 +1,45 @@
 {
-"updated": "2026-10-24T07:32:32+00:00",
+"updated": "2026-10-24T07:39:51+00:00",
 "jobs": [
 {
-"title": "Digital & Treasury Analyst",
-"company": "GROVE BANK & TRUST",
-"location": "Remote · United States",
+"title": "Software developer",
+"company": "Bell Canada",
+"location": "Bedford, Nova Scotia, Canada",
 "posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=83cb773056aff446",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b1ea3d87-a101-4eaf-96d6-9b82b8845a27&ccId=19000101_000001&jobId=560371&source=IN&lang=en_US",
-"skills": [
-"Excel",
-"Cybersecurity",
-"Microsoft 365",
-"Help desk / troubleshooting",
-"System design"
-]
-},
-{
-"title": "IT Operations & Case Management Specialist",
-"company": "Blueprint Technologies",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://grnh.se/hl8sjriw1us",
-"salary": "$28 - $32 USD per hour",
-"skills": [
-"Excel",
-"Azure",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Jira",
-"Azure certification"
-]
-},
-{
-"title": "Business Analyst - REMOTE",
-"company": "Knock",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://grnh.se/92h2xfbe4us",
-"salary": "$86,500 - $114,000 USD per year",
-"skills": [
-"Python",
-"SQL",
-"ETL / data pipelines",
-"Power BI",
-"Tableau",
-"Looker",
-"Excel",
-"Data visualization",
-"Microsoft 365",
-"System design"
-]
-},
-{
-"title": "Receptionist/Sales",
-"company": "Body Vision Fitness Inc.",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
-"source": "Indeed",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50570724",
+"source": "Job Bank",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
-"salary": "$18.00-$20.00 per hour"
+"years": null
+},
+{
+"title": "NPI Optical Test Engineer",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-24",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Optical-Test-Engineer_R031476",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Early Career Software Test Developer - Propulsion Thermal Management",
+"company": "General Motors",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250",
+"source": "General Motors careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Verification Engineer – AI SoC Development",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-10-24",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
+"source": "Intel careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "UX Designer",
@@ -105,44 +71,78 @@
 ]
 },
 {
-"title": "Verification Engineer – AI SoC Development",
-"company": "Intel",
-"location": "Canada, Toronto",
+"title": "Receptionist/Sales",
+"company": "Body Vision Fitness Inc.",
+"location": "Richmond Hill, ON, CA",
 "posted": "2026-10-24",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Verification-Engineer---AI-SoC-Development_JR0287994",
-"source": "Intel careers",
+"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
+"source": "Indeed",
 "country": "CA",
-"years": null
+"years": 3,
+"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
+"salary": "$18.00-$20.00 per hour"
 },
 {
-"title": "Early Career Software Test Developer - Propulsion Thermal Management",
-"company": "General Motors",
-"location": "Markham, Ontario, Canada",
+"title": "Business Analyst - REMOTE",
+"company": "Knock",
+"location": "Remote · United States",
 "posted": "2026-10-24",
-"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250",
-"source": "General Motors careers",
-"country": "CA",
-"years": null
+"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://grnh.se/92h2xfbe4us",
+"salary": "$86,500 - $114,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Looker",
+"Excel",
+"Data visualization",
+"Microsoft 365",
+"System design"
+]
 },
 {
-"title": "NPI Optical Test Engineer",
-"company": "Ciena",
-"location": "Ottawa",
+"title": "IT Operations & Case Management Specialist",
+"company": "Blueprint Technologies",
+"location": "Remote · United States",
 "posted": "2026-10-24",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Optical-Test-Engineer_R031476",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
+"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/hl8sjriw1us",
+"salary": "$28 - $32 USD per hour",
+"skills": [
+"Excel",
+"Azure",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Azure certification"
+]
 },
 {
-"title": "Software developer",
-"company": "Bell Canada",
-"location": "Bedford, Nova Scotia, Canada",
+"title": "Digital & Treasury Analyst",
+"company": "GROVE BANK & TRUST",
+"location": "Remote · United States",
 "posted": "2026-10-24",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50570724",
-"source": "Job Bank",
-"country": "CA",
-"years": null
+"link": "https://www.indeed.com/viewjob?jk=83cb773056aff446",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b1ea3d87-a101-4eaf-96d6-9b82b8845a27&ccId=19000101_000001&jobId=560371&source=IN&lang=en_US",
+"skills": [
+"Excel",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"System design"
+]
 },
 {
 "title": "Intern, Project Engineering - Global 5500/6500 (Winter 2027)",
