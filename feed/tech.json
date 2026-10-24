@@ -1,62 +1,6 @@
 {
-"updated": "2026-10-24T02:49:49+00:00",
+"updated": "2026-10-24T02:59:51+00:00",
 "jobs": [
-{
-"title": "IT Operations & Case Management Specialist",
-"company": "Blueprint Technologies",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://grnh.se/hl8sjriw1us",
-"salary": "$28 - $32 USD per hour",
-"skills": [
-"Excel",
-"Azure",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Jira",
-"Azure certification"
-]
-},
-{
-"title": "Business Analyst - REMOTE",
-"company": "Knock",
-"location": "Remote · United States",
-"posted": "2026-10-24",
-"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://grnh.se/92h2xfbe4us",
-"salary": "$86,500 - $114,000 USD per year",
-"skills": [
-"Python",
-"SQL",
-"ETL / data pipelines",
-"Power BI",
-"Tableau",
-"Looker",
-"Excel",
-"Data visualization",
-"Microsoft 365",
-"System design"
-]
-},
-{
-"title": "Receptionist/Sales",
-"company": "Body Vision Fitness Inc.",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-10-24",
-"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
-"salary": "$18.00-$20.00 per hour"
-},
 {
 "title": "UX Designer",
 "company": "CarltonOne Engagement",
@@ -84,6 +28,62 @@
 "SAP",
 "CISSP",
 "ITIL"
+]
+},
+{
+"title": "Receptionist/Sales",
+"company": "Body Vision Fitness Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=23277bbbce2c94e2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/receptionistsales-23277bbbce2c94e2",
+"salary": "$18.00-$20.00 per hour"
+},
+{
+"title": "Business Analyst - REMOTE",
+"company": "Knock",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=abf92b7a5544f772",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://grnh.se/92h2xfbe4us",
+"salary": "$86,500 - $114,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Looker",
+"Excel",
+"Data visualization",
+"Microsoft 365",
+"System design"
+]
+},
+{
+"title": "IT Operations & Case Management Specialist",
+"company": "Blueprint Technologies",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=97d5c05444ed2374",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/hl8sjriw1us",
+"salary": "$28 - $32 USD per hour",
+"skills": [
+"Excel",
+"Azure",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Azure certification"
 ]
 },
 {
