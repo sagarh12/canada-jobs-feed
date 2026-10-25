@@ -1,17 +1,17 @@
 {
-"updated": "2026-10-25T02:39:46+00:00",
+"updated": "2026-10-25T02:49:48+00:00",
 "jobs": [
 {
-"title": "Customer Support Representative – Home Heating",
-"company": "Blue Ocean Contact Centers",
-"location": "Halifax, NS, CA",
+"title": "Automotive Service Advisor",
+"company": "Village Auto Service",
+"location": "Ancaster, ON, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
+"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
-"salary": "$17.00"
+"years": 2,
+"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
+"salary": "$25.00-$40.00 per hour"
 },
 {
 "title": "Technical Instructor – Emerging Technologies, Python, Data Engineering & AI Development",
@@ -46,16 +46,16 @@
 ]
 },
 {
-"title": "Automotive Service Advisor",
-"company": "Village Auto Service",
-"location": "Ancaster, ON, CA",
+"title": "Customer Support Representative – Home Heating",
+"company": "Blue Ocean Contact Centers",
+"location": "Halifax, NS, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
+"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
 "source": "Indeed",
 "country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
-"salary": "$25.00-$40.00 per hour"
+"years": null,
+"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
+"salary": "$17.00"
 },
 {
 "title": "Mobile Response Team - Aircraft Maintenance Technician (San Francisco & Surrounding Area)",
@@ -1239,6 +1239,22 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Business Development Intern",
+"company": "Metricoid Technology Solutions",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=6520cbaff7811e33",
+"source": "Indeed",
+"country": "US",
+"years": 15,
+"apply": "https://creator.mtesthub.com/job/post/details/0893a50f-2da5-4e8a-8bac-24981f7fa1cf",
+"skills": [
+"Machine learning",
+"LLMs / GenAI",
+"System design"
+]
 },
 {
 "title": "Directeur(rice), Projets d'infrastructure",
@@ -6369,7 +6385,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://careers.cognizant.com:20057/global-en/jobs/00071088941/businessdata-analyst-property-casualty-pc-insurance/",
+"apply": "https://careers.cognizant.com/global-en/jobs/00071088941/businessdata-analyst-property-casualty-pc-insurance/",
 "salary": "$100,000 - $135,000 USD per year",
 "skills": [
 "C",
@@ -8547,7 +8563,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 6,
-"apply": "https://careers.cognizant.com:20057/global-en/jobs/00070973601/ai-augmented-quality-engineer-guidewire-implementation/",
+"apply": "https://careers.cognizant.com/global-en/jobs/00070973601/ai-augmented-quality-engineer-guidewire-implementation/",
 "salary": "CAD 51,150– CAD 90,000 per year",
 "skills": [
 "C",
@@ -13420,6 +13436,76 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4480091884",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer",
+"company": "Kumaran Systems",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4436238117",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer Full Stack / Backend I (Co-op) - Canada",
+"company": "Cisco",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474523800",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Risk Analyst",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480063941",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electrical Co-op",
+"company": "Ausenco",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481930859",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Sales Intern- Mississauga",
+"company": "Captiveaire - Region 114 Western PA",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483148034",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Risk Systems Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4463932384",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "TVM Analyst",
+"company": "J&M Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483149651",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
