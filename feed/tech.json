@@ -1,17 +1,17 @@
 {
-"updated": "2026-10-25T01:59:46+00:00",
+"updated": "2026-10-25T02:09:51+00:00",
 "jobs": [
 {
-"title": "Customer Support Representative – Home Heating",
-"company": "Blue Ocean Contact Centers",
-"location": "Halifax, NS, CA",
+"title": "Automotive Service Advisor",
+"company": "Village Auto Service",
+"location": "Ancaster, ON, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
+"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
-"salary": "$17.00"
+"years": 2,
+"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
+"salary": "$25.00-$40.00 per hour"
 },
 {
 "title": "Technical Instructor – Emerging Technologies, Python, Data Engineering & AI Development",
@@ -46,16 +46,16 @@
 ]
 },
 {
-"title": "Automotive Service Advisor",
-"company": "Village Auto Service",
-"location": "Ancaster, ON, CA",
+"title": "Customer Support Representative – Home Heating",
+"company": "Blue Ocean Contact Centers",
+"location": "Halifax, NS, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
+"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
 "source": "Indeed",
 "country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
-"salary": "$25.00-$40.00 per hour"
+"years": null,
+"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
+"salary": "$17.00"
 },
 {
 "title": "Software Engineer, Ad Signals",
@@ -25193,33 +25193,6 @@
 "source": "Zscaler careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Applied AI Engineer (Full-Stack)",
-"company": "Pinecone",
-"location": "Remote · United States",
-"posted": "2026-10-22T02:02:42.448+00:00",
-"link": "https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
-"source": "Pinecone careers",
-"country": "US",
-"years": null,
-"quals": [
-"You don't need to check every box, but you should enjoy building software and be excited about what AI makes possible.",
-"FULL-STACK ENGINEERING",
-"Strong software engineering background with experience designing, building, and shipping production applications.",
-"Proficiency in Python and/or TypeScript, including modern backend frameworks and frontend technologies such as React or Next.js."
-],
-"skills": [
-"Python",
-"TypeScript",
-"React",
-"Next.js",
-"REST APIs",
-"LLMs / GenAI",
-"RAG",
-"ETL / data pipelines",
-"Vector databases"
-]
 }
 ]
 }
