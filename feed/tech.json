@@ -1,39 +1,36 @@
 {
-"updated": "2026-10-25T12:47:14+00:00",
+"updated": "2026-10-25T13:19:46+00:00",
 "jobs": [
 {
-"title": "Software developer",
-"company": "The French Sourcer",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-25",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50576301",
-"source": "Job Bank",
-"country": "CA",
-"years": 6
-},
-{
-"title": "SEO Analyst",
-"company": "",
+"title": "GIS Specialist – ArcGIS Online & Experience Builder (Remote)",
+"company": "Pausa365",
 "location": "Remote · United States",
 "posted": "2026-10-25",
-"link": "https://www.indeed.com/viewjob?jk=cb09fdfc686c5d55",
+"link": "https://www.indeed.com/viewjob?jk=953deef015e19a3c",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/seo-analyst-cb09fdfc686c5d55",
-"salary": "$10 - $20 USD per hour"
+"apply": "http://www.indeed.com/job/gis-specialist-arcgis-online-experience-builder-remote-953deef015e19a3c",
+"salary": "$45,000.00 per year",
+"skills": [
+"Python",
+"SQL",
+"Data visualization",
+"PostgreSQL",
+"Help desk / troubleshooting"
+]
 },
 {
-"title": "Automotive Service Advisor",
-"company": "Village Auto Service",
-"location": "Ancaster, ON, CA",
+"title": "Customer Support Representative – Home Heating",
+"company": "Blue Ocean Contact Centers",
+"location": "Halifax, NS, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
+"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
 "source": "Indeed",
 "country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
-"salary": "$25.00-$40.00 per hour"
+"years": null,
+"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
+"salary": "$17.00"
 },
 {
 "title": "Technical Instructor – Emerging Technologies, Python, Data Engineering & AI Development",
@@ -68,16 +65,38 @@
 ]
 },
 {
-"title": "Customer Support Representative – Home Heating",
-"company": "Blue Ocean Contact Centers",
-"location": "Halifax, NS, CA",
+"title": "Automotive Service Advisor",
+"company": "Village Auto Service",
+"location": "Ancaster, ON, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
+"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
 "source": "Indeed",
 "country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
+"salary": "$25.00-$40.00 per hour"
+},
+{
+"title": "SEO Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-25",
+"link": "https://www.indeed.com/viewjob?jk=cb09fdfc686c5d55",
+"source": "Indeed",
+"country": "US",
 "years": null,
-"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
-"salary": "$17.00"
+"apply": "http://www.indeed.com/job/seo-analyst-cb09fdfc686c5d55",
+"salary": "$10 - $20 USD per hour"
+},
+{
+"title": "Software developer",
+"company": "The French Sourcer",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50576301",
+"source": "Job Bank",
+"country": "CA",
+"years": 6
 },
 {
 "title": "Transportation Engineering Specialist",
@@ -1932,6 +1951,176 @@
 "location": "Timmins, Ontario, Canada",
 "posted": "2026-10-24",
 "link": "https://www.linkedin.com/jobs/view/4427745312",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Analyst",
+"company": "CAA Club Group",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4425791945",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Data Control",
+"company": "Parkland Corporation",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473195184",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Enterprise Strategy Analyst",
+"company": "Lightspeed Commerce",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473177786",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Analyst- 12 month contract",
+"company": "Mejuri",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4464551081",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op Assistant Coordinator, Data",
+"company": "Aecon Group Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4464558335",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AltaGas - 2027 Engineering Co-op Student",
+"company": "AltaGas Ltd.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473806018",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud DevOps Specialist",
+"company": "Accenture",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473805356",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Legal Affairs & Innovation",
+"company": "Eddyfi Technologies",
+"location": "",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4475068715",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Firmware DSP Engineer",
+"company": "Nokia",
+"location": "Kanata, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4463998220",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-Op/Intern Support and Learning Platform Administrator",
+"company": "Kinaxis",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483180482",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-Op/Intern Support and Learning Platform Administrator",
+"company": "Kinaxis",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483186339",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-Op/Intern Support and Learning Platform Administrator",
+"company": "Kinaxis",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483168864",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-Op/Intern Support and Learning Platform Administrator",
+"company": "Kinaxis",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483168863",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-Op/Intern Support and Learning Platform Administrator",
+"company": "Kinaxis",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483178556",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Software Engineer in Test",
+"company": "Veeva Systems",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473858281",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Validation Specialist",
+"company": "Grifols",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4474787410",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Intern",
+"company": "Zurich Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473336966",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15363,6 +15552,56 @@
 "location": "Oakville, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4468669752",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Analyst",
+"company": "Government of Alberta",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481964026",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Deductions Specialist, North America",
+"company": "McCain Foods",
+"location": "Florenceville-Bristol, New Brunswick, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4466002937",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Native Software Engineer II, Identity & Trust",
+"company": "Remitly",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483150598",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Artificial Intelligence Engineer",
+"company": "Zodiac Solutions, Inc",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480672685",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Developer",
+"company": "Zodiac Solutions, Inc",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480670221",
 "source": "LinkedIn",
 "country": "CA",
 "years": null

@@ -1,7 +1,7 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,46%,489,489,489,2026-10-25
-2,SQL,Language,27%,289,289,289,2026-10-25
-3,Python,Language,25%,261,261,261,2026-10-25
+1,Help desk / troubleshooting,IT support,46%,490,490,490,2026-10-25
+2,SQL,Language,27%,290,290,290,2026-10-25
+3,Python,Language,25%,262,262,262,2026-10-25
 4,REST APIs,Framework,24%,259,259,259,2026-10-25
 5,Excel,Data & AI,20%,210,210,210,2026-10-25
 6,Hardware setup,IT support,19%,206,206,206,2026-10-25
@@ -42,9 +42,9 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 41,Firewalls,Security,5%,58,58,58,2026-10-25
 42,SDLC,Practice,5%,58,58,58,2026-10-25
 43,Vulnerability management,Security,5%,57,57,57,2026-10-25
-44,PowerShell,Language,5%,54,54,54,2026-10-25
-45,Bash/Shell,Language,5%,53,53,53,2026-10-25
-46,PostgreSQL,Database,5%,53,53,53,2026-10-25
+44,PostgreSQL,Database,5%,54,54,54,2026-10-25
+45,PowerShell,Language,5%,54,54,54,2026-10-25
+46,Bash/Shell,Language,5%,53,53,53,2026-10-25
 47,Incident response,Security,5%,50,50,50,2026-10-25
 48,C++,Language,5%,49,49,49,2026-10-25
 49,Embedded systems,Practice,5%,48,48,48,2026-10-25
@@ -52,7 +52,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 51,SOC,Security,5%,48,48,48,2026-10-25
 52,Tableau,Data & AI,5%,48,48,48,2026-10-25
 53,NIST / ISO 27001,Security,4%,46,46,46,2026-10-25
-54,Data visualization,Data & AI,4%,43,43,43,2026-10-25
+54,Data visualization,Data & AI,4%,44,44,44,2026-10-25
 55,Databricks,Data & AI,4%,43,43,43,2026-10-25
 56,Snowflake,Data & AI,4%,43,43,43,2026-10-25
 57,.NET,Framework,4%,42,42,42,2026-10-25
@@ -146,4 +146,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 145,Laravel,Framework,0%,1,1,1,2026-10-25
 146,Verilog/VHDL,Language,0%,1,1,1,2026-10-25
 
-,Based on 1065 postings in the last 30 days (1065 all time)
+,Based on 1066 postings in the last 30 days (1066 all time)
