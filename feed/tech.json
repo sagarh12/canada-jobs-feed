@@ -1,17 +1,39 @@
 {
-"updated": "2026-10-25T10:29:48+00:00",
+"updated": "2026-10-25T10:49:49+00:00",
 "jobs": [
 {
-"title": "Customer Support Representative – Home Heating",
-"company": "Blue Ocean Contact Centers",
-"location": "Halifax, NS, CA",
+"title": "Software developer",
+"company": "The French Sourcer",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50576301",
+"source": "Job Bank",
+"country": "CA",
+"years": 6
+},
+{
+"title": "SEO Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-25",
+"link": "https://www.indeed.com/viewjob?jk=cb09fdfc686c5d55",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/seo-analyst-cb09fdfc686c5d55",
+"salary": "$10 - $20 USD per hour"
+},
+{
+"title": "Automotive Service Advisor",
+"company": "Village Auto Service",
+"location": "Ancaster, ON, CA",
+"posted": "2026-10-25",
+"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
-"salary": "$17.00"
+"years": 2,
+"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
+"salary": "$25.00-$40.00 per hour"
 },
 {
 "title": "Technical Instructor – Emerging Technologies, Python, Data Engineering & AI Development",
@@ -46,38 +68,16 @@
 ]
 },
 {
-"title": "Automotive Service Advisor",
-"company": "Village Auto Service",
-"location": "Ancaster, ON, CA",
+"title": "Customer Support Representative – Home Heating",
+"company": "Blue Ocean Contact Centers",
+"location": "Halifax, NS, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
+"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
 "source": "Indeed",
 "country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
-"salary": "$25.00-$40.00 per hour"
-},
-{
-"title": "SEO Analyst",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-10-25",
-"link": "https://www.indeed.com/viewjob?jk=cb09fdfc686c5d55",
-"source": "Indeed",
-"country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/seo-analyst-cb09fdfc686c5d55",
-"salary": "$10 - $20 USD per hour"
-},
-{
-"title": "Software developer",
-"company": "The French Sourcer",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-25",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50576301",
-"source": "Job Bank",
-"country": "CA",
-"years": 6
+"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
+"salary": "$17.00"
 },
 {
 "title": "Transportation Engineering Specialist",
@@ -1732,6 +1732,66 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-24",
 "link": "https://www.linkedin.com/jobs/view/4473168797",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant - Cyber Defense - Offensive Security",
+"company": "KPMG Canada",
+"location": "St John’s, Newfoundland and Labrador, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4364014299",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Research Engineer",
+"company": "Thomson Reuters",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4464829853",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern AI&ML Researcher",
+"company": "Kinaxis",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4475000718",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "People Analytics & Automation Specialist",
+"company": "Opendoor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4475013249",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern AI&ML Researcher",
+"company": "Kinaxis",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4475009392",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Developer (.NET, C#, Angular)",
+"company": "PartnerRe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4362691664",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -3821,7 +3881,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 7,
-"apply": "https://candidateportal.ceipal.com/job-details/kq66ehd8xDqi86RhDQJAJR2ipzA8sVxQJZNkPZ9uS08#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/Bmd3HWhMka45SsJxVjEAwVUyfJiLYJIxiyyaoBJKknQ#.job_boards.Indeed",
 "skills": [
 "Java",
 "JavaScript",
@@ -7449,7 +7509,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/v-BwN8fxM-_I0xSECUlDADg5fKnHPLJcATnjAn6W8sk#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/NmgDNBzsdBkUdH_GQPb0EIrkXSztetivjWoQTtagF14#.job_boards.Indeed",
 "skills": [
 "AWS",
 "Docker",
@@ -9391,7 +9451,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/vPMSjfHI75DOcG7LIPDc7DmhYDUECUF-up5mtH_j_S0#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/QKJgE6nPcEVRckt4ada_kljTqJvMbhSVOWylNE0CjxQ#.job_boards.Indeed",
 "skills": [
 "Machine learning",
 "Docker",
@@ -9408,7 +9468,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 15,
-"apply": "https://candidateportal.ceipal.com/job-details/XRYtTr_qEJFTLpTW8Qhet0gNIIXXkn34JG6-b6T-KLw#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/90_IdW8ockwZqdw1l9-iDpW_Ax7_xGxy_PG4z2WeOWA#.job_boards.Indeed",
 "skills": [
 "SQL",
 "REST APIs",
@@ -9451,7 +9511,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/5RI_b5j9V6cfR31jQz12yToY5Am1SlVvPXlpjFxQU98#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/SYWb4jqBkxf07bpvmmH_WE4ERQwMMCWCsyEvXtGTZBA#.job_boards.Indeed",
 "skills": [
 "Python",
 "Java",
@@ -14983,6 +15043,56 @@
 "location": "Mississauga, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4481900092",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Emburse Solution Advisor (ESA) - Extended Services",
+"company": "Emburse Chrome River",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4465653161",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "3319 – Intermediate Salesforce Specialist",
+"company": "Amyantek",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483125667",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Researcher - AI Agents & Knowledge Graphs",
+"company": "Huawei Canada",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483149902",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Stage d'été 2027 - optimisation des processus et gestion des projets",
+"company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481006055",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Systems Engineering - Hydro Mechanics (Winter 2027)",
+"company": "Bombardier",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474385055",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
