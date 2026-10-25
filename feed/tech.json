@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-25T23:09:51+00:00",
+"updated": "2026-10-25T23:19:49+00:00",
 "jobs": [
 {
 "title": "Software developer",
@@ -348,6 +348,31 @@
 "Docker",
 "Kubernetes",
 "Help desk / troubleshooting"
+]
+},
+{
+"title": "Software Engineer",
+"company": "Salas O'Brien",
+"location": "Remote · United States",
+"posted": "2026-10-25",
+"link": "https://www.indeed.com/viewjob?jk=b20350b80d13a9fc",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruiting2.ultipro.com/SAL1016SALO/JobBoard/3347ce03-ba60-4bdc-8af2-26369c80b18f/OpportunityDetail?opportunityId=3c32576b-ac60-45ee-9f84-feea1b92e990&postingId=6850be36-2ef8-4c1f-b25a-03d10552b76d",
+"salary": "$125,000 - $150,000 USD per year",
+"skills": [
+"Python",
+"JavaScript",
+"TypeScript",
+"SQL",
+"React",
+"Django",
+"Flask",
+"FastAPI",
+"REST APIs",
+"SQL Server",
+"Object-oriented programming"
 ]
 },
 {
@@ -4373,6 +4398,153 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-10-24",
 "link": "https://www.linkedin.com/jobs/view/4464855195",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Prototyper / Use Case Builder - Interactive Artifacts & Apps",
+"company": "Infotron",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=7a183c76a44d274d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://infotron-solutions-llc.careerplug.com/j/036gyrv",
+"salary": "$120,000 - $140,000 USD per year",
+"skills": [
+"Python",
+"JavaScript",
+"TypeScript",
+"HTML/CSS",
+"React",
+"Next.js",
+"Tailwind",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"LangChain",
+"Data visualization",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Data Scientist II",
+"company": "Intact",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4417893814",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Green Aircraft Wiring Systems",
+"company": "Bombardier",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4475053877",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electrical Engineering Co-Op (Waterdown, CAN)",
+"company": "L3Harris Technologies",
+"location": "Waterdown, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4466488273",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Support Administrative Assistant",
+"company": "The University of British Columbia",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483188482",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Service Representative",
+"company": "Regional Municipality of Wood Buffalo",
+"location": "Fort McMurray, Alberta, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483336026",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Service Administrator - Carleton Place, ON.",
+"company": "HearingLife Canada",
+"location": "Carleton Place, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473356881",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Technical Specialist - Heavy Equipment",
+"company": "Sandvik",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4464260439",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Experience Specialist - French Bilingual",
+"company": "Quince",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4465169482",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Specialist I (Field Technician Fire Alarm Systems – Service) Richmond / Vancouver BC",
+"company": "Siemens",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4465183914",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "PD Software for Service",
+"company": "Husky Technologies",
+"location": "Bolton, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4482372389",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Altis",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4471574189",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Internal Auditor",
+"company": "Husky Technologies",
+"location": "Bolton, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4482381236",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -19195,6 +19367,45 @@
 "location": "Thunder Bay, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4481992458",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle EPM Developer",
+"company": "Michael Baker International",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=05243857b85b2688",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/preview/310102",
+"salary": "$140,000 - $170,000 USD per year",
+"skills": [
+"REST APIs",
+"Oracle",
+"Cybersecurity",
+"Help desk / troubleshooting",
+"System design"
+]
+},
+{
+"title": "Integration Developer (HL7/FHIR)",
+"company": "Affinity",
+"location": "Thunder Bay, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481994299",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant, Business Effectiveness - Governance and Risk",
+"company": "CIBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483152934",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
