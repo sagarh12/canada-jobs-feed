@@ -1,17 +1,17 @@
 {
-"updated": "2026-10-25T03:09:48+00:00",
+"updated": "2026-10-25T03:19:48+00:00",
 "jobs": [
 {
-"title": "Automotive Service Advisor",
-"company": "Village Auto Service",
-"location": "Ancaster, ON, CA",
+"title": "Customer Support Representative – Home Heating",
+"company": "Blue Ocean Contact Centers",
+"location": "Halifax, NS, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
+"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
 "source": "Indeed",
 "country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
-"salary": "$25.00-$40.00 per hour"
+"years": null,
+"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
+"salary": "$17.00"
 },
 {
 "title": "Technical Instructor – Emerging Technologies, Python, Data Engineering & AI Development",
@@ -46,16 +46,16 @@
 ]
 },
 {
-"title": "Customer Support Representative – Home Heating",
-"company": "Blue Ocean Contact Centers",
-"location": "Halifax, NS, CA",
+"title": "Automotive Service Advisor",
+"company": "Village Auto Service",
+"location": "Ancaster, ON, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
+"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
-"salary": "$17.00"
+"years": 2,
+"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
+"salary": "$25.00-$40.00 per hour"
 },
 {
 "title": "Mobile Response Team - Aircraft Maintenance Technician (San Francisco & Surrounding Area)",
@@ -1255,6 +1255,16 @@
 "LLMs / GenAI",
 "System design"
 ]
+},
+{
+"title": "Systems Support Administrator",
+"company": "Royal Ontario Museum",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4481015695",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Directeur(rice), Projets d'infrastructure",
@@ -13506,6 +13516,124 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4483149651",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer Full Stack / Backend I (Co-op) - Canada",
+"company": "Cisco",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4474543069",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Project Execution Summer Student",
+"company": "South Bow",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481985605",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Assistant QA Inspector (MES) - Day Shift (Co-op)",
+"company": "S&C Electric Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4465332842",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Service Representative",
+"company": "PERGOLUX",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481911679",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Field Services Coordinator",
+"company": "Compugen Inc",
+"location": "",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481148883",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Member Support Representative- French",
+"company": "Dynata",
+"location": "Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481958526",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer (REMOTE)",
+"company": "Koniag Government Services",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=a5afe03aa46b7083",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/12653",
+"salary": "$167,000 - $182,000 USD per year",
+"skills": [
+"Python",
+"Bash/Shell",
+"PowerShell",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"Ansible",
+"CI/CD",
+"GitLab",
+"Git",
+"Infrastructure as code",
+"Monitoring",
+"Cybersecurity",
+"SOC",
+"IAM",
+"EDR",
+"NIST / ISO 27001",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"AWS certification",
+"Azure certification"
+]
+},
+{
+"title": "Quality Control Specialist - Electrical",
+"company": "Aecon Group Inc.",
+"location": "Bowmanville, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4446430789",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "Staffingine LLC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483106993",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
