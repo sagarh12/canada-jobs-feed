@@ -1,24 +1,24 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,46%,480,480,480,2026-10-25
-2,SQL,Language,27%,287,287,287,2026-10-25
-3,REST APIs,Framework,25%,257,257,257,2026-10-25
-4,Python,Language,24%,254,254,254,2026-10-25
-5,Excel,Data & AI,20%,206,206,206,2026-10-25
+2,SQL,Language,27%,288,288,288,2026-10-25
+3,REST APIs,Framework,24%,257,257,257,2026-10-25
+4,Python,Language,24%,255,255,255,2026-10-25
+5,Excel,Data & AI,20%,208,208,208,2026-10-25
 6,Hardware setup,IT support,19%,204,204,204,2026-10-25
 7,System design,Practice,19%,201,201,201,2026-10-25
 8,Azure,Cloud & DevOps,17%,177,177,177,2026-10-25
 9,Agile / Scrum,Practice,17%,174,174,174,2026-10-25
-10,Microsoft 365,IT support,15%,156,156,156,2026-10-25
+10,Microsoft 365,IT support,15%,157,157,157,2026-10-25
 11,Git,Cloud & DevOps,14%,151,151,151,2026-10-25
 12,Windows,IT support,14%,150,150,150,2026-10-25
-13,AWS,Cloud & DevOps,14%,142,142,142,2026-10-25
+13,AWS,Cloud & DevOps,13%,142,142,142,2026-10-25
 14,CI/CD,Cloud & DevOps,12%,129,129,129,2026-10-25
 15,Cybersecurity,Security,12%,129,129,129,2026-10-25
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,121,121,121,2026-10-25
 17,"Ticketing (ServiceNow, Jira)",IT support,11%,117,117,117,2026-10-25
 18,LLMs / GenAI,Data & AI,11%,115,115,115,2026-10-25
 19,Power BI,Data & AI,11%,113,113,113,2026-10-25
-20,Statistics,Data & AI,10%,110,110,110,2026-10-25
+20,Statistics,Data & AI,11%,111,111,111,2026-10-25
 21,IAM,Security,10%,103,103,103,2026-10-25
 22,Linux,Cloud & DevOps,10%,102,102,102,2026-10-25
 23,ETL / data pipelines,Data & AI,9%,99,99,99,2026-10-25
@@ -30,7 +30,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 29,C,Language,8%,79,79,79,2026-10-25
 30,Machine learning,Data & AI,7%,78,78,78,2026-10-25
 31,Oracle,Database,7%,72,72,72,2026-10-25
-32,Data structures & algorithms,Practice,7%,69,69,69,2026-10-25
+32,Data structures & algorithms,Practice,7%,70,70,70,2026-10-25
 33,React,Framework,7%,69,69,69,2026-10-25
 34,Kubernetes,Cloud & DevOps,6%,67,67,67,2026-10-25
 35,HTML/CSS,Language,6%,65,65,65,2026-10-25
@@ -49,12 +49,12 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 48,Incident response,Security,5%,48,48,48,2026-10-25
 49,SOC,Security,5%,48,48,48,2026-10-25
 50,Tableau,Data & AI,5%,48,48,48,2026-10-25
-51,ITIL,Certification,4%,47,47,47,2026-10-25
-52,Embedded systems,Practice,4%,46,46,46,2026-10-25
-53,Databricks,Data & AI,4%,43,43,43,2026-10-25
-54,NIST / ISO 27001,Security,4%,43,43,43,2026-10-25
-55,.NET,Framework,4%,42,42,42,2026-10-25
-56,Data visualization,Data & AI,4%,42,42,42,2026-10-25
+51,Embedded systems,Practice,4%,47,47,47,2026-10-25
+52,ITIL,Certification,4%,47,47,47,2026-10-25
+53,Data visualization,Data & AI,4%,43,43,43,2026-10-25
+54,Databricks,Data & AI,4%,43,43,43,2026-10-25
+55,NIST / ISO 27001,Security,4%,43,43,43,2026-10-25
+56,.NET,Framework,4%,42,42,42,2026-10-25
 57,Snowflake,Data & AI,4%,42,42,42,2026-10-25
 58,VMware / virtualization,IT support,4%,42,42,42,2026-10-25
 59,Mobile (iOS / Android),Practice,4%,41,41,41,2026-10-25
@@ -77,10 +77,10 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 76,EDR,Security,2%,25,25,25,2026-10-25
 77,CompTIA Network+,Certification,2%,23,23,23,2026-10-25
 78,GitHub Actions,Cloud & DevOps,2%,22,22,22,2026-10-25
-79,CISSP,Certification,2%,20,20,20,2026-10-25
-80,Google Workspace,IT support,2%,20,20,20,2026-10-25
-81,NLP,Data & AI,2%,20,20,20,2026-10-25
-82,R,Language,2%,20,20,20,2026-10-25
+79,R,Language,2%,21,21,21,2026-10-25
+80,CISSP,Certification,2%,20,20,20,2026-10-25
+81,Google Workspace,IT support,2%,20,20,20,2026-10-25
+82,NLP,Data & AI,2%,20,20,20,2026-10-25
 83,SIEM,Security,2%,20,20,20,2026-10-25
 84,Spring Boot,Framework,2%,19,19,19,2026-10-25
 85,Ansible,Cloud & DevOps,2%,17,17,17,2026-10-25
@@ -146,4 +146,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 145,Laravel,Framework,0%,1,1,1,2026-10-25
 146,Verilog/VHDL,Language,0%,1,1,1,2026-10-25
 
-,Based on 1048 postings in the last 30 days (1048 all time)
+,Based on 1052 postings in the last 30 days (1052 all time)
