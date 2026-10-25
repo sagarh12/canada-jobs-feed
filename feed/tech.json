@@ -1,17 +1,17 @@
 {
-"updated": "2026-10-25T01:47:47+00:00",
+"updated": "2026-10-25T01:49:53+00:00",
 "jobs": [
 {
-"title": "Customer Support Representative – Home Heating",
-"company": "Blue Ocean Contact Centers",
-"location": "Halifax, NS, CA",
+"title": "Automotive Service Advisor",
+"company": "Village Auto Service",
+"location": "Ancaster, ON, CA",
 "posted": "2026-10-25",
-"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
+"link": "https://ca.indeed.com/viewjob?jk=f95843271c76abb2",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
-"salary": "$17.00"
+"years": 2,
+"apply": "http://ca.indeed.com/job/automotive-service-advisor-f95843271c76abb2",
+"salary": "$25.00-$40.00 per hour"
 },
 {
 "title": "Technical Instructor – Emerging Technologies, Python, Data Engineering & AI Development",
@@ -44,6 +44,18 @@
 "Data structures & algorithms",
 "Object-oriented programming"
 ]
+},
+{
+"title": "Customer Support Representative – Home Heating",
+"company": "Blue Ocean Contact Centers",
+"location": "Halifax, NS, CA",
+"posted": "2026-10-25",
+"link": "https://ca.indeed.com/viewjob?jk=a7995d6e6f59cd2a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiting.ultipro.ca/BLU5001BLUO/JobBoard/b4b3c7b4-15d0-4c64-9e44-f5e8e46ea80d/OpportunityDetail?opportunityId=00abc7c7-8df2-4655-9b01-e7e9042bb3b6&postingId=975378e0-2437-4b0b-92a7-e0f52bcfbd84",
+"salary": "$17.00"
 },
 {
 "title": "Software Engineer, Ad Signals",
@@ -1136,6 +1148,54 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-24",
 "link": "https://www.linkedin.com/jobs/view/4483176791",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Frontend Engineer - Design Systems",
+"company": "Mercury",
+"location": "",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4481012413",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer II",
+"company": "AssistRx",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=ab70af95f81de092",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://careers.assistrx.com/jobs/2306/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$111,496 - $139,370 USD per year",
+"skills": [
+"Python",
+"Java",
+"PHP",
+"SQL",
+"Spark",
+"Hadoop",
+"dbt",
+"ETL / data pipelines",
+"Snowflake",
+"Power BI",
+"Tableau",
+"Azure",
+"Linux",
+"Salesforce"
+]
+},
+{
+"title": "Sales and Marketing - Account Coordinator",
+"company": "DeVry Greenhouses",
+"location": "Chilliwack, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4482333272",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13204,6 +13264,46 @@
 "years": null
 },
 {
+"title": "Supply Chain & Logistics Co-op Student",
+"company": "Profound Medical Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483117178",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer (iOS)",
+"company": "Priceline",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4472805640",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Automation Engineer- Global Payments Engineering",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4428081961",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Corporate Development - Student",
+"company": "SECURE",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481223412",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Systems Engineer - Behavior Verification",
 "company": "Waabi",
 "location": "Toronto, ON; Remote Canada",
@@ -24772,6 +24872,22 @@
 "years": 2,
 "apply": "https://www.governmentjobs.com/careers/washington/jobs/5521003/fiscal-analyst-1-local-payroll-liaison",
 "salary": "$5,055 - $6,777 USD per month"
+},
+{
+"title": "Electrical Engineer (Series)",
+"company": "Truckee Meadows Water Authority",
+"location": "Remote · United States",
+"posted": "2026-10-22",
+"link": "https://www.indeed.com/viewjob?jk=9db22b1c03a1b342",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.tmwa.com/x/detail/a22gi486w5br/aaac",
+"salary": "$96,344 - $129,499 USD per year",
+"skills": [
+"C",
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Developer Intern, Provisioning - Winter 2027",
