@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-25T00:09:47+00:00",
+"updated": "2026-10-25T00:19:57+00:00",
 "jobs": [
 {
 "title": "Software Engineer, Ad Signals",
@@ -930,6 +930,41 @@
 "Agile / Scrum",
 "SDLC"
 ]
+},
+{
+"title": "Executive Assistant",
+"company": "Azimuth Builders",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-24",
+"link": "https://ca.indeed.com/viewjob?jk=035a76b7bfb296e9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/executive-assistant-035a76b7bfb296e9",
+"salary": "$23.00-$25.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Site Reliability Engineer",
+"company": "Punt",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483180242",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Backend Engineer, Knowledge Graph (Rust)",
+"company": "GitLab",
+"location": "",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4483172423",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Directeur(rice), Projets d'infrastructure",
@@ -9252,7 +9287,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618389&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393914-cybersecurity-ops-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db8421273-cf52-11f1-a9a2-81f0875918f6%26rx_job%3D2618389%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261024T220403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618389",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618389&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18393914-cybersecurity-ops-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Db8421273-cf52-11f1-a9a2-81f0875918f6%26rx_job%3D2618389%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261025T000407Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618389",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Python",
@@ -12635,6 +12670,106 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-23",
 "link": "https://www.linkedin.com/jobs/view/4483165730",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op Engineering - Electrical & Mechanical (8 months)",
+"company": "Nova Scotia Power",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483167388",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Systems Engineer, Safety Critical Embedded Systems",
+"company": "Forterra",
+"location": "Remote · United States",
+"posted": "2026-10-23",
+"link": "https://www.indeed.com/viewjob?jk=b011352e23b8f252",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://ats.rippling.com/forterra/jobs/9f3ad57e-f432-40ee-99a8-191fb6e73fae?jobSite=Indeed",
+"salary": "$150,000 - $175,000 USD per year",
+"skills": [
+"C++",
+"C",
+"Networking (TCP/IP, DNS)",
+"Hardware setup",
+"System design",
+"Embedded systems"
+]
+},
+{
+"title": "Entry-Level Sales Representative",
+"company": "The Acquisition Group",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4482822052",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual (FR/EN) Talent Acquisition Advisor",
+"company": "Kiewit",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4464147657",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Accounting New Grad",
+"company": "PETRONAS Canada",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483141697",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Developer (.NET)",
+"company": "Merrithew®",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4480680107",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "Intellistack",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4433592093",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Analyst",
+"company": "Raise",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4483144270",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce QA Analyst",
+"company": "Collabera",
+"location": "Alberta, Canada",
+"posted": "2026-10-23",
+"link": "https://www.linkedin.com/jobs/view/4481959475",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
