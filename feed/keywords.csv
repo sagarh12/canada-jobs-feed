@@ -1,24 +1,24 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,46%,490,490,490,2026-10-25
+1,Help desk / troubleshooting,IT support,46%,492,492,492,2026-10-25
 2,SQL,Language,27%,290,290,290,2026-10-25
 3,Python,Language,25%,262,262,262,2026-10-25
-4,REST APIs,Framework,24%,259,259,259,2026-10-25
+4,REST APIs,Framework,24%,260,260,260,2026-10-25
 5,Excel,Data & AI,20%,210,210,210,2026-10-25
 6,Hardware setup,IT support,19%,206,206,206,2026-10-25
 7,System design,Practice,19%,205,205,205,2026-10-25
 8,Azure,Cloud & DevOps,17%,181,181,181,2026-10-25
 9,Agile / Scrum,Practice,16%,175,175,175,2026-10-25
-10,Microsoft 365,IT support,15%,159,159,159,2026-10-25
+10,Microsoft 365,IT support,15%,160,160,160,2026-10-25
 11,Git,Cloud & DevOps,14%,154,154,154,2026-10-25
 12,Windows,IT support,14%,150,150,150,2026-10-25
 13,AWS,Cloud & DevOps,14%,145,145,145,2026-10-25
 14,CI/CD,Cloud & DevOps,13%,135,135,135,2026-10-25
 15,Cybersecurity,Security,12%,131,131,131,2026-10-25
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,124,124,124,2026-10-25
-17,"Ticketing (ServiceNow, Jira)",IT support,11%,119,119,119,2026-10-25
+17,"Ticketing (ServiceNow, Jira)",IT support,11%,120,120,120,2026-10-25
 18,LLMs / GenAI,Data & AI,11%,115,115,115,2026-10-25
 19,Power BI,Data & AI,11%,113,113,113,2026-10-25
-20,Statistics,Data & AI,11%,112,112,112,2026-10-25
+20,Statistics,Data & AI,10%,112,112,112,2026-10-25
 21,IAM,Security,10%,107,107,107,2026-10-25
 22,Linux,Cloud & DevOps,10%,104,104,104,2026-10-25
 23,Java,Language,9%,100,100,100,2026-10-25
@@ -27,7 +27,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 26,Jira,Practice,8%,88,88,88,2026-10-25
 27,"Testing (unit, automated)",Practice,8%,87,87,87,2026-10-25
 28,SQL Server,Database,8%,83,83,83,2026-10-25
-29,C,Language,8%,80,80,80,2026-10-25
+29,C,Language,7%,80,80,80,2026-10-25
 30,Machine learning,Data & AI,7%,78,78,78,2026-10-25
 31,Oracle,Database,7%,73,73,73,2026-10-25
 32,Kubernetes,Cloud & DevOps,7%,72,72,72,2026-10-25
@@ -47,15 +47,15 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 46,Bash/Shell,Language,5%,53,53,53,2026-10-25
 47,Incident response,Security,5%,50,50,50,2026-10-25
 48,C++,Language,5%,49,49,49,2026-10-25
-49,Embedded systems,Practice,5%,48,48,48,2026-10-25
-50,ITIL,Certification,5%,48,48,48,2026-10-25
-51,SOC,Security,5%,48,48,48,2026-10-25
-52,Tableau,Data & AI,5%,48,48,48,2026-10-25
+49,Embedded systems,Practice,4%,48,48,48,2026-10-25
+50,ITIL,Certification,4%,48,48,48,2026-10-25
+51,SOC,Security,4%,48,48,48,2026-10-25
+52,Tableau,Data & AI,4%,48,48,48,2026-10-25
 53,NIST / ISO 27001,Security,4%,46,46,46,2026-10-25
 54,Data visualization,Data & AI,4%,44,44,44,2026-10-25
-55,Databricks,Data & AI,4%,43,43,43,2026-10-25
-56,Snowflake,Data & AI,4%,43,43,43,2026-10-25
-57,.NET,Framework,4%,42,42,42,2026-10-25
+55,.NET,Framework,4%,43,43,43,2026-10-25
+56,Databricks,Data & AI,4%,43,43,43,2026-10-25
+57,Snowflake,Data & AI,4%,43,43,43,2026-10-25
 58,Terraform,Cloud & DevOps,4%,42,42,42,2026-10-25
 59,VMware / virtualization,IT support,4%,42,42,42,2026-10-25
 60,Mobile (iOS / Android),Practice,4%,41,41,41,2026-10-25
@@ -88,10 +88,10 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 87,Spring Boot,Framework,2%,19,19,19,2026-10-25
 88,NoSQL,Database,2%,17,17,17,2026-10-25
 89,Vector databases,Database,2%,17,17,17,2026-10-25
-90,Kafka,Data & AI,2%,16,16,16,2026-10-25
-91,MongoDB,Database,2%,16,16,16,2026-10-25
-92,PHP,Language,2%,16,16,16,2026-10-25
-93,Selenium / Cypress,Practice,2%,16,16,16,2026-10-25
+90,Kafka,Data & AI,1%,16,16,16,2026-10-25
+91,MongoDB,Database,1%,16,16,16,2026-10-25
+92,PHP,Language,1%,16,16,16,2026-10-25
+93,Selenium / Cypress,Practice,1%,16,16,16,2026-10-25
 94,Airflow,Data & AI,1%,15,15,15,2026-10-25
 95,Looker,Data & AI,1%,15,15,15,2026-10-25
 96,Threat intelligence,Security,1%,15,15,15,2026-10-25
@@ -146,4 +146,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 145,Laravel,Framework,0%,1,1,1,2026-10-25
 146,Verilog/VHDL,Language,0%,1,1,1,2026-10-25
 
-,Based on 1066 postings in the last 30 days (1066 all time)
+,Based on 1068 postings in the last 30 days (1068 all time)
