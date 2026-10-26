@@ -1,6 +1,72 @@
 {
-"updated": "2026-10-26T01:39:51+00:00",
+"updated": "2026-10-26T01:49:50+00:00",
 "jobs": [
+{
+"title": "Silviculture Assistant (Student) - Summer 2027",
+"company": "J.D. Irving Woodlands Division",
+"location": "Chipman, NB, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=cc56355d1aa8f4cb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12931"
+},
+{
+"title": "Sales Automation Engineer Intern",
+"company": "Arima",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=2220562647959caf",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/sales-automation-engineer-intern-2220562647959caf",
+"salary": "$25.00 per hour",
+"skills": [
+"Python",
+"JavaScript",
+"SQL",
+"Node.js",
+"REST APIs",
+"LLMs / GenAI",
+"LangChain",
+"Excel",
+"A/B testing",
+"Networking (TCP/IP, DNS)",
+"System design",
+"Salesforce"
+]
+},
+{
+"title": "Software Engineer – Secure Systems and Simulation",
+"company": "AirSpace Innovation LLC",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
+"salary": "$110,000 - $140,000 USD per year",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"AWS",
+"Azure",
+"Google Cloud",
+"Git",
+"Linux",
+"Cybersecurity",
+"Encryption / PKI",
+"Microsoft 365",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design"
+]
+},
 {
 "title": "Data Engineer – Streaming & Data Platforms",
 "company": "IND Technology Pty Ltd",
@@ -33,35 +99,6 @@
 "Help desk / troubleshooting",
 "Testing (unit, automated)",
 "Jest / PyTest",
-"System design"
-]
-},
-{
-"title": "Software Engineer – Secure Systems and Simulation",
-"company": "AirSpace Innovation LLC",
-"location": "Remote · United States",
-"posted": "2026-10-26",
-"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
-"salary": "$110,000 - $140,000 USD per year",
-"skills": [
-"Python",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"AWS",
-"Azure",
-"Google Cloud",
-"Git",
-"Linux",
-"Cybersecurity",
-"Encryption / PKI",
-"Microsoft 365",
-"Testing (unit, automated)",
-"Data structures & algorithms",
 "System design"
 ]
 },
@@ -455,6 +492,16 @@
 "location": "Port Coquitlam, British Columbia, Canada",
 "posted": "2026-10-25",
 "link": "https://www.linkedin.com/jobs/view/4481074369",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "It Support",
+"company": "Actalent",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4483347863",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -4921,6 +4968,66 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-10-24",
 "link": "https://www.linkedin.com/jobs/view/4475025426",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, AI Native Authoring",
+"company": "Snowflake",
+"location": "Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4438104535",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Relationship Analyst, Client Solutions Team",
+"company": "Connor, Clark & Lunn Investment Management (CC&L)",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4465852041",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Compensation Analyst",
+"company": "Western Financial Group",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4473822680",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Global Quality Officer",
+"company": "ALS",
+"location": "North Vancouver, British Columbia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4481064643",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Surveyor - McNally Construction",
+"company": "McNally Companies",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4456041031",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Fullstack (App Experience)",
+"company": "Affirm",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4456253818",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
