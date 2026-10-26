@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T22:39:44+00:00",
+"updated": "2026-10-26T22:49:48+00:00",
 "jobs": [
 {
 "title": "Software Engineer, Physical Engineering",
@@ -1327,7 +1327,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://queensu.njoyn.com/cl4/xweb/xweb.asp?tbtoken=YlhaSxwXCGoGanZyR1BdCCRMeGxEcFdacEhZIFAJE2IqXDEaWTAfcmNwAwkbUxFaS3cqWA%3D%3D&chk=ZVpaShw%3D&clid=74827&Page=JobDetails&Jobid=J0426-0261&BRID=445138&lang=1",
+"apply": "https://queensu.njoyn.com/cl4/xweb/xweb.asp?tbtoken=ZV1bSxtRDVABY31zMVdTZE9LcREvaVUtc1ZMIVl%2BfHlQKjdoXDIdBWB0BzIYGhJWQXJjF3U%3D&chk=ZVpaShM%3D&clid=74827&Page=JobDetails&Jobid=J0426-0261&BRID=445138&lang=1",
 "salary": "$68,920.00 - $84,043.00/Year",
 "skills": [
 "Excel",
@@ -6461,6 +6461,156 @@
 "years": null
 },
 {
+"title": "Systems Administrator",
+"company": "HERITAGE OFFICE FURNISHINGS",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=3bad19e62d00940f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/systems-administrator-3bad19e62d00940f",
+"salary": "$50,000.00-$55,000.00 per year",
+"skills": [
+"Power BI",
+"Azure",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Data structures & algorithms",
+"Salesforce"
+]
+},
+{
+"title": "Office Administrator",
+"company": "",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=09fcb017a0501493",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-09fcb017a0501493",
+"salary": "$37.00-$41.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Office Assistant, Educational Assistant & Early Childhood Education",
+"company": "Saskatchewan Polytechnic",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=ee20ef23c3e517e8",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.saskpolytech.ca/postings/66501",
+"salary": "$1,834.50 - $2,192.69"
+},
+{
+"title": "Software Engineer",
+"company": "Trimble",
+"location": "Kamloops, BC, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=5a0cce5fa7810ee3",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Kamloops-BC/Software-Engineer_R58254",
+"skills": [
+"TypeScript",
+"C",
+"PHP",
+"SQL",
+"React",
+".NET",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"SQL Server",
+"Azure",
+"Docker",
+"Kubernetes",
+"Microservices",
+"Testing (unit, automated)",
+"System design"
+]
+},
+{
+"title": "Web Developer",
+"company": "This is Gain Ltd",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=872d97fc11ebd0ec",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/83123241DA",
+"salary": "$65,000 - $75,000",
+"skills": [
+"JavaScript",
+"PHP",
+"HTML/CSS",
+"React",
+"Angular",
+"Vue",
+"Node.js",
+"Express",
+"Laravel",
+"REST APIs",
+"A/B testing",
+"Git",
+"Agile / Scrum"
+]
+},
+{
+"title": "Privacy Operations Engineer",
+"company": "Thomson Reuters",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=52d0f8a90ee7e414",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Privacy-Operations-Engineer_JREQ204759-1",
+"salary": "$79,000 CAD",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Machine learning",
+"Power BI",
+"AWS",
+"Azure",
+"Google Cloud",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Incident response",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"System design"
+]
+},
+{
+"title": "Yardi Support Analyst",
+"company": "Westminster Management",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=efaaa1d2fcc76b0c",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-US/westminster/WESTMINSTER/jobs/11202",
+"salary": "$125,000 - $175,000 USD per year",
+"skills": [
+"SQL",
+"Excel",
+"Ticketing (ServiceNow, Jira)"
+]
+},
+{
 "title": "Enterprise Sales Engineer - Northeast",
 "company": "Chainguard",
 "location": "Remote · United States",
@@ -8311,6 +8461,56 @@
 "location": "",
 "posted": "2026-10-25",
 "link": "https://www.linkedin.com/jobs/view/4438338879",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevSecOps Engineer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4482690745",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst – Power BI Microsoft Fabric (35903)",
+"company": "Myticas Consulting",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4482902439",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Operations Analyst - 20-month contract",
+"company": "Brother Canada",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4466414159",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Business Systems Analyst",
+"company": "Zensar Technologies",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4481410185",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Operations & Systems Support Specialist (34762)",
+"company": "Myticas Consulting",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4482905413",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13290,26 +13490,6 @@
 "posted": "2026-10-23T19:00:21-04:00",
 "link": "https://job-boards.greenhouse.io/mercury/jobs/6233910004",
 "source": "Mercury careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Backend Engineer, Knowledge Graph (Rust)",
-"company": "GitLab",
-"location": "Remote, Canada",
-"posted": "2026-10-23T18:47:07-04:00",
-"link": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
-"source": "GitLab careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Engineer, AI",
-"company": "Asana",
-"location": "Vancouver, BC",
-"posted": "2026-10-23T18:42:38-04:00",
-"link": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
-"source": "Asana careers",
 "country": "CA",
 "years": null
 }
