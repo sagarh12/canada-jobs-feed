@@ -1,6 +1,35 @@
 {
-"updated": "2026-10-26T01:19:57+00:00",
+"updated": "2026-10-26T01:29:52+00:00",
 "jobs": [
+{
+"title": "Software Engineer – Secure Systems and Simulation",
+"company": "AirSpace Innovation LLC",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
+"salary": "$110,000 - $140,000 USD per year",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"AWS",
+"Azure",
+"Google Cloud",
+"Git",
+"Linux",
+"Cybersecurity",
+"Encryption / PKI",
+"Microsoft 365",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design"
+]
+},
 {
 "title": "Data Engineer – Streaming & Data Platforms",
 "company": "IND Technology Pty Ltd",
@@ -33,35 +62,6 @@
 "Help desk / troubleshooting",
 "Testing (unit, automated)",
 "Jest / PyTest",
-"System design"
-]
-},
-{
-"title": "Software Engineer – Secure Systems and Simulation",
-"company": "AirSpace Innovation LLC",
-"location": "Remote · United States",
-"posted": "2026-10-26",
-"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
-"salary": "$110,000 - $140,000 USD per year",
-"skills": [
-"Python",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"AWS",
-"Azure",
-"Google Cloud",
-"Git",
-"Linux",
-"Cybersecurity",
-"Encryption / PKI",
-"Microsoft 365",
-"Testing (unit, automated)",
-"Data structures & algorithms",
 "System design"
 ]
 },
