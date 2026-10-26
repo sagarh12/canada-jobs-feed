@@ -1,6 +1,36 @@
 {
-"updated": "2026-10-26T20:49:48+00:00",
+"updated": "2026-10-26T20:59:49+00:00",
 "jobs": [
+{
+"title": "Software Engineer II, Cloud Applications",
+"company": "Temporal",
+"location": "Remote · United States",
+"posted": "2026-10-26T20:59:39.060+00:00",
+"link": "https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8",
+"source": "Temporal careers",
+"country": "US",
+"years": 3,
+"quals": [
+"Experience building and operating production backend systems in a cloud environment.",
+"Proficiency in Go or another applicable backend or systems language, with the ability to ramp up in an existing codebase.",
+"Strong computer science fundamentals, including data structures, concurrency basics, testing, and debugging.",
+"Working knowledge of distributed-systems concepts such as reliability, fault tolerance, consistency, scaling, and failure handling."
+],
+"skills": [
+"gRPC",
+"ETL / data pipelines",
+"PostgreSQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Kubernetes",
+"Monitoring",
+"Incident response",
+"Help desk / troubleshooting",
+"Data structures & algorithms",
+"System design"
+]
+},
 {
 "title": "Security Engineer, Corporate Security",
 "company": "Coinbase",
@@ -4820,6 +4850,16 @@
 "posted": "2026-10-26",
 "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Prime-Named-Account-Executive--Mulesoft_JR265635-1",
 "source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-26",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Automation-Engineer_R260029070",
+"source": "BMO careers",
 "country": "CA",
 "years": null
 },

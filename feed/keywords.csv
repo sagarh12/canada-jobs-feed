@@ -1,16 +1,16 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,46%,589,589,589,2026-10-26
+1,Help desk / troubleshooting,IT support,46%,590,590,590,2026-10-26
 2,SQL,Language,27%,349,349,349,2026-10-26
 3,REST APIs,Framework,25%,322,322,322,2026-10-26
 4,Python,Language,25%,320,320,320,2026-10-26
-5,System design,Practice,20%,263,263,263,2026-10-26
+5,System design,Practice,20%,264,264,264,2026-10-26
 6,Excel,Data & AI,19%,244,244,244,2026-10-26
 7,Hardware setup,IT support,18%,237,237,237,2026-10-26
-8,Azure,Cloud & DevOps,17%,216,216,216,2026-10-26
+8,Azure,Cloud & DevOps,17%,217,217,217,2026-10-26
 9,Agile / Scrum,Practice,17%,214,214,214,2026-10-26
 10,Microsoft 365,IT support,15%,192,192,192,2026-10-26
 11,Git,Cloud & DevOps,14%,183,183,183,2026-10-26
-12,AWS,Cloud & DevOps,14%,179,179,179,2026-10-26
+12,AWS,Cloud & DevOps,14%,180,180,180,2026-10-26
 13,CI/CD,Cloud & DevOps,13%,168,168,168,2026-10-26
 14,Windows,IT support,13%,167,167,167,2026-10-26
 15,Cybersecurity,Security,12%,154,154,154,2026-10-26
@@ -21,34 +21,34 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 20,Statistics,Data & AI,10%,128,128,128,2026-10-26
 21,JavaScript,Language,10%,127,127,127,2026-10-26
 22,IAM,Security,10%,125,125,125,2026-10-26
-23,Java,Language,10%,123,123,123,2026-10-26
-24,ETL / data pipelines,Data & AI,9%,122,122,122,2026-10-26
+23,ETL / data pipelines,Data & AI,10%,123,123,123,2026-10-26
+24,Java,Language,10%,123,123,123,2026-10-26
 25,Linux,Cloud & DevOps,9%,121,121,121,2026-10-26
 26,"Testing (unit, automated)",Practice,9%,113,113,113,2026-10-26
 27,C,Language,8%,109,109,109,2026-10-26
 28,Jira,Practice,8%,99,99,99,2026-10-26
 29,Machine learning,Data & AI,8%,99,99,99,2026-10-26
 30,SQL Server,Database,7%,93,93,93,2026-10-26
-31,Kubernetes,Cloud & DevOps,7%,91,91,91,2026-10-26
+31,Kubernetes,Cloud & DevOps,7%,92,92,92,2026-10-26
 32,React,Framework,7%,89,89,89,2026-10-26
 33,Oracle,Database,7%,88,88,88,2026-10-26
 34,Docker,Cloud & DevOps,7%,84,84,84,2026-10-26
-35,Monitoring,Cloud & DevOps,6%,83,83,83,2026-10-26
+35,Monitoring,Cloud & DevOps,7%,84,84,84,2026-10-26
 36,HTML/CSS,Language,6%,81,81,81,2026-10-26
-37,TypeScript,Language,6%,79,79,79,2026-10-26
-38,Data structures & algorithms,Practice,6%,78,78,78,2026-10-26
+37,Data structures & algorithms,Practice,6%,79,79,79,2026-10-26
+38,TypeScript,Language,6%,79,79,79,2026-10-26
 39,SDLC,Practice,6%,73,73,73,2026-10-26
 40,Salesforce,Practice,6%,72,72,72,2026-10-26
-41,Google Cloud,Cloud & DevOps,5%,70,70,70,2026-10-26
+41,Google Cloud,Cloud & DevOps,6%,71,71,71,2026-10-26
 42,Firewalls,Security,5%,66,66,66,2026-10-26
-43,PostgreSQL,Database,5%,65,65,65,2026-10-26
+43,PostgreSQL,Database,5%,66,66,66,2026-10-26
 44,Vulnerability management,Security,5%,64,64,64,2026-10-26
 45,Bash/Shell,Language,5%,61,61,61,2026-10-26
 46,C++,Language,5%,61,61,61,2026-10-26
 47,SOC,Security,5%,61,61,61,2026-10-26
 48,PowerShell,Language,5%,59,59,59,2026-10-26
-49,Embedded systems,Practice,4%,56,56,56,2026-10-26
-50,Incident response,Security,4%,56,56,56,2026-10-26
+49,Incident response,Security,4%,57,57,57,2026-10-26
+50,Embedded systems,Practice,4%,56,56,56,2026-10-26
 51,Tableau,Data & AI,4%,56,56,56,2026-10-26
 52,.NET,Framework,4%,55,55,55,2026-10-26
 53,NIST / ISO 27001,Security,4%,55,55,55,2026-10-26
@@ -144,10 +144,10 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 143,Dart,Language,0%,2,2,2,2026-10-26
 144,Express,Framework,0%,2,2,2,2026-10-26
 145,Redux,Framework,0%,2,2,2,2026-10-26
-146,Blockchain,Practice,0%,1,1,1,2026-10-26
-147,Cassandra,Database,0%,1,1,1,2026-10-26
-148,Google cert (Data / IT / Cyber),Certification,0%,1,1,1,2026-10-26
-149,Verilog/VHDL,Language,0%,1,1,1,2026-10-26
-150,gRPC,Framework,0%,1,1,1,2026-10-26
+146,gRPC,Framework,0%,2,2,2,2026-10-26
+147,Blockchain,Practice,0%,1,1,1,2026-10-26
+148,Cassandra,Database,0%,1,1,1,2026-10-26
+149,Google cert (Data / IT / Cyber),Certification,0%,1,1,1,2026-10-26
+150,Verilog/VHDL,Language,0%,1,1,1,2026-10-26
 
-,Based on 1287 postings in the last 30 days (1287 all time)
+,Based on 1288 postings in the last 30 days (1288 all time)
