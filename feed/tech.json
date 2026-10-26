@@ -1,35 +1,6 @@
 {
-"updated": "2026-10-26T01:09:47+00:00",
+"updated": "2026-10-26T01:19:57+00:00",
 "jobs": [
-{
-"title": "Software Engineer – Secure Systems and Simulation",
-"company": "AirSpace Innovation LLC",
-"location": "Remote · United States",
-"posted": "2026-10-26",
-"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
-"salary": "$110,000 - $140,000 USD per year",
-"skills": [
-"Python",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"AWS",
-"Azure",
-"Google Cloud",
-"Git",
-"Linux",
-"Cybersecurity",
-"Encryption / PKI",
-"Microsoft 365",
-"Testing (unit, automated)",
-"Data structures & algorithms",
-"System design"
-]
-},
 {
 "title": "Data Engineer – Streaming & Data Platforms",
 "company": "IND Technology Pty Ltd",
@@ -62,6 +33,35 @@
 "Help desk / troubleshooting",
 "Testing (unit, automated)",
 "Jest / PyTest",
+"System design"
+]
+},
+{
+"title": "Software Engineer – Secure Systems and Simulation",
+"company": "AirSpace Innovation LLC",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
+"salary": "$110,000 - $140,000 USD per year",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"AWS",
+"Azure",
+"Google Cloud",
+"Git",
+"Linux",
+"Cybersecurity",
+"Encryption / PKI",
+"Microsoft 365",
+"Testing (unit, automated)",
+"Data structures & algorithms",
 "System design"
 ]
 },
@@ -4879,6 +4879,48 @@
 "location": "Markham, Ontario, Canada",
 "posted": "2026-10-24",
 "link": "https://www.linkedin.com/jobs/view/4377992176",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Program Specialist (Engineering Administration)",
+"company": "City of Sacramento",
+"location": "Remote · United States",
+"posted": "2026-10-24",
+"link": "https://www.indeed.com/viewjob?jk=7c62746c8b1a9729",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://www.governmentjobs.com/careers/saccity/jobs/5517101/program-specialist-engineering-administration",
+"salary": "$93,153 - $131,076 USD per year"
+},
+{
+"title": "Naval Project Quality Assurance Engineer - NETE",
+"company": "Weir",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4416855141",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "TMX Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4475013848",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mainframe Software Developer",
+"company": "CPKC",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-24",
+"link": "https://www.linkedin.com/jobs/view/4475025426",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -20051,19 +20093,6 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 3
-},
-{
-"title": "Global Leaves and Accommodations Analyst",
-"company": "OpenAI",
-"location": "Remote · United States",
-"posted": "2026-10-23T01:22:23.128+00:00",
-"link": "https://jobs.ashbyhq.com/openai/78981a68-a314-4bf7-a8fa-013a29e85906",
-"source": "OpenAI careers",
-"country": "US",
-"years": null,
-"skills": [
-"Hardware setup"
-]
 }
 ]
 }
