@@ -1,101 +1,15 @@
 {
-"updated": "2026-10-26T03:49:50+00:00",
+"updated": "2026-10-26T03:59:50+00:00",
 "jobs": [
 {
-"title": "Backend Engineer",
-"company": "",
-"location": "Remote · United States",
+"title": "Advisor, Competitive Intelligence – Inside-the-Data-Center Technologies",
+"company": "Ciena",
+"location": "2 Locations, Canada",
 "posted": "2026-10-26",
-"link": "https://www.indeed.com/viewjob?jk=ad15161347e8d6c3",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/backend-engineer-ad15161347e8d6c3",
-"salary": "$150,000 - $190,000 USD per year",
-"skills": [
-"Python",
-"TypeScript",
-"Go",
-"SQL",
-"Node.js",
-"REST APIs",
-"gRPC",
-"Machine learning",
-"LLMs / GenAI",
-"Kafka",
-"ETL / data pipelines",
-"Redis",
-"Vector databases",
-"SOC",
-"NIST / ISO 27001",
-"System design"
-]
-},
-{
-"title": "Silviculture Assistant (Student) - Summer 2027",
-"company": "J.D. Irving Woodlands Division",
-"location": "Chipman, NB, CA",
-"posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=cc56355d1aa8f4cb",
-"source": "Indeed",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Advisor--Competitive-Intelligence---Inside-the-Data-Center-Technologies_R031896",
+"source": "Ciena careers",
 "country": "CA",
-"years": null,
-"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12931"
-},
-{
-"title": "Sales Automation Engineer Intern",
-"company": "Arima",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=2220562647959caf",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/sales-automation-engineer-intern-2220562647959caf",
-"salary": "$25.00 per hour",
-"skills": [
-"Python",
-"JavaScript",
-"SQL",
-"Node.js",
-"REST APIs",
-"LLMs / GenAI",
-"LangChain",
-"Excel",
-"A/B testing",
-"Networking (TCP/IP, DNS)",
-"System design",
-"Salesforce"
-]
-},
-{
-"title": "Software Engineer – Secure Systems and Simulation",
-"company": "AirSpace Innovation LLC",
-"location": "Remote · United States",
-"posted": "2026-10-26",
-"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
-"salary": "$110,000 - $140,000 USD per year",
-"skills": [
-"Python",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"AWS",
-"Azure",
-"Google Cloud",
-"Git",
-"Linux",
-"Cybersecurity",
-"Encryption / PKI",
-"Microsoft 365",
-"Testing (unit, automated)",
-"Data structures & algorithms",
-"System design"
-]
+"years": null
 },
 {
 "title": "Data Engineer – Streaming & Data Platforms",
@@ -129,6 +43,102 @@
 "Help desk / troubleshooting",
 "Testing (unit, automated)",
 "Jest / PyTest",
+"System design"
+]
+},
+{
+"title": "Software Engineer – Secure Systems and Simulation",
+"company": "AirSpace Innovation LLC",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
+"salary": "$110,000 - $140,000 USD per year",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"AWS",
+"Azure",
+"Google Cloud",
+"Git",
+"Linux",
+"Cybersecurity",
+"Encryption / PKI",
+"Microsoft 365",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design"
+]
+},
+{
+"title": "Sales Automation Engineer Intern",
+"company": "Arima",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=2220562647959caf",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/sales-automation-engineer-intern-2220562647959caf",
+"salary": "$25.00 per hour",
+"skills": [
+"Python",
+"JavaScript",
+"SQL",
+"Node.js",
+"REST APIs",
+"LLMs / GenAI",
+"LangChain",
+"Excel",
+"A/B testing",
+"Networking (TCP/IP, DNS)",
+"System design",
+"Salesforce"
+]
+},
+{
+"title": "Silviculture Assistant (Student) - Summer 2027",
+"company": "J.D. Irving Woodlands Division",
+"location": "Chipman, NB, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=cc56355d1aa8f4cb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12931"
+},
+{
+"title": "Backend Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=ad15161347e8d6c3",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/backend-engineer-ad15161347e8d6c3",
+"salary": "$150,000 - $190,000 USD per year",
+"skills": [
+"Python",
+"TypeScript",
+"Go",
+"SQL",
+"Node.js",
+"REST APIs",
+"gRPC",
+"Machine learning",
+"LLMs / GenAI",
+"Kafka",
+"ETL / data pipelines",
+"Redis",
+"Vector databases",
+"SOC",
+"NIST / ISO 27001",
 "System design"
 ]
 },
@@ -238,16 +248,6 @@
 "PostgreSQL",
 "Help desk / troubleshooting"
 ]
-},
-{
-"title": "Advisor, Competitive Intelligence – Inside-the-Data-Center Technologies",
-"company": "Ciena",
-"location": "2 Locations, Canada",
-"posted": "2026-10-25",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Advisor--Competitive-Intelligence---Inside-the-Data-Center-Technologies_R031896",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
 },
 {
 "title": "Computer Programming Instructor",
@@ -5170,6 +5170,286 @@
 "years": null
 },
 {
+"title": "AIOps Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-24",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Lead--Site-Reliability-Engineering--SRE-_R260027120",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Credit Analyst Trainee",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-24",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Credit-Analyst-Trainee_R260029541",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Canadian Fundamental Equities - Analyst – Resources, Global Asset Management",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-24",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Research-Analyst---Canadian-Equity---Resources_R260026242",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer, Fraud Predictive Analytics",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-24",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fraud-Predictive-Analytics_R260029493",
+"source": "BMO careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "AI Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-24",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer_R260029413",
+"source": "BMO careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-24",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Early Career Software Test Developer - Propulsion Thermal Management",
+"company": "General Motors",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250",
+"source": "General Motors careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "NPI Optical Test Engineer",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-24",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Optical-Test-Engineer_R031476",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integrated Planning & Communications Student (4 months) - Winter 2027",
+"company": "Canadian Tire",
+"location": "Calgary, AB",
+"posted": "2026-10-24",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Integrated-Planning---Communications-Student--4-months----Winter-2027_JR165205-1",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Infrastructure Planning",
+"company": "Enbridge",
+"location": "3 Locations, Canada",
+"posted": "2026-10-24",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Edmonton-AB-CAN/Specialist--Infrastructure-Planning_73567-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Summer Co-op 2027 - Venture Capital",
+"company": "Manulife",
+"location": "Toronto, Ontario",
+"posted": "2026-10-24",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "Moncton, New Brunswick",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Moncton-New-Brunswick/Advisor-Trainee--Advisor-Development-Program_JR00121849",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "Ottawa, Ontario",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Ottawa-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00127776-1",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "Winnipeg, Manitoba",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Winnipeg-Manitoba/Advisor-Trainee--Advisor-Development-Program_JR00123535-2",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "Saskatoon, Saskatchewan",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Saskatoon-Saskatchewan/Advisor-Trainee--Advisor-Development-Program_JR00124054",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "St. John's, Newfoundland and Labrador",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/St-Johns-Newfoundland-and-Labrador/Advisor-Trainee--Advisor-Development-Program_JR00125356",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer Advisor",
+"company": "Enbridge",
+"location": "2 Locations, Canada",
+"posted": "2026-10-24",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Edmonton-AB-CAN/Full-Stack-Developer-Advisor_73423-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "Scarborough, Ontario",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Scarborough-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00121848",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Disability Calculation Analyst",
+"company": "Manulife",
+"location": "10 Locations, Canada",
+"posted": "2026-10-24",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Quebec---Full-Time-Remote/Bilingual-Disability-Calculation-Analyst_JR26091424-1",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "2 Locations, Canada",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Surrey-British-Columbia/Advisor-Trainee--Advisor-Development-Program_JR00123166",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist",
+"company": "Sun Life",
+"location": "2 Locations, Canada",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Data-Scientist_JR00128241",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "Toronto, Ontario",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00123093",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunties",
+"company": "Sun Life",
+"location": "3 Locations, Canada",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Windsor-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00121845",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
+"company": "Sun Life",
+"location": "Calgary, Alberta",
+"posted": "2026-10-24",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Calgary-Alberta/Advisor-Trainee--Advisor-Development-Program_JR00122372",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Simulator Technician",
+"company": "CAE",
+"location": "Greenwood, Canada",
+"posted": "2026-10-24",
+"link": "https://cae.wd3.myworkdayjobs.com/career/job/Greenwood/Simulator-Technician_124053",
+"source": "CAE careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Corrosion Technician",
+"company": "Enbridge",
+"location": "HopeStn 8B Hope/Othello, Canada",
+"posted": "2026-10-24",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/HopeStn-8B-HopeOthello/Corrosion-Technician_73374",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Investment Data Governance Analyst",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-24",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Investment-Data-Governance-Analyst_JR102608",
+"source": "HOOPP careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Hardware Engineer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-24",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
 "title": "Directeur(rice), Projets d'infrastructure",
 "company": "Deloitte",
 "location": "Toronto, ON, CA, M5H 0A9",
@@ -5585,16 +5865,6 @@
 "years": 1
 },
 {
-"title": "AIOps Engineer",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Senior-Lead--Site-Reliability-Engineering--SRE-_R260027120",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Data Steward II (Global Technology & Solutions)",
 "company": "TD",
 "location": "Toronto, Ontario",
@@ -5621,16 +5891,6 @@
 "posted": "2026-10-23",
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Personal-Banking-Associate-Trainee_R_1518288",
 "source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Credit Analyst Trainee",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Credit-Analyst-Trainee_R260029541",
-"source": "BMO careers",
 "country": "CA",
 "years": null
 },
@@ -5665,16 +5925,6 @@
 "years": 5
 },
 {
-"title": "Canadian Fundamental Equities - Analyst – Resources, Global Asset Management",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Research-Analyst---Canadian-Equity---Resources_R260026242",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Mainframe Test Analyst",
 "company": "TD",
 "location": "Toronto, Ontario",
@@ -5705,16 +5955,6 @@
 "years": null
 },
 {
-"title": "Data Engineer, Fraud Predictive Analytics",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer--Fraud-Predictive-Analytics_R260029493",
-"source": "BMO careers",
-"country": "CA",
-"years": 5
-},
-{
 "title": "Global Markets Intern/ Co-op",
 "company": "TD",
 "location": "Toronto, Ontario",
@@ -5723,16 +5963,6 @@
 "source": "TD careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "AI Engineer",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/AI-Engineer_R260029413",
-"source": "BMO careers",
-"country": "CA",
-"years": 3
 },
 {
 "title": "Global Equity Derivatives Operations Analyst II",
@@ -5761,16 +5991,6 @@
 "posted": "2026-10-23",
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Personal-Banking-Associate-Trainee_R_1517674",
 "source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "BMO Capital Markets Summer 2027 Internship Risk and Capital Solutions Analyst, Toronto",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-23",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Summer-2027-Internship-Risk-and-Capital-Solutions-Analyst--Toronto_R260028597",
-"source": "BMO careers",
 "country": "CA",
 "years": null
 },
@@ -5901,226 +6121,6 @@
 "posted": "2026-10-23",
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banking-Associate-Trainee_R_1518065",
 "source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Early Career Software Test Developer - Propulsion Thermal Management",
-"company": "General Motors",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-10-23",
-"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250",
-"source": "General Motors careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "NPI Optical Test Engineer",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-10-23",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Optical-Test-Engineer_R031476",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Integrated Planning & Communications Student (4 months) - Winter 2027",
-"company": "Canadian Tire",
-"location": "Calgary, AB",
-"posted": "2026-10-23",
-"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Integrated-Planning---Communications-Student--4-months----Winter-2027_JR165205-1",
-"source": "Canadian Tire careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Specialist, Infrastructure Planning",
-"company": "Enbridge",
-"location": "3 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Edmonton-AB-CAN/Specialist--Infrastructure-Planning_73567-1",
-"source": "Enbridge careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Summer Co-op 2027 - Venture Capital",
-"company": "Manulife",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Co-op-2027---Venture-Capital_JR26100932",
-"source": "Manulife careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "Moncton, New Brunswick",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Moncton-New-Brunswick/Advisor-Trainee--Advisor-Development-Program_JR00121849",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "Ottawa, Ontario",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Ottawa-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00127776-1",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "Winnipeg, Manitoba",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Winnipeg-Manitoba/Advisor-Trainee--Advisor-Development-Program_JR00123535-2",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "Saskatoon, Saskatchewan",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Saskatoon-Saskatchewan/Advisor-Trainee--Advisor-Development-Program_JR00124054",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "St. John's, Newfoundland and Labrador",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/St-Johns-Newfoundland-and-Labrador/Advisor-Trainee--Advisor-Development-Program_JR00125356",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Full Stack Developer Advisor",
-"company": "Enbridge",
-"location": "2 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Edmonton-AB-CAN/Full-Stack-Developer-Advisor_73423-1",
-"source": "Enbridge careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "Scarborough, Ontario",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Scarborough-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00121848",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Bilingual Disability Calculation Analyst",
-"company": "Manulife",
-"location": "10 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Quebec---Full-Time-Remote/Bilingual-Disability-Calculation-Analyst_JR26091424-1",
-"source": "Manulife careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "2 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Surrey-British-Columbia/Advisor-Trainee--Advisor-Development-Program_JR00123166",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Scientist",
-"company": "Sun Life",
-"location": "2 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Data-Scientist_JR00128241",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "Toronto, Ontario",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00123093",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunties",
-"company": "Sun Life",
-"location": "3 Locations, Canada",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Windsor-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00121845",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor Trainee- Advisor Development Program -Future Opportunities",
-"company": "Sun Life",
-"location": "Calgary, Alberta",
-"posted": "2026-10-23",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Calgary-Alberta/Advisor-Trainee--Advisor-Development-Program_JR00122372",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Simulator Technician",
-"company": "CAE",
-"location": "Greenwood, Canada",
-"posted": "2026-10-23",
-"link": "https://cae.wd3.myworkdayjobs.com/career/job/Greenwood/Simulator-Technician_124053",
-"source": "CAE careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Corrosion Technician",
-"company": "Enbridge",
-"location": "HopeStn 8B Hope/Othello, Canada",
-"posted": "2026-10-23",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/HopeStn-8B-HopeOthello/Corrosion-Technician_73374",
-"source": "Enbridge careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Investment Data Governance Analyst",
-"company": "HOOPP",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-23",
-"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Investment-Data-Governance-Analyst_JR102608",
-"source": "HOOPP careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Hardware Engineer - New Grad",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-10-23",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914",
-"source": "Ciena careers",
 "country": "CA",
 "years": null
 },
@@ -20044,6 +20044,176 @@
 "skills": [
 "Microsoft 365"
 ]
+},
+{
+"title": "Business Banking Relationship Manager Trainee",
+"company": "BMO",
+"location": "Goderich, ON, CAN, Canada",
+"posted": "2026-10-23",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Goderich-ON-CAN/Business-Banking-Relationship-Manager-Trainee_R260026355",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Climate Risk Analytics & Reporting, Analyst ( New or Recent Graduate Opportunity) Immediate Start Date",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-23",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Climate-Risk-Analytics---Reporting--Analyst---New-or-Recent-Graduate-Opportunity--Immediate-Start-Date_R260028351-1",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Workday Platform Engineer",
+"company": "Manulife",
+"location": "Toronto, Ontario",
+"posted": "2026-10-23",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Workday-Platform-Engineer_JR26100211-1",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Payroll Analyst",
+"company": "Manulife",
+"location": "3 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Payroll-Analyst_JR26081976",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Platform Engineer (SIEM)",
+"company": "Sun Life",
+"location": "3 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Security-Platform-Engineer--SIEM-_JR00126894",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Technician",
+"company": "iA Financial",
+"location": "Toronto, Ontario",
+"posted": "2026-10-23",
+"link": "https://ia.wd3.myworkdayjobs.com/professional/job/Toronto-Ontario/Technicien-ne--TI_JR10028157",
+"source": "iA Financial careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Real Estate",
+"company": "HOOPP",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-23",
+"link": "https://hoopp.wd10.myworkdayjobs.com/HOOPP/job/Toronto-Ontario-Canada/Analyst--Real-Estate_JR102604",
+"source": "HOOPP careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II (Backend - Java)",
+"company": "Mastercard",
+"location": "Vancouver, Canada",
+"posted": "2026-10-23",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-II--Backend---Java-_R-291922",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer Intern - Winter 2027",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-23",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field CISO, Cyber Risk",
+"company": "CDW",
+"location": "Thornhill - ON 17, Canada",
+"posted": "2026-10-23",
+"link": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Thornhill---ON-17/Field-CISO--Cyber-Risk_R26_00002964-1",
+"source": "CDW careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Data Governance",
+"company": "Canadian Tire",
+"location": "Oakville, ON, Canada",
+"posted": "2026-10-23",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Analyst--Data-Governance_JR151508",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Analyst, Corporate Accounting (15 Month Contract)",
+"company": "Canadian Tire",
+"location": "Toronto, ON",
+"posted": "2026-10-23",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Financial-Analyst--Corporate-Accounting--15-Month-Contract-_JR167086",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer in Training I Infrastructure Planning",
+"company": "Enbridge",
+"location": "2 Locations, Canada",
+"posted": "2026-10-23",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Engineer-in-Training-I-Infrastructure-Planning_73501-2",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technician II Utility Service",
+"company": "Enbridge",
+"location": "Dryden, ON, CAN, Canada",
+"posted": "2026-10-23",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Dryden-ON-CAN/Technician-II-Utility-Service_73352-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Utility Services Technician II",
+"company": "Enbridge",
+"location": "Geraldton, ON, CAN, Canada",
+"posted": "2026-10-23",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Geraldton-ON-CAN/Utility-Services-Technician-II_72497-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cost Analyst",
+"company": "Cenovus",
+"location": "CA-AB-Calgary",
+"posted": "2026-10-23",
+"link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Cost-Analyst_R-411228",
+"source": "Cenovus careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "I&T Resilience and Data Governance Specialist",
+"company": "ENMAX",
+"location": "ENMAX Place, Calgary, AB",
+"posted": "2026-10-23",
+"link": "https://enmax.wd3.myworkdayjobs.com/ENMAXCareers/job/ENMAX-Place-Calgary-AB/I-T-Resilience-and-Data-Governance-Specialist_R0012606",
+"source": "ENMAX careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Systems Engineer - Behavior Verification",
