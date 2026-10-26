@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-26T21:09:49+00:00",
+"updated": "2026-10-26T21:19:45+00:00",
 "jobs": [
 {
 "title": "Software Engineer II, Cloud Applications",
@@ -4904,6 +4904,18 @@
 "years": null
 },
 {
+"title": "CHY 437 Organic Chemistry Contract Lecturer - Unit 1",
+"company": "Toronto Metropolitan University",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=062de60b381de9d7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.torontomu.ca/psc/hrcgprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=398875&PostingSeq=1",
+"salary": "$79,644.07 to $101,855.82 per annum"
+},
+{
 "title": "Enterprise Sales Engineer - Northeast",
 "company": "Chainguard",
 "location": "Remote · United States",
@@ -6704,6 +6716,16 @@
 "location": "Richmond, British Columbia, Canada",
 "posted": "2026-10-25",
 "link": "https://www.linkedin.com/jobs/view/4482672503",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Developer (1-Year Contract)",
+"company": "Baker Tilly Canada",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-25",
+"link": "https://www.linkedin.com/jobs/view/4483366987",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11705,64 +11727,6 @@
 "source": "Asana careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Public Sector Delivery Analyst",
-"company": "Cohere",
-"location": "Ottawa; Canada",
-"posted": "2026-10-23T21:19:34.820+00:00",
-"link": "https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f",
-"source": "Cohere careers",
-"country": "CA",
-"years": 1,
-"salary": "$75",
-"quals": [
-"1–4 years of experience in technology or management consulting, professional services, or an in-house technical delivery team.",
-"Delivery discipline. You've run RAID, action, and decision logs, refined user stories, maintained project plans on real projects and kept th",
-"Client presence. You can lead a working session in front of a client, read the room, and know what to say and what to hold.",
-"Strong written communication. You think through the message before you build the slide. Advanced PowerPoint, Word, and Excel."
-],
-"skills": [
-"REST APIs",
-"Excel"
-]
-},
-{
-"title": "Software Developer, DevOps",
-"company": "Benevity",
-"location": "Calgary, Alberta; Vancouver, British Columbia; Canada",
-"posted": "2026-10-23T21:15:15.476+00:00",
-"link": "https://jobs.ashbyhq.com/benevity/867b18d3-a888-40b4-8186-8dee8f340886",
-"source": "Benevity careers",
-"country": "CA",
-"years": null,
-"quals": [
-"A proven track record in DevOps, SRE, or platform engineering supporting production SaaS at a meaningful scale",
-"Strong hands-on AWS experience across compute, networking, and IAM, utilizing Well-Architected principles alongside solid Terraform skills",
-"Deep familiarity with CI/CD platforms like GitHub Actions or Jenkins, specifically building reusable workflows, templates, and shared librar",
-"Practical programming ability in Python or similar languages for automation, maintaining the habits of a developer with version control and "
-],
-"skills": [
-"Python",
-"LLMs / GenAI",
-"PostgreSQL",
-"MySQL",
-"SQL Server",
-"AWS",
-"Google Cloud",
-"Docker",
-"Kubernetes",
-"Terraform",
-"CI/CD",
-"GitHub Actions",
-"Jenkins",
-"Git",
-"Infrastructure as code",
-"Monitoring",
-"Incident response",
-"IAM",
-"System design"
-]
 }
 ]
 }
