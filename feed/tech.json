@@ -1,72 +1,6 @@
 {
-"updated": "2026-10-26T01:49:50+00:00",
+"updated": "2026-10-26T01:59:44+00:00",
 "jobs": [
-{
-"title": "Silviculture Assistant (Student) - Summer 2027",
-"company": "J.D. Irving Woodlands Division",
-"location": "Chipman, NB, CA",
-"posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=cc56355d1aa8f4cb",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12931"
-},
-{
-"title": "Sales Automation Engineer Intern",
-"company": "Arima",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-10-26",
-"link": "https://ca.indeed.com/viewjob?jk=2220562647959caf",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/sales-automation-engineer-intern-2220562647959caf",
-"salary": "$25.00 per hour",
-"skills": [
-"Python",
-"JavaScript",
-"SQL",
-"Node.js",
-"REST APIs",
-"LLMs / GenAI",
-"LangChain",
-"Excel",
-"A/B testing",
-"Networking (TCP/IP, DNS)",
-"System design",
-"Salesforce"
-]
-},
-{
-"title": "Software Engineer – Secure Systems and Simulation",
-"company": "AirSpace Innovation LLC",
-"location": "Remote · United States",
-"posted": "2026-10-26",
-"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
-"salary": "$110,000 - $140,000 USD per year",
-"skills": [
-"Python",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"AWS",
-"Azure",
-"Google Cloud",
-"Git",
-"Linux",
-"Cybersecurity",
-"Encryption / PKI",
-"Microsoft 365",
-"Testing (unit, automated)",
-"Data structures & algorithms",
-"System design"
-]
-},
 {
 "title": "Data Engineer – Streaming & Data Platforms",
 "company": "IND Technology Pty Ltd",
@@ -101,6 +35,72 @@
 "Jest / PyTest",
 "System design"
 ]
+},
+{
+"title": "Software Engineer – Secure Systems and Simulation",
+"company": "AirSpace Innovation LLC",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=06cd5a70f775af76",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/software-engineer-secure-systems-and-simulation-06cd5a70f775af76",
+"salary": "$110,000 - $140,000 USD per year",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"AWS",
+"Azure",
+"Google Cloud",
+"Git",
+"Linux",
+"Cybersecurity",
+"Encryption / PKI",
+"Microsoft 365",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design"
+]
+},
+{
+"title": "Sales Automation Engineer Intern",
+"company": "Arima",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=2220562647959caf",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/sales-automation-engineer-intern-2220562647959caf",
+"salary": "$25.00 per hour",
+"skills": [
+"Python",
+"JavaScript",
+"SQL",
+"Node.js",
+"REST APIs",
+"LLMs / GenAI",
+"LangChain",
+"Excel",
+"A/B testing",
+"Networking (TCP/IP, DNS)",
+"System design",
+"Salesforce"
+]
+},
+{
+"title": "Silviculture Assistant (Student) - Summer 2027",
+"company": "J.D. Irving Woodlands Division",
+"location": "Chipman, NB, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=cc56355d1aa8f4cb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/12931"
 },
 {
 "title": "Software developer",
@@ -20100,106 +20100,6 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 1
-},
-{
-"title": "Associate Professor/Professor - Data Science Computation",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Data-Science-Computation-ON/606450917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Assistant Professor - Data Science Computation",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Data-Science-Computation-ON/606449617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Cloud Developer",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1L4S2",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Cloud-Developer-ON-M1L4S2/606445617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Software Engineer- Global Payments Engineering",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1L4S2",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Professional, Engineering, Systems - Weekend Shift",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Professional%2C-Engineering%2C-Systems-Weekend-Shift-ON-L5S-1W1/1441048033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Professional, Engineering - Ground & Flight Testing Integrator",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Professional%2C-Engineering-Ground-&-Flight-Testing-Integrator-ON-L5S-1W1/1441168733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Data Scientist, AI & Machine Learning",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M5H 1H1",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Data-Scientist%2C-AI-&-Machine-Learning-ON-M5H-1H1/606448017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Modern Endpoint Management Engineer",
-"company": "Scotiabank",
-"location": "Scarborough, ON, CA, M5V2T3",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Scarborough-Modern-Endpoint-Management-Engineer-ON-M5V2T3/604737317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Modern Workplace Engineer - Intune & Endpoint Management",
-"company": "Scotiabank",
-"location": "Scarborough, ON, CA, M5V2T3",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Scarborough-Modern-Workplace-Engineer-Intune-&-Endpoint-Management-ON-M5V2T3/604738817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "PAM Solution Support Engineer",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1K5L1",
-"posted": "2026-10-23T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-PAM-Solution-Support-Engineer-ON-M1K5L1/604735317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 3
 }
 ]
 }
