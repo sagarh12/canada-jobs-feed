@@ -1,58 +1,21 @@
 {
-"updated": "2026-10-27T03:19:45+00:00",
+"updated": "2026-10-27T03:29:43+00:00",
 "jobs": [
 {
-"title": "Software Developer",
-"company": "SmartyArty Tech",
+"title": "Power BI & Business Systems Analyst",
+"company": "Blueprint Technologies",
 "location": "Remote · United States",
 "posted": "2026-10-27",
-"link": "https://www.indeed.com/viewjob?jk=63f918287484088a",
+"link": "https://www.indeed.com/viewjob?jk=8fbb91b070f22166",
 "source": "Indeed",
 "country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/software-developer-63f918287484088a",
-"salary": "$500 per month",
+"years": 5,
+"apply": "https://grnh.se/fsp6w2p71us",
+"salary": "$30 - $33 USD per hour",
 "skills": [
-"TypeScript",
-"React",
-"REST APIs",
-"PostgreSQL",
-"AWS",
-"Git",
+"Power BI",
+"Data structures & algorithms",
 "System design"
-]
-},
-{
-"title": "SFMC (Salesforce Marketing Cloud) Business Analyst / Solution Consultant",
-"company": "LTM Limited",
-"location": "Mississauga, ON, CA",
-"posted": "2026-10-27",
-"link": "https://ca.indeed.com/viewjob?jk=081e84032a778ca6",
-"source": "Indeed",
-"country": "CA",
-"years": 8,
-"apply": "https://ltm.ripplehire.com/candidate/?token=tc4qAnBJPcepLnSwKrBn&lang=en&source=INDEED&ref=INDEED#detail/job/904321",
-"salary": "$110,000.00 to $145,000,000.00 per year",
-"skills": [
-"SQL",
-"REST APIs",
-"Help desk / troubleshooting",
-"Salesforce"
-]
-},
-{
-"title": "Financial Analyst",
-"company": "Sonoco",
-"location": "Remote · United States",
-"posted": "2026-10-27",
-"link": "https://www.indeed.com/viewjob?jk=7436e041198c8597",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/financial-analyst-7436e041198c8597",
-"salary": "$56,400 - $68,000 USD per year",
-"skills": [
-"Excel"
 ]
 },
 {
@@ -80,19 +43,56 @@
 ]
 },
 {
-"title": "Power BI & Business Systems Analyst",
-"company": "Blueprint Technologies",
+"title": "Financial Analyst",
+"company": "Sonoco",
 "location": "Remote · United States",
 "posted": "2026-10-27",
-"link": "https://www.indeed.com/viewjob?jk=8fbb91b070f22166",
+"link": "https://www.indeed.com/viewjob?jk=7436e041198c8597",
 "source": "Indeed",
 "country": "US",
-"years": 5,
-"apply": "https://grnh.se/fsp6w2p71us",
-"salary": "$30 - $33 USD per hour",
+"years": null,
+"apply": "http://www.indeed.com/job/financial-analyst-7436e041198c8597",
+"salary": "$56,400 - $68,000 USD per year",
 "skills": [
-"Power BI",
-"Data structures & algorithms",
+"Excel"
+]
+},
+{
+"title": "SFMC (Salesforce Marketing Cloud) Business Analyst / Solution Consultant",
+"company": "LTM Limited",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=081e84032a778ca6",
+"source": "Indeed",
+"country": "CA",
+"years": 8,
+"apply": "https://ltm.ripplehire.com/candidate/?token=tc4qAnBJPcepLnSwKrBn&lang=en&source=INDEED&ref=INDEED#detail/job/904321",
+"salary": "$110,000.00 to $145,000,000.00 per year",
+"skills": [
+"SQL",
+"REST APIs",
+"Help desk / troubleshooting",
+"Salesforce"
+]
+},
+{
+"title": "Software Developer",
+"company": "SmartyArty Tech",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=63f918287484088a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-developer-63f918287484088a",
+"salary": "$500 per month",
+"skills": [
+"TypeScript",
+"React",
+"REST APIs",
+"PostgreSQL",
+"AWS",
+"Git",
 "System design"
 ]
 },
