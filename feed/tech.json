@@ -1,6 +1,16 @@
 {
-"updated": "2026-10-27T19:39:53+00:00",
+"updated": "2026-10-27T19:49:56+00:00",
 "jobs": [
+{
+"title": "Software Engineer 3, Identity and Access Management",
+"company": "MongoDB",
+"location": "Toronto",
+"posted": "2026-10-27T15:42:29-04:00",
+"link": "https://www.mongodb.com/careers/job/?gh_jid=8313374",
+"source": "MongoDB careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Design Engineer, Brand Studio",
 "company": "Stripe",
@@ -4147,6 +4157,166 @@
 "source": "Sun Life careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Platform Engineer",
+"company": "Manulife",
+"location": "2 Locations, Canada",
+"posted": "2026-10-27",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Platform-Engineer_JR26101229",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electronic Reliability Engineer Co-op (Winter 2027)",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-27",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Business Analyst (Remote)",
+"company": "Sunlight Financial",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=8b651b9587578626",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/4B87E45B0043AC123514614BE9E3A78E/jobs/262480?source=Indeed",
+"salary": "$12",
+"skills": [
+"REST APIs",
+"Windows",
+"Salesforce"
+]
+},
+{
+"title": "Clinical Trial Feasibility Analyst",
+"company": "IQVIA",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=23c3f288f14bfddf",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.iqvia.com/en/jobs/R1575320-0",
+"salary": "$88,300 - $220,900 USD per year",
+"skills": [
+"Python",
+"SQL",
+"Machine learning",
+"Databricks",
+"Statistics",
+"AWS"
+]
+},
+{
+"title": "Management Analyst",
+"company": "US Military Treatment Facilities under DHA",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=6cc2e2f31092924b",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/890000900",
+"salary": "$85,447 - $111,087 USD per year",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "OPERATIONS RESEARCH ANALYST",
+"company": "US Joint Activities",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=cf89915a355e4a81",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.usajobs.gov:443/job/889978900",
+"salary": "$121,785 - $166,440 USD per year",
+"skills": [
+"HTML/CSS",
+"Statistics",
+"Vulnerability management",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Jr. Cyber Defense Analyst MDX - SSFB/HSV",
+"company": "Amentum",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=2e7aac01c9a76983",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.amentumcareers.com/jobs/jr-cyber-defense-analyst-mdx-ssfb-hsv-colorado-springs-colorado-united-states-redstone-arsenal-alabama?source=Indeed+Feed",
+"salary": "$100,000 - $115,000 USD per year",
+"skills": [
+"Excel",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Firewalls",
+"Threat intelligence",
+"Windows"
+]
+},
+{
+"title": "Mid Cyber Defense Analyst MDX - SSFB/HSV",
+"company": "Amentum",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=e475d6406fbe3d11",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://www.amentumcareers.com/jobs/mid-cyber-defense-analyst-mdx-ssfb-hsv-colorado-springs-colorado-united-states-redstone-arsenal-alabama?source=Indeed+Feed",
+"salary": "$119,000 - $130,000 USD per year",
+"skills": [
+"Excel",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Penetration testing",
+"Firewalls",
+"Threat intelligence",
+"Windows"
+]
+},
+{
+"title": "ServiceNow Platform Specialist",
+"company": "Alimentiv",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=319bfbed179e8356",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.lever.co/alimentiv-2/31ce3213-3bdc-4c28-b852-4867c6c5f108?lever-source=Indeed",
+"skills": [
+"JavaScript",
+"REST APIs",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"System design"
+]
 },
 {
 "title": "Security Compliance Coordinator",
@@ -9187,7 +9357,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://app.loxo.co/job/OTAzOC05OWsyYjd3dmlicms0MHFj?source_type=indeed&t=1793106440",
+"apply": "https://app.loxo.co/job/OTAzOC05OWsyYjd3dmlicms0MHFj?source_type=indeed&t=1793128067",
 "skills": [
 "SQL"
 ]
@@ -15314,6 +15484,127 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-26",
 "link": "https://www.linkedin.com/jobs/view/4483236456",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Intern, Nutella",
+"company": "Ferrero",
+"location": "North York, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483728369",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Entry Level* Health Care Services Trainee I - Wheat Ridge Regional Center",
+"company": "State of Colorado",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=b0d1665a5808e2fc",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.governmentjobs.com/careers/colorado/jobs/5521895/entry-level-health-care-services-trainee-i-wheat-ridge-regional-center"
+},
+{
+"title": "Machine Learning Research Intern",
+"company": "M31 AI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483262099",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Systems Engineer",
+"company": "Foreseeson Technology",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483246307",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Analyst",
+"company": "Alquemy Search & Consulting",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4481939305",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Technician (Water Test)",
+"company": "Cornerstone Building Brands",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4473677284",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Tosca QA Engineer",
+"company": "Centraprise",
+"location": "Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483238440",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CYBER SECURITY ANALYST",
+"company": "Durham District School Board",
+"location": "Whitby, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483249344",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business System Analyst",
+"company": "Tata Consultancy Services",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483238636",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quantitative Software Engineer",
+"company": "RPIA Capital Management",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4471558456",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Dev Engineer, Pricing Shared Platform",
+"company": "Amazon",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483709945",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Python Developer",
+"company": "STACK IT Recruitment",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483737145",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
