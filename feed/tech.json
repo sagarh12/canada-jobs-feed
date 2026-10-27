@@ -1,21 +1,58 @@
 {
-"updated": "2026-10-27T03:09:46+00:00",
+"updated": "2026-10-27T03:19:45+00:00",
 "jobs": [
 {
-"title": "Power BI & Business Systems Analyst",
-"company": "Blueprint Technologies",
+"title": "Software Developer",
+"company": "SmartyArty Tech",
 "location": "Remote · United States",
 "posted": "2026-10-27",
-"link": "https://www.indeed.com/viewjob?jk=8fbb91b070f22166",
+"link": "https://www.indeed.com/viewjob?jk=63f918287484088a",
 "source": "Indeed",
 "country": "US",
-"years": 5,
-"apply": "https://grnh.se/fsp6w2p71us",
-"salary": "$30 - $33 USD per hour",
+"years": null,
+"apply": "http://www.indeed.com/job/software-developer-63f918287484088a",
+"salary": "$500 per month",
 "skills": [
-"Power BI",
-"Data structures & algorithms",
+"TypeScript",
+"React",
+"REST APIs",
+"PostgreSQL",
+"AWS",
+"Git",
 "System design"
+]
+},
+{
+"title": "SFMC (Salesforce Marketing Cloud) Business Analyst / Solution Consultant",
+"company": "LTM Limited",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=081e84032a778ca6",
+"source": "Indeed",
+"country": "CA",
+"years": 8,
+"apply": "https://ltm.ripplehire.com/candidate/?token=tc4qAnBJPcepLnSwKrBn&lang=en&source=INDEED&ref=INDEED#detail/job/904321",
+"salary": "$110,000.00 to $145,000,000.00 per year",
+"skills": [
+"SQL",
+"REST APIs",
+"Help desk / troubleshooting",
+"Salesforce"
+]
+},
+{
+"title": "Financial Analyst",
+"company": "Sonoco",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=7436e041198c8597",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/financial-analyst-7436e041198c8597",
+"salary": "$56,400 - $68,000 USD per year",
+"skills": [
+"Excel"
 ]
 },
 {
@@ -43,36 +80,20 @@
 ]
 },
 {
-"title": "Financial Analyst",
-"company": "Sonoco",
+"title": "Power BI & Business Systems Analyst",
+"company": "Blueprint Technologies",
 "location": "Remote · United States",
 "posted": "2026-10-27",
-"link": "https://www.indeed.com/viewjob?jk=7436e041198c8597",
+"link": "https://www.indeed.com/viewjob?jk=8fbb91b070f22166",
 "source": "Indeed",
 "country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/financial-analyst-7436e041198c8597",
-"salary": "$56,400 - $68,000 USD per year",
+"years": 5,
+"apply": "https://grnh.se/fsp6w2p71us",
+"salary": "$30 - $33 USD per hour",
 "skills": [
-"Excel"
-]
-},
-{
-"title": "SFMC (Salesforce Marketing Cloud) Business Analyst / Solution Consultant",
-"company": "LTM Limited",
-"location": "Mississauga, ON, CA",
-"posted": "2026-10-27",
-"link": "https://ca.indeed.com/viewjob?jk=081e84032a778ca6",
-"source": "Indeed",
-"country": "CA",
-"years": 8,
-"apply": "https://ltm.ripplehire.com/candidate/?token=tc4qAnBJPcepLnSwKrBn&lang=en&source=INDEED&ref=INDEED#detail/job/904321",
-"salary": "$110,000.00 to $145,000,000.00 per year",
-"skills": [
-"SQL",
-"REST APIs",
-"Help desk / troubleshooting",
-"Salesforce"
+"Power BI",
+"Data structures & algorithms",
+"System design"
 ]
 },
 {
@@ -8732,6 +8753,50 @@
 "SQL",
 "REST APIs",
 "Power BI",
+"Data structures & algorithms"
+]
+},
+{
+"title": "Data Governance Analyst",
+"company": "Cognizant",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-26",
+"link": "https://ca.indeed.com/viewjob?jk=c11d5acba5209ed6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071137151/data-governance-analyst/",
+"salary": "$90,000 - $107,000 per year",
+"skills": [
+"REST APIs",
+"Cybersecurity"
+]
+},
+{
+"title": "Data Analyst",
+"company": "VTG Defense",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=f246b837e8000c99",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://careers.vtgdefense.com/jobs/9689/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"Python",
+"SQL",
+"Pandas",
+"NumPy",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Excel",
+"Data visualization",
+"AWS",
+"Azure",
+"Microsoft 365",
+"Agile / Scrum",
+"Jira",
 "Data structures & algorithms"
 ]
 },
