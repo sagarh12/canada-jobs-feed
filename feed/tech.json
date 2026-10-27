@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-27T23:39:48+00:00",
+"updated": "2026-10-27T23:49:45+00:00",
 "jobs": [
 {
 "title": "Web Developer",
@@ -4400,7 +4400,7 @@
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Actuarial-Analyst-II_R_1518850",
 "source": "TD careers",
 "country": "CA",
-"years": null
+"years": 3
 },
 {
 "title": "Personal Banker Trainee",
@@ -4420,7 +4420,7 @@
 "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--FIU-Regulatory-Reporting_2622123",
 "source": "CIBC careers",
 "country": "CA",
-"years": null
+"years": 1
 },
 {
 "title": "Credit Analyst, Commercial Banking",
@@ -6410,6 +6410,275 @@
 "years": null
 },
 {
+"title": "Category Analyst - CPG Grocery",
+"company": "Acosta",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=60e5bcb75005737f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://eczy.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/42515",
+"skills": [
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Information Governance & Knowledge Management Analyst",
+"company": "Alberta Electric System Operator",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=c07f46ae7d6c14be",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://aeso.wd3.myworkdayjobs.com/en-US/External/job/Calgary/Information-Governance---Knowledge-Management-Analyst_R-2026937",
+"skills": [
+"Cybersecurity",
+"Microsoft 365"
+]
+},
+{
+"title": "Systems Administrator",
+"company": "Yorkville University",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=0045c2efe6afcbb7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://yorkvilleuniversity.applytojob.com/apply/VCJnRPC6SZ/Systems-Administrator?source=INDE&~",
+"salary": "$70,000,",
+"skills": [
+"Bash/Shell",
+"PowerShell",
+"Azure",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Software Engineer (Intermediate)",
+"company": "North South Consulting Group",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=0024483b9da9a0c0",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://northsouthconsultinggroup.applytojob.com/apply/OyTSstnQfo/Software-Engineer-Intermediate?source=INDE&~",
+"skills": [
+"Java",
+"SQL",
+"HTML/CSS",
+"Angular",
+"Node.js",
+"Spring Boot",
+"REST APIs",
+"PostgreSQL",
+"Oracle",
+"AWS",
+"Git",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Object-oriented programming",
+"System design",
+"CompTIA Security+"
+]
+},
+{
+"title": "Full Stack Software Development Engineer",
+"company": "Wedgewood Pharmacy",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=5847235691a64c10",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/7aoi0lhp9us",
+"salary": "$90,000 - $115,000 USD per year",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"SQL",
+"React",
+"Node.js",
+"GraphQL",
+"REST APIs",
+"Kafka",
+"MongoDB",
+"AWS",
+"Azure",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Object-oriented programming",
+"System design",
+"Salesforce"
+]
+},
+{
+"title": "Pharmacist",
+"company": "Loblaw",
+"location": "Camrose, AB, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=959a5f5ca684b69d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/pharmacist/job/R2000725911",
+"salary": "$56.55 - $73.15"
+},
+{
+"title": "Category Analyst - CPG Grocery",
+"company": "Acosta",
+"location": "Georgetown, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=9821226dc0e29a09",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://eczy.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/42515",
+"skills": [
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Windchill Java Developer",
+"company": "BV Teck",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=fb23c9721915994e",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://brightvisiontechnologies.applytojob.com/apply/348NNZr030/Windchill-Java-Developer?source=INDE&~",
+"salary": "$98,000 - $127,000 USD per year",
+"skills": [
+"Java",
+"SQL",
+"HTML/CSS",
+"REST APIs",
+"SQL Server",
+"Oracle",
+"CI/CD",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Golang Developer",
+"company": "BV Teck",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=a0c737f93e2e1a50",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://brightvisiontechnologies.applytojob.com/apply/8REjZpRH8s/Golang-Developer?source=INDE&~",
+"salary": "$85,000 - $115,000 USD per year",
+"skills": [
+"Go",
+"REST APIs",
+"gRPC",
+"Kubernetes",
+"CI/CD",
+"System design",
+"Embedded systems"
+]
+},
+{
+"title": "2027 Data Analytics Internship - Remote",
+"company": "Symetra",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=27da13efd9a56921",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://symetra.eightfold.ai/careers/job/446721451484",
+"salary": "$22 - $25 USD per hour",
+"quals": [
+"Interested in analytics engineering patterns (staging/marts, testing, version control).",
+"Able to work with imperfect data and communicate findings clearly.",
+"Curious , collaborative, and eager to learn. For more qualified candidates (preferred/advanced) Hands-on with dbt and Snowflake; basic data ",
+"Exposure to NLP/sentiment or LLM workflows (e.g., summarization, embeddings). Experience with orchestration (Airflow/Prefect/ Dagster ) and "
+],
+"skills": [
+"Python",
+"SQL",
+"LLMs / GenAI",
+"NLP",
+"Airflow",
+"dbt",
+"ETL / data pipelines",
+"Snowflake",
+"Power BI",
+"Git"
+]
+},
+{
+"title": "Finance Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=204c802ce3ceeba2",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/finance-analyst-204c802ce3ceeba2",
+"salary": "$75,100 - $90,500 USD per year",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "QA Test Automation Co-op Student (Winter 2027)",
+"company": "TechInsights",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=116623b24eaca964",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://techinsights.applytojob.com/apply/ZJYFqNjcVl/QA-Test-Automation-Coop-Student-Winter-2027?source=INDE&~",
+"salary": "$21-$25/hour",
+"skills": [
+"Python",
+"Java",
+"CI/CD",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest",
+"SDLC"
+]
+},
+{
+"title": "Enrichment Edge Client Support Specialist",
+"company": "PROCare HR",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=8dedf7578e5214d9",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://procarehra8.applytojob.com/apply/TvHrWZLxqO/Enrichment-Edge-Client-Support-Specialist?source=INDE&~",
+"salary": "$60,000 - $70,000 USD per year",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
 "title": "Security Compliance Coordinator",
 "company": "Top Hat",
 "location": "Canada",
@@ -7475,7 +7744,7 @@
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II--Salesforce-Loyalty-Management-Developer-_R_1509038",
 "source": "TD careers",
 "country": "CA",
-"years": null
+"years": 3
 },
 {
 "title": "Technology Lifecycle Services Renewals Sales Specialist - Entry Level Sales Program 2027",
@@ -18201,6 +18470,96 @@
 "location": "",
 "posted": "2026-10-26",
 "link": "https://www.linkedin.com/jobs/view/4475510226",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Investment Analyst, Dynamic Asset Allocation, Total Fund Management",
+"company": "Ontario Teachers' Pension Plan",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483762617",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Consulting Services",
+"company": "MNP",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483269119",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support Analyst",
+"company": "Specsavers",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4481827071",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "Insight Global",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4482999185",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Database Modeller / Information Management Modeller L3",
+"company": "Maplesoft Group, an SEB Company",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4475809179",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist",
+"company": "Ericsson",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483273326",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Analysts (ID#5589)",
+"company": "New Value Solutions",
+"location": "",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483272263",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Accessibility Tester",
+"company": "HCLTech",
+"location": "",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483266575",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Inventory & Data Administrator",
+"company": "Specsavers",
+"location": "Delta, British Columbia, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4481818400",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
