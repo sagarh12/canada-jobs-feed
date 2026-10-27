@@ -1,7 +1,7 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,46%,693,693,693,2026-10-27
-2,SQL,Language,26%,392,392,392,2026-10-27
-3,REST APIs,Framework,25%,372,372,372,2026-10-27
+1,Help desk / troubleshooting,IT support,46%,694,694,694,2026-10-27
+2,SQL,Language,26%,393,393,393,2026-10-27
+3,REST APIs,Framework,25%,373,373,373,2026-10-27
 4,Python,Language,24%,361,361,361,2026-10-27
 5,System design,Practice,20%,299,299,299,2026-10-27
 6,Excel,Data & AI,19%,288,288,288,2026-10-27
@@ -36,8 +36,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 35,Oracle,Database,6%,97,97,97,2026-10-27
 36,TypeScript,Language,6%,93,93,93,2026-10-27
 37,Docker,Cloud & DevOps,6%,92,92,92,2026-10-27
-38,Data structures & algorithms,Practice,6%,90,90,90,2026-10-27
-39,SDLC,Practice,6%,83,83,83,2026-10-27
+38,Data structures & algorithms,Practice,6%,91,91,91,2026-10-27
+39,SDLC,Practice,6%,84,84,84,2026-10-27
 40,Salesforce,Practice,5%,82,82,82,2026-10-27
 41,Google Cloud,Cloud & DevOps,5%,81,81,81,2026-10-27
 42,Firewalls,Security,5%,75,75,75,2026-10-27
@@ -51,7 +51,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 50,SOC,Security,4%,63,63,63,2026-10-27
 51,Incident response,Security,4%,62,62,62,2026-10-27
 52,Embedded systems,Practice,4%,61,61,61,2026-10-27
-53,ITIL,Certification,4%,60,60,60,2026-10-27
+53,ITIL,Certification,4%,61,61,61,2026-10-27
 54,Mobile (iOS / Android),Practice,4%,60,60,60,2026-10-27
 55,NIST / ISO 27001,Security,4%,60,60,60,2026-10-27
 56,Terraform,Cloud & DevOps,4%,60,60,60,2026-10-27
@@ -69,8 +69,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 68,Angular,Framework,3%,42,42,42,2026-10-27
 69,Node.js,Framework,3%,42,42,42,2026-10-27
 70,CompTIA A+,Certification,3%,41,41,41,2026-10-27
-71,Object-oriented programming,Practice,3%,40,40,40,2026-10-27
-72,SAP,Practice,3%,40,40,40,2026-10-27
+71,SAP,Practice,3%,41,41,41,2026-10-27
+72,Object-oriented programming,Practice,3%,40,40,40,2026-10-27
 73,Spark,Data & AI,3%,40,40,40,2026-10-27
 74,CompTIA Security+,Certification,2%,34,34,34,2026-10-27
 75,GitHub Actions,Cloud & DevOps,2%,34,34,34,2026-10-27
@@ -97,8 +97,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 96,Looker,Data & AI,1%,20,20,20,2026-10-27
 97,Vector databases,Database,1%,20,20,20,2026-10-27
 98,Airflow,Data & AI,1%,19,19,19,2026-10-27
-99,MongoDB,Database,1%,18,18,18,2026-10-27
-100,Postman,Practice,1%,18,18,18,2026-10-27
+99,Postman,Practice,1%,19,19,19,2026-10-27
+100,MongoDB,Database,1%,18,18,18,2026-10-27
 101,Threat intelligence,Security,1%,18,18,18,2026-10-27
 102,Vue,Framework,1%,18,18,18,2026-10-27
 103,Ruby,Language,1%,17,17,17,2026-10-27
@@ -151,4 +151,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 150,Qt,Framework,0%,1,1,1,2026-10-27
 151,Verilog/VHDL,Language,0%,1,1,1,2026-10-27
 
-,Based on 1499 postings in the last 30 days (1499 all time)
+,Based on 1503 postings in the last 30 days (1503 all time)
