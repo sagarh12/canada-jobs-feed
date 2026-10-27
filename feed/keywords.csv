@@ -1,14 +1,14 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,46%,661,661,661,2026-10-27
-2,SQL,Language,27%,385,385,385,2026-10-27
-3,REST APIs,Framework,25%,362,362,362,2026-10-27
+2,SQL,Language,27%,386,386,386,2026-10-27
+3,REST APIs,Framework,25%,363,363,363,2026-10-27
 4,Python,Language,24%,352,352,352,2026-10-27
-5,System design,Practice,20%,287,287,287,2026-10-27
-6,Excel,Data & AI,19%,275,275,275,2026-10-27
+5,System design,Practice,20%,288,288,288,2026-10-27
+6,Excel,Data & AI,19%,276,276,276,2026-10-27
 7,Hardware setup,IT support,19%,271,271,271,2026-10-27
 8,Agile / Scrum,Practice,17%,252,252,252,2026-10-27
 9,Azure,Cloud & DevOps,17%,242,242,242,2026-10-27
-10,Microsoft 365,IT support,15%,219,219,219,2026-10-27
+10,Microsoft 365,IT support,15%,220,220,220,2026-10-27
 11,Git,Cloud & DevOps,14%,208,208,208,2026-10-27
 12,AWS,Cloud & DevOps,14%,204,204,204,2026-10-27
 13,CI/CD,Cloud & DevOps,13%,190,190,190,2026-10-27
@@ -17,11 +17,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,163,163,163,2026-10-27
 17,LLMs / GenAI,Data & AI,11%,161,161,161,2026-10-27
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,156,156,156,2026-10-27
-19,Power BI,Data & AI,10%,147,147,147,2026-10-27
+19,Power BI,Data & AI,10%,150,150,150,2026-10-27
 20,JavaScript,Language,10%,146,146,146,2026-10-27
 21,IAM,Security,10%,140,140,140,2026-10-27
 22,Java,Language,10%,138,138,138,2026-10-27
-23,Statistics,Data & AI,9%,136,136,136,2026-10-27
+23,Statistics,Data & AI,9%,137,137,137,2026-10-27
 24,Linux,Cloud & DevOps,9%,135,135,135,2026-10-27
 25,"Testing (unit, automated)",Practice,9%,132,132,132,2026-10-27
 26,ETL / data pipelines,Data & AI,9%,131,131,131,2026-10-27
@@ -36,7 +36,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 35,Monitoring,Cloud & DevOps,7%,94,94,94,2026-10-27
 36,TypeScript,Language,6%,92,92,92,2026-10-27
 37,Docker,Cloud & DevOps,6%,90,90,90,2026-10-27
-38,Data structures & algorithms,Practice,6%,87,87,87,2026-10-27
+38,Data structures & algorithms,Practice,6%,89,89,89,2026-10-27
 39,SDLC,Practice,6%,82,82,82,2026-10-27
 40,Salesforce,Practice,6%,80,80,80,2026-10-27
 41,Google Cloud,Cloud & DevOps,5%,78,78,78,2026-10-27
@@ -48,8 +48,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 47,PowerShell,Language,5%,65,65,65,2026-10-27
 48,.NET,Framework,4%,64,64,64,2026-10-27
 49,SOC,Security,4%,63,63,63,2026-10-27
-50,Incident response,Security,4%,61,61,61,2026-10-27
-51,Tableau,Data & AI,4%,61,61,61,2026-10-27
+50,Tableau,Data & AI,4%,62,62,62,2026-10-27
+51,Incident response,Security,4%,61,61,61,2026-10-27
 52,Embedded systems,Practice,4%,59,59,59,2026-10-27
 53,Data visualization,Data & AI,4%,58,58,58,2026-10-27
 54,Databricks,Data & AI,4%,58,58,58,2026-10-27
@@ -150,4 +150,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 149,Google cert (Data / IT / Cyber),Certification,0%,1,1,1,2026-10-27
 150,Verilog/VHDL,Language,0%,1,1,1,2026-10-27
 
-,Based on 1441 postings in the last 30 days (1441 all time)
+,Based on 1444 postings in the last 30 days (1444 all time)
