@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T17:59:54+00:00",
+"updated": "2026-10-28T18:29:46+00:00",
 "jobs": [
 {
 "title": "DevOPs Engineer (Services Team)",
@@ -2383,6 +2383,306 @@
 "skills": [
 "Excel",
 "Microsoft 365"
+]
+},
+{
+"title": "Data Engineer II (Restaurant AI CoPilot)",
+"company": "OpenTable",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=fbff2957249d740e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://grnh.se/r7e0auix2us",
+"salary": "$120,000 - $130,000 CAD",
+"skills": [
+"Python",
+"Java",
+"SQL",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"NLP",
+"Spark",
+"Airflow",
+"Kafka",
+"ETL / data pipelines",
+"Databricks",
+"Snowflake",
+"A/B testing",
+"NoSQL",
+"AWS",
+"Docker",
+"Kubernetes",
+"Monitoring",
+"Microsoft 365",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "QA Analyst co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/QA-Analyst-co-op_2622340",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual (English/French) Fraud Inbound Analyst",
+"company": "BMO",
+"location": "REMOTE/TELETRAVAIL, ON, CAN, Canada",
+"posted": "2026-10-28",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Bilingual--English-French--Fraud-Inbound-Analyst_R260030176",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator - (Windows and Unix-Linux environments/ Automation/ AWS)",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-28",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Systems-Administrator----Windows-and-Unix-Linux-environments--Automation--AWS-_R260028831",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations & Data Analyst Co-op (8 Months)",
+"company": "Manulife",
+"location": "2 Locations, Canada",
+"posted": "2026-10-28",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Software Engineer",
+"company": "Manulife",
+"location": "Toronto, Ontario",
+"posted": "2026-10-28",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Full-stack-engineer_JR26101255",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior IT Support Technician (3-Month Contract-to-Hire)",
+"company": "CaffComm Systems Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=df8c5a0556bd2981",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-it-support-technician-3-month-contract-hire-df8c5a0556bd2981",
+"salary": "$45,000.00-$48,000.00 per year",
+"start": "ASAP",
+"skills": [
+"IAM",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"CompTIA A+",
+"CompTIA Network+"
+]
+},
+{
+"title": "M365 Specialist",
+"company": "Prophix",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=d085a2fa957d5ec0",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/7A8B96B4DB",
+"salary": "$80,000 - $113,000 CAD",
+"skills": [
+"PowerShell",
+"Monitoring",
+"SOC",
+"Vulnerability management",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Front Desk Clerk",
+"company": "",
+"location": "Midland, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=7ac051e171dffff5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-clerk-7ac051e171dffff5",
+"salary": "$17.60-$22.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Quality Control Analyst",
+"company": "Aurora Cannabis, Inc",
+"location": "Bradford, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=1fce52ec7f3d962a",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.auroramj.com/job/Bradford-Quality-Control-Analyst-Onta/607445117/",
+"salary": "$55,000- 65,000 CAD",
+"skills": [
+"Help desk / troubleshooting",
+"Agile / Scrum"
+]
+},
+{
+"title": "Technical Support Specialist (18-Month Maternity Leave Coverage)",
+"company": "Baxter",
+"location": "Mississauga, Ontario",
+"posted": "2026-10-28",
+"link": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Mississauga-Ontario/Technical-Support-Specialist--18-Month-Maternity-Leave-Coverage-_JR-211460-1",
+"source": "Baxter careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Crew IT Intern",
+"company": "Columbus Crew",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=436dc6267f9ee26f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://columbuscrew.isolvedhire.com/jobs/1893430-489823.html",
+"skills": [
+"Azure",
+"Linux",
+"Cybersecurity",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Mobile (iOS / Android)",
+"Azure certification",
+"CompTIA A+",
+"CompTIA Network+"
+]
+},
+{
+"title": "Global Trade Classification Specialist – HS, HTS & ECCN (Remote, USA)",
+"company": "Medtronic",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=3755772d5442f6e3",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Global-Trade-Classification-Specialist---HS--HTS---ECCN--Remote--USA-_R79438-2",
+"salary": "$64,800 - $97,200 USD per year",
+"skills": [
+"Excel",
+"SAP"
+]
+},
+{
+"title": "State Conservation Engineer",
+"company": "USDA NRCS",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=d83bb27ecd0a2381",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/889944000",
+"salary": "$120,548 - $156,715 USD per year"
+},
+{
+"title": "Budget Analyst",
+"company": "State of Indiana",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=7a8e7b8fbce8d7ed",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://career8.successfactors.com/career?career%5fns=job%5flisting&company=indianaoff&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=484885&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=AjVG3QAWpO4bY216qc%2f5kqT9o0v3sro9bgFBnpxZn88%3d",
+"salary": "$67,314.00",
+"skills": [
+"Tableau",
+"Excel"
+]
+},
+{
+"title": "Software Support Engineer",
+"company": "Designed Conveyor Systems",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=f9ef442aa9eeb018",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://grnh.se/7dkww2i83us",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Data Engineer (ELK)",
+"company": "Red River Technology Center",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=b297d9aad865cb71",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://redriver.rec.pro.ukg.net/RED1507RDRIV/JobBoard/66584047-1f18-48fb-b1b7-b5760ba35dfd/OpportunityDetail?opportunityId=97e41c69-d6c8-4428-9626-fff8c9e770b1&postingId=58523220-1782-43f0-a3d2-92515df61e3e",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"React",
+"Spark",
+"Hadoop",
+"Kafka",
+"ETL / data pipelines",
+"Databricks",
+"Data visualization",
+"Elasticsearch",
+"AWS",
+"Azure",
+"Google Cloud",
+"Kubernetes",
+"Ansible",
+"CI/CD",
+"Linux",
+"Infrastructure as code",
+"Monitoring",
+"Encryption / PKI",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira",
+"System design",
+"CompTIA Security+"
 ]
 },
 {
@@ -12968,6 +13268,116 @@
 "years": null
 },
 {
+"title": "Customer Support Analyst - Bilingual (FRENCH)",
+"company": "AGDATA, LP",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484224317",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Merchant Support Advisor, Canada (Canada )",
+"company": "Shopify",
+"location": "",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483685400",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "Movable Ink",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4466129095",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Data Specialist",
+"company": "TD",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4430750514",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "Farm Mutual Re",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484208723",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4473699364",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, Toronto",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4474621532",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Fraud Prevention Analyst",
+"company": "Punt",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484207738",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ETL QA",
+"company": "Kumaran Systems",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484220589",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Security Engineer",
+"company": "Infotek Consulting Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4482219607",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist - Systems and Network Administration",
+"company": "Nasdaq",
+"location": "St John’s, Newfoundland and Labrador, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4466527751",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Security Compliance Coordinator",
 "company": "Top Hat",
 "location": "Canada",
@@ -20635,7 +21045,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191198&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191198%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e4f21-d159-11f1-af9e-1f4c8dad669d%26rx_job%3DR-0000191198%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T160405Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191198&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191198%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e4f21-d159-11f1-af9e-1f4c8dad669d%26rx_job%3DR-0000191198%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T180432Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "GraphQL",
 "REST APIs",
@@ -21074,7 +21484,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191197&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191197%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e3ddf-d159-11f1-b6f0-1f4c8dad669d%26rx_job%3DR-0000191197%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T160405Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191197&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191197%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e3ddf-d159-11f1-b6f0-1f4c8dad669d%26rx_job%3DR-0000191197%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T180432Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Help desk / troubleshooting",
 "Agile / Scrum",
@@ -25282,6 +25692,21 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "IT Operations Coordinator II",
+"company": "Labcorp",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=23635c971dbdddb4",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2635807&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2635807%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D3747fe05-d266-11f1-a58a-4fe8f0ecb21a%26rx_job%3D2635807%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T180459Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"salary": "$20 - $28 USD per hour",
+"skills": [
+"Ticketing (ServiceNow, Jira)"
+]
 },
 {
 "title": "Enterprise Sales Engineer - Northeast",
