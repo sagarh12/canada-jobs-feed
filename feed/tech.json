@@ -1,24 +1,97 @@
 {
-"updated": "2026-10-28T02:09:45+00:00",
+"updated": "2026-10-28T02:19:46+00:00",
 "jobs": [
 {
-"title": "2027 Software Engineering Intern, Canada",
-"company": "Uber",
-"location": "Toronto, ON, CA (remote)",
+"title": "(ESD) Dedicated Cornerstone Research (US Offices)",
+"company": "Frontline Managed Services",
+"location": "Remote · United States",
 "posted": "2026-10-28",
-"link": "https://ca.indeed.com/viewjob?jk=5f9510e554597b06",
+"link": "https://www.indeed.com/viewjob?jk=aec492d22a64880d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://frontlinems.recruiterbox.com/jobs/fk0znck?fjb_hash=ezLpq610",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Agentic AI Analyst",
+"company": "Invoca",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=590ad57cd9428639",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/agentic-ai-analyst-590ad57cd9428639",
+"salary": "$45 - $65 USD per hour",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"LangChain",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "ECE Teacher(only IT Certificate)",
+"company": "Happy Kids Castle Daycare",
+"location": "Coquitlam, BC, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=444305df45b30951",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://tnl2.jometer.com/v2/job?jz=5wqzsc093f0b2979e1ec2b478225b796169f4MAAAKAAAAABQ&utm_medium=jobboard&utm_source=joveo_indeed_organic",
-"salary": "$48.40 per hour",
+"apply": "http://ca.indeed.com/job/ece-teacheronly-it-certificate-444305df45b30951",
+"salary": "$21.00-$22.00 per hour"
+},
+{
+"title": "Freelance Apparel Product Developer",
+"company": "Bardown Sports Inc.",
+"location": "Oakville, ON, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=00f7be66e4900e48",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/freelance-apparel-product-developer-00f7be66e4900e48",
+"salary": "$55,000.00-$80,000.00 per year"
+},
+{
+"title": "Well Bore Survey Analyst",
+"company": "IPM Magnetics",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=aeddb81d5924f121",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/well-bore-survey-analyst-aeddb81d5924f121",
+"salary": "$70,000.00 per year"
+},
+{
+"title": "Analyst, Operational Performance / Hybrid",
+"company": "JLL",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=44cc78eb78a80a88",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://click.appcast.io/t/4XMB42lBBnbeyGdUM_S03b4a4_8Mv_F7nbisxF4lRqU=",
 "skills": [
-"Python",
-"Java",
-"C++",
-"C",
-"Go",
-"Ruby"
+"Power BI",
+"Excel",
+"Statistics",
+"Data visualization",
+"Microsoft 365"
 ]
 },
 {
@@ -43,6 +116,26 @@
 ]
 },
 {
+"title": "2027 Software Engineering Intern, Canada",
+"company": "Uber",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=5f9510e554597b06",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://tnl2.jometer.com/v2/job?jz=5wqzsc093f0b2979e1ec2b478225b796169f4MAAAKAAAAABQ&utm_medium=jobboard&utm_source=joveo_indeed_organic",
+"salary": "$48.40 per hour",
+"skills": [
+"Python",
+"Java",
+"C++",
+"C",
+"Go",
+"Ruby"
+]
+},
+{
 "title": "Database Developer (Oracle / MS SQL)",
 "company": "Scotiabank",
 "location": "Toronto, ON, CA, M5H 1H1",
@@ -51,6 +144,36 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 6
+},
+{
+"title": "Operating Engineer B (3rd Class)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Operating-Engineer-B-%283rd-Class%29-ON/606110217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Infrastructure Support Analyst",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M1L4S2",
+"posted": "2026-10-28T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Infrastructure-Support-Analyst-ON-M1L4S2/602278317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Business Analyst",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M1K5L1",
+"posted": "2026-10-28T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Business-Analyst-ON-M1K5L1/603188517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Web Developer",
@@ -7749,6 +7872,151 @@
 "years": null
 },
 {
+"title": "Consultant, Advisor Development",
+"company": "CI Financial",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=508b5f8b6974baae",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://ci.wd3.myworkdayjobs.com/en-US/CI_FINANCIAL_EXTERNAL_CAREER-SITE/job/Toronto-ON/Consultant--Advisor-Development_JR5562",
+"salary": "$69,500 to $119,500"
+},
+{
+"title": "Receptionist",
+"company": "BDO",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=ba4f016aa0e3a3eb",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://bdo.wd3.myworkdayjobs.com/en-US/BDO/job/Calgary---8th-Ave-SW/Receptionist_JR7280",
+"skills": [
+"Networking (TCP/IP, DNS)"
+]
+},
+{
+"title": "TSG Specialist",
+"company": "UPS",
+"location": "Surrey, BC, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=181cbac3809e426e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.jobs-ups.com/ca/en/job/UPBUPSGLOBALR26038899EXTERNALENCA/TSG-Specialist?utm_source=indeed&utm_medium=phenom-feeds",
+"salary": "$22.82",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "When It Goes Wrong, Film the Fix (Paid Data Task, Remote, Contract)",
+"company": "Kled AI",
+"location": "CA (remote)",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=df6ead8582170d9d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/kled-ai/93b1b3a2-f1dd-41bc-8129-a38b96875228?utm_source=QNmrEN1dmY",
+"salary": "$15",
+"skills": [
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "Narrate What You Are Doing While You Do It (Paid Data Task, Remote, Contract)",
+"company": "Kled AI",
+"location": "CA (remote)",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=c751815748908d52",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/kled-ai/3b569e21-2db4-49ed-9fdb-c378aca8d507?utm_source=QNmrEN1dmY",
+"salary": "$15",
+"skills": [
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "Public Health Nurse",
+"company": "Fraser Health",
+"location": "Surrey, BC, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=372f584cd516e98f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.fraserhealth.ca/jobs/151214/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$41.42 - $59.52 / hour",
+"skills": [
+"Statistics"
+]
+},
+{
+"title": "Analyst, Business (Remote)",
+"company": "Step up for students",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=5e7d648edebf1bb4",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.dayforcehcm.com/en-US/sufs/CANDIDATEPORTAL/jobs/3817",
+"salary": "$60,375 - $80,500 USD per year",
+"skills": [
+"Agile / Scrum",
+"SDLC"
+]
+},
+{
+"title": "Data Analyst – Power Platform",
+"company": "LMI",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=2235cff2cfce7e40",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers-lmi.icims.com/jobs/14785/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$70,000 - $118,000 USD per year",
+"skills": [
+"JavaScript",
+"SQL",
+"HTML/CSS",
+"Power BI",
+"Excel",
+"Azure",
+"Agile / Scrum",
+"Jira"
+]
+},
+{
+"title": "Application Support Analyst (PR-CP64-004) - Corporate Office",
+"company": "Bethany Care Society",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=87d31e3d47b137c6",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://bethany.wd10.myworkdayjobs.com/en-US/bethanycareers/job/Calgary-Alberta/Application-Support-Analyst--PR-CP64-004----Corporate-Office_JR1441",
+"skills": [
+"SQL",
+"Power BI",
+"Excel",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Microsoft 365",
+"Help desk / troubleshooting"
+]
+},
+{
 "title": "Security Compliance Coordinator",
 "company": "Top Hat",
 "location": "Canada",
@@ -15435,7 +15703,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191198&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191198%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e4f21-d159-11f1-af9e-1f4c8dad669d%26rx_job%3DR-0000191198%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T000407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191198&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191198%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e4f21-d159-11f1-af9e-1f4c8dad669d%26rx_job%3DR-0000191198%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T020443Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "GraphQL",
 "REST APIs",
@@ -15874,7 +16142,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191197&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191197%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e3ddf-d159-11f1-b6f0-1f4c8dad669d%26rx_job%3DR-0000191197%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T000407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191197&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191197%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Df85e3ddf-d159-11f1-b6f0-1f4c8dad669d%26rx_job%3DR-0000191197%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261028T020443Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Help desk / troubleshooting",
 "Agile / Scrum",
@@ -15967,7 +16235,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604727096?etd=MUVP6CXQ22IN4EDXVS4YSFOQKZ5FW4GQSAQYHEZWMD4ACMNHIXSASLZF4L3FD47N6LYJMR5DZ74GX5Z7VCWSO7FZVKNJHPK7YL22KQWXHGDLAX3IBBNA%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604727096?etd=MUVP6CXQ22IN4EDXVS4YSFOQKZ5FW4GQSAQYHEZWMD4ACMNHIXSASLZF4L3FD47N6LYJMR5DZ74GX5Z7VCWSO7FZVKNJHPK7YL22KQXUDKKJCJF6WD5A%3d%3d%3d%3d",
 "salary": "$90,000.00 - $111,000.00",
 "skills": [
 "Python",
@@ -18096,16 +18364,6 @@
 "years": null
 },
 {
-"title": "Infrastructure Support Analyst",
-"company": "Scotiabank",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-26",
-"link": "https://www.linkedin.com/jobs/view/4410850616",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
 "title": "Site Reliability Consultant",
 "company": "Pythian",
 "location": "",
@@ -19730,6 +19988,16 @@
 "location": "Moncton, New Brunswick, Canada",
 "posted": "2026-10-26",
 "link": "https://www.linkedin.com/jobs/view/4483568923",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Automation",
+"company": "LTM",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483239985",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
