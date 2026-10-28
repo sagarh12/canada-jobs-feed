@@ -1,6 +1,47 @@
 {
-"updated": "2026-10-28T01:39:48+00:00",
+"updated": "2026-10-28T01:49:50+00:00",
 "jobs": [
+{
+"title": "2027 Software Engineering Intern, Canada",
+"company": "Uber",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=5f9510e554597b06",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://tnl2.jometer.com/v2/job?jz=5wqzsc093f0b2979e1ec2b478225b796169f4MAAAKAAAAABQ&utm_medium=jobboard&utm_source=joveo_indeed_organic",
+"salary": "$48.40 per hour",
+"skills": [
+"Python",
+"Java",
+"C++",
+"C",
+"Go",
+"Ruby"
+]
+},
+{
+"title": "Web Developer",
+"company": "Y5 Creative",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=071433fe1fe23d27",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/web-developer-071433fe1fe23d27",
+"salary": "$40.00-$42.00 per hour",
+"skills": [
+"JavaScript",
+"PHP",
+"HTML/CSS",
+"REST APIs",
+"Networking (TCP/IP, DNS)",
+"Encryption / PKI",
+"Help desk / troubleshooting"
+]
+},
 {
 "title": "Web Developer",
 "company": "Cohere",
@@ -4926,7 +4967,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://career4.successfactors.com/career?career%5fns=job%5flisting&company=exxonmobilP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=108742&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=5qFmvVk8vya%2bheNiyHaWUadk47fulvsLsbOFJMKTsxI%3d",
+"apply": "https://career4.successfactors.com/career?career%5fns=job%5flisting&company=exxonmobilP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=108742&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=B9NeN6cWafa2wqXOJ2ZHv%2frsUJgj2mPiQ2KoznhftdQ%3d",
 "skills": [
 "IAM",
 "Hardware setup",
@@ -7428,6 +7469,264 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Software Developer",
+"company": "Cisco",
+"location": "Kanata, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=bbfbc4d852b5194c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.cisco.com/global/en/job/2027516",
+"salary": "$94,900.00 to $134,900.00",
+"skills": [
+"Python",
+"Go",
+"Ruby",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"Microservices",
+"Monitoring",
+"System design",
+"SDLC"
+]
+},
+{
+"title": "BI Developer",
+"company": "Sunwing Vacations Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=7920cb6662fa2a1d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-CA/sunwing/CANDIDATEPORTAL/jobs/2964",
+"skills": [
+"Python",
+"SQL",
+"PowerShell",
+"REST APIs",
+"Pandas",
+"scikit-learn",
+"TensorFlow",
+"PyTorch",
+"Machine learning",
+"Deep learning",
+"Spark",
+"ETL / data pipelines",
+"Snowflake",
+"Power BI",
+"Statistics",
+"Data visualization",
+"Azure",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+]
+},
+{
+"title": "Software Engineer",
+"company": "Questrade Financial Group",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=779bc70f992cc56a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.dayforcehcm.com/en-US/qfg/CANDIDATEPORTAL/jobs/18213",
+"salary": "$80,000 - $120,000",
+"skills": [
+"JavaScript",
+"TypeScript",
+"React",
+"React Native",
+"Angular",
+"Node.js",
+"REST APIs",
+"Kafka",
+"NoSQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Microservices",
+"Monitoring",
+"Testing (unit, automated)",
+"SDLC"
+]
+},
+{
+"title": "Maintenance Data Analyst",
+"company": "Cenovus Energy",
+"location": "Edson, AB, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=26ae74ad775b50af",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://cenovus.wd3.myworkdayjobs.com/en-US/careers/job/CA-AB-Edson/Maintenance-Data-Analyst_R-411260",
+"salary": "$1,000",
+"skills": [
+"SAP"
+]
+},
+{
+"title": "Accounting Analyst",
+"company": "Keyera Corp",
+"location": "Fort Saskatchewan, AB, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=4cd15bcba448e17e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://keyera.wd10.myworkdayjobs.com/en-US/Keyera_Careers/job/Fort-Saskatchewan-Alberta/Accounting-Analyst_JR2886-1",
+"skills": [
+"Excel",
+"Microsoft 365"
+]
+},
+{
+"title": "Credentialing Coordinator - Remote",
+"company": "Powerback Rehabilitation",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=34b589e526c79aeb",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.powerbackrehab.com/jobs/56801/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$20.00"
+},
+{
+"title": "AI-Enabled Software Engineer",
+"company": "University of Maine",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=c0fb83584307c108",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/3330",
+"salary": "$72,000 - $80,000 USD per year",
+"skills": [
+"Python",
+"JavaScript",
+"Node.js",
+"REST APIs",
+"AWS",
+"Azure",
+"Google Cloud",
+"Git",
+"SDLC"
+]
+},
+{
+"title": "BCBA (Remote) - CA Only",
+"company": "ACES ABA",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=1c0786c0e1b860ca",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/49CF96B7DF318C1AC83A90DC0F12594C/jobs/553568?source=Indeed",
+"salary": "$90,000 - $105,000 USD per year"
+},
+{
+"title": "Supply Chain Acounts Payable / Procure-to-Pay Analyst I",
+"company": "Duke Energy",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=0c56c3b21ecfe659",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/Supply-Chain-Acounts-Payable---Procure-to-Pay-Analyst-I_R42185",
+"salary": "$30",
+"skills": [
+"Excel",
+"SAP"
+]
+},
+{
+"title": "IT Support Specialist I",
+"company": "Northbridge University",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=1abf7846ec2d9ea9",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=20fa69cd-7a48-410e-9cba-87c44786fb7b&ccId=9201060899462_2&jobId=586560&source=IN&lang=en_US",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Analyst, Business Data (Remote)",
+"company": "Step up for students",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=ca51a9aba1799d8b",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/sufs/CANDIDATEPORTAL/jobs/3812",
+"salary": "$54,825 - $73,100 USD per year",
+"skills": [
+"SQL",
+"Power BI",
+"Data visualization",
+"Agile / Scrum"
+]
+},
+{
+"title": "Business Intelligence Specialist",
+"company": "Qualus",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=474d359f415db622",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://talent.qualuscorp.com/jobs/5800/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"SQL",
+"Power BI",
+"Excel",
+"Statistics",
+"Microsoft 365"
+]
+},
+{
+"title": "Systems Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-27",
+"link": "https://www.indeed.com/viewjob?jk=82826b279330d00d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/F9CA0C76816D4005A20F8DDD74ACDEC1/jobs/25987?source=Indeed",
+"skills": [
+"Java",
+"SQL",
+"Cybersecurity",
+"IAM",
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Security Compliance Coordinator",
@@ -12448,7 +12747,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://app.loxo.co/job/OTAzOC05OWsyYjd3dmlicms0MHFj?source_type=indeed&t=1793128067",
+"apply": "https://app.loxo.co/job/OTAzOC05OWsyYjd3dmlicms0MHFj?source_type=indeed&t=1793149613",
 "skills": [
 "SQL"
 ]
@@ -19401,6 +19700,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-26",
 "link": "https://www.linkedin.com/jobs/view/4481817154",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Inside Sales Representative",
+"company": "Crane Supply - Canada's Premier PVF Distributor | Premier distributeur de PVF au Canada",
+"location": "Moncton, New Brunswick, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483568923",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
