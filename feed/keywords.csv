@@ -1,36 +1,36 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,46%,831,831,831,2026-10-28
-2,SQL,Language,26%,474,474,474,2026-10-28
-3,REST APIs,Framework,25%,452,452,452,2026-10-28
-4,Python,Language,24%,431,431,431,2026-10-28
-5,Excel,Data & AI,20%,364,364,364,2026-10-28
-6,System design,Practice,20%,363,363,363,2026-10-28
+1,Help desk / troubleshooting,IT support,46%,832,832,832,2026-10-28
+2,SQL,Language,26%,476,476,476,2026-10-28
+3,REST APIs,Framework,25%,453,453,453,2026-10-28
+4,Python,Language,24%,432,432,432,2026-10-28
+5,Excel,Data & AI,20%,365,365,365,2026-10-28
+6,System design,Practice,20%,364,364,364,2026-10-28
 7,Hardware setup,IT support,19%,349,349,349,2026-10-28
-8,Agile / Scrum,Practice,17%,313,313,313,2026-10-28
-9,Azure,Cloud & DevOps,16%,296,296,296,2026-10-28
-10,Microsoft 365,IT support,15%,274,274,274,2026-10-28
-11,Git,Cloud & DevOps,14%,256,256,256,2026-10-28
+8,Agile / Scrum,Practice,17%,314,314,314,2026-10-28
+9,Azure,Cloud & DevOps,16%,297,297,297,2026-10-28
+10,Microsoft 365,IT support,15%,275,275,275,2026-10-28
+11,Git,Cloud & DevOps,14%,257,257,257,2026-10-28
 12,AWS,Cloud & DevOps,14%,248,248,248,2026-10-28
-13,CI/CD,Cloud & DevOps,13%,243,243,243,2026-10-28
+13,CI/CD,Cloud & DevOps,13%,244,244,244,2026-10-28
 14,Windows,IT support,12%,225,225,225,2026-10-28
 15,Cybersecurity,Security,12%,213,213,213,2026-10-28
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,205,205,205,2026-10-28
-17,LLMs / GenAI,Data & AI,11%,194,194,194,2026-10-28
-18,Power BI,Data & AI,11%,193,193,193,2026-10-28
-19,"Ticketing (ServiceNow, Jira)",IT support,10%,191,191,191,2026-10-28
+17,LLMs / GenAI,Data & AI,11%,195,195,195,2026-10-28
+18,Power BI,Data & AI,11%,195,195,195,2026-10-28
+19,"Ticketing (ServiceNow, Jira)",IT support,11%,192,192,192,2026-10-28
 20,JavaScript,Language,10%,187,187,187,2026-10-28
 21,Linux,Cloud & DevOps,10%,181,181,181,2026-10-28
 22,IAM,Security,10%,179,179,179,2026-10-28
-23,Statistics,Data & AI,9%,172,172,172,2026-10-28
+23,Statistics,Data & AI,9%,173,173,173,2026-10-28
 24,Java,Language,9%,166,166,166,2026-10-28
-25,ETL / data pipelines,Data & AI,9%,160,160,160,2026-10-28
+25,ETL / data pipelines,Data & AI,9%,161,161,161,2026-10-28
 26,"Testing (unit, automated)",Practice,9%,160,160,160,2026-10-28
 27,C,Language,8%,151,151,151,2026-10-28
 28,Jira,Practice,8%,143,143,143,2026-10-28
 29,HTML/CSS,Language,7%,127,127,127,2026-10-28
 30,Kubernetes,Cloud & DevOps,7%,124,124,124,2026-10-28
-31,Machine learning,Data & AI,7%,123,123,123,2026-10-28
-32,SQL Server,Database,7%,120,120,120,2026-10-28
+31,Machine learning,Data & AI,7%,124,124,124,2026-10-28
+32,SQL Server,Database,7%,121,121,121,2026-10-28
 33,React,Framework,7%,119,119,119,2026-10-28
 34,Docker,Cloud & DevOps,6%,116,116,116,2026-10-28
 35,Oracle,Database,6%,115,115,115,2026-10-28
@@ -52,11 +52,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 51,Tableau,Data & AI,4%,76,76,76,2026-10-28
 52,ITIL,Certification,4%,73,73,73,2026-10-28
 53,NIST / ISO 27001,Security,4%,73,73,73,2026-10-28
-54,Terraform,Cloud & DevOps,4%,72,72,72,2026-10-28
-55,Data visualization,Data & AI,4%,71,71,71,2026-10-28
+54,Data visualization,Data & AI,4%,72,72,72,2026-10-28
+55,Terraform,Cloud & DevOps,4%,72,72,72,2026-10-28
 56,Incident response,Security,4%,71,71,71,2026-10-28
 57,Embedded systems,Practice,4%,69,69,69,2026-10-28
-58,Databricks,Data & AI,4%,67,67,67,2026-10-28
+58,Databricks,Data & AI,4%,68,68,68,2026-10-28
 59,Snowflake,Data & AI,4%,64,64,64,2026-10-28
 60,Infrastructure as code,Cloud & DevOps,3%,63,63,63,2026-10-28
 61,VMware / virtualization,IT support,3%,63,63,63,2026-10-28
@@ -151,4 +151,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 150,Google cert (Data / IT / Cyber),Certification,0%,1,1,1,2026-10-28
 151,Verilog/VHDL,Language,0%,1,1,1,2026-10-28
 
-,Based on 1822 postings in the last 30 days (1822 all time)
+,Based on 1825 postings in the last 30 days (1825 all time)
