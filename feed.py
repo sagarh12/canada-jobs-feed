@@ -138,7 +138,10 @@ WORKDAY = [
     ("Abbott", "abbott.wd5", "abbottcareers", TECH_ONLY), ("Stryker", "stryker.wd1", "StrykerCareers", TECH_ONLY),
     ("Novartis", "novartis.wd3", "Novartis_Careers", TECH_ONLY),
     # More big tech
-    ("Adobe", "adobe.wd5", "external_experienced"), ("HP", "hp.wd5", "ExternalCareerSite"),
+    ("Adobe", "adobe.wd5", "external_experienced"), ("HP", "hp.wd5", "ExternalCareerSite"), ("PayPal", "paypal.wd1", "jobs"),
+    # More priority employers (Sagar's prime focus): telecom, retail, aviation
+    ("TELUS Health", "lifeworks.wd3", "External"), ("Loblaw", "myview.wd3", "Careers", TECH_ONLY),
+    ("Best Buy Canada", "bestbuycanada.wd3", "BestBuyCA_Career", TECH_ONLY), ("NAV CANADA", "navcanada.wd10", "NAV_Careers", TECH_ONLY),
 ]
 # Employer boards on Oracle Recruiting: (name, API host, site, public job page prefix), narrowed to Canada.
 ORACLE = [("Ford", "efds.fa.em5.oraclecloud.com", "CX_1", "https://apply.ford.com/en/sites/CX_1/job/")]
