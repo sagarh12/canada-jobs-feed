@@ -1,6 +1,47 @@
 {
-"updated": "2026-10-28T19:49:50+00:00",
+"updated": "2026-10-28T19:59:50+00:00",
 "jobs": [
+{
+"title": "Data Scientist, Cloud Distribution & Growth",
+"company": "OpenAI",
+"location": "Remote · United States",
+"posted": "2026-10-28T19:59:03.385+00:00",
+"link": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
+"source": "OpenAI careers",
+"country": "US",
+"years": null,
+"quals": [
+"Experience independently leading data science work on a product, growth, or commercial question that changed a business decision.",
+"Strong SQL and Python skills. You can join incomplete datasets, choose the right unit of analysis, and validate an aggregate result against ",
+"Experience using cohorts, experiments, or observational comparisons to assess what drove a change. You can explain how customer selection af"
+],
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Hardware setup"
+]
+},
+{
+"title": "Junior Cyber Incident Response Analyst",
+"company": "Hootsuite",
+"location": "Vancouver, British Columbia, Canada; Toronto, Ontario, Canada",
+"posted": "2026-10-28T15:58:37-04:00",
+"link": "https://job-boards.greenhouse.io/hootsuite/jobs/8331544",
+"source": "Hootsuite careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Business Solutions",
+"company": "Microsoft",
+"location": "Calgary, AB, CA; Edmonton, AB, CA; Vancouver, BC, CA; Winnipeg, MB, CA",
+"posted": "2026-10-28T19:29:41+00:00",
+"link": "https://apply.careers.microsoft.com/careers/job/1970393557022301",
+"source": "Microsoft careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "DevOps Engineer (Services Team)",
 "company": "StackAdapt",
@@ -3304,6 +3345,185 @@
 "source": "CIBC careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Automation and Test Engineer - Photonics",
+"company": "Lumentum Operations",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=cfc8e59cf3e7ee31",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Automation-and-Test-Engineer---Photonics_20261102-1",
+"salary": "$110,000 - $150,000 CAD",
+"skills": [
+"Python",
+"C",
+".NET",
+"Excel",
+"Linux",
+"Windows",
+"Hardware setup",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Backend Software Developer",
+"company": "ATS Automation Tooling Systems Inc.",
+"location": "Cambridge, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=4fb83f855bbcebbd",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.atsautomation.com/job/Cambridge-Backend-Software-Developer-ON-N3H-4R7/1452302533/",
+"salary": "$36.54 to $50.24 CAD per hour",
+"skills": [
+"JavaScript",
+"C++",
+"C",
+"React",
+".NET",
+"REST APIs",
+"Machine learning",
+"Statistics",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Microservices",
+"Hardware setup",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"SDLC"
+]
+},
+{
+"title": "Software Developer, ERP",
+"company": "Leap Tools Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=539ae37191bd04ef",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.gem.com/leap-tools/am9icG9zdDpc4_c69uAiwHCYBlV2aPiu",
+"salary": "$65,000 - $115,000",
+"skills": [
+"Python",
+"TypeScript",
+"C++",
+"SQL",
+"React",
+"Next.js",
+"Django",
+"REST APIs",
+"PostgreSQL",
+"AWS",
+"Azure",
+"Kubernetes",
+"Windows"
+]
+},
+{
+"title": "Consultant, Digital Operations & Privacy",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Digital-Operations---Privacy_2622049",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Analyst",
+"company": "Green Infrastructure Partners",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=76fb0ee4809d8a84",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://gipi.wd3.myworkdayjobs.com/en-US/Careers/job/Markham-ON/Technical-Support-Analyst_R10353",
+"salary": "$65,000 - $70,000 per year",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"ITIL"
+]
+},
+{
+"title": "Technical Support Specialist, Helpdesk",
+"company": "Defence Construction Canada",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=736f01d37dd5da62",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/viewRequisition?org=DEFENCECONSTRUCTIONCANADA&cws=47&rid=8299",
+"salary": "$69,578 - $90,451",
+"skills": [
+"Firewalls",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Lease Administration & Accounting Analyst",
+"company": "Surgenor - Hertz",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=b38fbdeff010821c",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/lease-administration-accounting-analyst-b38fbdeff010821c",
+"salary": "$60,000-$75,000,",
+"skills": [
+"Excel",
+"Statistics",
+"Salesforce"
+]
+},
+{
+"title": "Service Desk Agent",
+"company": "Simon Fraser University",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=3600f1a3c3afe205",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=SIMOFRAS&cws=37&rid=7437",
+"salary": "$2,472.74 to $2,799.57",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "GIS Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=f7063c13562aec4f",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/90006E07BCBC7EC560C851CD5ABEFEB4/jobs/139442?source=Indeed",
+"skills": [
+"Python",
+"Excel"
+]
 },
 {
 "title": "Junior Developer",
@@ -8519,7 +8739,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://career4.successfactors.com/career?career%5fns=job%5flisting&company=exxonmobilP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=108742&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=B9NeN6cWafa2wqXOJ2ZHv%2frsUJgj2mPiQ2KoznhftdQ%3d",
+"apply": "https://career4.successfactors.com/career?career%5fns=job%5flisting&company=exxonmobilP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=108742&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=9TK2eeIxRaYOkgKz2KrOkEtxKSc3AWZ0Kta2c%2b1Z4Fw%3d",
 "skills": [
 "IAM",
 "Hardware setup",
@@ -12229,7 +12449,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://career4.successfactors.com/career?career%5fns=job%5flisting&company=exxonmobilP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=109472&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=5qFmvVk8vya%2bheNiyHaWUadk47fulvsLsbOFJMKTsxI%3d",
+"apply": "https://career4.successfactors.com/career?career%5fns=job%5flisting&company=exxonmobilP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=109472&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=9TK2eeIxRaYOkgKz2KrOkEtxKSc3AWZ0Kta2c%2b1Z4Fw%3d",
 "skills": [
 "Data visualization",
 "IAM",
@@ -14140,6 +14360,106 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-10-27",
 "link": "https://www.linkedin.com/jobs/view/4466141671",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Intern - Health Care (HEOR, Epidemiology & Market Access)",
+"company": "Analysis Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484215696",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Brewing Intern",
+"company": "Labatt Breweries of Canada",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4458516841",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Workflow Automations Specialist",
+"company": "Yorkville University",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484229620",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II - CIAM",
+"company": "Affirm",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483648833",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Manufacturing Engineering - Machining Co-op",
+"company": "INNIO Group",
+"location": "Welland, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483688408",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Firewall Security Specialist",
+"company": "Global Technical Talent, an Inc. 5000 Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4482209958",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Workplace Administrator",
+"company": "Raise",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484099157",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Data & BI Analyst",
+"company": "MTY Food Group",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484233538",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Surgical Clinical Reviewer",
+"company": "Mount Sinai Hospital (Toronto), Sinai Health",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484079969",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Associate Internship",
+"company": "Lumerate",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484231625",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -26474,6 +26794,16 @@
 "skills": [
 "Ticketing (ServiceNow, Jira)"
 ]
+},
+{
+"title": "Junior I&C Technologist",
+"company": "Tetra Tech",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4480132991",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Enterprise Sales Engineer - Northeast",
