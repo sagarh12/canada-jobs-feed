@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T17:19:47+00:00",
+"updated": "2026-10-28T17:30:00+00:00",
 "jobs": [
 {
 "title": "DevOPs Engineer (Services Team)",
@@ -1806,6 +1806,285 @@
 "years": null
 },
 {
+"title": "Cloud administrator",
+"company": "Avenge Energy Services Inc.",
+"location": "Fort Saskatchewan, Alberta, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50600240",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Software Developer Co-op - Red River College",
+"company": "Siemens Healthineers",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=86b0abaee54d5f5c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"HTML/CSS",
+"Angular",
+".NET",
+"REST APIs",
+"SQL Server"
+]
+},
+{
+"title": "Full Stack Developer",
+"company": "Government Of Alberta",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=095805bea86eea09",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobpostings.alberta.ca/job/Edmonton-Full-Stack-Developer/607441817/",
+"salary": "$83,258 - $114,316/year",
+"skills": [
+"Java",
+"JavaScript",
+"PHP",
+"Angular",
+"Node.js",
+"MySQL",
+"MongoDB",
+"Elasticsearch",
+"CI/CD",
+"Git",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "Network system administrator",
+"company": "Lax Kw'alaams Band",
+"location": "Lax Kw'alaams, British Columbia, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50600788",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Service Desk Analyst - IT2 (AESES)",
+"company": "University of Manitoba",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=2e96a856a0a15184",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://viprecprod.ad.umanitoba.ca/default.aspx?REQ_ID=51070&Language=1",
+"salary": "$29.05 to $41.75 per hour",
+"start": "November 23, 2026",
+"quals": [
+"Must have a strong knowledge of supporting and configuring mobile devices and tablets.",
+"Must be able to work quickly and calmly under pressure and have a good deal of patience.",
+"Must have a strong knowledge of supporting network connectivity, virtual private networks, and Multi-factor authentication.",
+"Must have excellent troubleshooting skills for the following: PC workstations, laptops, printers, fax machines, and scanners."
+],
+"skills": [
+"Azure",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Mobile (iOS / Android)",
+"ITIL"
+]
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Medicine Hat Villa",
+"location": "Medicine Hat, AB, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=2fa6b1a392755525",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-2fa6b1a392755525",
+"salary": "$15.90-$20.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Quality Assurance Engineer, Marketplace",
+"company": "BCAA",
+"location": "Burnaby, BC, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=e1d9e8d6a2cd72d2",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://bcaa.wd3.myworkdayjobs.com/en-US/bcaacareers/job/Burnaby-BC/Quality-Assurance-Engineer--Marketplace_REQ-6516",
+"salary": "$85,801.08 to $117,971.76",
+"skills": [
+"REST APIs",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design",
+"SDLC"
+]
+},
+{
+"title": "Sessional Instructor - COMP 1012, A03 (CUPE Sessional)",
+"company": "University of Manitoba",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=410fecf3f81f29da",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://viprecprod.ad.umanitoba.ca/default.aspx?REQ_ID=51046&Language=1",
+"salary": "$9,000.00",
+"start": "December 16, 2026"
+},
+{
+"title": "Analyst, Infrastructure-Storage & Compute Services",
+"company": "FCT",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=b2c08496488a0262",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://firstam.wd1.myworkdayjobs.com/fctcareers/job/CAN-Ontario-Oakville/Analyst--Infrastructure-Storage---Compute-Services_R059414-1",
+"skills": [
+"Windows",
+"VMware / virtualization"
+]
+},
+{
+"title": "Benefit Management Analyst I",
+"company": "SKYGEN",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=0da83e6fa90ba4eb",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://fa-eqhn-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/3390",
+"salary": "$55,014 - $82,522 USD per year",
+"skills": [
+"SQL",
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Insurance Exhibit Production Analyst",
+"company": "IBM",
+"location": "Bedford, CA, Canada",
+"posted": "2026-10-28",
+"link": "https://careers.ibm.com/careers/JobDetail?jobId=136406",
+"source": "IBM careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Management Intern 2027",
+"company": "IBM",
+"location": "Markham, CA, Canada",
+"posted": "2026-10-28",
+"link": "https://careers.ibm.com/careers/JobDetail?jobId=134134",
+"source": "IBM careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "United Concordia Dental",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=9c5abd37496bdc63",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J290413",
+"salary": "$86,400 - $138,600 USD per year",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C++",
+"C",
+"Go",
+"HTML/CSS",
+"React",
+"Angular",
+"Node.js",
+"Django",
+"Flask",
+"REST APIs",
+"NoSQL",
+"AWS",
+"Google Cloud",
+"Cybersecurity",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design",
+"SDLC"
+]
+},
+{
+"title": "Software Engineer, Back-End - Mail (US)",
+"company": "Superhuman",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=6f77e856475a785e",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://superhuman.com/company/careers/jobs?ashby_jid=3cff688a-2fa0-4e5c-a644-3af99cc0a39d",
+"salary": "$154,000 - $214,000 USD per year",
+"skills": [
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"ETL / data pipelines",
+"PostgreSQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Kubernetes",
+"CI/CD",
+"Infrastructure as code",
+"Data structures & algorithms",
+"System design"
+]
+},
+{
+"title": "Supervisory Research Plant Pathologist/Supervisory Research Geneticist",
+"company": "US Agricultural Research Service",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=3a2048c70f982354",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.usajobs.gov:443/job/890581600",
+"salary": "$125,776 - $192,331 USD per year",
+"skills": [
+"Statistics"
+]
+},
+{
 "title": "Junior Developer",
 "company": "1Password",
 "location": "Canada",
@@ -1971,6 +2250,16 @@
 "source": "University of Toronto careers",
 "country": "CA",
 "years": 3
+},
+{
+"title": "Analyst- Data & Automation / Data specialist (",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-10-28T00:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Analyst-Data-&-Automation-Data-specialist-%28-ON-M5H-0A9/1444631900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Web Developer",
@@ -12080,6 +12369,128 @@
 "location": "Edmonton, Alberta, Canada",
 "posted": "2026-10-27",
 "link": "https://www.linkedin.com/jobs/view/4483667065",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Canada Life",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483674222",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supply Chain Application Analyst",
+"company": "West Fraser",
+"location": "Quesnel, British Columbia, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4467210736",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer – Web/Cloud Application, Co-op",
+"company": "Semtech",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4475860563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Education Coordinator",
+"company": "Oxford Learning Centre",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-27",
+"link": "https://ca.indeed.com/viewjob?jk=3fe2c7ea27b15142",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://oxfordlearning.talentnest.com/en/posting/245260/location/293640?source=indeed",
+"salary": "$22 - $25 / hour"
+},
+{
+"title": "Software Engineer",
+"company": "Fabric",
+"location": "",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4482163910",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CCaaS Engineer",
+"company": "Accenture",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4461920716",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Consultant – Mobile & Web Application Security",
+"company": "Elastify",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484216221",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Compressor Technical Support Specialist",
+"company": "Atlas Copco",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4482200972",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Big Data Developer",
+"company": "Tekgence Inc",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483662451",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Development Engineer II, Omnichannel Metrics (OCM) - Measurement, Ad Tech, and Data Science (MADS)",
+"company": "Amazon",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4475829887",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Applications Engineer",
+"company": "Semtech",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484098391",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant en ventes sans fil",
+"company": "Staples Canada",
+"location": "",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4467247120",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -24366,6 +24777,16 @@
 "location": "London, Ontario, Canada",
 "posted": "2026-10-26",
 "link": "https://www.linkedin.com/jobs/view/4483238995",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Specialist",
+"company": "Welbi",
+"location": "",
+"posted": "2026-10-26",
+"link": "https://www.linkedin.com/jobs/view/4483242832",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
