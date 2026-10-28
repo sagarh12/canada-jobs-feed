@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-28T23:19:46+00:00",
+"updated": "2026-10-28T23:29:50+00:00",
 "jobs": [
 {
 "title": "Machine Learning Engineer 2",
@@ -5411,6 +5411,181 @@
 "salary": "$70,000 - $80,000 USD per year",
 "skills": [
 "Excel"
+]
+},
+{
+"title": "Cloud developer",
+"company": "Proco Machinery Inc",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50604490",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "eBay",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=41c940d065a3fe60",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.ebayinc.com/us/en/job/R0076003",
+"salary": "C$102,400 - C$136,700",
+"skills": [
+"Python",
+"Java",
+"Scala",
+"Spark",
+"Airflow",
+"dbt",
+"Kafka",
+"ETL / data pipelines",
+"Databricks",
+"NoSQL",
+"AWS",
+"Monitoring",
+"Agile / Scrum",
+"Jira",
+"Data structures & algorithms",
+"Object-oriented programming",
+"System design"
+]
+},
+{
+"title": "IT Support",
+"company": "Hemmersbach",
+"location": "Fort Saskatchewan, AB, CA (remote)",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=152dc397aa627118",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-support-152dc397aa627118",
+"salary": "$4,000.00-$5,200.00 per month",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Hardware setup"
+]
+},
+{
+"title": "Guidewire BillingCenter Developer",
+"company": "LTM Limited",
+"location": "Markham, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=35b6d6625de4b02b",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ltm.ripplehire.com/candidate/?token=89SbopgSSszkDxuUSa6i&lang=en&source=INDEED&ref=INDEED#detail/job/904838",
+"salary": "$140,000.00 to $150,000.00 per year",
+"skills": [
+"Python",
+"Java",
+"REST APIs",
+"Jenkins",
+"Git",
+"Agile / Scrum",
+"Jira"
+]
+},
+{
+"title": "Assistant Professor, Department of Computer Science",
+"company": "Lakehead University",
+"location": "Barrie, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=c2e239635ccf49d4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.lakeheadu.ca/faculty-and-staff/departments/services/hr/employment-opportunities/employment-opportunities-db/node/352083",
+"salary": "$88,094 - $133,223",
+"skills": [
+"Machine learning",
+"Cybersecurity",
+"Data structures & algorithms"
+]
+},
+{
+"title": "ServiceNow Developer",
+"company": "9th Way Insignia",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=de54ff66ead7b20e",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://grnh.se/l5nja95z8us",
+"salary": "$78,522 - $111,784 USD per year",
+"skills": [
+"JavaScript",
+"Angular",
+"REST APIs",
+"Cybersecurity",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"ITIL"
+]
+},
+{
+"title": "Software Developer – ColdFusion",
+"company": "Management & Engineering Services, LLC",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=7b4d72eb386bb1b8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-developer-coldfusion-7b4d72eb386bb1b8",
+"skills": [
+"SQL",
+"REST APIs",
+"LLMs / GenAI",
+"MySQL",
+"SQL Server",
+"AWS",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "Principle Incident Response Analyst",
+"company": "Honeywell Aerospace",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=6785f17c5680aee0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/99124051",
+"skills": [
+"Cybersecurity",
+"Incident response",
+"Vulnerability management"
+]
+},
+{
+"title": "Customer Service Mon-Fri",
+"company": "Five Star Solutions",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=2ee58d357b6c88cf",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.lever.co/getfivestar/110f45aa-5259-4144-9117-bb3ef05764aa",
+"salary": "$15 - $15 an hour",
+"skills": [
+"Excel",
+"Networking (TCP/IP, DNS)"
 ]
 },
 {
@@ -16735,6 +16910,46 @@
 "location": "Cochrane, Alberta, Canada",
 "posted": "2026-10-27",
 "link": "https://www.linkedin.com/jobs/view/4473930624",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Application Engineer",
+"company": "Preston Phipps Inc",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483815210",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern Engineer - AI",
+"company": "Huawei Canada",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4484283135",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "(Junior) Data Engineer (12-Month Contract)",
+"company": "BC Financial Services Authority",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483816204",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate SharePoint Developer",
+"company": "ITS Consulting Inc",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4483684500",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
