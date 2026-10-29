@@ -1,6 +1,45 @@
 {
-"updated": "2026-10-29T23:09:52+00:00",
+"updated": "2026-10-29T23:19:45+00:00",
 "jobs": [
+{
+"title": "Quality Assurance Engineer",
+"company": "Trulioo",
+"location": "Vancouver, BC; Canada",
+"posted": "2026-10-29T23:12:25.516+00:00",
+"link": "https://jobs.ashbyhq.com/trulioo/7b0ab333-099c-4972-8139-b43c1c150168",
+"source": "Trulioo careers",
+"country": "CA",
+"years": 5,
+"salary": "$1,000",
+"quals": [
+"5+ years of hands-on experience developing automated tests using test automation frameworks at the API and UI layers.",
+"5+ years of experience with UI and API testing frameworks and tools such as Cypress, Selenium, Playwright, Postman, RestAssured, or similar.",
+"Proven experience in at least one scripting or programming language, such as C#, Java, TypeScript, JavaScript, Python, or similar.",
+"Solid technical understanding of SaaS platforms, REST APIs, web applications, databases, and distributed systems."
+],
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"C#",
+"REST APIs",
+"LLMs / GenAI",
+"AWS",
+"Docker",
+"CI/CD",
+"Git",
+"Microservices",
+"Monitoring",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"System design",
+"Mobile (iOS / Android)",
+"Postman"
+],
+"req": "But Trulioo is more than a tech company. We are a united force of dedicated experts committed to establishing trust online - and we’re proud to be recognized as a BC Top Employer for the second consec\nExecute the strategic vision using technologies required to ensure the delivery of quality software for the Trulioo SaaS platform.\nDesign, build, and integrate custom AI tools and agents into internal Quality Engineering workflows.\nDesign, build, and integrate custom AI tools and agents into internal workflows while serving as a technical subject matter expert on emerging AI technologies.\n5+ years of hands-on experience developing automated tests using test automation frameworks at the API and UI layers.\n5+ years of experience with UI and API testing frameworks and tools such as Cypress, Selenium, Playwright, Postman, RestAssured, or similar.\nProven experience in at least one scripting or programming language, such as C#, Java, TypeScript, JavaScript, Python, or similar.\nExperience integrating automated tests into CI/CD pipelines.\nIntroductory experience with industry tools such as k6,JMeter, Locust, or Postman performance testing.\nPractical experience using generative AI development tools such as Codex, Cursor, GitHub Copilot, or similar tools in software development or Quality Engineering workflows.\nExperience designing prompts and reusable instructions for code generation, test creation, debugging, requirements analysis, or technical documentation.\nExperience building or inte"
+},
 {
 "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
 "company": "GitLab",
@@ -6194,6 +6233,16 @@
 "Jira"
 ],
 "req": "About Us: Founded 20 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people operating throughout North America, Europe and Asia. Since spinn"
+},
+{
+"title": "Client Advisor Intern",
+"company": "RBC",
+"location": "WHISTLER, British Columbia, Canada",
+"posted": "2026-10-29",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WHISTLER-British-Columbia-Canada/Client-Advisor-Intern_R-0000191628-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Software Engineer, AI Entries",
