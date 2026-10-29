@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T21:49:54+00:00",
+"updated": "2026-10-29T21:59:49+00:00",
 "jobs": [
 {
 "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
@@ -1272,7 +1272,8 @@
 "Cloud security",
 "Microsoft 365",
 "Hardware setup"
-]
+],
+"req": "Alimentiv is a global CRO with a singular focus: advancing therapies for patients with gastrointestinal diseases. GI is our WHY and for more than 30 years that purpose has driven our scientific rigour\nAbout the Role  Proven experience in information security, security operations, or cybersecurity analysis roles.\nHands-on experience managing and triaging vulnerabilities using tools such as Tenable or similar vulnerability management platforms.\nExperience monitoring, investigating, and responding to security alerts across SIEM, EDR, identity, and cloud security platforms.\nExperience administering and maintaining security controls within Microsoft 365, Azure, AWS, Okta, and/or hybrid environments.\nExperience supporting security audits, client assessments, penetration testing activities, and remediation tracking.\nWhat we're looking for:  Hands-on experience with vulnerability management and security monitoring tools (e.g., Tenable, Nessus, SIEM, EDR).\nExperience investigating security alerts, identifying threats, and supporting incident response activities through resolution.\nAbility to work independently, manage competing priorities, and drive security issues through to resolution. Preferred: Experience with CrowdStrike, penetration testing activities, and regulated envir\nFull-time employees also become beneficiaries of the Alimentiv Trust after one year of employment, and permanent members after 5 years of employment  Optional formal mentorship program (Alimentorship)\nOur Servi"
 },
 {
 "title": "Research Assistant, HCE Research to Practice (Praxis) Hub",
@@ -1426,7 +1427,8 @@
 "Selenium / Cypress",
 "Jest / PyTest",
 "System design"
-]
+],
+"req": "Technical Mentorship: Guide the team in best practices for modern engineering, from sophisticated TypeScript typing to efficient AI-prompting for complex refactors. Qualifications  4+ years of softwar\nStartup/Scale-Up Background: Experience navigating fast-paced software startup environments where shipping and iterating quickly is essential.\nProduction AI Experience: Proven track record of shipping and operating real-world AI features in a live product (e.g., RAG, LLM integrations, vector search, or AI agents) not just using AI coding too\nFull-Stack Proficiency: Strong expertise in JavaScript/TypeScript environments, specifically the MEAN stack (MongoDB, Express, Angular, Node.js).\nNice to Have Skills:  Databases & Vector Search: Solid relational/NoSQL foundation alongside experience with vector search (e.g., MongoDB Atlas Vector Search) or search indexing.\nSecurity & Communication: Security-first mindset for handling sensitive corporate data and the ability to explain technical/AI trade-offs to non-technical partners. Location We have embraced a distrib"
 },
 {
 "title": "Support Analyst - Mobility & Unified Communications",
@@ -1514,7 +1516,7 @@
 "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Governance-Analyst--Architecture---Engineering_JR26080836-1",
 "source": "Manulife careers",
 "country": "CA",
-"years": null
+"years": 3
 },
 {
 "title": "AWS Infrastructure Engineer",
@@ -4258,7 +4260,8 @@
 "Salesforce",
 "AWS certification",
 "CompTIA Security+"
-]
+],
+"req": "Collaboration: Coordinate with developers, solutions architects, QA and test automation engineers, the Scrum Master, DOT infrastructure teams, the DOT Security Operations Center (SOC), and Federal ISS\nMigration and Cutover Support: Automate data migration and cutover activities for legacy modernization efforts, including dry runs, rollback strategies, audit logging, and least-privilege access contr\nExperience: Minimum of 7 years of professional experience in cloud engineering, DevOps/DevSecOps, or systems engineering, including at least 3 years building and operating CI/CD pipelines for Agile so\nCompliance: Must meet U.S. DOT contract requirements, including a favorable Public Trust background investigation and suitability determination. Must follow secure coding and delivery practices aligne\nCertifications: At least one current cloud or DevOps certification, such as AWS Certified DevOps Engineer or Solutions Architect, Microsoft Certified: Azure DevOps Engineer Expert or Azure Administrat\nSecurity Clearance: DOT Public Trust Preferred Expertise  Demonstrated success in Federal Contracting, particularly civilian agency IT modernization or Software Factory programs; prior DOT experience \nExperience with the NIST Risk Management Framework (NIST SP 800-53), ATO processes, continuous monitoring, and FISMA compliance.\nExperience supporting deployment pipelines for enterprise platforms used at DOT, such as Salesforce, Microsoft Power Platform, ServiceNow, Dynamics 365, Appian, .NET"
 },
 {
 "title": "Data Analyst (Contract) (Part-Time)",
@@ -5430,6 +5433,179 @@
 "Excel"
 ],
 "req": "Provide in-field technical support assistance if customer issues cannot be resolved via telephone Work Experience, Skills, and Qualifications:  Extensive knowledge of Single Zone and Multi Zone Ductle\nMinimum of 5-10 years' experience in the HVAC field.\nMinimum 3-5 years experience in a ductless technical support role.\nResults-oriented and highly organized self-starter with the ability to master complex technical data.\nMust be willing to work Pacific Time Zone hours."
+},
+{
+"title": "Full Stack Developer",
+"company": "Caprileo tech Pvt Ltd",
+"location": "Scarborough, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=4b1183fa85276acf",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/full-stack-developer-4b1183fa85276acf",
+"salary": "$85,000 – $110,000 per year",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"HTML/CSS",
+"React",
+"Angular",
+"Vue",
+"Node.js",
+"Express",
+"REST APIs",
+"PostgreSQL",
+"MySQL",
+"MongoDB",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"CI/CD",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design"
+],
+"req": "Contribute to application improvements, technical documentation, and ongoing maintenance. Requirements  Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a relate\n3–5 years of professional experience in full-stack development.\nExperience with a modern front-end framework such as React.js, Angular, or Vue.js.\nExperience with back-end technologies such as Node.js, Express.js, Python, or Java.\nExperience working with databases such as PostgreSQL, MySQL, or MongoDB.\nAbility to work independently and collaborate effectively in a hybrid work environment. Preferred Qualifications  Experience with cloud platforms such as AWS, Azure, or Google Cloud."
+},
+{
+"title": "Arts and Cultural Programmer",
+"company": "Powell Street Festival Society",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=abe87dd6b3d11102",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/arts-and-cultural-programmer-abe87dd6b3d11102",
+"salary": "$24.00–$28.00 per hour",
+"skills": [
+"Excel"
+],
+"req": "The Powell Street Festival Society (PSFS) is a non-profit arts organization dedicated to celebrating Japanese Canadian art and culture to connect communities. Our primary activity is the Powell Street"
+},
+{
+"title": "CNC Programmer/Machinist",
+"company": "Vital Manufacturing Inc",
+"location": "Port Coquitlam, BC, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=dc087e2a0e697458",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "http://ca.indeed.com/job/cnc-programmermachinist-dc087e2a0e697458",
+"salary": "$35.00-$42.00 per hour",
+"skills": [
+"Excel",
+"Help desk / troubleshooting"
+],
+"req": "Support fabrication and assembly teams with component fitment, mechanical troubleshooting, and equipment assembly when required. Experience & Qualifications: Required Qualifications  Minimum 4 years o\nProficiency in Solidworks  Experience independently setting up and operating HAAS milling machines.\nExperience machining aluminum, stainless steel, plastics, and other engineering materials.\nExperience reviewing designs for manufacturability and providing practical engineering feedback.\nAbility to work independently and collaborate effectively with engineering and manufacturing teams. Qualifications that would be an asset  Experience manufacturing components for custom automated mach"
+},
+{
+"title": "Mississauga based High School Tutor - Math - In-person requirement",
+"company": "ed-apt-ive learning solutions",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=77def96f98c3df2d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/mississauga-based-high-school-tutor-math-person-requirement-77def96f98c3df2d",
+"salary": "$20.00-$25.00 per hour",
+"req": "Job Overview Support high school students in Mississauga through in-person math tutoring tailored to their learning needs. Help learners strengthen understanding, build confidence, and make steady pro\nTrack student progress, share useful updates with families or colleagues, and prepare materials using basic computer skills.\nProvide a supportive learning environment, including appropriate adjustments for students with diverse learning needs."
+},
+{
+"title": "IT Adminsitrator",
+"company": "River Cree Ventures",
+"location": "Enoch, AB, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=6bb8e20dcba2c878",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/it-adminsitrator-6bb8e20dcba2c878",
+"skills": [
+"Cybersecurity",
+"Vulnerability management",
+"IAM",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization"
+],
+"req": "Maintain and support wired and wireless network infrastructure, including switches, routers, firewalls, VPNs, and internet connectivity.\nAll other duties, as assigned. REQUIRED QUALIFICATIONS  Diploma or Degree in Information Technology, Computer Science, Information Systems, or a related field.\nMinimum 2-4 years of experience in IT support, systems administration, or network administration.\nExperience supporting Microsoft 365, Active Directory, Windows Server environments, and cloud-based services preferred.\nExperience with virtualization technologies, back up solution, and cybersecurity practices is an asset. CORE COMPETENCIES  Communication and interpersonal skills.\nUnderstanding of cybersecurity principles, best practices, and risk mitigation strategies. COMPENSATION AND BENEFITS  Compensation is competitive and based on skills and experience; a comprehensive be\nOccasional lifting, installation, and movement of computer equipment and technology assets may be required.\nAll work must be performed in accordance with company policies related to confidentiality, data privacy, and professional conduct. CLOSING DATE: NOVEMBER 9, 2026 NOTE Preference may be given to qualif"
+},
+{
+"title": "Full Stack Java Developer",
+"company": "Blu Armor",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=884f531465c6b259",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/full-stack-java-developer-884f531465c6b259",
+"salary": "$60.00 per hour",
+"skills": [
+"Java",
+"Angular",
+"Spring Boot",
+"REST APIs",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"Microservices",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+],
+"req": "Position: Java Full Stack Developer Location: Remote Duration: Long-Term contract Must have Public Trust Clearance or be eligible for it Job Description: We are looking for experienced Java Full Stack\nStrong hands-on experience with Java, Spring Boot, and Microservices architecture.\nExperience developing frontend applications using Angular.\nHands-on experience with Kubernetes and containerized applications.\nExperience working with AWS or Azure cloud platforms.\nExperience developing and integrating RESTful APIs.\nMust have active Public Trust clearance or be eligible to obtain Public Trust clearance."
+},
+{
+"title": "Housing Systems Specialist",
+"company": "York University",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=6b55e87e5e0b81a8",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs-ca.technomedia.com/yorkuniversity/?_4x1F8B08000000000000FF6D8FB10E83201884DF86D100529081C1A2699C1B67A3820D5681A026F5ED6B1BDDD8EE4FBEBBFFCE3B5F2901810B4A078140DF4E930EDB66944088710E216D3085941EAA4135E10D44C70D96B7DE1FDA16BB8D72B70B73611545F994201A499AB446E4647D70BD5E966AD5B3F087AF9D92D175DE2DABB1AF64441882E05A65B7B9FB558D7CC56792B166ADEBAA884FB8AA7D7AE1864107A3FE6B44999638658CF01C1279C734A387CC98848451C9B2FC0BB0617F182B010000&offerid=14952",
+"skills": [
+"JavaScript",
+"PHP",
+"SQL",
+"HTML/CSS",
+"Power BI",
+"Excel",
+"Data visualization",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Purpose: Ancillary Services provides a wide range of professionally managed campus services and amenities to enhance the student experience and support York University's mission, vision, and prioritie\nAbility to conduct research into systems issues and products as required.\nUnderstanding of Freedom of Information and Protection of Privacy Act and factors required for compliance.Technical  Demonstrated website design and server-based programming skills including HTML, Jav\nStrong understanding of networking technologies and their interaction with web-based applications  Extensive practical knowledge in importing and syncing data for use in data visualization tools, repo"
+},
+{
+"title": "Financial Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=cd7a2511ee67dc86",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/financial-analyst-cd7a2511ee67dc86",
+"salary": "$69,970 - $84,265 USD per year",
+"skills": [
+"Excel"
+],
+"req": "Job Summary As a Financial Analyst, you’ll turn financial and operational data into clear insights that support sound business decisions. You’ll contribute to budgeting, forecasting, financial plannin\nWrite financial reports and explain financial concepts, results, and recommendations to stakeholders. Experience  Experience in finance, accounting, financial analysis, or a related field; familiarity"
 },
 {
 "title": "Software Engineer, AI Entries",
@@ -7798,7 +7974,7 @@
 "years": 1
 },
 {
-"title": "Service Desk Analyst - IT2 (AESES)",
+"title": "Job details",
 "company": "University of Manitoba",
 "location": "Winnipeg, MB, CA (remote)",
 "posted": "2026-10-28",
@@ -10697,7 +10873,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jobs-ca.technomedia.com/yorkuniversity/?_4x1F8B08000000000000FF6D8FCD0E83201084DF86A36105AC1E3834A08DE7C6B351C106AB405093FAF6B53FDE3C6D26F96676C63B5F2A8E910B4A070EA86BC6518775358A03249802D03ADE2F2384D550D1ACC6B06B343FF576D3566EF6946307E6C2C2657E17E83432AB49B5AB1FEB83EBF43C978B9EB8DF7DCD180DAEF56E5E8C7D4403C41805D728BB4EEDA7EAC9D7F89F64AC59AAAA94E7138E6AAF8EBBBED7C1A8EF1A7E954C302828A14C4A92E64522530A2CBD6041A548C51B9CC40BB62B010000&offerid=14946",
+"apply": "https://jobs-ca.technomedia.com/yorkuniversity/?_4x1F8B08000000000000FF6D8FB10E83201884DF86D100529081C1A2699C1B67A3820D5681A026F5ED6B1BDDD8EE4FBEBBFFCE3B5F2901810B4A078140DF4E930EDB66944088710E216D3085941EAA4135E10D44C70D96B7DE1FDA16BB8D72B70B73611545F994201A499AB446E4647D70BD5E966AD5B3F087AF9D92D175DE2DABB1AF64441882E05A65B7B9FB558D7CC56792B166ADEBAA884FB8AA7D7AE1864107A3FE6B44999638658CF01C1279C734A387CC98848451C9B2FC0BB0617F182B010000&offerid=14946",
 "skills": [
 "Python",
 "Power BI",
@@ -12028,7 +12204,8 @@
 "Java",
 "JavaScript",
 "REST APIs"
-]
+],
+"req": "Job ID: 11289BR  Location: US (Remote)  Work Setup: Remote  Job Category: Intern  Posting Date: October 28, 2026  To perform (potentially) a wide variety of tasks including,but not limited to the foll"
 },
 {
 "title": "Software Developer (100% Remote)",
@@ -13519,7 +13696,8 @@
 "Windows",
 "Microsoft 365",
 "Help desk / troubleshooting"
-]
+],
+"req": "Dominion Energy is committed to providing reliable, affordable, and increasingly clean energy that powers our customers every day. If you want to work for a purpose-driven company that values safety a\nThe position provides field support for various telecommunication and network systems and the associated infrastructure for local offices and remote location throughout the Virginia and North Carolina\nStudents must have a minimum GPA of 2.5.\nStudents should be graduating in the Spring of 2028 or later."
 },
 {
 "title": "Program Analyst, Health IT Data",
@@ -13888,7 +14066,8 @@
 "salary": "$30 - $31 USD per hour",
 "skills": [
 "Excel"
-]
+],
+"req": "Overview: Kimley-Horn is looking for Engineering students to join our Structures team in our Roseville, California (CA) office in Summer 2027! This is not a remote position. Responsibilities:  Utilize"
 },
 {
 "title": "Civil Engineering Intern- Water/Wastewater",
@@ -16306,6 +16485,92 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-10-28",
 "link": "https://www.linkedin.com/jobs/view/4459517951",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Plan Design System Coder",
+"company": "Manulife",
+"location": "Waterloo, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=d6b16a9e4d0a2632",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.manulife.com/global/en/job/JR26100490/Plan-Design-System-Coder",
+"salary": "$43,875.00 CAD",
+"skills": [
+"HTML/CSS"
+],
+"req": "Determine whether plan requirements can be accommodated within existing system functionality and escalate exceptions or concerns when required.\nRequest and/or create custom dental and health packages and benefit codes when required.\nMaintain a high level of accuracy and attention to detail, recognizing that system configuration directly impacts plan administration, member experience and claims processing. Required Qualifications:\nUnderstanding of the downstream impacts of system coding decisions, including impacts to claims processing and plan administration. Preferred Qualifications:  Strong understanding of applicable admini\nAbility to identify inconsistencies or missing information and determine when clarification is required before coding."
+},
+{
+"title": "Quality Analyst",
+"company": "J&M Group",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484739658",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Support Engineer",
+"company": "KTek Resourcing",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484739511",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer",
+"company": "TechDoQuest",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4482562206",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II - CIAM",
+"company": "Jobgether",
+"location": "",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4483822831",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Security Specialist",
+"company": "Nityo Infotech",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484729669",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Developer",
+"company": "ICBC (Insurance Corporation of British Columbia)",
+"location": "North Vancouver, British Columbia, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484724199",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "M&A and FP&A Analyst",
+"company": "Dillon Consulting Limited",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4390872981",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -25258,7 +25523,8 @@
 "apply": "https://careers.un.org/jobSearchDescription/285594?language=en",
 "skills": [
 "Excel"
-]
+],
+"req": "Work Location New York or remote Expected duration The desired start date is January 2027. The internship is for a minimum of 3 months with possibility for extension to a total of 6 months based on th"
 },
 {
 "title": "Front End/Salesforce Developer",
