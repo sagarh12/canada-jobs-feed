@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-29T22:19:48+00:00",
+"updated": "2026-10-29T22:29:44+00:00",
 "jobs": [
 {
 "title": "Backend Engineer, Source Code: Repository Services (Ruby)",
@@ -100,7 +100,8 @@
 "Help desk / troubleshooting",
 "Testing (unit, automated)",
 "Selenium / Cypress"
-]
+],
+"req": "Collaborate with product, support, QA, and implementation teams to translate operational needs into practical solutions. Required Qualifications  Professional experience with C and .NET.\nExperience developing web applications with ASP.NET Core or ASP.NET MVC.\nExperience with Git, automated testing, debugging, and code review.\nClear written and verbal communication skills. Preferred Qualifications  Experience with Dapper, Razor, jQuery, Bootstrap, or Entity Framework Core.\nExperience with xUnit, NUnit, Playwright, or similar testing tools.\nExperience modernizing legacy .NET Framework, VB.NET, COM, or desktop applications.\nExperience with healthcare software, HIPAA-sensitive data, patient portals, billing, scheduling, or clinical workflows.\nFamiliarity with multi-tenant applications and security-based data partitioning. What Success Looks Like A successful developer will produce clear, maintainable solutions; investigate problems across "
 },
 {
 "title": "NetSuite Administrator",
@@ -2355,7 +2356,8 @@
 "salary": "$40,736 - $116,362 USD per year",
 "skills": [
 "Statistics"
-]
+],
+"req": "Summary ----------- This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the \nClarification from the agency U.S. Citizens Duties ----------  You will serve as a Human Resources Generalist in the Human Resources Division of the Naval Surface Warfare Center Panama City Division.\nYou will provide expert advisory service to division heads and hiring managers on complex, multi-faceted recruitment strategies.\nYou will evaluate complex qualification backgrounds, resolve contentious eligibility determinations, review job analyses, and negotiate complex pay-setting determinations.\nYou will plan, lead, and execute targeted recruitment campaigns and comprehensive student outreach programs.\nYou will establish and maintain operational partnerships with academic career centers and student organizations.\nYou will lead the full-cycle recruitment, evaluation, and selection of student interns, Pathways participants, and recent graduates for assigned mission areas.\nYou will conduct quality reviews and audits of HR actions to ensure regulatory compliance and merit principle adherence. Requirements ----------------  Conditions of employment  Must be a US Citizen.\nMust be determined suitable for federal employment.\nMust participate in the direct deposit pay program.\nNew employees to the Department of the Navy will be required to successfully pass the E-Verify employment verifi"
 },
 {
 "title": "Cloud Platform and Data Engineer [U.S. Citizenship Required, Public Trust Eligibility]",
@@ -4045,7 +4047,8 @@
 "skills": [
 "Help desk / troubleshooting",
 "Salesforce"
-]
+],
+"req": "At Conexus, we are focused on supporting our members with their needs of today, while also helping them pursue their goals for the future. It’s more than conducting a banking transaction, it’s about p\nGathering and translating business requirements into system solutions that improve lending processes and user experience.\nCollaborating with internal analysts, developers, IT teams, and external vendors to design, test, implement, and maintain system enhancements.\nStaying current on industry trends, regulatory changes, and emerging best practices to continuously enhance lending system capabilities and user experience.\nContributing to the evolution of Conexus’s lending technology ecosystem by identifying opportunities to improve processes, capabilities, and user adoption. The way people describe you You're a natural\nPost-secondary education in Business, Economics, Analytics, or a relevant combination of experience and post-secondary education.\nExperience with nCino is considered a strong asset. Experience with Salesforce or other cloud-based business applications is also beneficial.\nExperience with user access management, security roles, workflows, configuration, reporting, testing, and production support.\nExperience working with system data, reporting, analytics, or operational dashboards is an asset."
 },
 {
 "title": "IAM and Context Specialist (Clinical)",
@@ -4792,7 +4795,7 @@
 "country": "US",
 "years": 4,
 "apply": "https://jobs-oraclecloud.ascension.org/en/job/24373",
-"salary": "$26 - $36 USD per hour",
+"salary": "$23 - $43 USD per hour",
 "skills": [
 "Statistics"
 ],
@@ -4880,7 +4883,8 @@
 "macOS",
 "Microsoft 365",
 "Hardware setup"
-]
+],
+"req": "You finish a 90 minute visit at a senior's home. When you present the bill, she says it seems like a lot for what you did. What do you say to her? Experience:  IT support: 2 years (required) Language:"
 },
 {
 "title": "AI Infrastructure Engineer [Tooling]",
@@ -5520,7 +5524,7 @@
 "req": "Job Overview Support high school students in Mississauga through in-person math tutoring tailored to their learning needs. Help learners strengthen understanding, build confidence, and make steady pro\nTrack student progress, share useful updates with families or colleagues, and prepare materials using basic computer skills.\nProvide a supportive learning environment, including appropriate adjustments for students with diverse learning needs."
 },
 {
-"title": "IT Adminsitrator",
+"title": "IT Administrator",
 "company": "River Cree Ventures",
 "location": "Enoch, AB, CA",
 "posted": "2026-10-29",
@@ -5528,7 +5532,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "http://ca.indeed.com/job/it-adminsitrator-6bb8e20dcba2c878",
+"apply": "http://ca.indeed.com/job/it-administrator-6bb8e20dcba2c878",
 "skills": [
 "Cybersecurity",
 "Vulnerability management",
@@ -5606,6 +5610,242 @@
 "Excel"
 ],
 "req": "Job Summary As a Financial Analyst, you’ll turn financial and operational data into clear insights that support sound business decisions. You’ll contribute to budgeting, forecasting, financial plannin\nWrite financial reports and explain financial concepts, results, and recommendations to stakeholders. Experience  Experience in finance, accounting, financial analysis, or a related field; familiarity"
+},
+{
+"title": "Cloud engineer",
+"company": "NearSource",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50612286",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Cloud engineer",
+"company": "Maarut",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50612237",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business intelligence & Data Analyst",
+"company": "TJX Canada",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=55c40020c1c7b467",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.tjx.com/global/en/job/TJCOGLOBALREQ168606EXTERNALENGLOBAL/Business-intelligence-Data-Analyst?utm_source=INDEED&utm_medium=phenom-feeds",
+"salary": "$ 61,582.50-$86,215.50 /year",
+"skills": [
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Information Security Analyst",
+"company": "University of Alberta",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=3d27a11f5bcd51d6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://iaejup.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/4583",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Incident response",
+"Vulnerability management",
+"Firewalls",
+"Threat intelligence",
+"Encryption / PKI",
+"Windows",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"CompTIA Security+",
+"CISSP"
+],
+"req": "Location - This role is hybrid with a mix of remote and in-person. Work primarily takes place at North Campus, Edmonton. The Office of the Chief Information Security Officer (CISO), part of Informatio\nDelivers cybersecurity training and awareness campaigns, and provides expert security guidance to the University community.\nParticipates in the weekly 24x7 on-call rotation and responds to after-hours security events. Minimum Qualifications  Post-secondary education in a related field, or 3 years of experience in a dedicat\nAbility to participate in a 24x7 on-call rotation. Preferred Qualifications  One or more of the following professional designations: CISSP, CEH, GSEC, CompTIA Security+, Cisco CyberOps, Cisco CCNP Sec\nKnowledge of IT Service Management (ITSM) concepts and service management platforms such as FreshService or ServiceNow. Application Instructions Click \"Apply Now\" to submit your resume and cover lette"
+},
+{
+"title": "Analyst, Continuous Improvement",
+"company": "Nutrien",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=d78075078ddd46ca",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://career17.sapsf.com/career?company=nutrien&career_ns=job_listing&career_job_req_id=35146&lang=en_US&source=Indeed",
+"skills": [
+"Oracle",
+"SAP"
+]
+},
+{
+"title": "Analytics and Insights Analyst (CPG)",
+"company": "Mosaic North America",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=2c4d616b073b4b86",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://eczy.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/42977",
+"skills": [
+"Power BI",
+"Excel"
+],
+"req": "Partner with business teams to deliver high-quality analytical support aligned with client KPIs and strategies. Education: High school diploma/GED, Associate Degree, or Bachelor’s Degree. What You’ll "
+},
+{
+"title": "Maintenance - Full Time - Medex",
+"company": "Extendicare",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=17fe33d3be45137d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://extendicare.wd10.myworkdayjobs.com/Extendicare2023/job/LTC---Medex-Baseline-Rd-1865-Baseline-Road--Ottawa--ON/Maintenance---Full-Time---Medex_R35793",
+"salary": "$26.63 - $28.13",
+"skills": [
+"Hardware setup"
+],
+"req": "Job Description MAINTENANCE WORKER - EXTENDICARE MEDEX Applications are invited to apply for a full-time temporary position of Maintenance Worker at our 193-bed long term care home located in Ottawa, "
+},
+{
+"title": "Zscaler Specialist - Contract",
+"company": "Compugen Inc",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=e82699da12365cb4",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://compugen-pc.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN10119&portal=ITR",
+"skills": [
+"Python",
+"PowerShell",
+"REST APIs",
+"AWS",
+"Azure",
+"Google Cloud",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SIEM",
+"IAM",
+"Firewalls",
+"Cloud security",
+"Encryption / PKI",
+"Help desk / troubleshooting"
+],
+"req": "Vacancy No / Numéro de poste vacant VN10119 Company Name/Nom de l'entreprise Compugen Inc Work Location Calgary, AB Pay Range / Rémunération To be discussed during the recruitment process Pipeline Pos\nPosition Overview: We are seeking an experienced Zscaler Specialist to support the implementation, configuration, administration, and optimization of Zscaler cloud security solutions. The successful c\nKey Responsibilities:  Design, implement, configure, and administer Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA) solutions.\nImplement and support Zero Trust Network Access (ZTNA) solutions to provide secure access to internal applications.\nProvide technical expertise and recommendations to strengthen the organization's cloud security posture.\nSkills & Qualifications:  4+ years of experience in network security, cybersecurity engineering, or security infrastructure administration.\nStrong hands-on experience implementing, configuring, and supporting Zscaler solutions in enterprise environments.\nDemonstrated expertise with Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA).\nExperience deploying, configuring, and troubleshooting Zscaler Client Connector.\nExperience configuring GRE/IPsec tunnels, proxy solutions, and traffic forwarding policies.\nExperience troubleshooting network connectivity, application performance, authentication failures, and security policy conflicts.\nExperience with SIEM platforms, security monitoring, and log analysis."
+},
+{
+"title": "CO-OP Student – IT Service Desk",
+"company": "Royal Canadian Mint",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=724a1c1ee48ff851",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.mint.ca/en/people/careers/co-op-student-it-service-desk",
+"skills": [
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Agile / Scrum",
+"Mobile (iOS / Android)"
+],
+"req": "Be a part of an iconic and innovative Mint community where you will collaborate with insightful colleagues, gain work experience and foster positive relationships. As part of the Information Technolog"
+},
+{
+"title": "Course Casual Engineering Instructor",
+"company": "NorQuest College",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=af237f2cea173e60",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career17.sapsf.com/career?company=norquestco&career_ns=job_listing&career_job_req_id=1920&lang=en_US&source=Indeed",
+"skills": [
+"Python"
+],
+"req": "COMPETITION NUMBER: 1920 CLOSING DATE: November 12th @ 11:59 pm MST FACULTY OF ARTS AND SCIENCES NorQuesters are difference makers and we’re searching for someone dedicated to making a difference! We \nMaster’s degree in engineering from an accredited institution, PhD is considered an asset.\nExperienced with the Python programming language.\nExperience teaching post-secondary engineering courses is preferred.\nExperience using instructional technologies such as Moodle and Microsoft Teams.\nStrong commitment to student success and inclusive education.\nProficiency in using technology; demonstrated experience teaching using Moodle and/or Kaltura would be a benefit. WHAT MAKES YOU A DIFFERENCE MAKER As a difference maker you bring:  Passionate about e\nStudent-centered."
+},
+{
+"title": "Medical Lab Technologist (OPSEU LAB), Chemistry",
+"company": "LifeLabs",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=0f75e4b65040a50a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/lifelabs/CANDIDATEPORTAL/jobs/21526",
+"start": "ASAP",
+"req": "For over 50 years, LifeLabs has been Canada’s leading provider of laboratory diagnostic information and digital health connectivity systems, enabling patients and healthcare practitioners to diagnose,\nEnsure compliance with regulatory requirements and quality assurance standards. What you will bring to the role:  College diploma or University degree in Medical Laboratory Science, or equivalent educ"
+},
+{
+"title": "Data Engineer",
+"company": "Newpage Digital Healthcare solutions",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=176565912591366a",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://newpage.io/careers/NFRYSUVBeFYrcitwTG1CU0ZVTVBqZz09",
+"skills": [
+"Python",
+"SQL",
+"LLMs / GenAI",
+"RAG",
+"Spark",
+"ETL / data pipelines",
+"Snowflake",
+"Vector databases",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"Git",
+"Infrastructure as code",
+"Monitoring",
+"Incident response",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"Salesforce",
+"Embedded systems"
+],
+"req": "Location: Remote | Type: Contract About Newpage Solutions Newpage Solutions is a global digital health innovation company helping people live longer, healthier lives. We partner with life sciences org\nProcess: Lead lean transformations across teams in your area, design flow-optimised processes for data delivery, coach engineers on lean principles, and balance speed with sustainability. Establish me\nBusiness Immersion: You immerse in operations until you think like an insider. You rapidly acquire domain expertise through direct observation, translate between business and engineering seamlessly, a\nStakeholder Management: You manage multiple stakeholders with different interests, navigate conflicting priorities diplomatically, and build trust through consistent delivery. You tailor communication\nKnowledge Management: You create searchable knowledge articles proactively, maintain team documentation, and organise information so others can find it. What You Bring  Bachelor’s degree in computer s\nDeep production experience with Python, SQL, and cloud data platforms (AWS preferred — including services such as Glue, S3, Redshift, Lambda, and EMR; Snowflake, Azure, or GCP also valued) is required\nProven expertise in large-scale data integration, distributed data processing (such as Spark), and enterprise data architecture is essential.\nExperience with enterprise data platforms (such as Salesforce Data Cloud or similar CRM data systems) is strongly valued.\nDemonstrable fluency with AI c"
+},
+{
+"title": "Technical Business Analyst Remote",
+"company": "BCD",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=12426bb59870395f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.bcdtravel.com/job/Technical-Business-Analyst-Remote/1376252057/",
+"salary": "$70,000 - $75,000 USD per year",
+"skills": [
+"REST APIs",
+"Data visualization"
+]
 },
 {
 "title": "Software Engineer, AI Entries",
@@ -8661,7 +8901,8 @@
 "country": "US",
 "years": 1,
 "apply": "https://www.usajobs.gov:443/job/889944000",
-"salary": "$120,548 - $156,715 USD per year"
+"salary": "$120,548 - $156,715 USD per year",
+"req": "Summary ----------- This position is located in the U.S. Department of Agriculture (USDA), Farm Production and Conservation (FPAC) Natural Resources Conservation Service (NRCS), Rhode Island State Off\nReviews and analyzes available engineering material for the purpose of adapting to local situations and disseminating applicable material to field engineers. Requirements ----------------  Conditions \nMales born after 12/31/1959 must be Selective Service registered or exempt.\nMust maintain a current professional engineering license in the state that the incumbent is currently working.\nAs a condition of employment for accepting this position, you will be required to serve a 1-year probationary period unless previous federal service is creditable. During this time your employment wil\nDirect Deposit: Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution.\nSubject to one year supervisory/managerial probationary period unless prior service is creditable. New FPAC supervisors must successfully complete all components of the required training program befor\nMust possess and maintain a valid state motor vehicle operator's license for the type of vehicle(s) operated to perform the duties of this position.\nRequired to submit Confidential Financial Disclosure Report Form OGE-450 within 30 days of your initial appointment date, and annually thereafter.\nQualifications In order to qualify, you must meet the eligi"
 },
 {
 "title": "Budget Analyst",
@@ -13378,7 +13619,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/dygEZoyhzW3L4ZjCKWiHzLjl5CvE2_8XqUeBYyXMqZQ#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/w3FgtHzab2hTDDTG0uJTrqdHA9Rz5KVmgTJjxu2eHgI#.job_boards.Indeed",
 "skills": [
 "Python",
 "Java",
@@ -14276,7 +14517,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/X21c00xyoPsGaZcKUrZWE7avhmMTJYMzluM8hah1wcU#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/QBJZpXctFrmpCSOBoSSC4wLgvYNWmY3A7HH0_MuygO8#.job_boards.Indeed",
 "skills": [
 "JavaScript",
 "HTML/CSS",
@@ -14294,7 +14535,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/7-TNcE92zNbPrwnnbdJT-JnAMZ4YC7EPC0mMX5PdKWw#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/tNIP33UimbUE0aqxPsdkWA5zJFDYZDk8KE2v20jrAbc#.job_boards.Indeed",
 "skills": [
 "Java",
 "React",
@@ -14320,7 +14561,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/vLgMCIvIpq1wAeMfTHUw6FBnkCL-8Rv7oYyWFcwwEYE#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/X9TXMKR7VGeKlGy5QI59Gw2sCZZduyikI6Evane-FFM#.job_boards.Indeed",
 "skills": [
 "C",
 "SQL",
@@ -16571,6 +16812,94 @@
 "location": "London, Ontario, Canada",
 "posted": "2026-10-28",
 "link": "https://www.linkedin.com/jobs/view/4390872981",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Graduate Building Systems Engineer (Available 2027)",
+"company": "Arup",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4476386444",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Tier 1 Technical Support",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=2d406817ba466b63",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3&ccId=19000101_000001&jobId=545143&source=IN&lang=en_US",
+"salary": "$45,000 - $47,000 USD per year",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+],
+"req": "About DrFirst ----------------- Dr First is a rapidly growing Healthcare IT company, offering a unique opportunity to make a significant impact in the healthcare industry. Our cutting-edge application\nEscalate unresolved customer issues using proper escalation protocols. Qualifications ------------------  Excellent customer services skills, both verbal and written.\nMinimum of 2 years’ experience providing customer support and technical troubleshooting.\nDemonstrates familiarity with fundamental customer support principles and hands-on experience utilizing Zendesk or other CRM.\nWhile performing the duties of this job, the employee may be regularly required to stand, sit, talk, hear, reach, stoop, kneel, and use hands and fingers to operate a computer, telephone, and keyboard"
+},
+{
+"title": "SDM Sales Intern",
+"company": "Coty",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4475115268",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Reliability Specialist",
+"company": "Thales",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4467792563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Call Centre Agent",
+"company": "Brink’s Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4474417222",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "2026- 27 McElhanney Technical and Digital Innovation in Engineering Scholarship",
+"company": "McElhanney",
+"location": "Alberta, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4467960028",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security, Winter 2027 - Toronto (Co-op/Internship) - 4 Months",
+"company": "QuadReal Property Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484752301",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- Toronto, Ontario, CN",
+"company": "American Express",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484115416",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -25245,7 +25574,8 @@
 "Help desk / troubleshooting",
 "Salesforce",
 "SAP"
-]
+],
+"req": "PerfectServe also received two Best in KLAS awards in 2026 — one for physician scheduling and another for ambulatory clinical communications. That makes for 11 Best in KLAS awards over the past 9 year\nSupport special projects and annual audits as needed. What We're Looking For  3+ years of billing or related experience.\nWillingness to learn and use AI tools in daily workflows. Preferred Qualifications  SaaS or subscription-based billing experience.\nNetSuite experience highly preferred, or familiarity with similar platforms such as Sage Intacct, Microsoft Dynamics 365, SAP, Zuora, or Chargebee.\nExperience with Salesforce and Zendesk.\nAssociate degree or higher.\n17 company holidays, 2 floating holidays plus competitive paid time off policy  Internal Advancement Opportunities PerfectServe offers unified healthcare communication solutions to help physicians, nu"
 },
 {
 "title": "Payment Ops SME",
@@ -28704,7 +29034,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2638122&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2638122%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D64b5e6bb-d32f-11f1-b2e7-8718db92ff7b%26rx_job%3D2638122%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261029T200421Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2638122&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2638122%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D64b5e6bb-d32f-11f1-b2e7-8718db92ff7b%26rx_job%3D2638122%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261029T220505Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$55,000 - $70,000 USD per year",
 "req": "Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, patients, researchers, pharmaceutical companies and health systems make confident \nConfer with counsel to interpret contractual terms, resolve disputes, and ensure adherence to applicable laws, regulations, and internal standards.\nAdvise internal stakeholders on contract structure, process, and risk considerations.\nConduct training and provide guidance to business teams on contracting best practices, processes, and policies. Vendor Governance & Compliance  Partner with Procurement, Risk Management, Privacy, Comp\nSupport internal and external audits related to vendor management and contracting. Process Optimization & Reporting  Continuously improve contracting workflows, standard operating procedures, and turn\nIdentify opportunities to increase efficiency, reduce cost, and improve contract quality. Minimum Qualifications: High school diploma or equivalent; Associate’s degree with 2+ years relevant experienc\nOrganization skills and having the ability to adapt to high pressure situations is a must.\nExperience with Microsoft Office and Adobe  Ability to change directions in workload based on required timeframes."
 },
