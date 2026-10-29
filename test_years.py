@@ -101,7 +101,7 @@ class JobDetails(unittest.TestCase):
         d = feed.job_details('What you bring\n- BSc in Computer Science\n- Python\nBenefits\n- Dental\n'
                              'Salary: $60,000 to $75,000 per year. Start date: May 2027')
         self.assertEqual(d, {'salary': '$60,000 to $75,000 per year', 'start': 'May 2027',
-                             'quals': ['BSc in Computer Science', 'Python'], 'skills': ['Python']})
+                             'quals': ['BSc in Computer Science', 'Python'], 'skills': ['Python'], 'req': 'BSc in Computer Science'})
         self.assertEqual(feed.job_details('', 25.0, 30.0, 'hourly', 'CAD'), {'salary': '$25 - $30 CAD per hour'})
         self.assertEqual(feed.job_details('Nothing here', float('nan'), None), {})
 

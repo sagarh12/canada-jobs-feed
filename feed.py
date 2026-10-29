@@ -283,7 +283,11 @@ START = re.compile(r"(?:start(?:ing)? date|start(?:s|ing)?(?: in| on)?|available
                    r"\s*\d{4}|immediately|asap)", re.I)
 
 
-DETAILS = ("salary", "start", "quals", "skills")
+DETAILS = ("salary", "start", "quals", "skills", "req")
+
+
+REQ_LINE = re.compile(r"\byears?\b|\byrs?\b|experience|experienced|seasoned|senior|expert|degree|bachelor|master|ph\.?d|diploma|"
+                      r"\bb\.?sc\b|graduat|student|intern|co-?op|entry[- ]level|required|must|minimum|qualif|resid|citizen|clearance", re.I)
 
 
 def job_details(description, low=None, high=None, interval="", currency=""):
@@ -321,6 +325,9 @@ def job_details(description, low=None, high=None, interval="", currency=""):
     found = keywords.skills(text)
     if found:
         out["skills"] = found  # technical keywords, tallied into feed/keywords.csv
+    req = [l[:200] for l in lines if l and REQ_LINE.search(l) and not MONEY.search(l) and not re.search(r"salary|per (year|hour)", l, re.I)]
+    if req:
+        out["req"] = "\n".join(dict.fromkeys(req))[:1500]  # experience, degree and must-have lines: the robot screens with them
     return out
 
 
