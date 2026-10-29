@@ -1,6 +1,36 @@
 {
-"updated": "2026-10-29T00:49:50+00:00",
+"updated": "2026-10-29T00:59:50+00:00",
 "jobs": [
+{
+"title": "QNXT Configuration Analyst (CCA)",
+"company": "Alchemy",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=af0387e8f4970650",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "http://www.indeed.com/job/qnxt-configuration-analyst-cca-af0387e8f4970650",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Website Designer & Developer",
+"company": "Bizeeza Inc.",
+"location": "Scarborough, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=ac428212143a1b91",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/website-designer-developer-ac428212143a1b91",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"Help desk / troubleshooting"
+]
+},
 {
 "title": "Machine Learning Engineer 2",
 "company": "Twilio",
@@ -2977,7 +3007,7 @@
 ]
 },
 {
-"title": "Strategic Foresight Analyst",
+"title": "Strategic Management Analyst",
 "company": "City of Edmonton",
 "location": "Edmonton, AB, CA",
 "posted": "2026-10-28",
@@ -5920,6 +5950,200 @@
 "location": "Fredericton, New Brunswick, Canada",
 "posted": "2026-10-28",
 "link": "https://www.linkedin.com/jobs/view/4481282988",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student, Quality Engineering Analyst (Winter 2027)",
+"company": "Sunlife",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484277725",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, Pension",
+"company": "Financial Services Regulatory Authority of Ontario (FSRA)",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=1dd783586d766a05",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://fsra.wd3.myworkdayjobs.com/en-US/FSRA_Careers/job/Toronto-ON/Business-Analyst--Pension_R002322",
+"salary": "$80,089.00",
+"skills": [
+"Python",
+"SQL",
+"LLMs / GenAI",
+"Excel",
+"Microsoft 365"
+]
+},
+{
+"title": "Financial Analyst",
+"company": "Aurora Dairy",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=b8511e6bd5a54741",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=96a12c9a-02d7-44a9-9682-65b580e4b5f6&ccId=19000101_000001&jobId=581589&source=IN&lang=en_US",
+"salary": "$65,000 - $79,000 USD per year",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "CMM Programmer",
+"company": "Precinmac",
+"location": "Milton, ON, CA",
+"posted": "2026-10-28",
+"link": "https://ca.indeed.com/viewjob?jk=79d890d3038f9e89",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0abfced6-4a75-4be3-81ca-272c3e953300&ccId=19000101_000001&jobId=952519&source=IN&lang=en_US",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Academic Advisor",
+"company": "Clovis Community College",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=72bf64f26295fe48",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://chess.wd1.myworkdayjobs.com/en-US/CCC/job/Clovis-Community-College-Clovis-NM/Academic-Advisor_JR112297",
+"salary": "$43,702 - $45,469 USD per year"
+},
+{
+"title": "IT User Support Specialist, Sunapsis, Office of International Services",
+"company": "Indiana University",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=e6f693ae286fa8d8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://hrms.iu.edu/psp/PH1PRD_PUB/EMPLOYEE/HRMS_PUB/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=1&FOCUS=Applicant&JobOpeningId=320880&PostingSeq=1",
+"skills": [
+"SQL",
+"Statistics",
+"Windows",
+"Microsoft 365"
+]
+},
+{
+"title": "IT Helpdesk Specialist 1",
+"company": "Somatus",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=53b9d7ae620c37f4",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://careers.somatus.com/jobs/3043/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$25 - $28 USD per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira"
+]
+},
+{
+"title": "SASE Support Engineer (IT Engineering)",
+"company": "Keysight Technologies",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=c7ec063dc3ca5984",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://jobs.keysight.com/jobs/55189/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$92,310 - $153,850 USD per year",
+"skills": [
+"Python",
+"PowerShell",
+"REST APIs",
+"AWS",
+"Azure",
+"Terraform",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SIEM",
+"Incident response",
+"IAM",
+"Firewalls",
+"Cloud security",
+"Encryption / PKI",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Google Workspace",
+"Salesforce",
+"CompTIA Security+",
+"CISSP",
+"ITIL"
+]
+},
+{
+"title": "HRIS Analyst/Administrative Support",
+"company": "Civil Air Patrol",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=8983b579421ad034",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cc3c18d6-e8e4-41b1-a2cd-969f82ca4389&ccId=19000101_000001&jobId=947841&source=IN&lang=en_US",
+"salary": "$65,000 - $78,000 USD per year",
+"skills": [
+"Power BI",
+"Excel",
+"Oracle"
+]
+},
+{
+"title": "Dental Analyst I",
+"company": "Cotiviti",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=df224b9b2ec33ecf",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://careers-cotiviti.icims.com/jobs/21587/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$20 - $25 USD per hour",
+"skills": [
+"Excel",
+"Statistics",
+"Microsoft 365",
+"Data structures & algorithms"
+]
+},
+{
+"title": "IP Design Intern",
+"company": "Altera",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://www.linkedin.com/jobs/view/4484277689",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -17486,6 +17710,26 @@
 "location": "Etobicoke, Ontario, Canada",
 "posted": "2026-10-27",
 "link": "https://www.linkedin.com/jobs/view/4482260205",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Management Analyst",
+"company": "RBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4476109502",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Hardware Intern - AI HW & SoC (Canada)",
+"company": "Tenstorrent",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-27",
+"link": "https://www.linkedin.com/jobs/view/4476187403",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -29916,6 +30160,21 @@
 "AWS",
 "Azure",
 "Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Seasonal Virtual Tax Site Coordinator",
+"company": "Campaign for Working Families",
+"location": "Remote · United States",
+"posted": "2026-10-26",
+"link": "https://www.indeed.com/viewjob?jk=090747fbdb9af597",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b566ce75-4dac-417b-9e17-7a78475bf890&ccId=19000101_000001&jobId=584524&source=IN&lang=en_US",
+"skills": [
 "Help desk / troubleshooting",
 "Hardware setup"
 ]
