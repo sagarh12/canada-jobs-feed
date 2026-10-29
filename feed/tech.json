@@ -1,68 +1,343 @@
 {
-"updated": "2026-10-29T06:59:50+00:00",
+"updated": "2026-10-29T07:09:51+00:00",
 "jobs": [
 {
-"title": "Information Security Analyst",
-"company": "Alimentiv",
-"location": "London, ON, CA (remote)",
+"title": "Software Engineer 4 - Kubernetes AI Platform Engineering",
+"company": "Nutanix",
+"location": "Vancouver, BC, CA (remote)",
 "posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=d03ae4e938760a0c",
+"link": "https://ca.indeed.com/viewjob?jk=9ff7a8d42b3f3178",
+"source": "Indeed",
+"country": "CA",
+"years": 6,
+"apply": "https://app.jobvite.com/CompanyJobs/Job.aspx?j=oZM0Afw5&s=Indeed",
+"salary": "$151,000",
+"skills": [
+"Python",
+"Go",
+"REST APIs",
+"PyTorch",
+"Machine learning",
+"RAG",
+"Vector databases",
+"Docker",
+"Kubernetes",
+"Linux",
+"Microservices",
+"Monitoring",
+"Hardware setup",
+"System design"
+]
+},
+{
+"title": "Software Support and Onboarding Specialist (San Diego based work from home)",
+"company": "SocialSchedules",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=e8af6759b068eead",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/software-support-and-onboarding-specialist-san-diego-based-work-home-e8af6759b068eead",
+"salary": "$18 - $22 USD per hour",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "SAP SuccessFactors Consultant (AWS Migration)",
+"company": "EVOLVIC",
+"location": "Remote, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=fec0cd1c5e743ffe",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "http://ca.indeed.com/job/sap-successfactors-consultant-aws-migration-fec0cd1c5e743ffe",
+"salary": "$80.00-$120.00 per hour",
+"skills": [
+"REST APIs",
+"AWS",
+"Terraform",
+"CI/CD",
+"Infrastructure as code",
+"IAM",
+"Agile / Scrum",
+"SAP",
+"AWS certification"
+]
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "JVS Toronto",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606786",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Informatics security consultant",
+"company": "Astra North Infoteck Inc.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606623",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Office administrator",
+"company": "Armour Security and Protection Services Corp",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-10-29",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606808",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Administrative Assistant",
+"company": "",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=fdd96b1f226e2c86",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jobs.lever.co/alimentiv-2/5179ade1-33fd-4e03-a0f8-bfe08536f7c2?lever-source=Indeed",
+"apply": "http://ca.indeed.com/job/administrative-assistant-fdd96b1f226e2c86",
+"salary": "$18.00-$31.09 per hour",
 "skills": [
+"Google Workspace"
+]
+},
+{
+"title": "QNXT Configuration Analyst (CCA)",
+"company": "Alchemy",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=af0387e8f4970650",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "http://www.indeed.com/job/qnxt-configuration-analyst-cca-af0387e8f4970650",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Website Designer & Developer",
+"company": "Bizeeza Inc.",
+"location": "Scarborough, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=ac428212143a1b91",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/website-designer-developer-ac428212143a1b91",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Security Operations Specialist",
+"company": "CarltonOne Engagement",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=23b3289f410a47ce",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a42524a5-e19f-4788-838a-370ca1272e62&ccId=19000101_000003&lang=en_CA&locale=en_CA&jobId=570893",
+"skills": [
+"Python",
+"Bash/Shell",
+"PowerShell",
 "AWS",
 "Azure",
-"Cybersecurity",
+"Google Cloud",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
 "SIEM",
 "SOC",
 "Incident response",
 "Vulnerability management",
-"Penetration testing",
 "IAM",
+"Firewalls",
 "EDR",
-"NIST / ISO 27001",
 "Threat intelligence",
-"Cloud security",
+"Windows",
+"macOS",
 "Microsoft 365",
-"Hardware setup"
+"Google Workspace",
+"CISSP"
+]
+},
+{
+"title": "Website and App Designer & Developer (AI-Assisted)",
+"company": "Biomedical Company",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=dc9e82bc93b6294b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/website-and-app-designer-developer-ai-assisted-dc9e82bc93b6294b",
+"salary": "$22.00-$28.00 per hour"
+},
+{
+"title": "Automation Engineer",
+"company": "CVS Health",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=6fc7f1093271c712",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://click.appcast.io/t/bzps60xC6JTjK73FD4PrZ3LHhwCYgxbV8pt7PKptaEs=",
+"salary": "$64,890 - $129,780 USD per year",
+"skills": [
+"CI/CD",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Data Entry Clerk/Receptionist - Full-time",
+"company": "",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=fa6a4575539684f9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/data-entry-clerkreceptionist-full-time-fa6a4575539684f9",
+"salary": "$22.00 per hour",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Quality Assurance Automation Developer",
+"company": "ATB Financial",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=5b3b78bb6ac33e93",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://careers.atb.com/careers/job/1125899907737423",
+"skills": [
+"Python",
+"REST APIs",
+"CI/CD",
+"GitLab",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest",
+"Salesforce"
+]
+},
+{
+"title": "Software engineer - SQL / C#",
+"company": "Amaris Consulting",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=0603c3e559339463",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.amaris.com/jobs/45642",
+"skills": [
+"JavaScript",
+"C",
+"SQL",
+".NET",
+"ETL / data pipelines",
+"SQL Server",
+"Azure",
+"Git",
+"Microservices",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Production Analyst",
+"company": "Sofina Foods",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=5863489f46149698",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-US/sofinafoods/CANDIDATEPORTAL/jobs/12770",
+"skills": [
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Public Health Nurse (Infectious Diseases)",
+"company": "Region of Waterloo",
+"location": "Waterloo, ON, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=a60fa3933995ee6c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.regionofwaterloo.ca/RoW/job/Waterloo-Public-Health-Nurse-%28Infectious-Diseases%29-ON/607467617/",
+"salary": "$44.61 - $60.31 per hour",
+"start": "July 1, 2026",
+"skills": [
+"Statistics"
+]
+},
+{
+"title": "INTERN",
+"company": "State of Arizona",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=922b9ea181138fc5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.azstatejobs.gov/jobs/intern-phoenix-arizona-united-states-f463dd23-2845-4de7-8276-2a9622cec7c3",
+"salary": "$20.00 / hour",
+"skills": [
+"Statistics"
+]
+},
+{
+"title": "Technical Operations Analyst (TOC)",
+"company": "ATB Financial",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-29",
+"link": "https://ca.indeed.com/viewjob?jk=7406caf7d5069deb",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.atb.com/careers/job/1125899907737416",
+"skills": [
+"SQL",
+"Linux",
+"Monitoring",
+"Windows",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"SAP",
+"ITIL"
 ]
 },
 {
 "title": "Information Security Analyst",
 "company": "Alimentiv",
-"location": "Calgary, AB, CA (remote)",
+"location": "Regina, SK, CA (remote)",
 "posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=93bb927e1227185b",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://jobs.lever.co/alimentiv-2/5179ade1-33fd-4e03-a0f8-bfe08536f7c2?lever-source=Indeed",
-"skills": [
-"AWS",
-"Azure",
-"Cybersecurity",
-"SIEM",
-"SOC",
-"Incident response",
-"Vulnerability management",
-"Penetration testing",
-"IAM",
-"EDR",
-"NIST / ISO 27001",
-"Threat intelligence",
-"Cloud security",
-"Microsoft 365",
-"Hardware setup"
-]
-},
-{
-"title": "Information Security Analyst",
-"company": "Alimentiv",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=b1c431097083edb8",
+"link": "https://ca.indeed.com/viewjob?jk=58ab924273922479",
 "source": "Indeed",
 "country": "CA",
 "years": null,
@@ -116,9 +391,9 @@
 {
 "title": "Information Security Analyst",
 "company": "Alimentiv",
-"location": "Regina, SK, CA (remote)",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=58ab924273922479",
+"link": "https://ca.indeed.com/viewjob?jk=b1c431097083edb8",
 "source": "Indeed",
 "country": "CA",
 "years": null,
@@ -142,484 +417,59 @@
 ]
 },
 {
-"title": "Technical Operations Analyst (TOC)",
-"company": "ATB Financial",
-"location": "Calgary, AB, CA",
+"title": "Information Security Analyst",
+"company": "Alimentiv",
+"location": "Calgary, AB, CA (remote)",
 "posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=7406caf7d5069deb",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://careers.atb.com/careers/job/1125899907737416",
-"skills": [
-"SQL",
-"Linux",
-"Monitoring",
-"Windows",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"SAP",
-"ITIL"
-]
-},
-{
-"title": "INTERN",
-"company": "State of Arizona",
-"location": "Remote · United States",
-"posted": "2026-10-29",
-"link": "https://www.indeed.com/viewjob?jk=922b9ea181138fc5",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://www.azstatejobs.gov/jobs/intern-phoenix-arizona-united-states-f463dd23-2845-4de7-8276-2a9622cec7c3",
-"salary": "$20.00 / hour",
-"skills": [
-"Statistics"
-]
-},
-{
-"title": "Public Health Nurse (Infectious Diseases)",
-"company": "Region of Waterloo",
-"location": "Waterloo, ON, CA",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=a60fa3933995ee6c",
+"link": "https://ca.indeed.com/viewjob?jk=93bb927e1227185b",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://careers.regionofwaterloo.ca/RoW/job/Waterloo-Public-Health-Nurse-%28Infectious-Diseases%29-ON/607467617/",
-"salary": "$44.61 - $60.31 per hour",
-"start": "July 1, 2026",
+"apply": "https://jobs.lever.co/alimentiv-2/5179ade1-33fd-4e03-a0f8-bfe08536f7c2?lever-source=Indeed",
 "skills": [
-"Statistics"
-]
-},
-{
-"title": "Production Analyst",
-"company": "Sofina Foods",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=5863489f46149698",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://jobs.dayforcehcm.com/en-US/sofinafoods/CANDIDATEPORTAL/jobs/12770",
-"skills": [
-"Power BI",
-"Excel"
-]
-},
-{
-"title": "Software engineer - SQL / C#",
-"company": "Amaris Consulting",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=0603c3e559339463",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://careers.amaris.com/jobs/45642",
-"skills": [
-"JavaScript",
-"C",
-"SQL",
-".NET",
-"ETL / data pipelines",
-"SQL Server",
-"Azure",
-"Git",
-"Microservices",
-"Testing (unit, automated)"
-]
-},
-{
-"title": "Quality Assurance Automation Developer",
-"company": "ATB Financial",
-"location": "Calgary, AB, CA",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=5b3b78bb6ac33e93",
-"source": "Indeed",
-"country": "CA",
-"years": 7,
-"apply": "https://careers.atb.com/careers/job/1125899907737423",
-"skills": [
-"Python",
-"REST APIs",
-"CI/CD",
-"GitLab",
-"Agile / Scrum",
-"Jira",
-"Testing (unit, automated)",
-"Selenium / Cypress",
-"Jest / PyTest",
-"Salesforce"
-]
-},
-{
-"title": "Data Entry Clerk/Receptionist - Full-time",
-"company": "",
-"location": "Ottawa, ON, CA",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=fa6a4575539684f9",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/data-entry-clerkreceptionist-full-time-fa6a4575539684f9",
-"salary": "$22.00 per hour",
-"skills": [
-"Excel"
-]
-},
-{
-"title": "Automation Engineer",
-"company": "CVS Health",
-"location": "Remote · United States",
-"posted": "2026-10-29",
-"link": "https://www.indeed.com/viewjob?jk=6fc7f1093271c712",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://click.appcast.io/t/bzps60xC6JTjK73FD4PrZ3LHhwCYgxbV8pt7PKptaEs=",
-"salary": "$64,890 - $129,780 USD per year",
-"skills": [
-"CI/CD",
-"Testing (unit, automated)"
-]
-},
-{
-"title": "Website and App Designer & Developer (AI-Assisted)",
-"company": "Biomedical Company",
-"location": "Vancouver, BC, CA",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=dc9e82bc93b6294b",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/website-and-app-designer-developer-ai-assisted-dc9e82bc93b6294b",
-"salary": "$22.00-$28.00 per hour"
-},
-{
-"title": "Security Operations Specialist",
-"company": "CarltonOne Engagement",
-"location": "Markham, ON, CA (remote)",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=23b3289f410a47ce",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a42524a5-e19f-4788-838a-370ca1272e62&ccId=19000101_000003&lang=en_CA&locale=en_CA&jobId=570893",
-"skills": [
-"Python",
-"Bash/Shell",
-"PowerShell",
 "AWS",
 "Azure",
-"Google Cloud",
-"Monitoring",
-"Networking (TCP/IP, DNS)",
+"Cybersecurity",
 "SIEM",
 "SOC",
 "Incident response",
 "Vulnerability management",
+"Penetration testing",
 "IAM",
-"Firewalls",
 "EDR",
+"NIST / ISO 27001",
 "Threat intelligence",
-"Windows",
-"macOS",
+"Cloud security",
 "Microsoft 365",
-"Google Workspace",
-"CISSP"
+"Hardware setup"
 ]
 },
 {
-"title": "Website Designer & Developer",
-"company": "Bizeeza Inc.",
-"location": "Scarborough, ON, CA (remote)",
+"title": "Information Security Analyst",
+"company": "Alimentiv",
+"location": "London, ON, CA (remote)",
 "posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=ac428212143a1b91",
+"link": "https://ca.indeed.com/viewjob?jk=d03ae4e938760a0c",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/website-designer-developer-ac428212143a1b91",
+"apply": "https://jobs.lever.co/alimentiv-2/5179ade1-33fd-4e03-a0f8-bfe08536f7c2?lever-source=Indeed",
 "skills": [
-"JavaScript",
-"HTML/CSS",
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "QNXT Configuration Analyst (CCA)",
-"company": "Alchemy",
-"location": "Remote · United States",
-"posted": "2026-10-29",
-"link": "https://www.indeed.com/viewjob?jk=af0387e8f4970650",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "http://www.indeed.com/job/qnxt-configuration-analyst-cca-af0387e8f4970650",
-"skills": [
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "Administrative Assistant",
-"company": "",
-"location": "Winnipeg, MB, CA (remote)",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=fdd96b1f226e2c86",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-fdd96b1f226e2c86",
-"salary": "$18.00-$31.09 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Strategic Partnerships Manager Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-29",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Strategic-Partnerships-Manager-Co-op_2622303",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Mergers & Acquisitions (Global Investment Banking)",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-29",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Global-Investment-Banking_2619733",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Banking-Associate-Trainee_R_1518040",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "QA Analyst co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-29",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/QA-Analyst-co-op_2622340",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Bowmanville, Ontario",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Bowmanville-Ontario/Personal-Banking-Associate-Trainee_R_1517251",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Etobicoke, Ontario",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Etobicoke-Ontario/Personal-Banking-Associate-Trainee_R_1511444",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee (North York, Central Toronto) - Current and Future Opportunities",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Banking-Associate-Trainee--North-York--Central-Toronto----Current-and-Future-Opportunities_R_1513476",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Mid-Market Investment Banking",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-29",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Mid-Market-Investment-Banking_2621468",
-"source": "CIBC careers",
-"country": "CA",
-"years": 1
-},
-{
-"title": "Consultant, Digital Operations & Privacy",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-29",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Digital-Operations---Privacy_2622049",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Consultant, Process Engineering",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-29",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Process-Engineering_2621777",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Engineer Intern/Co-op​ (Winter 2027)",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Yellowknife, Northwest Territories",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Yellowknife-Northwest-Territories/Personal-Banking-Associate-Trainee_R_1506560",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Client Advisor Intern",
-"company": "RBC",
-"location": "AJAX, Ontario, Canada",
-"posted": "2026-10-29",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/AJAX-Ontario-Canada/Client-Advisor-Intern_R-0000191485",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Edmonton, Alberta",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Personal-Banking-Associate-Trainee_R_1518230",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banker Trainee - Korean, Vietnamese, Mandarin and/or Cantonese are considered an asset",
-"company": "TD",
-"location": "Calgary, Alberta",
-"posted": "2026-10-29",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banker-Trainee---Korean--Vietnamese--Mandarin-and-or-Cantonese-are-considered-an-asset_R_1510441",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Office administrator",
-"company": "Armour Security and Protection Services Corp",
-"location": "Burnaby, British Columbia, Canada",
-"posted": "2026-10-29",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606808",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Informatics security consultant",
-"company": "Astra North Infoteck Inc.",
-"location": "Calgary, Alberta, Canada",
-"posted": "2026-10-29",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606623",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Information technology (IT) analyst",
-"company": "JVS Toronto",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-29",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50606786",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "SAP SuccessFactors Consultant (AWS Migration)",
-"company": "EVOLVIC",
-"location": "Remote, CA",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=fec0cd1c5e743ffe",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "http://ca.indeed.com/job/sap-successfactors-consultant-aws-migration-fec0cd1c5e743ffe",
-"salary": "$80.00-$120.00 per hour",
-"skills": [
-"REST APIs",
 "AWS",
-"Terraform",
-"CI/CD",
-"Infrastructure as code",
+"Azure",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Penetration testing",
 "IAM",
-"Agile / Scrum",
-"SAP",
-"AWS certification"
-]
-},
-{
-"title": "Software Support and Onboarding Specialist (San Diego based work from home)",
-"company": "SocialSchedules",
-"location": "Remote · United States",
-"posted": "2026-10-29",
-"link": "https://www.indeed.com/viewjob?jk=e8af6759b068eead",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/software-support-and-onboarding-specialist-san-diego-based-work-home-e8af6759b068eead",
-"salary": "$18 - $22 USD per hour",
-"skills": [
-"Excel"
-]
-},
-{
-"title": "Software Engineer 4 - Kubernetes AI Platform Engineering",
-"company": "Nutanix",
-"location": "Vancouver, BC, CA (remote)",
-"posted": "2026-10-29",
-"link": "https://ca.indeed.com/viewjob?jk=9ff7a8d42b3f3178",
-"source": "Indeed",
-"country": "CA",
-"years": 6,
-"apply": "https://app.jobvite.com/CompanyJobs/Job.aspx?j=oZM0Afw5&s=Indeed",
-"salary": "$151,000",
-"skills": [
-"Python",
-"Go",
-"REST APIs",
-"PyTorch",
-"Machine learning",
-"RAG",
-"Vector databases",
-"Docker",
-"Kubernetes",
-"Linux",
-"Microservices",
-"Monitoring",
-"Hardware setup",
-"System design"
+"EDR",
+"NIST / ISO 27001",
+"Threat intelligence",
+"Cloud security",
+"Microsoft 365",
+"Hardware setup"
 ]
 },
 {
@@ -786,6 +636,156 @@
 "Hardware setup",
 "System design"
 ]
+},
+{
+"title": "Strategic Partnerships Manager Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Strategic-Partnerships-Manager-Co-op_2622303",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Mergers & Acquisitions (Global Investment Banking)",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Global-Investment-Banking_2619733",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Banking-Associate-Trainee_R_1518040",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Analyst co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/QA-Analyst-co-op_2622340",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Bowmanville, Ontario",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Bowmanville-Ontario/Personal-Banking-Associate-Trainee_R_1517251",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Etobicoke, Ontario",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Etobicoke-Ontario/Personal-Banking-Associate-Trainee_R_1511444",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee (North York, Central Toronto) - Current and Future Opportunities",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Banking-Associate-Trainee--North-York--Central-Toronto----Current-and-Future-Opportunities_R_1513476",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Mid-Market Investment Banking",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Mid-Market-Investment-Banking_2621468",
+"source": "CIBC careers",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Consultant, Digital Operations & Privacy",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Digital-Operations---Privacy_2622049",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant, Process Engineering",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-28",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Process-Engineering_2621777",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer Intern/Co-op​ (Winter 2027)",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Yellowknife, Northwest Territories",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Yellowknife-Northwest-Territories/Personal-Banking-Associate-Trainee_R_1506560",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Advisor Intern",
+"company": "RBC",
+"location": "AJAX, Ontario, Canada",
+"posted": "2026-10-28",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/AJAX-Ontario-Canada/Client-Advisor-Intern_R-0000191485",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Edmonton, Alberta",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Personal-Banking-Associate-Trainee_R_1518230",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banker Trainee - Korean, Vietnamese, Mandarin and/or Cantonese are considered an asset",
+"company": "TD",
+"location": "Calgary, Alberta",
+"posted": "2026-10-28",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banker-Trainee---Korean--Vietnamese--Mandarin-and-or-Cantonese-are-considered-an-asset_R_1510441",
+"source": "TD careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Client Advisor Intern",
@@ -7867,16 +7867,6 @@
 ]
 },
 {
-"title": "Risk Analytics, Winter 2027 Co-op (8-month)",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-28",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics--Winter-2027-Co-op--8-month-_2622133-2",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Software developer",
 "company": "Astra North Infoteck Inc.",
 "location": "Mississauga, Ontario, Canada",
@@ -8620,6 +8610,16 @@
 "posted": "2026-10-27T12:13:58-04:00",
 "link": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
 "source": "Affirm careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Risk Analytics, Winter 2027 Co-op (8-month)",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-27",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics--Winter-2027-Co-op--8-month-_2622133-2",
+"source": "CIBC careers",
 "country": "CA",
 "years": null
 },
@@ -19967,106 +19967,6 @@
 "years": null
 },
 {
-"title": "Data Engineer, RBC Amplify 2027, Toronto",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Engineer, RBC Amplify 2027, Vancouver",
-"company": "RBC",
-"location": "410 GEORGIA ST W, FLOOR 3:VANCOUVER",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst, RBC Amplify 2027, Calgary",
-"company": "RBC",
-"location": "CALGARY, Alberta, Canada",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/CALGARY-Alberta-Canada/Business-Analyst--RBC-Amplify-2027--Calgary_R-0000191200-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Engineer, RBC Amplify 2027, Calgary",
-"company": "RBC",
-"location": "CALGARY, Alberta, Canada",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Developer, RBC Amplify 2027, Calgary",
-"company": "RBC",
-"location": "CALGARY, Alberta, Canada",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Developer, RBC Amplify 2027, Toronto",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst, RBC Amplify 2027, Vancouver",
-"company": "RBC",
-"location": "410 GEORGIA ST W, FLOOR 3:VANCOUVER",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Business-Analyst--RBC-Amplify-2027--Vancouver_R-0000191197-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Developer, RBC Amplify 2027, Vancouver",
-"company": "RBC",
-"location": "VANCOUVER, British Columbia, Canada",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst, RBC Amplify 2027, Toronto",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-27",
-"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/Business-Analyst--RBC-Amplify-2027--Toronto_R-0000191191",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Java Developer, TD Securities",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-27",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
-"source": "TD careers",
-"country": "CA",
-"years": 5
-},
-{
 "title": "Consultant, Data Mesh Enablement & EDGE Onboarding",
 "company": "CIBC",
 "location": "Toronto, ON",
@@ -20550,6 +20450,106 @@
 "System design",
 "Salesforce"
 ]
+},
+{
+"title": "Data Engineer, RBC Amplify 2027, Toronto",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer, RBC Amplify 2027, Vancouver",
+"company": "RBC",
+"location": "410 GEORGIA ST W, FLOOR 3:VANCOUVER",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, RBC Amplify 2027, Calgary",
+"company": "RBC",
+"location": "CALGARY, Alberta, Canada",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/CALGARY-Alberta-Canada/Business-Analyst--RBC-Amplify-2027--Calgary_R-0000191200-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer, RBC Amplify 2027, Calgary",
+"company": "RBC",
+"location": "CALGARY, Alberta, Canada",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Developer, RBC Amplify 2027, Calgary",
+"company": "RBC",
+"location": "CALGARY, Alberta, Canada",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Developer, RBC Amplify 2027, Toronto",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, RBC Amplify 2027, Vancouver",
+"company": "RBC",
+"location": "410 GEORGIA ST W, FLOOR 3:VANCOUVER",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Business-Analyst--RBC-Amplify-2027--Vancouver_R-0000191197-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Developer, RBC Amplify 2027, Vancouver",
+"company": "RBC",
+"location": "VANCOUVER, British Columbia, Canada",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, RBC Amplify 2027, Toronto",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-26",
+"link": "https://rbc.wd3.myworkdayjobs.com/rbcearlytalent1/job/TORONTO-Ontario-Canada/Business-Analyst--RBC-Amplify-2027--Toronto_R-0000191191",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Developer, TD Securities",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-26",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
+"source": "TD careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Software Development",
