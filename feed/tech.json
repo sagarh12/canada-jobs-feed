@@ -1,363 +1,228 @@
 {
-"updated": "2026-10-30T12:29:45+00:00",
+"updated": "2026-10-30T12:39:47+00:00",
 "jobs": [
 {
-"title": "Digital Marketing Specialist",
+"title": "AI Technical Implementation Analyst",
+"company": "University of Texas at Austin",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=a0069bd88b09a5a5",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/Texas/AI-Technical-Implementation-Analyst_R_00049715",
+"salary": "$84,000",
+"start": "Immediately",
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"Statistics"
+],
+"req": "Job Posting Title: AI Technical Implementation Analyst- Hiring Department: Technology Resources- Position Open To: All Applicants- Weekly Scheduled Hours: 40- FLSA Status: Exempt from FLSA- Earliest S\nCross-functional Collaboration. Participate in the FAS AI & Technology Community of Practice to stay aligned with broader FAS technology initiatives and share team learnings across functional areas. R\nDemonstrated experience building, configuring, or deploying AI-assisted solutions in a professional environment, including hands-on use of tools such as Claude, ChatGPT, or Microsoft Copilot beyond ba\nDemonstrated experience translating business requirements into technical specifications or implemented solutions.\nDemonstrated ability to analyze complex business processes, identify root causes, and design systematic solutions with experience applying structured problem-solving frameworks or methodologies. Relev\nMinimum of two years of experience in technical business analysis, systems implementation, or a related role.\nExperience working in higher education or public sector environments.\nExperience with enterprise AI platforms, APIs, or automation tools.\nExperience with solution documentation, knowledge transfer, or building reusable workflows.\nExperience with change management or technology adoption initiatives.\nThe selected candidate must have reliable internet service that supports uninterrupted remote work performance. Work Shift  40 hours per week, Monday through Friday. Requir"
+},
+{
+"title": "Graphic Designer",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=3d6fe1f56b5711ad",
+"link": "https://www.indeed.com/viewjob?jk=8e3526bbbc226848",
 "source": "Indeed",
 "country": "US",
 "years": null,
 "apply": "https://makeathleteaction.com/career-opportunities/",
-"req": "MAKE ATHLETE ACTION ----------------------- At Make Athlete Action, we’re passionate about empowering athletes and fitness enthusiasts to reach their full potential through science-based insights, exp\nFlexible Work Options We understand the importance of work-life balance and offer flexible working options, whether you prefer remote work or an office setting. HOW TO APPLY ---------------- If you’re\nEmail your application to administrator@makeathleteaction.com with the subject line “Career Application – [Position Name].” INTERNSHIPS AND FREELANCE OPPORTUNITIES ------------------------------------\nCollaborate to align campaigns with brand goals. Qualifications:  Experience with SEO, email, and social media marketing."
+"req": "MAKE ATHLETE ACTION ----------------------- At Make Athlete Action, we’re passionate about empowering athletes and fitness enthusiasts to reach their full potential through science-based insights, exp\nFlexible Work Options We understand the importance of work-life balance and offer flexible working options, whether you prefer remote work or an office setting. HOW TO APPLY ---------------- If you’re\nEmail your application to administrator@makeathleteaction.com with the subject line “Career Application – [Position Name].” INTERNSHIPS AND FREELANCE OPPORTUNITIES ------------------------------------\nEnsure alignment with brand guidelines and messaging. Qualifications:  Proficiency in design software like Photoshop and Illustrator.\nStrong portfolio with experience in digital design."
 },
 {
-"title": "Occupational Therapist I",
-"company": "Alberta Health Services",
-"location": "Edmonton, AB, CA",
+"title": "AI Data Engineer",
+"company": "Brainviser",
+"location": "Remote · United States",
 "posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=d0b14910ac38cf2d",
+"link": "https://www.indeed.com/viewjob?jk=725cd3e705ba2af4",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "https://careers.albertahealthservices.ca/jobs/occupational-therapist-i-601190",
-"salary": "$42.51",
+"apply": "http://www.indeed.com/job/ai-data-engineer-725cd3e705ba2af4",
+"salary": "$421.00 per month",
 "skills": [
-"Excel"
-],
-"req": "Your Opportunity: Assisted Living Alberta is dedicated to Enhancing Care in the Community, helping people be healthy, well and independent in their homes and communities. For more information Assisted\nDescription: As an Occupational Therapist (OT), you will provide evidence-informed services, with a focus on occupational performance designed to meet the needs of individuals, groups, or a community."
+"ETL / data pipelines"
+]
 },
 {
-"title": "Automotive Front Desk Receptionist",
-"company": "Popular auto Inc",
-"location": "Owen Sound, ON, CA",
+"title": "IT Service Management Advisor",
+"company": "Government of the Northwest Territories",
+"location": "Yellowknife, NT, CA",
 "posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=430c4701a81a37f3",
+"link": "https://ca.indeed.com/viewjob?jk=24933a8fca62e241",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://www.gov.nt.ca/careers/en/job/28534",
+"skills": [
+"ITIL"
+],
+"req": "The IT Service Management Advisor is responsible for the TSC's website management, strategy, design, content development and maintenance. Key Qualifications  A relevant diploma and 3 years of relevant\nA degree in a related field and 1 year of relevant experience. Relevant education and experience may include:  Information Technology  Computer Information Systems  Information Systems Management  Bus"
+},
+{
+"title": "Automation/Manual QA Engineer",
+"company": "RecruitGarden",
+"location": "Richmond Hill, ON, CA (remote)",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=4a1f155993c848b9",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/automotive-front-desk-receptionist-430c4701a81a37f3",
-"salary": "$17.60-$26.67 per hour",
-"req": "Qualifications  Strong customer service and front desk communication skills.\nPreferred: Office or clerical experience."
+"apply": "http://ca.indeed.com/job/automationmanual-qa-engineer-4a1f155993c848b9",
+"salary": "$70,000.00-$127,000.00 per year",
+"skills": [
+"Python",
+"Bash/Shell",
+"REST APIs",
+"Machine learning",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"Jenkins",
+"GitLab",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira",
+"Testing (unit, automated)",
+"Jest / PyTest",
+"Mobile (iOS / Android)",
+"Postman",
+"Embedded systems"
+],
+"req": "Job Overview We are looking for a skilled Manual/Automation QA Engineer to join our team and ensure the quality and reliability of our visual system solutions. The ideal candidate will have a strong b"
 },
 {
-"title": "Information technology (IT) analyst",
-"company": "AZ Accounting",
-"location": "Toronto, Ontario, Canada",
+"title": "College Intern (U) #10119107-21800 Full-Time, At-Will, in Albuquerque, NM",
+"company": "New Mexico Courts",
+"location": "Remote · United States",
 "posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614892",
+"link": "https://www.indeed.com/viewjob?jk=261c33eaf430c444",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobselection.nmcourts.gov/JobsEditor/jobInfo?update&new_id=16070",
+"salary": "$15 - $18 USD per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "May interact directly with colleagues, clientele and/or other internal or external constituencies in the resolution of day-to-day operations.\nProvide entry-level administrative or technical services in support of operating objectives of the department, such as:  Answering and routing telephone calls,  Scheduling and confirming meetings and \nReceive guidance, training and mentoring from more senior professional staff.\nMay participate in the design, planning and implementation of on-going or special projects designed to develop professional skills and expertise.\nCommunications, Public Relations or Related Field – Assists with: drafting reports, documents, and PowerPoint presentations; public relations’ projects and initiatives; and production of publications \nExperience: No experience is required. TO APPLY: Submit a New Mexico Judicial Branch Application for Employment, or a Resume and a Resume Supplemental form, and proof of education to: Administrative O"
+},
+{
+"title": "Analyst - Enterprise Risk Advisory 5A",
+"company": "Genpact",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=55e27d943f17e6ed",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://genpact.wd108.myworkdayjobs.com/campussite/job/3409-G-LLC-New-York-City/Analyst---Enterprise-Risk-Advisory-5A_JR10033916",
+"salary": "$45,000 - $56,500 USD per year",
+"skills": [
+"Statistics",
+"Azure",
+"Cybersecurity",
+"ITIL"
+],
+"req": "Analyst - ERCReady to turn bold ideas into real-world impact? At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at th\nLead AI-powered transformation – Drive innovation and solve real-world business challenges that matter  Make an impact – Help global enterprises solve business challenges that matter  Accelerate your "
+},
+{
+"title": "Information technology (IT) support technician",
+"company": "Centennial Auto Group",
+"location": "Various locations, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614913",
 "source": "Job Bank",
 "country": "CA",
-"years": null
+"years": 2
 },
 {
-"title": "Administrative Assistant/Receptionist",
-"company": "Clare Medical Centre",
-"location": "Surrey, BC, CA",
+"title": "Data Governance Analyst",
+"company": "Infoorigin Inc",
+"location": "Remote · United States",
 "posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=da4ee5a704de59f6",
+"link": "https://www.indeed.com/viewjob?jk=2e30f3fee32a7767",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&ccId=19000101_000001&jobId=577179&source=IN&lang=en_US",
+"salary": "$65 - $70 USD per hour",
+"skills": [
+"SQL",
+"Snowflake",
+"SQL Server",
+"Oracle",
+"AWS"
+],
+"req": "Job Description Position Summary  Client is seeking an experienced Senior Business Analyst to advance enterprise data governance through the effective integration of people, processes, and technology.\nClarify decision rights, responsibilities, dependencies, and required actions.\nFacilitate business and analytical requirements to ensure enterprise data products meet consumer needs. Areas of Contribution  The analyst may lead or support prioritized initiatives involving governa\nData Analysis - Required 10 years  Experience with Data Lineage / Cataloging - Required 10 years  Data Policy /Procedure creation - Required 10 years  Proficiency with SQL - Required 10 years  Datawar\nExperience in government, healthcare, or another regulated environment.\nFamiliarity with enterprise data integration, interoperability, master and reference data management, and data products.\nFamiliarity with AWS, Snowflake, Commonwealth of Virginia/VITA standards, or relevant professional certifications such as CDMP. Education  A bachelor's degree in information systems, business administ"
+},
+{
+"title": "User Support Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=13b860a63a1ef213",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/user-support-analyst-13b860a63a1ef213",
+"salary": "$33 - $40 USD per hour",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Windows",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira"
+],
+"req": "Overview As a User Support Analyst, you’ll help people stay productive by resolving technology issues across computers, software, networks, and mobile devices. You’ll provide responsive IT support, ma\nYour impact: Timely, clear troubleshooting helps users return to work and keeps IT services accessible. Qualifications  Essential: Customer service, communication, analysis, and technical troubleshoot\nPreferred: Experience with Active Directory, network administration, IT infrastructure, TCP, VPN, firewall, DNS, LAN, SCCM, GPO, Meraki, or Linux."
+},
+{
+"title": "Executive Assistant",
+"company": "Dynamic Construction Services",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=e37f313c1ecb42f3",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistantreceptionist-da4ee5a704de59f6",
-"salary": "$18.25-$27.11 per hour",
+"apply": "http://ca.indeed.com/job/executive-assistant-e37f313c1ecb42f3",
+"salary": "$22.00-$24.00 per hour",
 "skills": [
 "Google Workspace"
 ],
-"req": "Overview The Administrative Assistant/Receptionist supports daily office operations by welcoming visitors, managing communications, and keeping administrative information organized. This front desk ro"
-},
-{
-"title": "Electronic commerce (e-commerce) Web site developer",
-"company": "ScaleJet",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614868",
-"source": "Job Bank",
-"country": "CA",
-"years": 6
-},
-{
-"title": "Web developer",
-"company": "Presto",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614863",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst",
-"company": "Fraser Health",
-"location": "Surrey, BC, CA (remote)",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=4e65181251b26377",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://jobs.fraserhealth.ca/jobs/151478/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-"salary": "$38.88 - $55.89 / hour",
-"skills": [
-"Power BI",
-"Statistics"
-],
-"req": "Demonstrated experience developing Power BI dashboards, KPIs, balanced scorecards, and performance reports to transform complex financial and operational data into meaningful business insights.\nExperience and/or education in Finance, Commerce or a related disciple is preferred.\nAn equivalent combination of education, training, and experience may be acceptable. This is an excellent opportunity to join Fraser Health's Facilities Management team and contribute to strategic init\nAttends and participates in a variety of meetings and committees to provide perspective for a business analysis perspective; participates in the decision-making process by providing information and ex"
-},
-{
-"title": "Software developer",
-"company": "Photonic",
-"location": "Coquitlam, British Columbia, Canada",
-"posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614900",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Systems Consultant I/II",
-"company": "Mutual of Omaha",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=52aff44fe1be17d2",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://www.mutualofomaha.com/careers/jobs/detail/505293",
-"salary": "$75,500 - $114,000 USD per year",
-"skills": [
-"SQL",
-"REST APIs",
-"Help desk / troubleshooting",
-"Agile / Scrum"
-],
-"req": "Applicants for this position must not now, nor at any point in the future, require sponsorship for employment. WHAT YOU'LL DO:  Partner with business and technical teams to gather, document, and refin\nAnalyze business processes, workflows, data, and system capabilities to identify gaps, risks, and opportunities for increased efficiency, effectiveness, and customer experience.\nServe as a trusted partner to business leaders, project teams, and vendors by providing consultation, communication, change management support, and ongoing process improvement expertise. WHAT YOU’LL B\nExperience working with business systems, technology teams, and cross-functional stakeholders to support business initiatives and operational goals.\nAble to work remotely with access to a high-speed internet connection and located in the United States. PREFERRED:  Experience supporting business transformation, process improvement, system implement\nExperience within insurance, financial services, or other highly regulated industries. We value unique experience, skills, and passion for innovation. If your experience aligns with the listed require"
-},
-{
-"title": "Functional Systems Analyst - Full-time Term",
-"company": "Coast Mountain College",
-"location": "Terrace, BC, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=dda16a3e540c78b6",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://www.coastmountaincollege.ca/about-cmtn/careers/job-postings/detail/26.115b---functional-systems-analyst",
-"salary": "$2,273.60",
-"req": "Demonstrated human relations skills such as effective listening  Excellent, analytical, problem-solving, collaboration and negotiation skills  Excellent presentation, written and verbal communication \nApplication information Please send complete applications (cover letter and an up-to-date resume), quoting competition 26.115B, to: Coast Mountain College, Human Resources, Email: apply@coastmountainc"
-},
-{
-"title": "Technical Support Specialist",
-"company": "CapsoVision, lnc.",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=354319724d3f1263",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/technical-support-specialist-354319724d3f1263",
-"salary": "$25 - $30 USD per hour",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Escalate complex or unresolved issues to the appropriate internal teams and follow up as needed.\nMaintain a positive customer experience through effective communication and problem-solving.\nCollaborate with internal departments to ensure customer concerns are addressed promptly.\nProvide additional support outside regular business hours when required to accommodate urgent customer needs or business priorities.\nFollow direction and priorities established by the Field Sales, IT, and Technical Support Manager. Work Schedule and Availability This is a remote contract position with a regular schedule of Monday t\nPrevious customer service, call center, help desk, or technical support experience preferred.\nExperience answering incoming customer service calls and assisting customers over the phone."
-},
-{
-"title": "Front Receptionist",
-"company": "Urban Retreat",
-"location": "Edmonton, AB, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=fae4641590797dde",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/front-receptionist-fae4641590797dde",
-"salary": "$19.00 per hour",
-"req": "Are you available every second Saturday from 8:30-5:00 and two evenings a week from 4:45-9:00? Experience:  Customer service: 1 year (preferred) Language:  English (required) Work Location: In person"
+"req": "Job Overview The Executive Assistant provides organized, responsive administrative support and helps keep daily office operations running smoothly. This role combines calendar coordination, communicat"
 },
 {
 "title": "Software Engineering SMTS",
 "company": "Salesforce",
-"location": "Canada - Toronto",
+"location": "Toronto, ON, CA",
 "posted": "2026-10-30",
-"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
-"source": "Salesforce careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Executive Assistant and Support Person",
-"company": "Venture Tech Solutions",
-"location": "Burlington, ON, CA (remote)",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=719f6eb664192d3d",
+"link": "https://ca.indeed.com/viewjob?jk=6a0156f327357a3f",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/executive-assistant-and-support-person-719f6eb664192d3d",
-"salary": "$30.00-$45.00 per hour"
-},
-{
-"title": "International Enrolment Operations Coordinator",
-"company": "Douglas College",
-"location": "New Westminster, BC, CA (remote)",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=7f570eb1b69b3cbc",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://www.douglascollegecareers.ca/postings/15913",
-"salary": "$60,304 to $67,630 per annum",
-"start": "November 23, 2026",
+"years": 6,
+"apply": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
 "skills": [
-"HTML/CSS",
-"Excel"
-],
-"req": "Transit-accessible campuses  Hybrid work arrangements for eligible positions  Competitive salaries  Excellent Health and Dental Benefits for eligible positions  Defined-Benefit Pension Plan for eligib\nExperience implementing technology, communication processes and/or database systems.\nExperience with database management systems such as Banner and/or campus management technology or similar CRM technology.\nDemonstrated experience developing and managing relationships with a variety of stakeholders across the College community including faculty, department chairs, associate deans, senior administration, \nRegular hours of work are Monday to Friday, 9:00 am – 5:00 pm Shift days and times may change depending on the Department’s need. Occasional evening and/or weekend work may be required.\nThe position is located at the New Westminster however, successful candidate must be available for occasional work at all Douglas College campuses and offsite locations.\nDouglas College is committed to supporting a healthy work/life balance for employees. A modified/flexible schedule and/or hybrid work from home arrangement may be considered, subject to the terms of t"
-},
-{
-"title": "Tech Support Specialist",
-"company": "MAXIMA THERAPY",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=aad4c8535ef3c27f",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://app.therappy.com/external/jobs/tenant-maximatherapy/e8cd9919-9f1a-4776-af65-180ee01e7e79?source=Indeed",
-"salary": "$25 - $35 USD per hour",
-"skills": [
-"Ticketing (ServiceNow, Jira)",
+"REST APIs",
+"LLMs / GenAI",
+"Git",
 "Help desk / troubleshooting",
-"Jira",
-"Salesforce"
-],
-"req": "Are you a Tech Support Specialist who loves helping people navigate tech with ease? We are seeking a skilled specialist to join our pediatric therapy team. In this role, you will provide essential sup\nCollaboration: Work closely with the development and product teams to report trends and improve the user experience within our EMR software. Requirements:  Experience: Minimum 2-3 years of technical s\nEducation: Associate (Required)  Bilingual Spanish a PLUS! Benefits:  Dental insurance  Health insurance  Paid time off Location:  Remote  Must be based on the West Coast (Pacific Time Zone / CA, WA, "
-},
-{
-"title": "JR-MID-SENIOR Mobile Developer",
-"company": "Adidev Technologies Inc",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=957cec406a429767",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://adidevtechnologies.recruiterbox.com/jobs/fk0qkmr?fjb_hash=ezLpq610",
-"salary": "$30 - $40 USD per hour",
-"skills": [
-"Java",
-"Kotlin",
-"Swift",
-"REST APIs",
-"CI/CD",
-"Git",
-"Mobile (iOS / Android)"
-]
-},
-{
-"title": "Defense Travel Specialist",
-"company": "US Military Treatment Facilities under DHA",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=8368237bcb87ae1e",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://www.usajobs.gov:443/job/890952300",
-"salary": "$62,640 - $81,436 USD per year",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Summary ----------- About the Position: This position is located in the Travel Division under the direct supervision of the NMCP Travel Program Manager. The incumbent will serve as the Financial Manag\nThis position requires the incumbent be able to obtain and maintain a determination of eligibility for a Secret security clearance or access for the duration of employment. A background investigation \nThis position has mandatory seasonal Influenza vaccination requirements and is subject to annual seasonal Influenza vaccinations unless otherwise exempted for medical or religious reasons (documentati\nIncumbent is required to submit a Confidential Financial Disclosure Report, OGE-450,  This is a DOD Financial Management position. The incumbent must complete training and meet position requirements f\nQualifications Who May Apply: US Citizens In order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including vo\nEducation FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluate\nAdditional information  Male applicants born after December 31, 1959 must complete a Pre-Employment Certification Statement for Selective Service Registration.\nYou will be required to provide proof of U.S. Citizenship.\nThis position requires a 1 year probationary period during which the agency"
-},
-{
-"title": "Cloud engineer",
-"company": "Parent Organization",
-"location": "Onward Willow, Ontario, Canada",
-"posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614022",
-"source": "Job Bank",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Salesforce DevOps Developer",
-"company": "ATB Financial",
-"location": "Calgary, AB, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=d7cbd2c4c5755cdf",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://careers.atb.com/careers/job/1125899907737455",
-"skills": [
-"Python",
-"Bash/Shell",
-"Node.js",
-"GraphQL",
-"REST APIs",
-"Kubernetes",
-"CI/CD",
-"GitHub Actions",
-"Jenkins",
-"GitLab",
-"Git",
-"Monitoring",
-"Agile / Scrum",
-"Testing (unit, automated)",
 "System design",
 "Salesforce"
-],
-"req": "Job ID 3500 Work Type Hybrid Business unit Client Experience and Technology Pay grade L - OTH Apply before 13 November 2026 Number of openings 1 Posting type Internal & External At ATB, we exist to ma\nStreamline internal platform workflows to enable functional analysts, testers, and feature developers to operate self-sufficiently.\nMaintain and update platform and release tooling (e.g Copado) with version updates, coordinating impact awareness across engineering teams. Skills, experience & requirements --------------------------\nRequirements  Bachelor's degree in computer science, engineering or equivalent practical experience  4+ years of software development experience with strong scripting capabilities (e.g., Python, Bash,"
-},
-{
-"title": "Construction Project Engineer - Muskegon, MI",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=f73fd336554d86d2",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://jobs.dayforcehcm.com/en-US/amhigley/CANDIDATEPORTAL/jobs/899",
-"salary": "$1,500",
-"req": "About the Company – Celebrating 100 Years of Building Community & 100% Employee-Owned Higley Construction has been one of the most experienced and respected construction firms in the region. The compa\nBuilds and maintains positive working relationships through professionalism, integrity, and a customer-service mindset. Qualifications:  Bachelor’s degree in Engineering, Construction Management or co\nAlthough no previous experience is required for this role, 1-2 years in engineering, construction management, or a related field is a benefit.\nHas completed co-op work rotations or similar experience. Why Higley Construction?\nCasual Friday Policy  Cell Phone Reimbursement  Apparel Allowance  Enterprise/National Rental Benefits Drug and Alcohol Screening Requirement As part of your employment with Higley Construction, an in"
-},
-{
-"title": "Business Analyst - Level 2",
-"company": "DHANU GLOBAL ENTERPRISES, INC.",
-"location": "St. John's, NL, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=03c84fea4d6884f6",
-"source": "Indeed",
-"country": "CA",
-"years": 7,
-"apply": "https://dhanutek.oorwin.ai/#/careers/index.html/job/details/2e5a616a2cb3b91852eafe6c9f29c186cc2efd2e?source=indeed&postedby=4",
-"req": "Position Title: Business Analyst - Level 2 Location: St. John//'s, Newfoundland and Labrador, CA Duration: 6 plus months with possible extension Required Skills:  Must have 7+ years of experience as a"
-},
-{
-"title": "Network Administrator Tier 2 (Network Operations Center) (REMOTE)",
-"company": "Koniag Government Services",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=08f16316ef5d668d",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15796",
-"salary": "$75,000 - $95,000 USD per year",
-"skills": [
-"Firewalls",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Agile / Scrum",
-"CompTIA Network+",
-"CCNA"
-],
-"req": "Applications for this position will be accepted through November 16, 2026. Koniag Technology Solutions, LLC, a Koniag Government Services company, is seeking a Network Administrator Tier 2 (Network Op"
+]
 },
 {
 "title": "Software Engineer Intern",
@@ -407,227 +272,362 @@
 ]
 },
 {
-"title": "Software Engineering SMTS",
-"company": "Salesforce",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=6a0156f327357a3f",
-"source": "Indeed",
-"country": "CA",
-"years": 6,
-"apply": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
-"skills": [
-"REST APIs",
-"LLMs / GenAI",
-"Git",
-"Help desk / troubleshooting",
-"System design",
-"Salesforce"
-]
-},
-{
-"title": "Executive Assistant",
-"company": "Dynamic Construction Services",
-"location": "Mississauga, ON, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=e37f313c1ecb42f3",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/executive-assistant-e37f313c1ecb42f3",
-"salary": "$22.00-$24.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "Job Overview The Executive Assistant provides organized, responsive administrative support and helps keep daily office operations running smoothly. This role combines calendar coordination, communicat"
-},
-{
-"title": "User Support Analyst",
-"company": "",
+"title": "Network Administrator Tier 2 (Network Operations Center) (REMOTE)",
+"company": "Koniag Government Services",
 "location": "Remote · United States",
 "posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=13b860a63a1ef213",
+"link": "https://www.indeed.com/viewjob?jk=08f16316ef5d668d",
 "source": "Indeed",
 "country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/user-support-analyst-13b860a63a1ef213",
-"salary": "$33 - $40 USD per hour",
+"years": 2,
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/15796",
+"salary": "$75,000 - $95,000 USD per year",
 "skills": [
-"Linux",
-"Networking (TCP/IP, DNS)",
-"IAM",
 "Firewalls",
-"Windows",
-"macOS",
 "Ticketing (ServiceNow, Jira)",
 "Help desk / troubleshooting",
 "Hardware setup",
-"Jira"
+"Agile / Scrum",
+"CompTIA Network+",
+"CCNA"
 ],
-"req": "Overview As a User Support Analyst, you’ll help people stay productive by resolving technology issues across computers, software, networks, and mobile devices. You’ll provide responsive IT support, ma\nYour impact: Timely, clear troubleshooting helps users return to work and keeps IT services accessible. Qualifications  Essential: Customer service, communication, analysis, and technical troubleshoot\nPreferred: Experience with Active Directory, network administration, IT infrastructure, TCP, VPN, firewall, DNS, LAN, SCCM, GPO, Meraki, or Linux."
+"req": "Applications for this position will be accepted through November 16, 2026. Koniag Technology Solutions, LLC, a Koniag Government Services company, is seeking a Network Administrator Tier 2 (Network Op"
 },
 {
-"title": "Data Governance Analyst",
-"company": "Infoorigin Inc",
-"location": "Remote · United States",
+"title": "Business Analyst - Level 2",
+"company": "DHANU GLOBAL ENTERPRISES, INC.",
+"location": "St. John's, NL, CA",
 "posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=2e30f3fee32a7767",
-"source": "Indeed",
-"country": "US",
-"years": 10,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&ccId=19000101_000001&jobId=577179&source=IN&lang=en_US",
-"salary": "$65 - $70 USD per hour",
-"skills": [
-"SQL",
-"Snowflake",
-"SQL Server",
-"Oracle",
-"AWS"
-],
-"req": "Job Description Position Summary  Client is seeking an experienced Senior Business Analyst to advance enterprise data governance through the effective integration of people, processes, and technology.\nClarify decision rights, responsibilities, dependencies, and required actions.\nFacilitate business and analytical requirements to ensure enterprise data products meet consumer needs. Areas of Contribution  The analyst may lead or support prioritized initiatives involving governa\nData Analysis - Required 10 years  Experience with Data Lineage / Cataloging - Required 10 years  Data Policy /Procedure creation - Required 10 years  Proficiency with SQL - Required 10 years  Datawar\nExperience in government, healthcare, or another regulated environment.\nFamiliarity with enterprise data integration, interoperability, master and reference data management, and data products.\nFamiliarity with AWS, Snowflake, Commonwealth of Virginia/VITA standards, or relevant professional certifications such as CDMP. Education  A bachelor's degree in information systems, business administ"
-},
-{
-"title": "Information technology (IT) support technician",
-"company": "Centennial Auto Group",
-"location": "Various locations, Canada",
-"posted": "2026-10-30",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614913",
-"source": "Job Bank",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Analyst - Enterprise Risk Advisory 5A",
-"company": "Genpact",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=55e27d943f17e6ed",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://genpact.wd108.myworkdayjobs.com/campussite/job/3409-G-LLC-New-York-City/Analyst---Enterprise-Risk-Advisory-5A_JR10033916",
-"salary": "$45,000 - $56,500 USD per year",
-"skills": [
-"Statistics",
-"Azure",
-"Cybersecurity",
-"ITIL"
-],
-"req": "Analyst - ERCReady to turn bold ideas into real-world impact? At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at th\nLead AI-powered transformation – Drive innovation and solve real-world business challenges that matter  Make an impact – Help global enterprises solve business challenges that matter  Accelerate your "
-},
-{
-"title": "College Intern (U) #10119107-21800 Full-Time, At-Will, in Albuquerque, NM",
-"company": "New Mexico Courts",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=261c33eaf430c444",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://jobselection.nmcourts.gov/JobsEditor/jobInfo?update&new_id=16070",
-"salary": "$15 - $18 USD per hour",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "May interact directly with colleagues, clientele and/or other internal or external constituencies in the resolution of day-to-day operations.\nProvide entry-level administrative or technical services in support of operating objectives of the department, such as:  Answering and routing telephone calls,  Scheduling and confirming meetings and \nReceive guidance, training and mentoring from more senior professional staff.\nMay participate in the design, planning and implementation of on-going or special projects designed to develop professional skills and expertise.\nCommunications, Public Relations or Related Field – Assists with: drafting reports, documents, and PowerPoint presentations; public relations’ projects and initiatives; and production of publications \nExperience: No experience is required. TO APPLY: Submit a New Mexico Judicial Branch Application for Employment, or a Resume and a Resume Supplemental form, and proof of education to: Administrative O"
-},
-{
-"title": "Automation/Manual QA Engineer",
-"company": "RecruitGarden",
-"location": "Richmond Hill, ON, CA (remote)",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=4a1f155993c848b9",
+"link": "https://ca.indeed.com/viewjob?jk=03c84fea4d6884f6",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/automationmanual-qa-engineer-4a1f155993c848b9",
-"salary": "$70,000.00-$127,000.00 per year",
-"skills": [
-"Python",
-"Bash/Shell",
-"REST APIs",
-"Machine learning",
-"AWS",
-"Azure",
-"Google Cloud",
-"CI/CD",
-"Jenkins",
-"GitLab",
-"Linux",
-"Networking (TCP/IP, DNS)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Jira",
-"Testing (unit, automated)",
-"Jest / PyTest",
-"Mobile (iOS / Android)",
-"Postman",
-"Embedded systems"
-],
-"req": "Job Overview We are looking for a skilled Manual/Automation QA Engineer to join our team and ensure the quality and reliability of our visual system solutions. The ideal candidate will have a strong b"
+"years": 7,
+"apply": "https://dhanutek.oorwin.ai/#/careers/index.html/job/details/2e5a616a2cb3b91852eafe6c9f29c186cc2efd2e?source=indeed&postedby=4",
+"req": "Position Title: Business Analyst - Level 2 Location: St. John//'s, Newfoundland and Labrador, CA Duration: 6 plus months with possible extension Required Skills:  Must have 7+ years of experience as a"
 },
 {
-"title": "IT Service Management Advisor",
-"company": "Government of the Northwest Territories",
-"location": "Yellowknife, NT, CA",
-"posted": "2026-10-30",
-"link": "https://ca.indeed.com/viewjob?jk=24933a8fca62e241",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://www.gov.nt.ca/careers/en/job/28534",
-"skills": [
-"ITIL"
-],
-"req": "The IT Service Management Advisor is responsible for the TSC's website management, strategy, design, content development and maintenance. Key Qualifications  A relevant diploma and 3 years of relevant\nA degree in a related field and 1 year of relevant experience. Relevant education and experience may include:  Information Technology  Computer Information Systems  Information Systems Management  Bus"
-},
-{
-"title": "AI Data Engineer",
-"company": "Brainviser",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=725cd3e705ba2af4",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/ai-data-engineer-725cd3e705ba2af4",
-"salary": "$421.00 per month",
-"skills": [
-"ETL / data pipelines"
-]
-},
-{
-"title": "Graphic Designer",
+"title": "Construction Project Engineer - Muskegon, MI",
 "company": "",
 "location": "Remote · United States",
 "posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=8e3526bbbc226848",
+"link": "https://www.indeed.com/viewjob?jk=f73fd336554d86d2",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.dayforcehcm.com/en-US/amhigley/CANDIDATEPORTAL/jobs/899",
+"salary": "$1,500",
+"req": "About the Company – Celebrating 100 Years of Building Community & 100% Employee-Owned Higley Construction has been one of the most experienced and respected construction firms in the region. The compa\nBuilds and maintains positive working relationships through professionalism, integrity, and a customer-service mindset. Qualifications:  Bachelor’s degree in Engineering, Construction Management or co\nAlthough no previous experience is required for this role, 1-2 years in engineering, construction management, or a related field is a benefit.\nHas completed co-op work rotations or similar experience. Why Higley Construction?\nCasual Friday Policy  Cell Phone Reimbursement  Apparel Allowance  Enterprise/National Rental Benefits Drug and Alcohol Screening Requirement As part of your employment with Higley Construction, an in"
+},
+{
+"title": "Salesforce DevOps Developer",
+"company": "ATB Financial",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=d7cbd2c4c5755cdf",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers.atb.com/careers/job/1125899907737455",
+"skills": [
+"Python",
+"Bash/Shell",
+"Node.js",
+"GraphQL",
+"REST APIs",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"GitLab",
+"Git",
+"Monitoring",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design",
+"Salesforce"
+],
+"req": "Job ID 3500 Work Type Hybrid Business unit Client Experience and Technology Pay grade L - OTH Apply before 13 November 2026 Number of openings 1 Posting type Internal & External At ATB, we exist to ma\nStreamline internal platform workflows to enable functional analysts, testers, and feature developers to operate self-sufficiently.\nMaintain and update platform and release tooling (e.g Copado) with version updates, coordinating impact awareness across engineering teams. Skills, experience & requirements --------------------------\nRequirements  Bachelor's degree in computer science, engineering or equivalent practical experience  4+ years of software development experience with strong scripting capabilities (e.g., Python, Bash,"
+},
+{
+"title": "Cloud engineer",
+"company": "Parent Organization",
+"location": "Onward Willow, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614022",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Defense Travel Specialist",
+"company": "US Military Treatment Facilities under DHA",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=8368237bcb87ae1e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/890952300",
+"salary": "$62,640 - $81,436 USD per year",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Summary ----------- About the Position: This position is located in the Travel Division under the direct supervision of the NMCP Travel Program Manager. The incumbent will serve as the Financial Manag\nThis position requires the incumbent be able to obtain and maintain a determination of eligibility for a Secret security clearance or access for the duration of employment. A background investigation \nThis position has mandatory seasonal Influenza vaccination requirements and is subject to annual seasonal Influenza vaccinations unless otherwise exempted for medical or religious reasons (documentati\nIncumbent is required to submit a Confidential Financial Disclosure Report, OGE-450,  This is a DOD Financial Management position. The incumbent must complete training and meet position requirements f\nQualifications Who May Apply: US Citizens In order to qualify, you must meet the education and/or experience requirements described below. Experience refers to paid and unpaid experience, including vo\nEducation FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluate\nAdditional information  Male applicants born after December 31, 1959 must complete a Pre-Employment Certification Statement for Selective Service Registration.\nYou will be required to provide proof of U.S. Citizenship.\nThis position requires a 1 year probationary period during which the agency"
+},
+{
+"title": "JR-MID-SENIOR Mobile Developer",
+"company": "Adidev Technologies Inc",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=957cec406a429767",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://adidevtechnologies.recruiterbox.com/jobs/fk0qkmr?fjb_hash=ezLpq610",
+"salary": "$30 - $40 USD per hour",
+"skills": [
+"Java",
+"Kotlin",
+"Swift",
+"REST APIs",
+"CI/CD",
+"Git",
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "Tech Support Specialist",
+"company": "MAXIMA THERAPY",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=aad4c8535ef3c27f",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://app.therappy.com/external/jobs/tenant-maximatherapy/e8cd9919-9f1a-4776-af65-180ee01e7e79?source=Indeed",
+"salary": "$25 - $35 USD per hour",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Salesforce"
+],
+"req": "Are you a Tech Support Specialist who loves helping people navigate tech with ease? We are seeking a skilled specialist to join our pediatric therapy team. In this role, you will provide essential sup\nCollaboration: Work closely with the development and product teams to report trends and improve the user experience within our EMR software. Requirements:  Experience: Minimum 2-3 years of technical s\nEducation: Associate (Required)  Bilingual Spanish a PLUS! Benefits:  Dental insurance  Health insurance  Paid time off Location:  Remote  Must be based on the West Coast (Pacific Time Zone / CA, WA, "
+},
+{
+"title": "International Enrolment Operations Coordinator",
+"company": "Douglas College",
+"location": "New Westminster, BC, CA (remote)",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=7f570eb1b69b3cbc",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://www.douglascollegecareers.ca/postings/15913",
+"salary": "$60,304 to $67,630 per annum",
+"start": "November 23, 2026",
+"skills": [
+"HTML/CSS",
+"Excel"
+],
+"req": "Transit-accessible campuses  Hybrid work arrangements for eligible positions  Competitive salaries  Excellent Health and Dental Benefits for eligible positions  Defined-Benefit Pension Plan for eligib\nExperience implementing technology, communication processes and/or database systems.\nExperience with database management systems such as Banner and/or campus management technology or similar CRM technology.\nDemonstrated experience developing and managing relationships with a variety of stakeholders across the College community including faculty, department chairs, associate deans, senior administration, \nRegular hours of work are Monday to Friday, 9:00 am – 5:00 pm Shift days and times may change depending on the Department’s need. Occasional evening and/or weekend work may be required.\nThe position is located at the New Westminster however, successful candidate must be available for occasional work at all Douglas College campuses and offsite locations.\nDouglas College is committed to supporting a healthy work/life balance for employees. A modified/flexible schedule and/or hybrid work from home arrangement may be considered, subject to the terms of t"
+},
+{
+"title": "Executive Assistant and Support Person",
+"company": "Venture Tech Solutions",
+"location": "Burlington, ON, CA (remote)",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=719f6eb664192d3d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/executive-assistant-and-support-person-719f6eb664192d3d",
+"salary": "$30.00-$45.00 per hour"
+},
+{
+"title": "Software Engineering SMTS",
+"company": "Salesforce",
+"location": "Canada - Toronto",
+"posted": "2026-10-30",
+"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
+"source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Front Receptionist",
+"company": "Urban Retreat",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=fae4641590797dde",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-receptionist-fae4641590797dde",
+"salary": "$19.00 per hour",
+"req": "Are you available every second Saturday from 8:30-5:00 and two evenings a week from 4:45-9:00? Experience:  Customer service: 1 year (preferred) Language:  English (required) Work Location: In person"
+},
+{
+"title": "Technical Support Specialist",
+"company": "CapsoVision, lnc.",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=354319724d3f1263",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/technical-support-specialist-354319724d3f1263",
+"salary": "$25 - $30 USD per hour",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Escalate complex or unresolved issues to the appropriate internal teams and follow up as needed.\nMaintain a positive customer experience through effective communication and problem-solving.\nCollaborate with internal departments to ensure customer concerns are addressed promptly.\nProvide additional support outside regular business hours when required to accommodate urgent customer needs or business priorities.\nFollow direction and priorities established by the Field Sales, IT, and Technical Support Manager. Work Schedule and Availability This is a remote contract position with a regular schedule of Monday t\nPrevious customer service, call center, help desk, or technical support experience preferred.\nExperience answering incoming customer service calls and assisting customers over the phone."
+},
+{
+"title": "Functional Systems Analyst - Full-time Term",
+"company": "Coast Mountain College",
+"location": "Terrace, BC, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=dda16a3e540c78b6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://www.coastmountaincollege.ca/about-cmtn/careers/job-postings/detail/26.115b---functional-systems-analyst",
+"salary": "$2,273.60",
+"req": "Demonstrated human relations skills such as effective listening  Excellent, analytical, problem-solving, collaboration and negotiation skills  Excellent presentation, written and verbal communication \nApplication information Please send complete applications (cover letter and an up-to-date resume), quoting competition 26.115B, to: Coast Mountain College, Human Resources, Email: apply@coastmountainc"
+},
+{
+"title": "Business Systems Consultant I/II",
+"company": "Mutual of Omaha",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=52aff44fe1be17d2",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.mutualofomaha.com/careers/jobs/detail/505293",
+"salary": "$75,500 - $114,000 USD per year",
+"skills": [
+"SQL",
+"REST APIs",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+],
+"req": "Applicants for this position must not now, nor at any point in the future, require sponsorship for employment. WHAT YOU'LL DO:  Partner with business and technical teams to gather, document, and refin\nAnalyze business processes, workflows, data, and system capabilities to identify gaps, risks, and opportunities for increased efficiency, effectiveness, and customer experience.\nServe as a trusted partner to business leaders, project teams, and vendors by providing consultation, communication, change management support, and ongoing process improvement expertise. WHAT YOU’LL B\nExperience working with business systems, technology teams, and cross-functional stakeholders to support business initiatives and operational goals.\nAble to work remotely with access to a high-speed internet connection and located in the United States. PREFERRED:  Experience supporting business transformation, process improvement, system implement\nExperience within insurance, financial services, or other highly regulated industries. We value unique experience, skills, and passion for innovation. If your experience aligns with the listed require"
+},
+{
+"title": "Software developer",
+"company": "Photonic",
+"location": "Coquitlam, British Columbia, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614900",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Fraser Health",
+"location": "Surrey, BC, CA (remote)",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=4e65181251b26377",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.fraserhealth.ca/jobs/151478/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$38.88 - $55.89 / hour",
+"skills": [
+"Power BI",
+"Statistics"
+],
+"req": "Demonstrated experience developing Power BI dashboards, KPIs, balanced scorecards, and performance reports to transform complex financial and operational data into meaningful business insights.\nExperience and/or education in Finance, Commerce or a related disciple is preferred.\nAn equivalent combination of education, training, and experience may be acceptable. This is an excellent opportunity to join Fraser Health's Facilities Management team and contribute to strategic init\nAttends and participates in a variety of meetings and committees to provide perspective for a business analysis perspective; participates in the decision-making process by providing information and ex"
+},
+{
+"title": "Web developer",
+"company": "Presto",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614863",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electronic commerce (e-commerce) Web site developer",
+"company": "ScaleJet",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614868",
+"source": "Job Bank",
+"country": "CA",
+"years": 6
+},
+{
+"title": "Administrative Assistant/Receptionist",
+"company": "Clare Medical Centre",
+"location": "Surrey, BC, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=da4ee5a704de59f6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistantreceptionist-da4ee5a704de59f6",
+"salary": "$18.25-$27.11 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "Overview The Administrative Assistant/Receptionist supports daily office operations by welcoming visitors, managing communications, and keeping administrative information organized. This front desk ro"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "AZ Accounting",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50614892",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automotive Front Desk Receptionist",
+"company": "Popular auto Inc",
+"location": "Owen Sound, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=430c4701a81a37f3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/automotive-front-desk-receptionist-430c4701a81a37f3",
+"salary": "$17.60-$26.67 per hour",
+"req": "Qualifications  Strong customer service and front desk communication skills.\nPreferred: Office or clerical experience."
+},
+{
+"title": "Occupational Therapist I",
+"company": "Alberta Health Services",
+"location": "Edmonton, AB, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=d0b14910ac38cf2d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.albertahealthservices.ca/jobs/occupational-therapist-i-601190",
+"salary": "$42.51",
+"skills": [
+"Excel"
+],
+"req": "Your Opportunity: Assisted Living Alberta is dedicated to Enhancing Care in the Community, helping people be healthy, well and independent in their homes and communities. For more information Assisted\nDescription: As an Occupational Therapist (OT), you will provide evidence-informed services, with a focus on occupational performance designed to meet the needs of individuals, groups, or a community."
+},
+{
+"title": "Digital Marketing Specialist",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=3d6fe1f56b5711ad",
 "source": "Indeed",
 "country": "US",
 "years": null,
 "apply": "https://makeathleteaction.com/career-opportunities/",
-"req": "MAKE ATHLETE ACTION ----------------------- At Make Athlete Action, we’re passionate about empowering athletes and fitness enthusiasts to reach their full potential through science-based insights, exp\nFlexible Work Options We understand the importance of work-life balance and offer flexible working options, whether you prefer remote work or an office setting. HOW TO APPLY ---------------- If you’re\nEmail your application to administrator@makeathleteaction.com with the subject line “Career Application – [Position Name].” INTERNSHIPS AND FREELANCE OPPORTUNITIES ------------------------------------\nEnsure alignment with brand guidelines and messaging. Qualifications:  Proficiency in design software like Photoshop and Illustrator.\nStrong portfolio with experience in digital design."
-},
-{
-"title": "AI Technical Implementation Analyst",
-"company": "University of Texas at Austin",
-"location": "Remote · United States",
-"posted": "2026-10-30",
-"link": "https://www.indeed.com/viewjob?jk=a0069bd88b09a5a5",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/Texas/AI-Technical-Implementation-Analyst_R_00049715",
-"salary": "$84,000",
-"start": "Immediately",
-"skills": [
-"REST APIs",
-"LLMs / GenAI",
-"Statistics"
-],
-"req": "Job Posting Title: AI Technical Implementation Analyst- Hiring Department: Technology Resources- Position Open To: All Applicants- Weekly Scheduled Hours: 40- FLSA Status: Exempt from FLSA- Earliest S\nCross-functional Collaboration. Participate in the FAS AI & Technology Community of Practice to stay aligned with broader FAS technology initiatives and share team learnings across functional areas. R\nDemonstrated experience building, configuring, or deploying AI-assisted solutions in a professional environment, including hands-on use of tools such as Claude, ChatGPT, or Microsoft Copilot beyond ba\nDemonstrated experience translating business requirements into technical specifications or implemented solutions.\nDemonstrated ability to analyze complex business processes, identify root causes, and design systematic solutions with experience applying structured problem-solving frameworks or methodologies. Relev\nMinimum of two years of experience in technical business analysis, systems implementation, or a related role.\nExperience working in higher education or public sector environments.\nExperience with enterprise AI platforms, APIs, or automation tools.\nExperience with solution documentation, knowledge transfer, or building reusable workflows.\nExperience with change management or technology adoption initiatives.\nThe selected candidate must have reliable internet service that supports uninterrupted remote work performance. Work Shift  40 hours per week, Monday through Friday. Requir"
+"req": "MAKE ATHLETE ACTION ----------------------- At Make Athlete Action, we’re passionate about empowering athletes and fitness enthusiasts to reach their full potential through science-based insights, exp\nFlexible Work Options We understand the importance of work-life balance and offer flexible working options, whether you prefer remote work or an office setting. HOW TO APPLY ---------------- If you’re\nEmail your application to administrator@makeathleteaction.com with the subject line “Career Application – [Position Name].” INTERNSHIPS AND FREELANCE OPPORTUNITIES ------------------------------------\nCollaborate to align campaigns with brand goals. Qualifications:  Experience with SEO, email, and social media marketing."
 },
 {
 "title": "Cloud Engineer, Azure, Deloitte Global Technology",
