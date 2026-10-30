@@ -1,6 +1,35 @@
 {
-"updated": "2026-10-30T20:09:47+00:00",
+"updated": "2026-10-30T20:19:43+00:00",
 "jobs": [
+{
+"title": "Sales Engineer, SMB",
+"company": "Socket",
+"location": "Remote · United States",
+"posted": "2026-10-30T20:12:13.351+00:00",
+"link": "https://jobs.ashbyhq.com/socket/de959cdb-2441-4ce9-a31a-4cc4e50fb8fe",
+"source": "Socket careers",
+"country": "US",
+"years": null,
+"quals": [
+"Prior technical experience in roles like Software Development, TAM, Solutions Architect, Product Support, etc",
+"Hands-on experience working in customer facing roles.",
+"Ability to multitask and efficiently handle multiple competing priorities, delegating when necessary while being highly organized, detail or",
+"Empathetic mindset for the customer and a commitment to delving deep into the challenges they present or experience."
+],
+"skills": [
+"Python",
+"Go",
+"Swift",
+"REST APIs",
+"LLMs / GenAI",
+"GitLab",
+"Git",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Figma"
+],
+"req": "Support Proof of Concepts (POCs) that align with customer requirements; provide technical expertise, troubleshooting, and guidance throughout the evaluation process.\nPrior technical experience in roles like Software Development, TAM, Solutions Architect, Product Support, etc\nHands-on experience working in customer facing roles.\nEmpathetic mindset for the customer and a commitment to delving deep into the challenges they present or experience.\nMust be able to read/write basic scripts in languages Python, JS, or Golang.\nCS degree or equivalent industry experience.\nExperience with open source, vulnerability management / SCA\nHands on experience working with medium to large customers up to 1000 employees.\nRelevant security domain experience and familiarity with vulnerability management SCA tools.\nExperience with AI and Large Language Models (LLM)"
+},
 {
 "title": "Data Scientist, Enterprise Analytics",
 "company": "GitLab",
