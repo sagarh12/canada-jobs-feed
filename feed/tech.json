@@ -1,6 +1,18 @@
 {
-"updated": "2026-10-31T01:19:49+00:00",
+"updated": "2026-10-31T01:29:49+00:00",
 "jobs": [
+{
+"title": "Tutor- Coding",
+"company": "Astra learning academy",
+"location": "Richmond, BC, CA",
+"posted": "2026-10-31",
+"link": "https://ca.indeed.com/viewjob?jk=6290066e10ec9179",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/tutor-coding-6290066e10ec9179",
+"salary": "$20.00-$30.00 per hour"
+},
 {
 "title": "Financial Analyst",
 "company": "Nations Fresh Food",
@@ -6635,6 +6647,199 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Software Engineer",
+"company": "Ecolab",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=c9470a704514ca05",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.ecolab.com/global/en/job/EIYEIEUSR00309696EXTERNALENGLOBAL/Software-Engineer?utm_source=srm_indeed_org",
+"salary": "$1,000",
+"skills": [
+"Python",
+"JavaScript",
+"TypeScript",
+"SQL",
+"React",
+"FastAPI",
+"REST APIs",
+"LLMs / GenAI",
+"ETL / data pipelines",
+"AWS",
+"Azure",
+"Docker",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"IAM",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"SAP"
+],
+"req": "Connect applications with factory equipment, sensors, and Internet of Things and operational technology (IoT/OT) systems to collect data and support factory operations.\nReview code, maintain automated tests, document systems and support procedures, and drive the reliability, security, and continued improvement of assigned systems. Minimum Qualifications -------------\nExperience developing both user interfaces and server-side applications.\nPractical user interface and user experience (UI/UX) experience, including creating clear layouts, usable forms, and responsive screens.\nExperience with SQL, database design, data integration, data pipelines, and data analysis.\nExperience integrating systems through APIs, including implementing error handling, retries, and duplicate-prevention controls.\nDemonstrated understanding of software architecture and experience designing practical, maintainable solutions.\nExperience deploying, securing, monitoring, and troubleshooting applications in Microsoft Azure or Amazon Web Services (AWS).\nExperience using Docker or similar container technologies.\nExperience with continuous integration and continuous delivery (CI/CD), including automated testing, build, and deployment processes.\nExperience using Git, GitHub, code reviews, and collaborative software development practices.\nCurrent practical experience with AI-assisted and agent-based software development, including assessing new tools and verifying the quality and security of generated code.\nDemo"
+},
+{
+"title": "Test Automation Developer",
+"company": "Christie Digital Systems",
+"location": "Kitchener, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=6e022373eed43d73",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.dayforcehcm.com/en-US/cdsc/CANDIDATEPORTAL/jobs/2997",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C++",
+"C",
+"Bash/Shell",
+"REST APIs",
+"Docker",
+"Jenkins",
+"Git",
+"Linux",
+"Cybersecurity",
+"Vulnerability management",
+"Penetration testing",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Object-oriented programming",
+"SDLC",
+"Embedded systems"
+]
+},
+{
+"title": "New Grad Electrical Engineer - Power Studies",
+"company": "Shermco Industries",
+"location": "Regina, SK, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=5cf14bccc2dfb7ad",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers-us-shermco.icims.com/jobs/2172/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$70,000.00",
+"skills": [
+"Excel",
+"Microsoft 365",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Compliance Student",
+"company": "OLG",
+"location": "Sault Ste. Marie, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4484805127",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Residence Steward",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=3bbc7a5b8369bae1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.utoronto.ca/job/Toronto-Residence-Steward-ON/607573417/",
+"salary": "$52,327",
+"skills": [
+"Excel"
+],
+"req": "Date Posted: 10/30/2026 Req ID: 50874 Faculty/Division: Woodsworth College Department: Woodsworth College Campus: St. George (Downtown Toronto) Position Number: 00059140 Existing Vacancy: Yes Descript\nMinimum two (2) years of relevant experience working in a front-line, student-facing role in a student residence environment  Experience with maintaining and updating daily information such as a shift\nFamiliarity with coordinating staff schedules to ensure proper coverage  Experience with a reservation/residence database such as StarRez  Familiarity with coordinating the collection and issuing of k"
+},
+{
+"title": "Cybersecurity Analyst - Threat Intelligence",
+"company": "lululemon",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=a51afdaad5402509",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.lululemon.com/en_US/careers/JobDetail/Cybersecurity-Analyst-Threat-Intelligence/65555",
+"salary": "$112,200 - 147,200",
+"skills": [
+"Python",
+"SQL",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"EDR",
+"Threat intelligence"
+],
+"req": "who we are lululemon is an innovative performance apparel company for yoga, running, training, and other athletic pursuits. Setting the bar in technical fabrics and functional design, we create transf\nCollect and analyze intelligence from open sources, security partners, vendors, and internal data to identify threats relevant to lululemon and the retail sector.\nHelp mature lululemon's Threat Intelligence capability by developing processes, playbooks, knowledge management, collection strategies, and automation while identifying opportunities to improve how in\nCurious, collaborative, and comfortable working independently across teams to solve problems and identify opportunities for improvement. must haves  Acknowledge the presence of choice in every moment "
+},
+{
+"title": "Medical Lab Technologist, Chem/Hemat",
+"company": "LifeLabs",
+"location": "Greater Sudbury, ON, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=3777b0a553503809",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/lifelabs/CANDIDATEPORTAL/jobs/21608",
+"start": "ASAP",
+"req": "For over 50 years, LifeLabs has been Canada’s leading provider of laboratory diagnostic information and digital health connectivity systems, enabling patients and healthcare practitioners to diagnose,\nEnsure compliance with regulatory requirements and quality assurance standards. What you will bring to the role:  College diploma or University degree in Medical Laboratory Science, or equivalent educ"
+},
+{
+"title": "Fullstack Developer",
+"company": "Appnovation",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4485282221",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support Specialist",
+"company": "ACES ABA",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=2095580436fd4466",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/49CF96B7DF318C1AC83A90DC0F12594C/jobs/554392?source=Indeed",
+"salary": "$60,000 - $75,000 USD per year",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Identify opportunities to improve application stability, support processes, and user experience. Qualifications:  Associate degree, bachelor’s degree, or equivalent combination of education and releva\nTwo or more years of experience in application support, help desk support, IT operations, or business systems support.\nExperience with enterprise applications (e.g., Dynamics 365) and/or ticketing platforms (e.g. Service Desk Plus, Zendesk) is a plus.\nFamiliarity with data auditing, automated workflows, integrations, and production monitoring is a plus. ADDITIONAL INFORMATION ACES is an Equal Opportunity Employer. All qualified applicants will be c"
+},
+{
+"title": "Accessibility Customer Support Assistant – Contractor Opportunity",
+"company": "Macmillan Learning",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=85d56812b2b0d26d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/OpportunityDetail?opportunityId=50bec1c4-cd6b-447e-8780-4b68bd23019a&postingId=f0c9d253-0520-4c26-b62d-eba34afcddd2",
+"salary": "$20.00/hour",
+"skills": [
+"Help desk / troubleshooting",
+"Jira",
+"Salesforce"
+],
+"req": "Macmillan Learning is a privately-held, family-owned digital learning company that inspires what’s possible for every learner. Our tools, content, and services are grounded in research and designed to\nYou’ll facilitate Jira ticket creation, update task statuses, track remediation schedules, and support accessibility reviews alongside external remediation partners and internal content teams.\nYou’ll document recurring user challenges and customer feedback to assist internal teams in refining self-service materials and response templates.\nSupport Resources & Process Feedback: Documented summaries of common user accessibility hurdles along with recommended draft templates and customer-facing guidance updates. Experience and Capabilities\nAbility to work independently, collaborate productively across distributed teams, and escalate blockers or ambiguity when appropriate. Preferred Capabilities  Practical experience supporting accessibi"
 },
 {
 "title": "Critical Environment Field Service Engineer - Data Centers",
@@ -18566,6 +18771,89 @@
 "years": null
 },
 {
+"title": "Java Full Stack Developer",
+"company": "Capgemini",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4485255778",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT & Security Specialist",
+"company": "People Data Labs",
+"location": "Remote · United States",
+"posted": "2026-10-29",
+"link": "https://www.indeed.com/viewjob?jk=264d371bdaa2f624",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.ashbyhq.com/people-data-labs/29dccb91-1c51-406c-8fbd-9903fdf24673?utm_source=25PrYQegbM",
+"salary": "$120,000 - $140,000 USD per year",
+"skills": [
+"Python",
+"Bash/Shell",
+"AWS",
+"Terraform",
+"Monitoring",
+"SIEM",
+"IAM",
+"EDR",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "AEM Tester",
+"company": "Apptoza Inc.",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4483077852",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Senio QA Engineer - Bingo Gaming Platform",
+"company": "Galactic Minds INC",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4484984029",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist I, Quality Assurance (Quality Systems)",
+"company": "Gilead Sciences",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4476996517",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Technologist (Türkiye Supplier Coordination) [NOC 22302]",
+"company": "Anatolia",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4484554707",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Systems Coordinator",
+"company": "Winpak",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-10-29",
+"link": "https://www.linkedin.com/jobs/view/4484553013",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, AI Entries",
 "company": "Lyft",
 "location": "Toronto, Canada",
@@ -25403,7 +25691,7 @@
 "link": "https://ca.indeed.com/viewjob?jk=877bd1f7fa513b4a",
 "source": "Indeed",
 "country": "CA",
-"years": null,
+"years": 3,
 "apply": "https://jobs.dayforcehcm.com/en-CA/beyondenergy/CANDIDATEPORTAL/jobs/382",
 "skills": [
 "Help desk / troubleshooting"
@@ -31087,6 +31375,32 @@
 "Cybersecurity"
 ],
 "req": "Respond to ad hoc requests for pricing information and analysis from internal stakeholders.\nBuild and maintain spreadsheets for proposals and internal analysis. Required Experience 0-2+ years of experience.\nAdvanced to expert skills in Excel. The ideal candidate enjoys working extensively in Excel, leveraging advanced formulas, functions, and analytical tools to solve complex business challenges. This in\n100% Employee Owned: We have a stake in each other's success, and the success of our customers. It's also nice to know what's going on across the company; we have company wide town-hall meetings three"
+},
+{
+"title": "IT Specialist (M365, Azure & Meraki)",
+"company": "Viking Range",
+"location": "Remote · United States",
+"posted": "2026-10-28",
+"link": "https://www.indeed.com/viewjob?jk=c3c55d3159ee9ea1",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4621884/Viking-Range-LLC/IT-Specialist-M365-Azure-Meraki?source=Indeed_Feed",
+"skills": [
+"Azure",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"EDR",
+"Cloud security",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"System design",
+"Azure certification",
+"CCNA"
+],
+"req": "Description: Composition Brands North America is establishing a unified, independent IT function following its organizational separation from Middleby. This position provides senior technical capabili\nVendor Management: Coordinate with external ISPs, hardware vendors, and software providers as needed. Requirements:  Experience: Minimum of 3+ years of hands-on experience managing enterprise-level M3\nNetwork Expertise: Proven experience configuring and troubleshooting Cisco Meraki hardware and software.\nSoft Skills: Excellent problem-solving skills, ability to work independently in a remote environment, and clear communication skills for explaining technical concepts to non-technical users. Preferred"
 },
 {
 "title": "Junior Developer",
