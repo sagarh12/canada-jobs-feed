@@ -1,23 +1,17 @@
 {
-"updated": "2026-10-31T02:49:48+00:00",
+"updated": "2026-10-31T03:00:03+00:00",
 "jobs": [
 {
-"title": "Data Analytics System Administrator",
-"company": "Atrium Health",
-"location": "Remote · United States",
+"title": "Tutor- Coding",
+"company": "Astra learning academy",
+"location": "Richmond, BC, CA",
 "posted": "2026-10-31",
-"link": "https://www.indeed.com/viewjob?jk=569c18a9243a34af",
+"link": "https://ca.indeed.com/viewjob?jk=6290066e10ec9179",
 "source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&tj_id=18428950&tm_company=13027&tm_job=R281490&tm_event=view",
-"salary": "$38 - $57 USD per hour",
-"skills": [
-"Ticketing (ServiceNow, Jira)",
-"Hardware setup",
-"ITIL"
-],
-"req": "Mentor junior team members and provide expertise in the administration of BI/reporting systems. Licensure, Registration, and/or Certification Required:  Epic certifications appropriate to job function\nAbility to manage and monitor projects, administer tasks, and communicate key milestones. Physical Requirements and Working Conditions:  Travel outside of workplace is required and thus incumbent is e\nRemote work environment Preferred Job Requirements  Bachelor's degree in Computer Science or a related field  The following Epic certifications are preferred: Cogito, Cogito Tools Administration, Cogi"
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/tutor-coding-6290066e10ec9179",
+"salary": "$20.00-$30.00 per hour"
 },
 {
 "title": "Financial Analyst",
@@ -42,16 +36,22 @@
 ]
 },
 {
-"title": "Tutor- Coding",
-"company": "Astra learning academy",
-"location": "Richmond, BC, CA",
+"title": "Data Analytics System Administrator",
+"company": "Atrium Health",
+"location": "Remote · United States",
 "posted": "2026-10-31",
-"link": "https://ca.indeed.com/viewjob?jk=6290066e10ec9179",
+"link": "https://www.indeed.com/viewjob?jk=569c18a9243a34af",
 "source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/tutor-coding-6290066e10ec9179",
-"salary": "$20.00-$30.00 per hour"
+"country": "US",
+"years": 5,
+"apply": "https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&tj_id=18428950&tm_company=13027&tm_job=R281490&tm_event=view",
+"salary": "$38 - $57 USD per hour",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Hardware setup",
+"ITIL"
+],
+"req": "Mentor junior team members and provide expertise in the administration of BI/reporting systems. Licensure, Registration, and/or Certification Required:  Epic certifications appropriate to job function\nAbility to manage and monitor projects, administer tasks, and communicate key milestones. Physical Requirements and Working Conditions:  Travel outside of workplace is required and thus incumbent is e\nRemote work environment Preferred Job Requirements  Bachelor's degree in Computer Science or a related field  The following Epic certifications are preferred: Cogito, Cogito Tools Administration, Cogi"
 },
 {
 "title": "Technology Operations Analyst - Cybersecurity - Dieppe, New Brunswick",
@@ -5189,7 +5189,7 @@
 "link": "https://ca.indeed.com/viewjob?jk=cad0f123d00d6cb4",
 "source": "Indeed",
 "country": "CA",
-"years": null,
+"years": 1,
 "apply": "https://clients.njoyn.com/cl3/xweb/xweb.asp?NTKN=c&clid=53103&Page=JobDetails&Jobid=J1026-1051&BRID=366130&lang=1",
 "salary": "$67,691.00 - $79,636.00 /year",
 "skills": [
@@ -7276,6 +7276,88 @@
 "Help desk / troubleshooting"
 ],
 "req": "Description The Company: FirstService Energy is the energy management and advisory division of FirstService Residential, delivering comprehensive energy management services to help communities proacti\nCoordinate with utility providers, property managers, and other stakeholders to obtain, verify, and update required data.\nMaintain accurate records and ensure data integrity across all assigned systems, databases, and reporting tools  Investigate data quality issues and implement corrective actions in conjunction with th\nIdentify compliance risks, data inconsistencies, and reporting issues and escalate them to the appropriate internal stakeholder.\nPrepare and distribute annual benchmarking and energy performance reports in collaboration with internal stakeholders, including compliance, communications, and offshore support teams. Reporting & Bus\nCommunicate professionally with property managers, account managers, utility providers, suppliers, and internal stakeholders.\nCollaborate with cross-functional teams and support departmental initiatives and special projects as assigned. Required Qualifications:  Undergraduate Degree in Business, Data Analytics, Environmental\n3+ years of relevant work experience.\nExperience with utility bill analysis, utility data management, and data quality control."
+},
+{
+"title": "Full Stack Developer",
+"company": "CGI",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=210274d78872a036",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1026-2607&BRID=1345357&sbdid=936",
+"salary": "$60,000-$110,000 CAD",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"HTML/CSS",
+"React",
+"Angular",
+"Vue",
+"Node.js",
+"Express",
+"Spring Boot",
+".NET",
+"REST APIs",
+"PostgreSQL",
+"SQL Server",
+"Oracle",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"Git",
+"Microservices",
+"Infrastructure as code",
+"Monitoring",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Data Analyst, Risk Adjustment",
+"company": "ArchWell Health",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=2c9e625724ee15f7",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-US/archwellhealth/CANDIDATEPORTAL/jobs/29769",
+"skills": [
+"SQL",
+"Power BI",
+"Tableau",
+"Excel",
+"Data visualization"
+],
+"req": "Identify new, recaptured, and dismissed HCCs and reconcile against internal systems (VIM, HCC engine).\nTrack payer healthcare gaps and validate alignment with internal care gap logic. Chart Retrieval & Review Support  Build and maintain chart retrieval/review prioritization rules (1LR, 2LR, external pr\nEnsure alignment across teams to reduce sweeps level escalations and maintain steady state workflows. Qualifications  Bachelor’s degree in Healthcare Administration, Data Analytics, Public Health, or \n3-5 years of experience in risk adjustment, RCM, healthcare analytics, or payer operations.\nDeep experience with SQL, Excel, and data visualization tools (Power BI, Tableau).\nExperience working with chart retrieval vendors or clinical documentation teams preferred. Competencies  Detail oriented with strong data validation skills  Ability to manage multiple workstreams and "
+},
+{
+"title": "Undergrad Intern – Global Program Management (Summer 2027)",
+"company": "Amgen",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=d8ad63d22bd54034",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.amgen.com/en/job/washington-d-c/undergrad-intern-global-program-management-summer-2027/87/102642892560",
+"salary": "$28.87 per hour",
+"skills": [
+"Excel"
+],
+"req": "Bring your authentic self to the table and become the professional you’re inspired to be through accepting a culture that values the diversity of thought and experience and will flex to your strengths\nParticipate in executive and social networking events, as well as community volunteer projects. and make a lasting impact with the Amgen team. -------------------------------------------------- career"
 },
 {
 "title": "Critical Environment Field Service Engineer - Data Centers",
