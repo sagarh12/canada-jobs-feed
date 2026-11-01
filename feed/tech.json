@@ -1,100 +1,6 @@
 {
-"updated": "2026-11-01T09:49:48+00:00",
+"updated": "2026-11-01T09:59:46+00:00",
 "jobs": [
-{
-"title": "Administrator",
-"company": "",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=92a64dbcdcb43d6f",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrator-92a64dbcdcb43d6f",
-"salary": "$37,700.00-$64,400.00 per year",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Desktop Support Engineer",
-"company": "Total IT Global",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=724993fe8992ceda",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/desktop-support-engineer-724993fe8992ceda",
-"salary": "$250.00-$280.00",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Windows",
-"macOS",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Mobile (iOS / Android)"
-],
-"req": "Job Description: Desktop Technician will provide day to day localremote desktop support, receive inbound calls, answer questions, troubleshoot and document steps performed to resolve challenges with h\nStrong knowledge of PC/ Workstation builds. (MS SCCM and MS MDM), Intune, Autopilot is a must  Working knowledge of Active Directory 2003/8/12 R2, Microsoft Office 365, Microsoft Exchange, DNS, DHCP, \nStrong Experience in Multi-Functional Printer troubleshooting  Travel within the city required  Flexibility to make schedule adjustments to cover before/after usual business hours or when other team m"
-},
-{
-"title": "Office Administrator",
-"company": "Cavalry Energy Services",
-"location": "Wembley, AB, CA",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
-"salary": "$25.00-$32.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "IT Technician",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/it-technician-4592fa43af760303",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
-"skills": [
-"ETL / data pipelines",
-"Incident response",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
-},
-{
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
-"skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
-},
 {
 "title": "ICT Analyst",
 "company": "United Nations Office for Project Services",
@@ -124,6 +30,100 @@
 "Data structures & algorithms"
 ],
 "req": "General Information Position Title ICT Analyst Job Category Strategy & Corporate Services Duty Station(s) Home based Seniority Level Associate ICS Level ICS 08 Contract Type ICA - LICA - Specialist - \nAbout the Region The UNOPS Global Portfolios Office (GPO) brings together diverse expertise to help partners deliver impact worldwide. With hubs in New York, Geneva, and Vienna, and expert teams opera\nAbout the Country/Multi-Country Office Not Required - part of GPO/NYPO  Job Specific Context UNOPS has signed an agreement with the United Nations to implement defined activities in support of the Dev\nRole Purpose The ICT Analyst will support the Data, Digital and Innovation team in developing, maintaining and improving practical digital products, data services and analytical tools. The role will i\nFunctions / Key Results Expected The incumbent will support the delivery and maintenance of low-code digital solutions and data analytics products as part of the DCO development team. Work will be car\nTechnical maintenance and solution support: Investigate application, automation and data-quality issues; resolve routine technical problems related to solutions maintained by the team; and escalate co\nAI-enabled solution development: Support the design, prototyping, testing and improvement of AI-enabled analytical tools, retrieval-augmented generation solutions, intelligent assistants and agentic o\nSkills Business Analysis, Data Analysis, Data Integration, Data Mining, Data Modeling, Data V"
+},
+{
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
+},
+{
+"title": "IT Technician",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-technician-4592fa43af760303",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Incident response",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
+},
+{
+"title": "Office Administrator",
+"company": "Cavalry Energy Services",
+"location": "Wembley, AB, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
+"salary": "$25.00-$32.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Desktop Support Engineer",
+"company": "Total IT Global",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=724993fe8992ceda",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/desktop-support-engineer-724993fe8992ceda",
+"salary": "$250.00-$280.00",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Mobile (iOS / Android)"
+],
+"req": "Job Description: Desktop Technician will provide day to day localremote desktop support, receive inbound calls, answer questions, troubleshoot and document steps performed to resolve challenges with h\nStrong knowledge of PC/ Workstation builds. (MS SCCM and MS MDM), Intune, Autopilot is a must  Working knowledge of Active Directory 2003/8/12 R2, Microsoft Office 365, Microsoft Exchange, DNS, DHCP, \nStrong Experience in Multi-Functional Printer troubleshooting  Travel within the city required  Flexibility to make schedule adjustments to cover before/after usual business hours or when other team m"
+},
+{
+"title": "Administrator",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=92a64dbcdcb43d6f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrator-92a64dbcdcb43d6f",
+"salary": "$37,700.00-$64,400.00 per year",
+"skills": [
+"Google Workspace"
+]
 },
 {
 "title": "Consultant - Cyber Response",
@@ -1440,6 +1440,76 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-31",
 "link": "https://www.linkedin.com/jobs/view/4477852719",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Cloud Engineer",
+"company": "Aptiv",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4469299038",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Fullstack (Ads Platform)",
+"company": "Affirm",
+"location": "Queens, Prince Edward Island, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4476869904",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Fullstack (Ads Platform)",
+"company": "Affirm",
+"location": "",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4476877400",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integrations Developer",
+"company": "MaintainX",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485114667",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "CARFAX",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4477884613",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mosaic Mining the Future Indigenous Students - Summer 2027",
+"company": "The Mosaic Company",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4444602286",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Engineer, AI Platform",
+"company": "Thumbtack",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4469257574",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -3550,7 +3620,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197531&tz=GMT-05%3A00&tzname=America%2FChicago",
+"apply": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197531&tz=GMT-06%3A00&tzname=America%2FChicago",
 "salary": "$29.82 - $42.59",
 "skills": [
 "Windows",
@@ -6874,7 +6944,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=594046&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=ZD4Bx2ayzq%2fOolLlW%2fuNfG2vapmGvZX7uXoFVdEZa9s%3d",
+"apply": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=594046&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=djmToTytgGiltVXFUdQCuIxhyQ0ThA9r2kWlUXzRfpI%3d",
 "salary": "$65,000",
 "skills": [
 "Statistics"
@@ -13605,6 +13675,48 @@
 "Salesforce"
 ],
 "req": "We anticipate the application window for this opening will close on - 6 Nov 2026 Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate\nMaintain technical expertise by staying current on new CRM products, therapies, solutions, and patient management offerings to effectively support customers and clinical outcomes."
+},
+{
+"title": "Data Analyst & Informatics Consultant",
+"company": "University of Minnesota",
+"location": "Remote · United States",
+"posted": "2026-10-30",
+"link": "https://www.indeed.com/viewjob?jk=0094d640ea983a62",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://hr.myu.umn.edu/jobs/ext/376834",
+"salary": "$100,000 - $108,000 USD per year",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Tableau",
+"Statistics",
+"Data visualization",
+"SQL Server"
+],
+"req": "All required qualifications must be documented on application materials. Required Qualifications  BA/BS and 6+ years of relevant analytical or quantitative work experience, or an advanced degree with \nExperience working with messy real-world data.\nExperience working independently in a rapidly changing scientific environment.\nDemonstrated experience with T-SQL, PL/SQL, SAS and/or R programming languages.\nComfortable following directions/instructions from supervisors and senior staff. Preferred Qualifications  Knowledge of clinical data and healthcare code sets and ontologies (ICD9/ICD10, CPT, NDC/RXNo\nStrong customer-facing experience, preferably with physicians, investigators, faculty/academic and research support staff.\nExperience with data visualization tools (Qlikview, Tableau).\nResearch experience is a plus.\nStrive for a high-quality client experience and excellent user satisfaction.\nContinually seek to improve knowledge of new clinical data sources. The University of Minnesota Clinical and Translational Science Institute (CTSI) mission is to accelerate and improve clinical and tr"
+},
+{
+"title": "Internship, Scheduling Coordinator",
+"company": "Pomerleau",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4474854485",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power Platform Developer (contract)",
+"company": "KPMG Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4459027110",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Critical Environment Field Service Engineer - Data Centers",
