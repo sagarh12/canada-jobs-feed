@@ -1,15 +1,45 @@
 {
-"updated": "2026-11-01T04:49:54+00:00",
+"updated": "2026-11-01T04:59:49+00:00",
 "jobs": [
 {
-"title": "Compiler Engineer",
-"company": "Intel",
-"location": "Canada, Toronto",
+"title": "IT Technician",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
 "posted": "2026-11-01",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
-"source": "Intel careers",
+"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
+"source": "Indeed",
 "country": "CA",
-"years": null
+"years": null,
+"apply": "http://ca.indeed.com/job/it-technician-4592fa43af760303",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Incident response",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
+},
+{
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
 },
 {
 "title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
@@ -18,6 +48,16 @@
 "posted": "2026-11-01",
 "link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
 "source": "Oak Valley Health careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Compiler Engineer",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-11-01",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
+"source": "Intel careers",
 "country": "CA",
 "years": null
 },
@@ -1665,6 +1705,86 @@
 "location": "Victoria, British Columbia, Canada",
 "posted": "2026-10-31",
 "link": "https://www.linkedin.com/jobs/view/4485661519",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst Co-op, Data Platform",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4483913954",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "2027 January Process Engineer Co-op",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4483918727",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Finance Systems Analyst - Integrations and Automation",
+"company": "1Password",
+"location": "",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485638477",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Software Engineer - Onni Capital",
+"company": "Onni Group of Companies",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485667372",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Developer- Enhance & Operate",
+"company": "Slalom",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4409341991",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Platform Developer Co-op",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4483920667",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Project Controls Technician",
+"company": "Bantrel Co.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4481213062",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Specialist",
+"company": "UPS",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485135302",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13357,6 +13477,36 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-10-30",
 "link": "https://www.linkedin.com/jobs/view/4457969686",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Backend Platform Engineer - Hapiko",
+"company": "Jobgether",
+"location": "",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4484823125",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Specialist",
+"company": "Leonardo DRS",
+"location": "Bedford, Nova Scotia, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4483498081",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "HIL Test Engineer",
+"company": "Global Connect Technologies",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4485352563",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
