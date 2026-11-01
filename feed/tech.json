@@ -1,20 +1,43 @@
 {
-"updated": "2026-11-01T06:19:49+00:00",
+"updated": "2026-11-01T06:29:50+00:00",
 "jobs": [
 {
-"title": "Office Administrator",
-"company": "Cavalry Energy Services",
-"location": "Wembley, AB, CA",
+"title": "Compiler Engineer",
+"company": "Intel",
+"location": "Canada, Toronto",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
+"company": "Oak Valley Health",
+"location": "Markham, Ontario",
+"posted": "2026-11-01",
+"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
+"source": "Oak Valley Health careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
-"salary": "$25.00-$32.00 per hour",
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
 "skills": [
-"Google Workspace"
-]
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
 },
 {
 "title": "IT Technician",
@@ -39,42 +62,19 @@
 "req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
 },
 {
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
+"title": "Office Administrator",
+"company": "Cavalry Energy Services",
+"location": "Wembley, AB, CA",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
+"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
+"salary": "$25.00-$32.00 per hour",
 "skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
-},
-{
-"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
-"company": "Oak Valley Health",
-"location": "Markham, Ontario",
-"posted": "2026-11-01",
-"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
-"source": "Oak Valley Health careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Compiler Engineer",
-"company": "Intel",
-"location": "Canada, Toronto",
-"posted": "2026-11-01",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
-"source": "Intel careers",
-"country": "CA",
-"years": null
+"Google Workspace"
+]
 },
 {
 "title": "Consultant - Cyber Response",
@@ -1863,6 +1863,21 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Nurse Navigator, Hematology, 40 Hours Days",
+"company": "UMass Memorial Health",
+"location": "Remote · United States",
+"posted": "2026-10-31",
+"link": "https://www.indeed.com/viewjob?jk=a2ae55dc35e8c12f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://ummh.wd1.myworkdayjobs.com/en-US/Careers/job/Worcester-MA-University-Campus/Nurse-Navigator--Hematology--40-Hours-Days_R26111835",
+"salary": "$89,668 - $161,408 USD per year",
+"skills": [
+"Hardware setup"
+]
 },
 {
 "title": "Technology Operations Analyst - Cybersecurity - Dieppe, New Brunswick",
@@ -13597,6 +13612,56 @@
 "years": null
 },
 {
+"title": "GRC Consultant",
+"company": "Cyberr",
+"location": "",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4483296925",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Verification Engineer",
+"company": "ecobee",
+"location": "Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4466274427",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Processing Clerk – Data Management",
+"company": "Collabera",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4483452890",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Signals and Communications Technician",
+"company": "CPKC",
+"location": "Nisku, Alberta, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4485616934",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Intelligence Specialist",
+"company": "Bevertec",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4485351915",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Critical Environment Field Service Engineer - Data Centers",
 "company": "Microsoft",
 "location": "Toronto, ON, CA",
@@ -22261,7 +22326,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618604&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18423385-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc01d4145-d3f8-11f1-948d-73c736f3f880%26rx_job%3D2618604%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261101T040402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618604",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618604&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18423385-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc01d4145-d3f8-11f1-948d-73c736f3f880%26rx_job%3D2618604%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261101T060410Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618604",
 "salary": "$40,000",
 "skills": [
 "Networking (TCP/IP, DNS)",
