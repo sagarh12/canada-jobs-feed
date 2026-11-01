@@ -1,87 +1,17 @@
 {
-"updated": "2026-11-01T09:29:49+00:00",
+"updated": "2026-11-01T09:39:48+00:00",
 "jobs": [
 {
-"title": "ICT Analyst",
-"company": "United Nations Office for Project Services",
-"location": "Remote · United States",
+"title": "Administrator",
+"company": "",
+"location": "Toronto, ON, CA",
 "posted": "2026-11-01",
-"link": "https://www.indeed.com/viewjob?jk=aac82bb0fe92518b",
-"source": "Indeed",
-"country": "US",
-"years": 6,
-"apply": "https://careers.unops.org/careersmarketplace/JobDetail/ICT-Analyst/5047",
-"skills": [
-"Python",
-"SQL",
-"REST APIs",
-"LLMs / GenAI",
-"RAG",
-"ETL / data pipelines",
-"Power BI",
-"Tableau",
-"Data visualization",
-"MySQL",
-"Azure",
-"Git",
-"Microsoft 365",
-"Agile / Scrum",
-"Testing (unit, automated)",
-"Data structures & algorithms"
-],
-"req": "General Information Position Title ICT Analyst Job Category Strategy & Corporate Services Duty Station(s) Home based Seniority Level Associate ICS Level ICS 08 Contract Type ICA - LICA - Specialist - \nAbout the Region The UNOPS Global Portfolios Office (GPO) brings together diverse expertise to help partners deliver impact worldwide. With hubs in New York, Geneva, and Vienna, and expert teams opera\nAbout the Country/Multi-Country Office Not Required - part of GPO/NYPO  Job Specific Context UNOPS has signed an agreement with the United Nations to implement defined activities in support of the Dev\nRole Purpose The ICT Analyst will support the Data, Digital and Innovation team in developing, maintaining and improving practical digital products, data services and analytical tools. The role will i\nFunctions / Key Results Expected The incumbent will support the delivery and maintenance of low-code digital solutions and data analytics products as part of the DCO development team. Work will be car\nTechnical maintenance and solution support: Investigate application, automation and data-quality issues; resolve routine technical problems related to solutions maintained by the team; and escalate co\nAI-enabled solution development: Support the design, prototyping, testing and improvement of AI-enabled analytical tools, retrieval-augmented generation solutions, intelligent assistants and agentic o\nSkills Business Analysis, Data Analysis, Data Integration, Data Mining, Data Modeling, Data V"
-},
-{
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"link": "https://ca.indeed.com/viewjob?jk=92a64dbcdcb43d6f",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
-"skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
-},
-{
-"title": "IT Technician",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/it-technician-4592fa43af760303",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
-"skills": [
-"ETL / data pipelines",
-"Incident response",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
-},
-{
-"title": "Office Administrator",
-"company": "Cavalry Energy Services",
-"location": "Wembley, AB, CA",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
-"salary": "$25.00-$32.00 per hour",
+"apply": "http://ca.indeed.com/job/administrator-92a64dbcdcb43d6f",
+"salary": "$37,700.00-$64,400.00 per year",
 "skills": [
 "Google Workspace"
 ]
@@ -111,19 +41,89 @@
 "req": "Job Description: Desktop Technician will provide day to day localremote desktop support, receive inbound calls, answer questions, troubleshoot and document steps performed to resolve challenges with h\nStrong knowledge of PC/ Workstation builds. (MS SCCM and MS MDM), Intune, Autopilot is a must  Working knowledge of Active Directory 2003/8/12 R2, Microsoft Office 365, Microsoft Exchange, DNS, DHCP, \nStrong Experience in Multi-Functional Printer troubleshooting  Travel within the city required  Flexibility to make schedule adjustments to cover before/after usual business hours or when other team m"
 },
 {
-"title": "Administrator",
-"company": "",
-"location": "Toronto, ON, CA",
+"title": "Office Administrator",
+"company": "Cavalry Energy Services",
+"location": "Wembley, AB, CA",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=92a64dbcdcb43d6f",
+"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/administrator-92a64dbcdcb43d6f",
-"salary": "$37,700.00-$64,400.00 per year",
+"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
+"salary": "$25.00-$32.00 per hour",
 "skills": [
 "Google Workspace"
 ]
+},
+{
+"title": "IT Technician",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-technician-4592fa43af760303",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Incident response",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
+},
+{
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
+},
+{
+"title": "ICT Analyst",
+"company": "United Nations Office for Project Services",
+"location": "Remote · United States",
+"posted": "2026-11-01",
+"link": "https://www.indeed.com/viewjob?jk=aac82bb0fe92518b",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://careers.unops.org/careersmarketplace/JobDetail/ICT-Analyst/5047",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Data visualization",
+"MySQL",
+"Azure",
+"Git",
+"Microsoft 365",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Data structures & algorithms"
+],
+"req": "General Information Position Title ICT Analyst Job Category Strategy & Corporate Services Duty Station(s) Home based Seniority Level Associate ICS Level ICS 08 Contract Type ICA - LICA - Specialist - \nAbout the Region The UNOPS Global Portfolios Office (GPO) brings together diverse expertise to help partners deliver impact worldwide. With hubs in New York, Geneva, and Vienna, and expert teams opera\nAbout the Country/Multi-Country Office Not Required - part of GPO/NYPO  Job Specific Context UNOPS has signed an agreement with the United Nations to implement defined activities in support of the Dev\nRole Purpose The ICT Analyst will support the Data, Digital and Innovation team in developing, maintaining and improving practical digital products, data services and analytical tools. The role will i\nFunctions / Key Results Expected The incumbent will support the delivery and maintenance of low-code digital solutions and data analytics products as part of the DCO development team. Work will be car\nTechnical maintenance and solution support: Investigate application, automation and data-quality issues; resolve routine technical problems related to solutions maintained by the team; and escalate co\nAI-enabled solution development: Support the design, prototyping, testing and improvement of AI-enabled analytical tools, retrieval-augmented generation solutions, intelligent assistants and agentic o\nSkills Business Analysis, Data Analysis, Data Integration, Data Mining, Data Modeling, Data V"
 },
 {
 "title": "Consultant - Cyber Response",
