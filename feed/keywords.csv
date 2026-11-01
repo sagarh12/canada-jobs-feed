@@ -1,7 +1,7 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,45%,1336,862,1336,2026-11-01
-2,SQL,Language,24%,728,444,728,2026-11-01
-3,REST APIs,Framework,24%,727,473,727,2026-11-01
+2,REST APIs,Framework,24%,728,474,728,2026-11-01
+3,SQL,Language,24%,728,444,728,2026-11-01
 4,Python,Language,23%,676,426,676,2026-11-01
 5,Excel,Data & AI,21%,619,415,619,2026-11-01
 6,System design,Practice,19%,581,385,581,2026-11-01
@@ -52,7 +52,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 51,Embedded systems,Practice,4%,125,80,125,2026-11-01
 52,C++,Language,4%,124,77,124,2026-11-01
 53,Tableau,Data & AI,4%,123,76,123,2026-11-01
-54,Mobile (iOS / Android),Practice,4%,116,75,116,2026-11-01
+54,Mobile (iOS / Android),Practice,4%,117,76,117,2026-11-01
 55,Terraform,Cloud & DevOps,4%,114,75,114,2026-11-01
 56,Data visualization,Data & AI,4%,111,69,111,2026-11-01
 57,macOS,IT support,4%,111,80,111,2026-11-01
@@ -126,9 +126,9 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 125,Ruby on Rails,Framework,1%,19,11,19,2026-11-01
 126,jQuery,Framework,1%,19,15,19,2026-11-01
 127,Hadoop,Data & AI,1%,17,14,17,2026-11-01
-128,Computer vision,Data & AI,1%,15,10,15,2026-11-01
-129,NumPy,Data & AI,1%,15,12,15,2026-11-01
-130,Scala,Language,1%,15,12,15,2026-11-01
+128,Computer vision,Data & AI,0%,15,10,15,2026-11-01
+129,NumPy,Data & AI,0%,15,12,15,2026-11-01
+130,Scala,Language,0%,15,12,15,2026-11-01
 131,Flask,Framework,0%,14,12,14,2026-11-01
 132,React Native,Framework,0%,14,12,14,2026-11-01
 133,Deep learning,Data & AI,0%,13,10,13,2026-11-01
@@ -153,4 +153,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 152,C#,Language,0%,1,1,1,2026-11-01
 153,Google cert (Data / IT / Cyber),Certification,0%,1,0,1,2026-11-01
 
-,Based on 2998 postings in the last 30 days (2998 all time)
+,Based on 3000 postings in the last 30 days (3000 all time)
