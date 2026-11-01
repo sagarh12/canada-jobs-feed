@@ -1,43 +1,44 @@
 {
-"updated": "2026-11-01T06:49:49+00:00",
+"updated": "2026-11-01T06:59:46+00:00",
 "jobs": [
 {
-"title": "Compiler Engineer",
-"company": "Intel",
-"location": "Canada, Toronto",
+"title": "Desktop Support Engineer",
+"company": "Total IT Global",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-01",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
-"source": "Intel careers",
+"link": "https://ca.indeed.com/viewjob?jk=724993fe8992ceda",
+"source": "Indeed",
 "country": "CA",
-"years": null
+"years": 3,
+"apply": "http://ca.indeed.com/job/desktop-support-engineer-724993fe8992ceda",
+"salary": "$250.00-$280.00",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Mobile (iOS / Android)"
+],
+"req": "Job Description: Desktop Technician will provide day to day localremote desktop support, receive inbound calls, answer questions, troubleshoot and document steps performed to resolve challenges with h\nStrong knowledge of PC/ Workstation builds. (MS SCCM and MS MDM), Intune, Autopilot is a must  Working knowledge of Active Directory 2003/8/12 R2, Microsoft Office 365, Microsoft Exchange, DNS, DHCP, \nStrong Experience in Multi-Functional Printer troubleshooting  Travel within the city required  Flexibility to make schedule adjustments to cover before/after usual business hours or when other team m"
 },
 {
-"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
-"company": "Oak Valley Health",
-"location": "Markham, Ontario",
+"title": "Office Administrator",
+"company": "Cavalry Energy Services",
+"location": "Wembley, AB, CA",
 "posted": "2026-11-01",
-"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
-"source": "Oak Valley Health careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
+"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
+"salary": "$25.00-$32.00 per hour",
 "skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
+"Google Workspace"
+]
 },
 {
 "title": "IT Technician",
@@ -62,19 +63,22 @@
 "req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
 },
 {
-"title": "Office Administrator",
-"company": "Cavalry Energy Services",
-"location": "Wembley, AB, CA",
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
-"salary": "$25.00-$32.00 per hour",
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
 "skills": [
-"Google Workspace"
-]
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
 },
 {
 "title": "Consultant - Cyber Response",
@@ -123,6 +127,26 @@
 "posted": "2026-11-01T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/Mississauga-Intern%2C-Government-and-Industry-Affairs-%28Winter-2027%29-ON-L5S-1W1/1444088933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Compiler Engineer",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-10-31",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
+"company": "Oak Valley Health",
+"location": "Markham, Ontario",
+"posted": "2026-10-31",
+"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
+"source": "Oak Valley Health careers",
 "country": "CA",
 "years": null
 },
@@ -1071,206 +1095,6 @@
 "posted": "2026-10-31",
 "link": "https://www.linkedin.com/jobs/view/4483904900",
 "source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Principle Software Engineering – Continuous Integration & Quality Gating",
-"company": "General Motors",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-10-31",
-"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Principle-Software-Engineering---Continuous-Integration---Quality-Gating_JR-202621673",
-"source": "General Motors careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Specialist, Data Governance and Strategy",
-"company": "Moneris",
-"location": "Toronto",
-"posted": "2026-10-31",
-"link": "https://moneris.wd3.myworkdayjobs.com/Moneris/job/Toronto/Specialist--Data-Governance-and-Strategy_JR106092",
-"source": "Moneris careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Investment Risk Analyst",
-"company": "Manulife",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Investment-Risk-Analyst_JR26100723-1",
-"source": "Manulife careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst Specialist I - Marketing & Risk Management",
-"company": "Enbridge",
-"location": "Calgary, AB, CAN",
-"posted": "2026-10-31",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Business-Analyst-Specialist-I---Marketing---Risk-Management_70890-1",
-"source": "Enbridge careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Cyber Security Specialist",
-"company": "Cenovus",
-"location": "CA-AB-Calgary",
-"posted": "2026-10-31",
-"link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Cyber-Security-Specialist_R-411271",
-"source": "Cenovus careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Advisor IT Application Services",
-"company": "Enbridge",
-"location": "3 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-IT-Application-Services_73181-1",
-"source": "Enbridge careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Photonic Card Software Developer - New Grad",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-10-31",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Actuarial - Student/Intern",
-"company": "iA Financial",
-"location": "Vancouver, British Columbia",
-"posted": "2026-10-31",
-"link": "https://ia.wd3.myworkdayjobs.com/professional/job/Vancouver-British-Columbia/Stagiaire-tudiant-e----Actuariat_JR10026644",
-"source": "iA Financial careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "L2 Analyst",
-"company": "Canadian Tire",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/L2-Analyst_JR167134",
-"source": "Canadian Tire careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Field Service Technician II",
-"company": "Moneris",
-"location": "Edmonton",
-"posted": "2026-10-31",
-"link": "https://moneris.wd3.myworkdayjobs.com/Moneris/job/Edmonton/Field-Service-Technician-II_JR105991",
-"source": "Moneris careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "ASIC Engineer Intern",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-10-31",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Geohazard Intermediate Engineer – Water Crossings",
-"company": "Enbridge",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Geohazard-Intermediate-Engineer---Water-Crossings_73475-1",
-"source": "Enbridge careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Scientist - Applied AI/Gen AI",
-"company": "Sanofi",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-Scientist---Applied-AI-Gen-AI_R2873670",
-"source": "Sanofi careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Simulator Technician",
-"company": "CAE",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://cae.wd3.myworkdayjobs.com/career/job/Toronto/Simulator-Technician_124024",
-"source": "CAE careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Winter Co-Op 2027 - Taxation Analyst",
-"company": "Manulife",
-"location": "Waterloo, Ontario",
-"posted": "2026-10-31",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-Op-2027---Taxation-Analyst_JR26081957",
-"source": "Manulife careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Consultant, Cloud Engineer - Azure",
-"company": "BDO",
-"location": "Toronto - Bay St",
-"posted": "2026-10-31",
-"link": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Consultant--Cloud-Engineer---Azure_JR7308-1",
-"source": "BDO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
-"company": "NVIDIA",
-"location": "Canada, Toronto",
-"posted": "2026-10-31",
-"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
-"source": "NVIDIA careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "ASIC Verification Intern - Summer 2027",
-"company": "NVIDIA",
-"location": "Canada, Toronto",
-"posted": "2026-10-31",
-"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
-"source": "NVIDIA careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Engineering SMTS",
-"company": "Salesforce",
-"location": "Canada - Toronto",
-"posted": "2026-10-31",
-"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
-"source": "Salesforce careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Aviation Predictive Analytics Co-op Student",
-"company": "NAV CANADA",
-"location": "Ottawa",
-"posted": "2026-10-31",
-"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599",
-"source": "NAV CANADA careers",
 "country": "CA",
 "years": null
 },
@@ -2250,6 +2074,206 @@
 "posted": "2026-10-30T12:19:21-04:00",
 "link": "https://stripe.com/jobs/search?gh_jid=8333122",
 "source": "Stripe careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Principle Software Engineering – Continuous Integration & Quality Gating",
+"company": "General Motors",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Principle-Software-Engineering---Continuous-Integration---Quality-Gating_JR-202621673",
+"source": "General Motors careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Data Governance and Strategy",
+"company": "Moneris",
+"location": "Toronto",
+"posted": "2026-10-30",
+"link": "https://moneris.wd3.myworkdayjobs.com/Moneris/job/Toronto/Specialist--Data-Governance-and-Strategy_JR106092",
+"source": "Moneris careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Investment Risk Analyst",
+"company": "Manulife",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Investment-Risk-Analyst_JR26100723-1",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst Specialist I - Marketing & Risk Management",
+"company": "Enbridge",
+"location": "Calgary, AB, CAN",
+"posted": "2026-10-30",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Business-Analyst-Specialist-I---Marketing---Risk-Management_70890-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security Specialist",
+"company": "Cenovus",
+"location": "CA-AB-Calgary",
+"posted": "2026-10-30",
+"link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Cyber-Security-Specialist_R-411271",
+"source": "Cenovus careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advisor IT Application Services",
+"company": "Enbridge",
+"location": "3 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-IT-Application-Services_73181-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Photonic Card Software Developer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-30",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Actuarial - Student/Intern",
+"company": "iA Financial",
+"location": "Vancouver, British Columbia",
+"posted": "2026-10-30",
+"link": "https://ia.wd3.myworkdayjobs.com/professional/job/Vancouver-British-Columbia/Stagiaire-tudiant-e----Actuariat_JR10026644",
+"source": "iA Financial careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "L2 Analyst",
+"company": "Canadian Tire",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/L2-Analyst_JR167134",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician II",
+"company": "Moneris",
+"location": "Edmonton",
+"posted": "2026-10-30",
+"link": "https://moneris.wd3.myworkdayjobs.com/Moneris/job/Edmonton/Field-Service-Technician-II_JR105991",
+"source": "Moneris careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "ASIC Engineer Intern",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-30",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Geohazard Intermediate Engineer – Water Crossings",
+"company": "Enbridge",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Geohazard-Intermediate-Engineer---Water-Crossings_73475-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Scientist - Applied AI/Gen AI",
+"company": "Sanofi",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-Scientist---Applied-AI-Gen-AI_R2873670",
+"source": "Sanofi careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Simulator Technician",
+"company": "CAE",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://cae.wd3.myworkdayjobs.com/career/job/Toronto/Simulator-Technician_124024",
+"source": "CAE careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Winter Co-Op 2027 - Taxation Analyst",
+"company": "Manulife",
+"location": "Waterloo, Ontario",
+"posted": "2026-10-30",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-Op-2027---Taxation-Analyst_JR26081957",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant, Cloud Engineer - Azure",
+"company": "BDO",
+"location": "Toronto - Bay St",
+"posted": "2026-10-30",
+"link": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Consultant--Cloud-Engineer---Azure_JR7308-1",
+"source": "BDO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+"company": "NVIDIA",
+"location": "Canada, Toronto",
+"posted": "2026-10-30",
+"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+"source": "NVIDIA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "ASIC Verification Intern - Summer 2027",
+"company": "NVIDIA",
+"location": "Canada, Toronto",
+"posted": "2026-10-30",
+"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+"source": "NVIDIA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineering SMTS",
+"company": "Salesforce",
+"location": "Canada - Toronto",
+"posted": "2026-10-30",
+"link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
+"source": "Salesforce careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Aviation Predictive Analytics Co-op Student",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-10-30",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599",
+"source": "NAV CANADA careers",
 "country": "CA",
 "years": null
 },
@@ -13130,186 +13154,6 @@
 "req": "Description: Strategic Ventures Consulting Group (SVCG), LLC is a dynamic consulting firm specializing in technical and management solutions that address the most pressing challenges faced by governme"
 },
 {
-"title": "Data Analyst (Contract) (Part-Time)",
-"company": "Stryker",
-"location": "Hamilton, Canada",
-"posted": "2026-10-30",
-"link": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Hamilton-Canada/Data-Analyst--Contract---Part-Time-_R575023",
-"source": "Stryker careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data & AI Engineer - Real World Data and Healthcare Intelligence",
-"company": "Sanofi",
-"location": "Toronto, ON",
-"posted": "2026-10-30",
-"link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data---AI-Engineer---Real-World-Data-and-Healthcare-Intelligence_R2874546-1",
-"source": "Sanofi careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Analyst, Business Planning, Corporate Affairs",
-"company": "Ontario Teachers'",
-"location": "Toronto, Canada",
-"posted": "2026-10-30",
-"link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Analyst--Business-Planning--Corporate-Affairs_7303",
-"source": "Ontario Teachers' careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst, Requirement Specialist - Health and Welfare Administration",
-"company": "TELUS Health",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-30",
-"link": "https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Business-Analyst--Requirement-Specialist---Health-and-Welfare-Administration_R-23377",
-"source": "TELUS Health careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Servicing Technician",
-"company": "CAE",
-"location": "Moose Jaw, Canada",
-"posted": "2026-10-30",
-"link": "https://cae.wd3.myworkdayjobs.com/career/job/Moose-Jaw/Service-Technician_123100",
-"source": "CAE careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "AVP, AI",
-"company": "Manulife",
-"location": "Toronto, Ontario",
-"posted": "2026-10-30",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/AVP--AI_JR26060736",
-"source": "Manulife careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Hardware Characterization Automation Co-op (Winter 2027)",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-10-30",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Embedded Software Engineer – Co-op Winter 2027",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-10-30",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "AVP, Triangle Digital Product",
-"company": "Canadian Tire",
-"location": "Toronto, ON",
-"posted": "2026-10-30",
-"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AVP--Triangle---Loyalty_JR167147",
-"source": "Canadian Tire careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Security Platform Engineer - EDR, Proxy",
-"company": "Sun Life",
-"location": "Toronto, Ontario",
-"posted": "2026-10-30",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Security-Platform-Engineer---EDR--Proxy_JR00125115",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "IT Governance Analyst, Global Technology",
-"company": "Manulife",
-"location": "Toronto, Ontario",
-"posted": "2026-10-30",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Governance-Analyst--Architecture---Engineering_JR26080836-1",
-"source": "Manulife careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Student, Data Analyst (Winter-Summer-Fall 2027)",
-"company": "Sun Life",
-"location": "2 Locations, Canada",
-"posted": "2026-10-30",
-"link": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
-"source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Engineer in Training I Distribution System Planning",
-"company": "Enbridge",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-30",
-"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Toronto-ON-CAN/Engineer-in-Training-I-Distribution-System-Planning_73397-1",
-"source": "Enbridge careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Insolvency Analyst - Personal Debt Solutions Team",
-"company": "BDO",
-"location": "Halifax - Lacewood Dr",
-"posted": "2026-10-30",
-"link": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Halifax---Lacewood-Dr/Insolvency-Analyst---Personal-Debt-Solutions-Team_JR7288",
-"source": "BDO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-30",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Support Analyst - Mobility & Unified Communications",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-10-30",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Support-Analyst---Unified-Communications_R260028142",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Automation Developer",
-"company": "NAV CANADA",
-"location": "Ottawa",
-"posted": "2026-10-30",
-"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Business-Automation-Developer_JR-8461-1",
-"source": "NAV CANADA careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Developer",
-"company": "Fidelity Canada",
-"location": "Toronto Office",
-"posted": "2026-10-30",
-"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Programmer-Analyst-Sr-Internet-Development_J71232-1",
-"source": "Fidelity Canada careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Sales Training Content Development Consultant - Coronary & Cathworks",
 "company": "Medtronic",
 "location": "Remote · United States",
@@ -13442,16 +13286,6 @@
 "years": 2
 },
 {
-"title": "Syndicate Operations Analyst",
-"company": "RBC",
-"location": "90 WESTERN PKY:BEDFORD, Canada",
-"posted": "2026-10-30",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/90-WESTERN-PKYBEDFORD/Syndicate-Operations-Analyst_R-0000191532-2",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Data Scientist I (Quants) – Insurance Model Validation",
 "company": "TD",
 "location": "Toronto, Ontario",
@@ -13502,16 +13336,6 @@
 "years": null
 },
 {
-"title": "IT Operations Analyst II",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Operations-Analyst-II_R_1502821",
-"source": "TD careers",
-"country": "CA",
-"years": 1
-},
-{
 "title": "Personal Banking Associate Trainee",
 "company": "TD",
 "location": "Whitby, Ontario",
@@ -13522,41 +13346,11 @@
 "years": null
 },
 {
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Georgetown, Ontario",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Georgetown-Ontario/Personal-Banking-Associate-Trainee_R_1519718-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Operations Analyst (Fund Accounting)",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-30",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Operations-Analyst--Fund-Accounting-_R-0000191506-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Personal Banker Trainee - Korean, Vietnamese, Mandarin and/or Cantonese are considered an asset",
 "company": "TD",
 "location": "Calgary, Alberta",
 "posted": "2026-10-30",
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banker-Trainee_R_1511788-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Senior Personal Banker Trainee - Home Borrowing",
-"company": "TD",
-"location": "Brampton, Ontario",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Senior-Personal-Banker-Trainee---Home-Borrowing_R_1519725",
 "source": "TD careers",
 "country": "CA",
 "years": null
@@ -14118,6 +13912,236 @@
 "posted": "2026-10-29T12:04:08-04:00",
 "link": "https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965",
 "source": "D2L careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst (Contract) (Part-Time)",
+"company": "Stryker",
+"location": "Hamilton, Canada",
+"posted": "2026-10-29",
+"link": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Hamilton-Canada/Data-Analyst--Contract---Part-Time-_R575023",
+"source": "Stryker careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data & AI Engineer - Real World Data and Healthcare Intelligence",
+"company": "Sanofi",
+"location": "Toronto, ON",
+"posted": "2026-10-29",
+"link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data---AI-Engineer---Real-World-Data-and-Healthcare-Intelligence_R2874546-1",
+"source": "Sanofi careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Analyst, Business Planning, Corporate Affairs",
+"company": "Ontario Teachers'",
+"location": "Toronto, Canada",
+"posted": "2026-10-29",
+"link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Analyst--Business-Planning--Corporate-Affairs_7303",
+"source": "Ontario Teachers' careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, Requirement Specialist - Health and Welfare Administration",
+"company": "TELUS Health",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Business-Analyst--Requirement-Specialist---Health-and-Welfare-Administration_R-23377",
+"source": "TELUS Health careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Servicing Technician",
+"company": "CAE",
+"location": "Moose Jaw, Canada",
+"posted": "2026-10-29",
+"link": "https://cae.wd3.myworkdayjobs.com/career/job/Moose-Jaw/Service-Technician_123100",
+"source": "CAE careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "AVP, AI",
+"company": "Manulife",
+"location": "Toronto, Ontario",
+"posted": "2026-10-29",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/AVP--AI_JR26060736",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Hardware Characterization Automation Co-op (Winter 2027)",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-29",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Software Engineer – Co-op Winter 2027",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-10-29",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "AVP, Triangle Digital Product",
+"company": "Canadian Tire",
+"location": "Toronto, ON",
+"posted": "2026-10-29",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AVP--Triangle---Loyalty_JR167147",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Platform Engineer - EDR, Proxy",
+"company": "Sun Life",
+"location": "Toronto, Ontario",
+"posted": "2026-10-29",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Security-Platform-Engineer---EDR--Proxy_JR00125115",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Governance Analyst, Global Technology",
+"company": "Manulife",
+"location": "Toronto, Ontario",
+"posted": "2026-10-29",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Governance-Analyst--Architecture---Engineering_JR26080836-1",
+"source": "Manulife careers",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Student, Data Analyst (Winter-Summer-Fall 2027)",
+"company": "Sun Life",
+"location": "2 Locations, Canada",
+"posted": "2026-10-29",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer in Training I Distribution System Planning",
+"company": "Enbridge",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-29",
+"link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Toronto-ON-CAN/Engineer-in-Training-I-Distribution-System-Planning_73397-1",
+"source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Insolvency Analyst - Personal Debt Solutions Team",
+"company": "BDO",
+"location": "Halifax - Lacewood Dr",
+"posted": "2026-10-29",
+"link": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Halifax---Lacewood-Dr/Insolvency-Analyst---Personal-Debt-Solutions-Team_JR7288",
+"source": "BDO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-29",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Support Analyst - Mobility & Unified Communications",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-10-29",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Support-Analyst---Unified-Communications_R260028142",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Automation Developer",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-10-29",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Business-Automation-Developer_JR-8461-1",
+"source": "NAV CANADA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "Fidelity Canada",
+"location": "Toronto Office",
+"posted": "2026-10-29",
+"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Programmer-Analyst-Sr-Internet-Development_J71232-1",
+"source": "Fidelity Canada careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Syndicate Operations Analyst",
+"company": "RBC",
+"location": "90 WESTERN PKY:BEDFORD, Canada",
+"posted": "2026-10-29",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/90-WESTERN-PKYBEDFORD/Syndicate-Operations-Analyst_R-0000191532-2",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Operations Analyst II",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Operations-Analyst-II_R_1502821",
+"source": "TD careers",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Georgetown, Ontario",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Georgetown-Ontario/Personal-Banking-Associate-Trainee_R_1519718-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Analyst (Fund Accounting)",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Operations-Analyst--Fund-Accounting-_R-0000191506-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Senior Personal Banker Trainee - Home Borrowing",
+"company": "TD",
+"location": "Brampton, Ontario",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Senior-Personal-Banker-Trainee---Home-Borrowing_R_1519725",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
