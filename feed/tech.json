@@ -1,44 +1,23 @@
 {
-"updated": "2026-11-01T06:59:46+00:00",
+"updated": "2026-11-01T07:09:50+00:00",
 "jobs": [
 {
-"title": "Desktop Support Engineer",
-"company": "Total IT Global",
-"location": "Toronto, ON, CA (remote)",
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=724993fe8992ceda",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/desktop-support-engineer-724993fe8992ceda",
-"salary": "$250.00-$280.00",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Windows",
-"macOS",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Mobile (iOS / Android)"
-],
-"req": "Job Description: Desktop Technician will provide day to day localremote desktop support, receive inbound calls, answer questions, troubleshoot and document steps performed to resolve challenges with h\nStrong knowledge of PC/ Workstation builds. (MS SCCM and MS MDM), Intune, Autopilot is a must  Working knowledge of Active Directory 2003/8/12 R2, Microsoft Office 365, Microsoft Exchange, DNS, DHCP, \nStrong Experience in Multi-Functional Printer troubleshooting  Travel within the city required  Flexibility to make schedule adjustments to cover before/after usual business hours or when other team m"
-},
-{
-"title": "Office Administrator",
-"company": "Cavalry Energy Services",
-"location": "Wembley, AB, CA",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
-"salary": "$25.00-$32.00 per hour",
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
 "skills": [
-"Google Workspace"
-]
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
 },
 {
 "title": "IT Technician",
@@ -63,22 +42,43 @@
 "req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
 },
 {
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
+"title": "Office Administrator",
+"company": "Cavalry Energy Services",
+"location": "Wembley, AB, CA",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
+"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
+"salary": "$25.00-$32.00 per hour",
 "skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
+"Google Workspace"
+]
+},
+{
+"title": "Desktop Support Engineer",
+"company": "Total IT Global",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=724993fe8992ceda",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/desktop-support-engineer-724993fe8992ceda",
+"salary": "$250.00-$280.00",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Mobile (iOS / Android)"
 ],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
+"req": "Job Description: Desktop Technician will provide day to day localremote desktop support, receive inbound calls, answer questions, troubleshoot and document steps performed to resolve challenges with h\nStrong knowledge of PC/ Workstation builds. (MS SCCM and MS MDM), Intune, Autopilot is a must  Working knowledge of Active Directory 2003/8/12 R2, Microsoft Office 365, Microsoft Exchange, DNS, DHCP, \nStrong Experience in Multi-Functional Printer troubleshooting  Travel within the city required  Flexibility to make schedule adjustments to cover before/after usual business hours or when other team m"
 },
 {
 "title": "Consultant - Cyber Response",
@@ -1099,416 +1099,6 @@
 "years": null
 },
 {
-"title": "Data Analytics Associate, CIB Business Management",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analytics-Associate--CIB-Business-Management_R_1520075-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Client Onboarding & Service",
-"company": "CIBC",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Winnipeg-MB/Analyst--Client-Onboarding---Service_2621676",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Banking Advisor Intern",
-"company": "RBC",
-"location": "WHISTLER, British Columbia, Canada",
-"posted": "2026-10-31",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WHISTLER-British-Columbia-Canada/Banking-Advisor-Intern_R-0000191626",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Client Advisor Intern",
-"company": "RBC",
-"location": "WHISTLER, British Columbia, Canada",
-"posted": "2026-10-31",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WHISTLER-British-Columbia-Canada/Client-Advisor-Intern_R-0000191628-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "AVP, Technology Portfolio Management, Transaction Banking & Payments, TD Securities",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AVP--Technology-Portfolio-Management--Transaction-Banking---Payments--TD-Securities_R_1519560",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Cyber Security Intern/Co-op (Winter 2027)",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op---Intern---Winter-2027-_R_1509810",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Trade Support",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-31",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Analyst--Trade-Support_R-0000191717",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Oracle / PostgreSQL Database Administrator",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Oracle---PostgreSQL-Database-Administrator_R_1513020",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Full Stack Developer (.NET, C#, SQL, React, and Azure Databricks)",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Full-Stack-Developer--NET--C---SQL--React--and-Azure-Databricks-_2614321",
-"source": "CIBC careers",
-"country": "CA",
-"years": 4
-},
-{
-"title": "AVP Business Operations - BWI Technology",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AVP-Business-Operations---BWI-Technology_R_1506223-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "TDS Operations Analyst II",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDS-Operations-Analyst-II_R_1519937",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst – Interest Rate Strategy",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-31",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Analyst---Interest-Rate-Strategy_R-0000191413-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Global Asset Management",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Global-Asset-Management_2622546",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "People Change Management & Communications Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/People-Change-Management---Communications-Co-op_2622160-2",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "IT Operations Analyst II-Host Operations",
-"company": "TD",
-"location": "740 Progress Avenue, Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/740-Progress-Avenue-Toronto-Ontario/IT-Operations-Analyst-II_R_1494765-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Corporate Security Coordinator Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Machine Learning Engineer II",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-II_R_1518866",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Project Analyst Co-op- Winter 2027",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Junior Technical Writer co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Technical-Writer-co-op_2622456",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Equity Derivative Operations Analyst",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-31",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Equity-Derivative-Operations-Analyst_R-0000191505-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Assistant Branch Manager Trainee",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Assistant-Branch-Manager-Trainee_R_1509242-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Payment Analyst - GA",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-31",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Payment-Analyst---GA_R-0000191376-1",
-"source": "RBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Associate - Data Requirements & Quality",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate---Data-Requirements---Quality_R_1518935",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Innovation & Marketing Content Co-op (Winter 2027)",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Innovation---Marketing-Content-Co-op--Winter-2027-_2622537",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Senior Personal Banker Trainee - Investing",
-"company": "TD",
-"location": "North York, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/North-York-Ontario/Senior-Personal-Banker-Trainee---Investing_R_1518306",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Compliance Associate Rotational Program",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Compliance-Associate-Rotational-Program_R_1513885",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banker Trainee - Cantonese and/or Mandarin",
-"company": "TD",
-"location": "Markham, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Personal-Banker-Trainee---Cantonese-and-or-Mandarin_R_1519223",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Procurement Associate Co-op (8 Month) - Winter 2027",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Procurement-Associate-Co-op--Winter-2027-_2621955-1",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Senior Personal Banker Trainee - Investing",
-"company": "TD",
-"location": "Vaughan, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Vaughan-Ontario/Senior-Personal-Banker-Trainee---Investing_R_1510838",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banker Trainee",
-"company": "TD",
-"location": "Acton, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Acton-Ontario/Personal-Banker-Trainee_R_1504559",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Procurement Analyst (8 Month) - Winter 2027 Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Procurement-Analyst--8-Month----Winter-2027-Co-op_2622500",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Content Strategy and Development Co-op",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Content-Strategy-and-Development-Co-op_2622509-1",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Engineer II Full Stack (Branch Systems)",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II-Full-Stack--Branch-Systems-_R_1513988",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Marketing Analyst, Wood Gundy Digital and Marketing",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-31",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Digital-Strategy-and-Experience-Consultant--Digital-Wealth-Management_2621046",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee - Future Opportunities",
-"company": "TD",
-"location": "2 Locations, Canada",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Oakville-Ontario/Personal-Banking-Associate-Trainee---Future-Opportunities_R_1519891-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analyst, Corporate Banking, CIB Credit",
-"company": "TD",
-"location": "Calgary, Alberta",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Analyst--Corporate-Banking--CIB-Credit_R_1517848",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banker Trainee",
-"company": "TD",
-"location": "Riverview, New Brunswick",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Riverview-New-Brunswick/Personal-Banker-Trainee_R_1519513",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Engineer II - Angular UI",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II---Angular-UI_R_1506279",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Banking-Associate-Trainee_R_1517336",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Edmonton, Alberta",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Personal-Banking-Associate-Trainee_R_1520007-1",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Engineer II",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-10-31",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1516370",
-"source": "TD careers",
-"country": "CA",
-"years": 5
-},
-{
 "title": "Cloud engineer",
 "company": "Source Code",
 "location": "Toronto, Ontario, Canada",
@@ -2076,6 +1666,416 @@
 "source": "Stripe careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Data Analytics Associate, CIB Business Management",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Analytics-Associate--CIB-Business-Management_R_1520075-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Client Onboarding & Service",
+"company": "CIBC",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Winnipeg-MB/Analyst--Client-Onboarding---Service_2621676",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Banking Advisor Intern",
+"company": "RBC",
+"location": "WHISTLER, British Columbia, Canada",
+"posted": "2026-10-30",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WHISTLER-British-Columbia-Canada/Banking-Advisor-Intern_R-0000191626",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Advisor Intern",
+"company": "RBC",
+"location": "WHISTLER, British Columbia, Canada",
+"posted": "2026-10-30",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/WHISTLER-British-Columbia-Canada/Client-Advisor-Intern_R-0000191628-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "AVP, Technology Portfolio Management, Transaction Banking & Payments, TD Securities",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AVP--Technology-Portfolio-Management--Transaction-Banking---Payments--TD-Securities_R_1519560",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Security Intern/Co-op (Winter 2027)",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op---Intern---Winter-2027-_R_1509810",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Trade Support",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Analyst--Trade-Support_R-0000191717",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle / PostgreSQL Database Administrator",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Oracle---PostgreSQL-Database-Administrator_R_1513020",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer (.NET, C#, SQL, React, and Azure Databricks)",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Full-Stack-Developer--NET--C---SQL--React--and-Azure-Databricks-_2614321",
+"source": "CIBC careers",
+"country": "CA",
+"years": 4
+},
+{
+"title": "AVP Business Operations - BWI Technology",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AVP-Business-Operations---BWI-Technology_R_1506223-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "TDS Operations Analyst II",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDS-Operations-Analyst-II_R_1519937",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst – Interest Rate Strategy",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Analyst---Interest-Rate-Strategy_R-0000191413-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Global Asset Management",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Global-Asset-Management_2622546",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "People Change Management & Communications Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/People-Change-Management---Communications-Co-op_2622160-2",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Operations Analyst II-Host Operations",
+"company": "TD",
+"location": "740 Progress Avenue, Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/740-Progress-Avenue-Toronto-Ontario/IT-Operations-Analyst-II_R_1494765-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Corporate Security Coordinator Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning Engineer II",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-II_R_1518866",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Project Analyst Co-op- Winter 2027",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Technical Writer co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Technical-Writer-co-op_2622456",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Equity Derivative Operations Analyst",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Equity-Derivative-Operations-Analyst_R-0000191505-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Assistant Branch Manager Trainee",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Assistant-Branch-Manager-Trainee_R_1509242-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Payment Analyst - GA",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Payment-Analyst---GA_R-0000191376-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Associate - Data Requirements & Quality",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate---Data-Requirements---Quality_R_1518935",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Innovation & Marketing Content Co-op (Winter 2027)",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Innovation---Marketing-Content-Co-op--Winter-2027-_2622537",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Senior Personal Banker Trainee - Investing",
+"company": "TD",
+"location": "North York, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/North-York-Ontario/Senior-Personal-Banker-Trainee---Investing_R_1518306",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Compliance Associate Rotational Program",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Compliance-Associate-Rotational-Program_R_1513885",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banker Trainee - Cantonese and/or Mandarin",
+"company": "TD",
+"location": "Markham, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Personal-Banker-Trainee---Cantonese-and-or-Mandarin_R_1519223",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Procurement Associate Co-op (8 Month) - Winter 2027",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Procurement-Associate-Co-op--Winter-2027-_2621955-1",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Senior Personal Banker Trainee - Investing",
+"company": "TD",
+"location": "Vaughan, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Vaughan-Ontario/Senior-Personal-Banker-Trainee---Investing_R_1510838",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banker Trainee",
+"company": "TD",
+"location": "Acton, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Acton-Ontario/Personal-Banker-Trainee_R_1504559",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Procurement Analyst (8 Month) - Winter 2027 Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Procurement-Analyst--8-Month----Winter-2027-Co-op_2622500",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Content Strategy and Development Co-op",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Content-Strategy-and-Development-Co-op_2622509-1",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II Full Stack (Branch Systems)",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II-Full-Stack--Branch-Systems-_R_1513988",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Analyst, Wood Gundy Digital and Marketing",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-30",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Digital-Strategy-and-Experience-Consultant--Digital-Wealth-Management_2621046",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee - Future Opportunities",
+"company": "TD",
+"location": "2 Locations, Canada",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Oakville-Ontario/Personal-Banking-Associate-Trainee---Future-Opportunities_R_1519891-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Corporate Banking, CIB Credit",
+"company": "TD",
+"location": "Calgary, Alberta",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Analyst--Corporate-Banking--CIB-Credit_R_1517848",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banker Trainee",
+"company": "TD",
+"location": "Riverview, New Brunswick",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Riverview-New-Brunswick/Personal-Banker-Trainee_R_1519513",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II - Angular UI",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II---Angular-UI_R_1506279",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Banking-Associate-Trainee_R_1517336",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Edmonton, Alberta",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Edmonton-Alberta/Personal-Banking-Associate-Trainee_R_1520007-1",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-10-30",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1516370",
+"source": "TD careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Principle Software Engineering – Continuous Integration & Quality Gating",
@@ -13236,56 +13236,6 @@
 "years": null
 },
 {
-"title": "Branch Manager Trainee",
-"company": "TD",
-"location": "Brampton, Ontario",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Branch-Manager-Trainee_R_1519696",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Senior Personal Banker Trainee – Home Borrowing",
-"company": "TD",
-"location": "Calgary, Alberta",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Senior-Personal-Banker-Trainee---Home-Borrowing_R_1515346",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Manager, Customer Experience Trainee",
-"company": "TD",
-"location": "Calgary, Alberta",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Manager--Customer-Experience-Trainee_R_1514593",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "St. Albert, Alberta",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/St-Albert-Alberta/Personal-Banking-Associate-Trainee_R_1519256",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Network Operations Analyst",
-"company": "RBC",
-"location": "TORONTO, Ontario, Canada",
-"posted": "2026-10-30",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Network-Operations-Analyst_R-0000191399-1",
-"source": "RBC careers",
-"country": "CA",
-"years": 2
-},
-{
 "title": "Data Scientist I (Quants) – Insurance Model Validation",
 "company": "TD",
 "location": "Toronto, Ontario",
@@ -13326,31 +13276,11 @@
 "years": null
 },
 {
-"title": "Consultant, Digital Operations & Privacy",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-10-30",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Digital-Operations---Privacy_2622049",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Personal Banking Associate Trainee",
 "company": "TD",
 "location": "Whitby, Ontario",
 "posted": "2026-10-30",
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Whitby-Ontario/Personal-Banking-Associate-Trainee_R_1519025",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banker Trainee - Korean, Vietnamese, Mandarin and/or Cantonese are considered an asset",
-"company": "TD",
-"location": "Calgary, Alberta",
-"posted": "2026-10-30",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banker-Trainee_R_1511788-1",
 "source": "TD careers",
 "country": "CA",
 "years": null
@@ -13912,6 +13842,76 @@
 "posted": "2026-10-29T12:04:08-04:00",
 "link": "https://www.d2l.com/careers/jobs/?job_id=8333965&gh_jid=8333965",
 "source": "D2L careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Branch Manager Trainee",
+"company": "TD",
+"location": "Brampton, Ontario",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Branch-Manager-Trainee_R_1519696",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Senior Personal Banker Trainee – Home Borrowing",
+"company": "TD",
+"location": "Calgary, Alberta",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Senior-Personal-Banker-Trainee---Home-Borrowing_R_1515346",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Manager, Customer Experience Trainee",
+"company": "TD",
+"location": "Calgary, Alberta",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Manager--Customer-Experience-Trainee_R_1514593",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "St. Albert, Alberta",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/St-Albert-Alberta/Personal-Banking-Associate-Trainee_R_1519256",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Operations Analyst",
+"company": "RBC",
+"location": "TORONTO, Ontario, Canada",
+"posted": "2026-10-29",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Network-Operations-Analyst_R-0000191399-1",
+"source": "RBC careers",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Consultant, Digital Operations & Privacy",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-10-29",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Digital-Operations---Privacy_2622049",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Personal Banker Trainee - Korean, Vietnamese, Mandarin and/or Cantonese are considered an asset",
+"company": "TD",
+"location": "Calgary, Alberta",
+"posted": "2026-10-29",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Calgary-Alberta/Personal-Banker-Trainee_R_1511788-1",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
