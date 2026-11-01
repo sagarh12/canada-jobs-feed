@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-01T19:19:49+00:00",
+"updated": "2026-11-01T19:29:45+00:00",
 "jobs": [
 {
 "title": "Product Testing Analyst",
@@ -387,7 +387,7 @@
 "skills": [
 "REST APIs"
 ],
-"req": "Hands-on experience integrating payment or payout providers, including webhooks, reconciliation and failed-payment handling.\nExperience building ledger-based systems where every balance can be traced and audited.\nExperience with attribution and conversion tracking across web and mobile.\nExperience preventing fraud in a referral or rewards program.\nWeekends are required until the product launches.\nYou own the affiliate system end to end and say plainly when something is behind. If you are looking for a 9 to 5 with weekends off, this is not the role. Be ready to provide verifiable professional r\nREQUIRED: How would you design a points ledger so every balance can be audited and reversed if a conversion is cancelled?\nREQUIRED: How have you detected and stopped referral or click fraud in a past program?\nREQUIRED: How would you track likes, shares and conversions from social media back to the right affiliate?\nREQUIRED: How many hours can you commit in your first 7 days, and each week after? Weekends are required until launch. Experience:  Software development: 3 years (Required) Work Location: Remote"
+"req": "Hands-on experience integrating payment or payout providers, including webhooks, reconciliation and failed-payment handling.\nExperience building ledger-based systems where every balance can be traced and audited.\nExperience with attribution and conversion tracking across web and mobile.\nExperience preventing fraud in a referral or rewards program.\nWeekends are required until the product launches.\nYou own the affiliate system end to end and say plainly when something is behind. If you are looking for a 9 to 5 with weekends off, this is not the role. Be ready to provide verifiable professional r"
 },
 {
 "title": "Level 3 IT Technician",
@@ -520,6 +520,21 @@
 "apply": "http://www.indeed.com/job/customer-support-representative-4bcdde530d7381bd",
 "salary": "$24 - $29 USD per hour",
 "req": "Your impact: Reliable, respectful support helps clients receive timely assistance and feel heard. Qualifications  Customer support or customer service experience; office, front desk, clerical, or admi\nFamiliarity with office management, calendar management, and multi-line phone systems is an asset; personal assistant experience is also useful."
+},
+{
+"title": "Administrative Assistant",
+"company": "BR Construction",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=28e109b3aaa3a9d3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-28e109b3aaa3a9d3",
+"salary": "$24.00-$27.00 per hour",
+"skills": [
+"Google Workspace"
+]
 },
 {
 "title": "Consultant - Cyber Response",
@@ -3524,6 +3539,136 @@
 "location": "",
 "posted": "2026-10-31",
 "link": "https://www.linkedin.com/jobs/view/4485165681",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Science, Decisions - Airports",
+"company": "Lyft",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4460539746",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "ETF Data Specialist",
+"company": "VettaFi",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4459424186",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Co-op, Distribution Projects",
+"company": "FortisBC",
+"location": "Kelowna, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4467817673",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op, Manufacturing Engineering",
+"company": "Rockwell Automation",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4469270064",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Operations Support Co-Op (Waterdown, CAN)",
+"company": "L3Harris Technologies",
+"location": "Waterdown, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4469109427",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Communauté des talents étudiants : occasions futures",
+"company": "Deloitte",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4459421871",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Experienced Consultant (US)",
+"company": "Isaac Operations",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4451011801",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Indigenous Employment Program - Various Positions - Canada",
+"company": "Enbridge",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4463916588",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CPSAR Student Research Assistants",
+"company": "Lethbridge Polytechnic",
+"location": "Lethbridge, Alberta, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485138062",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Accounts Receivable",
+"company": "Avenue Living",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485633729",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Advisor Specialist - Web Application Protection",
+"company": "Intact",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4468005478",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "C++ Software Engineer Intern (UFC - Vancouver - Summer 2027 - 8-months)",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4475286195",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer Co-op (Summer 2027 - 8-Months - Sports Technology - Undergraduate)",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4475255476",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -11414,7 +11559,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://queensu.njoyn.com/cl4/xweb/xweb.asp?tbtoken=YFlZShxYDVBya3JwRlwmHU86dxFfaVVYBlxMIlh%2BC3lbLTUcLUFqdBcEeTcYGhJWQXJjF3U%3D&chk=ZVpaShM%3D&clid=74827&Page=JobDetails&Jobid=J0426-0879&BRID=462795&lang=1",
+"apply": "https://queensu.njoyn.com/cl4/xweb/xweb.asp?tbtoken=ZVhQSxNcDVB0E30HRldXZE84dGFaaVVfdCZMWix4f3lYLUNqXjYbcGQHdkMYGhJWQXJjF3U%3D&chk=ZVpaShM%3D&clid=74827&Page=JobDetails&Jobid=J0426-0879&BRID=462795&lang=1",
 "salary": "$80,569.00 - $99,974.00/Year",
 "req": "Provides expertise and guidance on data governance practices, data sharing, stewardship responsibilities, and responsible data use.\nMaintains institutional knowledge resources and authoritative information related to governed data assets and data management practices. Required Education  Four-Year Bachelor Degree or equivalent in \nExperience with data governance concepts, techniques, processes, and applications considered an asset.\nExperience with data management including business glossaries, data catalogues, metadata, and principle and reference data management considered an asset.\nExperience with data architecture, higher education data taxonomy, and/or business processes considered an asset.\nExperience in planning and/or managing projects considered an asset.\nExperience in writing, interviewing, reviewing, editing and/or proofreading internal and/or external communications and documents considered an asset (e.g., social media, policy manuals, newsletters, \nConsideration may be given to an equivalent combination of education and experience. Job Knowledge and Requirements  Knowledge of concepts and principles in a specialist field that is typically acquir\nProvide expert advice, guidance and consultation on highly complex issues and/or where the outcome may be contentious.\nQuestion and take appropriate steps to address attitudes, macroaggressions and other behaviours which are discriminatory. Acknowledges and respects diverse cultural traditions, abilities and beliefs. "
 },
@@ -16551,6 +16696,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-30",
 "link": "https://www.linkedin.com/jobs/view/4483903392",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Data Coordinator",
+"company": "Kohl & Frisch Limited",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4485115511",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
