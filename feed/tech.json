@@ -1,6 +1,44 @@
 {
-"updated": "2026-11-01T05:19:50+00:00",
+"updated": "2026-11-01T05:29:49+00:00",
 "jobs": [
+{
+"title": "Compiler Engineer",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-11-01",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
+"company": "Oak Valley Health",
+"location": "Markham, Ontario",
+"posted": "2026-11-01",
+"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
+"source": "Oak Valley Health careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
+},
 {
 "title": "IT Technician",
 "company": "Neuraceptive AI Inc.",
@@ -22,44 +60,6 @@
 "Data structures & algorithms"
 ],
 "req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
-},
-{
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
-"skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
-},
-{
-"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
-"company": "Oak Valley Health",
-"location": "Markham, Ontario",
-"posted": "2026-11-01",
-"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
-"source": "Oak Valley Health careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Compiler Engineer",
-"company": "Intel",
-"location": "Canada, Toronto",
-"posted": "2026-11-01",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
-"source": "Intel careers",
-"country": "CA",
-"years": null
 },
 {
 "title": "Consultant - Cyber Response",
@@ -1785,6 +1785,46 @@
 "location": "Burlington, Ontario, Canada",
 "posted": "2026-10-31",
 "link": "https://www.linkedin.com/jobs/view/4485135302",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)",
+"company": "Rivian and Volkswagen Group Technologies",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4461193718",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Agronomy Summer Intern",
+"company": "BASF",
+"location": "Lethbridge, Alberta, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4466228128",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mixed Signal Designer Intern",
+"company": "Ciena",
+"location": "",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485121605",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Engineer",
+"company": "HiredBuddy",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485139480",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13507,6 +13547,16 @@
 "location": "Windsor, Ontario, Canada",
 "posted": "2026-10-30",
 "link": "https://www.linkedin.com/jobs/view/4485352563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer | Azure + GitHub Enterprise",
+"company": "Insight Global",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4483452952",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
