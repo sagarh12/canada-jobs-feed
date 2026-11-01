@@ -1,20 +1,43 @@
 {
-"updated": "2026-11-01T06:39:49+00:00",
+"updated": "2026-11-01T06:49:49+00:00",
 "jobs": [
 {
-"title": "Office Administrator",
-"company": "Cavalry Energy Services",
-"location": "Wembley, AB, CA",
+"title": "Compiler Engineer",
+"company": "Intel",
+"location": "Canada, Toronto",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
+"source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
+"company": "Oak Valley Health",
+"location": "Markham, Ontario",
+"posted": "2026-11-01",
+"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
+"source": "Oak Valley Health careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
-"salary": "$25.00-$32.00 per hour",
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
 "skills": [
-"Google Workspace"
-]
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
 },
 {
 "title": "IT Technician",
@@ -39,42 +62,19 @@
 "req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
 },
 {
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
+"title": "Office Administrator",
+"company": "Cavalry Energy Services",
+"location": "Wembley, AB, CA",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
+"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
+"salary": "$25.00-$32.00 per hour",
 "skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
-},
-{
-"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
-"company": "Oak Valley Health",
-"location": "Markham, Ontario",
-"posted": "2026-11-01",
-"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
-"source": "Oak Valley Health careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Compiler Engineer",
-"company": "Intel",
-"location": "Canada, Toronto",
-"posted": "2026-11-01",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
-"source": "Intel careers",
-"country": "CA",
-"years": null
+"Google Workspace"
+]
 },
 {
 "title": "Consultant - Cyber Response",
