@@ -12,7 +12,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 11,Git,Cloud & DevOps,14%,410,262,410,2026-11-01
 12,AWS,Cloud & DevOps,13%,401,261,401,2026-11-01
 13,CI/CD,Cloud & DevOps,13%,396,270,396,2026-11-01
-14,Windows,IT support,13%,392,243,392,2026-11-01
+14,Windows,IT support,13%,393,244,393,2026-11-01
 15,Cybersecurity,Security,12%,349,222,349,2026-11-01
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,342,223,342,2026-11-01
 17,IAM,Security,11%,323,222,323,2026-11-01
@@ -27,7 +27,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 26,C,Language,8%,243,168,243,2026-11-01
 27,ETL / data pipelines,Data & AI,8%,239,142,239,2026-11-01
 28,Jira,Practice,7%,221,133,221,2026-11-01
-29,HTML/CSS,Language,7%,219,155,219,2026-11-01
+29,HTML/CSS,Language,7%,220,156,220,2026-11-01
 30,Machine learning,Data & AI,7%,208,133,208,2026-11-01
 31,Kubernetes,Cloud & DevOps,7%,196,131,196,2026-11-01
 32,React,Framework,6%,193,126,193,2026-11-01
@@ -54,7 +54,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 53,Tableau,Data & AI,4%,123,76,123,2026-11-01
 54,Mobile (iOS / Android),Practice,4%,118,77,118,2026-11-01
 55,Terraform,Cloud & DevOps,4%,114,75,114,2026-11-01
-56,macOS,IT support,4%,112,81,112,2026-11-01
+56,macOS,IT support,4%,113,82,113,2026-11-01
 57,Data visualization,Data & AI,4%,111,69,111,2026-11-01
 58,NIST / ISO 27001,Security,4%,108,66,108,2026-11-01
 59,Encryption / PKI,Security,3%,103,76,103,2026-11-01
@@ -67,8 +67,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 66,Databricks,Data & AI,3%,91,49,91,2026-11-01
 67,Angular,Framework,3%,87,58,87,2026-11-01
 68,Jenkins,Cloud & DevOps,3%,85,54,85,2026-11-01
-69,Snowflake,Data & AI,3%,83,43,83,2026-11-01
-70,Google Workspace,IT support,3%,82,63,82,2026-11-01
+69,Google Workspace,IT support,3%,83,64,83,2026-11-01
+70,Snowflake,Data & AI,3%,83,43,83,2026-11-01
 71,MySQL,Database,3%,80,46,80,2026-11-01
 72,CompTIA A+,Certification,3%,78,48,78,2026-11-01
 73,Go,Language,3%,77,48,77,2026-11-01
@@ -153,4 +153,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 152,C#,Language,0%,1,1,1,2026-11-01
 153,Google cert (Data / IT / Cyber),Certification,0%,1,0,1,2026-11-01
 
-,Based on 3006 postings in the last 30 days (3006 all time)
+,Based on 3008 postings in the last 30 days (3008 all time)

@@ -1,57 +1,17 @@
 {
-"updated": "2026-11-01T07:49:47+00:00",
+"updated": "2026-11-01T07:59:47+00:00",
 "jobs": [
 {
-"title": "Business Analyst",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
+"title": "Administrator",
+"company": "",
+"location": "Toronto, ON, CA",
 "posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"link": "https://ca.indeed.com/viewjob?jk=92a64dbcdcb43d6f",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
-"skills": [
-"ETL / data pipelines",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
-},
-{
-"title": "IT Technician",
-"company": "Neuraceptive AI Inc.",
-"location": "Etobicoke, ON, CA (remote)",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/it-technician-4592fa43af760303",
-"salary": "$20.00 per hour",
-"start": "March 15, 2027",
-"skills": [
-"ETL / data pipelines",
-"Incident response",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Data structures & algorithms"
-],
-"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
-},
-{
-"title": "Office Administrator",
-"company": "Cavalry Energy Services",
-"location": "Wembley, AB, CA",
-"posted": "2026-11-01",
-"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
-"salary": "$25.00-$32.00 per hour",
+"apply": "http://ca.indeed.com/job/administrator-92a64dbcdcb43d6f",
+"salary": "$37,700.00-$64,400.00 per year",
 "skills": [
 "Google Workspace"
 ]
@@ -79,6 +39,61 @@
 "Mobile (iOS / Android)"
 ],
 "req": "Job Description: Desktop Technician will provide day to day localremote desktop support, receive inbound calls, answer questions, troubleshoot and document steps performed to resolve challenges with h\nStrong knowledge of PC/ Workstation builds. (MS SCCM and MS MDM), Intune, Autopilot is a must  Working knowledge of Active Directory 2003/8/12 R2, Microsoft Office 365, Microsoft Exchange, DNS, DHCP, \nStrong Experience in Multi-Functional Printer troubleshooting  Travel within the city required  Flexibility to make schedule adjustments to cover before/after usual business hours or when other team m"
+},
+{
+"title": "Office Administrator",
+"company": "Cavalry Energy Services",
+"location": "Wembley, AB, CA",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=ed86a513ba3bf540",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-ed86a513ba3bf540",
+"salary": "$25.00-$32.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "IT Technician",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=4592fa43af760303",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-technician-4592fa43af760303",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Incident response",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d\nNetwork & Infrastructure Support: Provide business systems, network, and Internet support to users and staff to ensure seamless uptime for cloud-based AI accounting and bookkeeping operations.\nLeadership (As Applicable): May supervise other technical support workers and junior helpdesk personnel in this group, assigning daily tickets, reviewing support performance, and guiding escalation pa"
+},
+{
+"title": "Business Analyst",
+"company": "Neuraceptive AI Inc.",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-01",
+"link": "https://ca.indeed.com/viewjob?jk=daadb6bff3e12048",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/business-analyst-daadb6bff3e12048",
+"salary": "$20.00 per hour",
+"start": "March 15, 2027",
+"skills": [
+"ETL / data pipelines",
+"Data structures & algorithms"
+],
+"req": "Performance Monitoring & Optimization: Monitor software system performance and user adoption metrics following implementation, recommending continuous enhancements to algorithm performance and UI/UX d"
 },
 {
 "title": "Consultant - Cyber Response",
@@ -1308,6 +1323,26 @@
 "Help desk / troubleshooting"
 ],
 "req": "You will program, set up, and run our Haas ST-30Y, a Y-axis turning centre with live tooling, to produce precision components that meet tight tolerances and customer specifications. Each job runs from\nAdjust machine parameters and tool offsets as required.\nKeep a clean and organized work area in line with shop standards. What you bring ------------------  5+ years of experience programming and operating CNC lathes.\nHands-on experience programming and running live tooling on a CNC lathe.\nProficiency in Mastercam and G-code editing.\nExperience machining aluminum, stainless steel, and tool steels.\nFamiliarity with ISO tolerancing and standard inspection practices. Nice to have ----------------  Y-axis turning experience.\nExperience with Haas lathes and controls.\nSurface grinding experience.\nExperience in a job shop, tool and die, or other high-mix, low-volume environment."
+},
+{
+"title": "Data Engineer",
+"company": "CareRx Corporation",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4483927594",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Infrastructure Analyst",
+"company": "Procom",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4483933094",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Technology Operations Analyst - Cybersecurity - Dieppe, New Brunswick",
@@ -13420,6 +13455,24 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Instructor - Front End Web Development - Continuing Education Contract - GRPH 109",
+"company": "Saskatchewan Polytechnic",
+"location": "Prince Albert, SK, CA",
+"posted": "2026-10-30",
+"link": "https://ca.indeed.com/viewjob?jk=049afd10e8f8225f",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.saskpolytech.ca/postings/66563",
+"salary": "$60 per hour",
+"skills": [
+"HTML/CSS",
+"Windows",
+"macOS"
+],
+"req": "Two years of recent/relevant work experience in new media design and production, which should include instructional and creative design, computer graphic design, interface design, and interactive mult\nDemonstrated competence in a wide range of computer applications using both Windows and macOS, including experience with web development tools, internet applications, and local area network operations"
 },
 {
 "title": "Critical Environment Field Service Engineer - Data Centers",
