@@ -1,5 +1,5 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,1349,875,1349,2026-11-01
+1,Help desk / troubleshooting,IT support,44%,1350,876,1350,2026-11-01
 2,REST APIs,Framework,24%,737,483,737,2026-11-01
 3,SQL,Language,24%,734,450,734,2026-11-01
 4,Python,Language,22%,682,432,682,2026-11-01
@@ -14,8 +14,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 13,CI/CD,Cloud & DevOps,13%,399,273,399,2026-11-01
 14,Windows,IT support,13%,396,247,396,2026-11-01
 15,Cybersecurity,Security,12%,350,223,350,2026-11-01
-16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,345,226,345,2026-11-01
-17,IAM,Security,11%,325,224,325,2026-11-01
+16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,346,227,346,2026-11-01
+17,IAM,Security,11%,326,225,326,2026-11-01
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,324,209,324,2026-11-01
 19,JavaScript,Language,11%,321,233,321,2026-11-01
 20,Power BI,Data & AI,10%,304,192,304,2026-11-01
@@ -106,9 +106,9 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 105,AWS certification,Certification,1%,29,21,29,2026-11-01
 106,Ruby,Language,1%,28,16,28,2026-11-01
 107,Azure certification,Certification,1%,27,19,27,2026-11-01
-108,Elasticsearch,Database,1%,26,17,26,2026-11-01
-109,Figma,Practice,1%,26,14,26,2026-11-01
-110,CCNA,Certification,1%,25,18,25,2026-11-01
+108,CCNA,Certification,1%,26,19,26,2026-11-01
+109,Elasticsearch,Database,1%,26,17,26,2026-11-01
+110,Figma,Practice,1%,26,14,26,2026-11-01
 111,Rust,Language,1%,25,16,25,2026-11-01
 112,Swift,Language,1%,25,16,25,2026-11-01
 113,dbt,Data & AI,1%,25,14,25,2026-11-01
@@ -153,4 +153,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 152,C#,Language,0%,1,1,1,2026-11-01
 153,Google cert (Data / IT / Cyber),Certification,0%,1,0,1,2026-11-01
 
-,Based on 3033 postings in the last 30 days (3033 all time)
+,Based on 3034 postings in the last 30 days (3034 all time)
