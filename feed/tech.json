@@ -1,16 +1,6 @@
 {
-"updated": "2026-11-01T04:19:50+00:00",
+"updated": "2026-11-01T04:29:48+00:00",
 "jobs": [
-{
-"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
-"company": "Oak Valley Health",
-"location": "Markham, Ontario",
-"posted": "2026-11-01",
-"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
-"source": "Oak Valley Health careers",
-"country": "CA",
-"years": null
-},
 {
 "title": "Compiler Engineer",
 "company": "Intel",
@@ -18,6 +8,16 @@
 "posted": "2026-11-01",
 "link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineer_JR0286164-1",
 "source": "Intel careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator, Information Technology - Full Time - Markham Stouffville Hospital",
+"company": "Oak Valley Health",
+"location": "Markham, Ontario",
+"posted": "2026-11-01",
+"link": "https://oakvalleyhealth.wd10.myworkdayjobs.com/OakValleyHealth/job/Markham-Ontario/Systems-Administrator--Information-Technology---Full-Time---Markham-Stouffville-Hospital_JR104416",
+"source": "Oak Valley Health careers",
 "country": "CA",
 "years": null
 },
@@ -1628,6 +1628,46 @@
 "source": "TD careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Cloud engineer",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50628289",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Tech 3, FSQA",
+"company": "Aspire Bakeries",
+"location": "Ancaster, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4483919652",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support Engineer (Front Office)",
+"company": "Synechron",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485125316",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant - Cybersecurity, Strategy & Transformation",
+"company": "KPMG Canada",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4485661519",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Technology Operations Analyst - Cybersecurity - Dieppe, New Brunswick",
@@ -8945,7 +8985,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/c1Htz8bYHMWfyPHnChNpWbekPf34PQ5-e_7-SkOWXGM#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/zzK2non7MB4Y9AW6gBF5tXCuyb8fa5vqmoFWwBAUUtU#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "ETL / data pipelines",
@@ -13308,6 +13348,16 @@
 "posted": "2026-10-30",
 "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Brampton-Ontario/Senior-Personal-Banker-Trainee---Home-Borrowing_R_1519725",
 "source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Engineer (Forward Deployed)",
+"company": "ANVIL",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-30",
+"link": "https://www.linkedin.com/jobs/view/4457969686",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
@@ -21976,7 +22026,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618604&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18423385-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc01d4145-d3f8-11f1-948d-73c736f3f880%26rx_job%3D2618604%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261101T020409Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618604",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618604&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18423385-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc01d4145-d3f8-11f1-948d-73c736f3f880%26rx_job%3D2618604%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261101T040402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618604",
 "salary": "$40,000",
 "skills": [
 "Networking (TCP/IP, DNS)",
