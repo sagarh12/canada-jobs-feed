@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-02T18:39:50+00:00",
+"updated": "2026-11-02T18:49:50+00:00",
 "jobs": [
+{
+"title": "Data Scientist, FX Quantitative Research",
+"company": "Stripe",
+"location": "Toronto",
+"posted": "2026-11-02T13:49:07-05:00",
+"link": "https://stripe.com/jobs/search?gh_jid=8346778",
+"source": "Stripe careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Support Engineer I (FC, Weekend Shift)",
 "company": "Replit",
@@ -2859,6 +2869,36 @@
 "Excel"
 ],
 "req": "Demonstrated experience handling multiple work assignments of varying complexity simultaneously and informing management of the status of work completion.\nExperience managing detail-oriented work with no errors.\nExperience analyzing problems of varied difficulty and determining the appropriate resolutions.\nExperience with Cardinal HCM and Cardinal Financial. Additional Considerations  Considerable knowledge of payroll state laws, rules, and regulations (e.g., Department of Accounts [DOA] and CAPP manual\nExtensive experience working with the Commonwealth’s payroll processes and procedures, Cardinal Financial and Cardinal HCM, and handling classified and wage payroll transactions."
+},
+{
+"title": "Technical Business Analyst",
+"company": "BMO",
+"location": "Calgary, AB, CAN",
+"posted": "2026-11-02",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Technical-Business-Analyst_R260021226",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "GenAI Software Developer",
+"company": "BMO",
+"location": "Calgary, AB, CAN",
+"posted": "2026-11-02",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/GenAI-Software-Developer_R260018524",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Application Developer – Loan Servicing & AI Enablement",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-02",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Application-Developer---Loan-Servicing---AI-Enablement_R260021240",
+"source": "BMO careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Broadcast Technician",
@@ -10457,36 +10497,6 @@
 "System design"
 ],
 "req": "At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic\nThis team focuses on the B2B side of our Enterprise Password Manager. We build features that help large organizations manage 1Password at scale. Our team focuses on multi-tenancy and linked accounts, \nYou have 2+ years of experience in software development\nExperience with a modern backend language (e.g. Go, Node.js, Ruby, or Python)\nA drive for and proven experience in software development best practices and coding standards\nYou enjoy communicating and collaborating, with experience working effectively across teams and explaining technical concepts to non-technical cross-functional partners\nExperience with DevOps practices while also contributing to application development\nExperience working with Kubernetes and infrastructure configuration\nExperience working with microservices or distributed systems\nExperience building frontends with TypeScript and React\nBuild features that support multi-tenancy, linked accounts, policy management, and the admin console experience\nAt 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.\nYou’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is "
-},
-{
-"title": "Finance Systems Analyst - Integrations and Automation",
-"company": "1Password",
-"location": "Canada",
-"posted": "2026-10-30T18:45:37.402+00:00",
-"link": "https://jobs.ashbyhq.com/1password/9d3f7564-490b-4107-b315-ece3146760a8",
-"source": "1Password careers",
-"country": "CA",
-"years": null,
-"salary": "$500",
-"quals": [
-"Build a foundation in technical work involving Application Programming Interfaces (APIs), integrations, automation, or related systems.",
-"Work with Representational State Transfer (REST) APIs and JavaScript Object Notation (JSON) data.",
-"Write or adapt scripts in Python, JavaScript, or another programming language, and apply sound technical logic across different tools and pl",
-"Create and execute test cases for integrations and automated workflows, including edge cases, error handling, and retry logic."
-],
-"skills": [
-"Python",
-"JavaScript",
-"REST APIs",
-"Machine learning",
-"NLP",
-"Oracle",
-"Cybersecurity",
-"Help desk / troubleshooting",
-"Postman",
-"Salesforce"
-],
-"req": "At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic\nAs a Finance Systems Analyst focused on integrations and automation, you’ll support the Finance Systems team in building, maintaining, and testing Application Programming Interface (API) integrations \nDocument integrations, test results, and workflows clearly; experience with financial systems, NetSuite, Workato, Postman, or similar tools is helpful.\nAt 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.\nYou’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is not for everyone https://blog.1password.com/in\n1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individu\nRemote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts at building remote culture. That said, remote work at 1Password does mean working\nSuccessful applicants will be required to complete a background check that may consist of prior employment verification, reference checks, education confirmation, criminal backg"
 }
 ]
 }
