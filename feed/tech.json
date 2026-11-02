@@ -1,97 +1,6 @@
 {
-"updated": "2026-11-02T07:09:58+00:00",
+"updated": "2026-11-02T07:19:45+00:00",
 "jobs": [
-{
-"title": "DevOps Engineer",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-11-02",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/DevOps-Engineer_R_1519678",
-"source": "TD careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Mechanical Engineer - Product Design & Manufacturing",
-"company": "",
-"location": "Glenboro, MB, CA",
-"posted": "2026-11-02",
-"link": "https://ca.indeed.com/viewjob?jk=946dc6cfc452a3e8",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/mechanical-engineer-product-design-manufacturing-946dc6cfc452a3e8",
-"salary": "$65,000.00 per year",
-"req": "About the Opportunity BD Manufacturing Ltd., home of Norberts Trailers, is growing and expanding its product lines. We're looking for a motivated Mechanical Engineer to join our engineering team and p\nParticipate in continuous improvement and automation initiatives. Qualifications  Degree in Mechanical Engineering, Manufacturing Engineering, or a related engineering discipline.\nExperience or familiarity with SolidWorks, Autodesk Inventor, or similar CAD software.\nStrong communication, organizational, and project coordination skills. Recent engineering graduates are encouraged to apply. Practical thinking, initiative, curiosity, and a willingness to learn are h\nGain hands-on experience from concept through manufacturing.\nWork closely with an experienced manufacturing and engineering team."
-},
-{
-"title": "Information Security Analyst",
-"company": "Fidelity Canada",
-"location": "Toronto Office",
-"posted": "2026-11-02",
-"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Information-Security-Analyst_J71904",
-"source": "Fidelity Canada careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "DDI Network Engineer",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-11-02",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/DDI-Network-Engineer_R260026568",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Retailer Support Specialist",
-"company": "Furniture Wizard Software",
-"location": "Remote · United States",
-"posted": "2026-11-02",
-"link": "https://www.indeed.com/viewjob?jk=4b1e9f6a63c5d985",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/retailer-support-specialist-4b1e9f6a63c5d985",
-"salary": "$24 - $28 USD per hour",
-"skills": [
-"SQL",
-"REST APIs",
-"SQL Server",
-"Windows",
-"Help desk / troubleshooting",
-"Mobile (iOS / Android)"
-]
-},
-{
-"title": "Teacher",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-02",
-"link": "https://ca.indeed.com/viewjob?jk=bcaa5d9fa857e92c",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/teacher-bcaa5d9fa857e92c",
-"salary": "$25–$45 per hour",
-"skills": [
-"Statistics"
-],
-"req": "Prepare lessons based on students' learning needs.\nMonitor student progress and provide feedback.\nCommunicate professionally with students, parents, and the Arborix team.\nHelp students improve their academic performance and confidence. Qualifications  Ability to communicate in both Mandarin Chinese and English is required.\nPrevious teaching or tutoring experience is preferred.\nUniversity students, graduates, and experienced educators are welcome to apply.\nTeaching hours depend on student enrollment and scheduling.\nNo minimum teaching hours are guaranteed."
-},
-{
-"title": "Client Onboarding & Growth Specialist (Med Spa Industry)",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-02",
-"link": "https://www.indeed.com/viewjob?jk=01c5c34b09bbbb24",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/client-onboarding-growth-specialist-med-spa-industry-01c5c34b09bbbb24",
-"salary": "$23 - $26 USD per hour"
-},
 {
 "title": "Agentic Experience (AX) Engineer",
 "company": "ACTO Technologies",
@@ -114,6 +23,97 @@
 "Embedded systems"
 ],
 "req": "Job Type: Full-Time Role Type: Permanent Job Location: Remote - Toronto About Us: ACTO is an Intelligent Field Excellence (IFE) platform built for life sciences that unifies human intelligence with em\nCollaborating cross-functionally with IT, Customer Success, Product, and Engineering teams to align agent configurations with backend systems and evolve best practices for SuperAgent design. To Be Suc\nExperience participating in UAT cycles and structured testing.\nExperience managing workstreams or projects from requirements gathering through implementation. Domain & Workflow Understanding  Experience in healthcare, life sciences, pharma, or other regulated ind\nCuriosity and willingness to experiment, test, and iterate. Education & Experience  Bachelor’s degree in Computer Science, Engineering, Cognitive Science, Human-Computer Interaction, Life Sciences, or\n1–2 years of experience in one or more of: Conversational or Agentic AI development; Product configuration or solution engineering; Workflow or UX design for digital systems; AI platform implementatio\nHands-on experience with Veeva, Salesforce, or Snowflake integrations."
+},
+{
+"title": "Client Onboarding & Growth Specialist (Med Spa Industry)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=01c5c34b09bbbb24",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/client-onboarding-growth-specialist-med-spa-industry-01c5c34b09bbbb24",
+"salary": "$23 - $26 USD per hour"
+},
+{
+"title": "Teacher",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=bcaa5d9fa857e92c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/teacher-bcaa5d9fa857e92c",
+"salary": "$25–$45 per hour",
+"skills": [
+"Statistics"
+],
+"req": "Prepare lessons based on students' learning needs.\nMonitor student progress and provide feedback.\nCommunicate professionally with students, parents, and the Arborix team.\nHelp students improve their academic performance and confidence. Qualifications  Ability to communicate in both Mandarin Chinese and English is required.\nPrevious teaching or tutoring experience is preferred.\nUniversity students, graduates, and experienced educators are welcome to apply.\nTeaching hours depend on student enrollment and scheduling.\nNo minimum teaching hours are guaranteed."
+},
+{
+"title": "Retailer Support Specialist",
+"company": "Furniture Wizard Software",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=4b1e9f6a63c5d985",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/retailer-support-specialist-4b1e9f6a63c5d985",
+"salary": "$24 - $28 USD per hour",
+"skills": [
+"SQL",
+"REST APIs",
+"SQL Server",
+"Windows",
+"Help desk / troubleshooting",
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "DDI Network Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-02",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/DDI-Network-Engineer_R260026568",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Security Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto Office",
+"posted": "2026-11-02",
+"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Information-Security-Analyst_J71904",
+"source": "Fidelity Canada careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mechanical Engineer - Product Design & Manufacturing",
+"company": "",
+"location": "Glenboro, MB, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=946dc6cfc452a3e8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/mechanical-engineer-product-design-manufacturing-946dc6cfc452a3e8",
+"salary": "$65,000.00 per year",
+"req": "About the Opportunity BD Manufacturing Ltd., home of Norberts Trailers, is growing and expanding its product lines. We're looking for a motivated Mechanical Engineer to join our engineering team and p\nParticipate in continuous improvement and automation initiatives. Qualifications  Degree in Mechanical Engineering, Manufacturing Engineering, or a related engineering discipline.\nExperience or familiarity with SolidWorks, Autodesk Inventor, or similar CAD software.\nStrong communication, organizational, and project coordination skills. Recent engineering graduates are encouraged to apply. Practical thinking, initiative, curiosity, and a willingness to learn are h\nGain hands-on experience from concept through manufacturing.\nWork closely with an experienced manufacturing and engineering team."
+},
+{
+"title": "DevOps Engineer",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-11-02",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/DevOps-Engineer_R_1519678",
+"source": "TD careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Data Scientist - Credit (Retros)",
