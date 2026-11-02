@@ -1,6 +1,49 @@
 {
-"updated": "2026-11-02T06:19:51+00:00",
+"updated": "2026-11-02T06:29:46+00:00",
 "jobs": [
+{
+"title": "DevOps Engineer",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-11-02",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/DevOps-Engineer_R_1519678",
+"source": "TD careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Mechanical Engineer - Product Design & Manufacturing",
+"company": "",
+"location": "Glenboro, MB, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=946dc6cfc452a3e8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/mechanical-engineer-product-design-manufacturing-946dc6cfc452a3e8",
+"salary": "$65,000.00 per year",
+"req": "About the Opportunity BD Manufacturing Ltd., home of Norberts Trailers, is growing and expanding its product lines. We're looking for a motivated Mechanical Engineer to join our engineering team and p\nParticipate in continuous improvement and automation initiatives. Qualifications  Degree in Mechanical Engineering, Manufacturing Engineering, or a related engineering discipline.\nExperience or familiarity with SolidWorks, Autodesk Inventor, or similar CAD software.\nStrong communication, organizational, and project coordination skills. Recent engineering graduates are encouraged to apply. Practical thinking, initiative, curiosity, and a willingness to learn are h\nGain hands-on experience from concept through manufacturing.\nWork closely with an experienced manufacturing and engineering team."
+},
+{
+"title": "Information Security Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto Office",
+"posted": "2026-11-02",
+"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Information-Security-Analyst_J71904",
+"source": "Fidelity Canada careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "DDI Network Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-02",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/DDI-Network-Engineer_R260026568",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Retailer Support Specialist",
 "company": "Furniture Wizard Software",
@@ -20,49 +63,6 @@
 "Help desk / troubleshooting",
 "Mobile (iOS / Android)"
 ]
-},
-{
-"title": "DDI Network Engineer",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-11-02",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/DDI-Network-Engineer_R260026568",
-"source": "BMO careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Information Security Analyst",
-"company": "Fidelity Canada",
-"location": "Toronto Office",
-"posted": "2026-11-02",
-"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Information-Security-Analyst_J71904",
-"source": "Fidelity Canada careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Mechanical Engineer - Product Design & Manufacturing",
-"company": "",
-"location": "Glenboro, MB, CA",
-"posted": "2026-11-02",
-"link": "https://ca.indeed.com/viewjob?jk=946dc6cfc452a3e8",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/mechanical-engineer-product-design-manufacturing-946dc6cfc452a3e8",
-"salary": "$65,000.00 per year",
-"req": "About the Opportunity BD Manufacturing Ltd., home of Norberts Trailers, is growing and expanding its product lines. We're looking for a motivated Mechanical Engineer to join our engineering team and p\nParticipate in continuous improvement and automation initiatives. Qualifications  Degree in Mechanical Engineering, Manufacturing Engineering, or a related engineering discipline.\nExperience or familiarity with SolidWorks, Autodesk Inventor, or similar CAD software.\nStrong communication, organizational, and project coordination skills. Recent engineering graduates are encouraged to apply. Practical thinking, initiative, curiosity, and a willingness to learn are h\nGain hands-on experience from concept through manufacturing.\nWork closely with an experienced manufacturing and engineering team."
-},
-{
-"title": "DevOps Engineer",
-"company": "TD",
-"location": "Toronto, Ontario",
-"posted": "2026-11-02",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/DevOps-Engineer_R_1519678",
-"source": "TD careers",
-"country": "CA",
-"years": 5
 },
 {
 "title": "Data Scientist - Credit (Retros)",
@@ -1172,6 +1172,69 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-01",
 "link": "https://www.linkedin.com/jobs/view/4485935649",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Representative",
+"company": "LM Quality Staffing Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4485194219",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Detection Engineer, Falcon Complete (Remote)",
+"company": "CrowdStrike",
+"location": "Remote · United States",
+"posted": "2026-11-01",
+"link": "https://www.indeed.com/viewjob?jk=6928837cb02a4b2c",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Detection-Engineer--Falcon-Complete--Remote-_R30634",
+"salary": "$100,000 - $150,000 USD per year",
+"skills": [
+"Python",
+"LLMs / GenAI",
+"CI/CD",
+"Monitoring",
+"Cybersecurity",
+"SIEM",
+"EDR",
+"Threat intelligence",
+"System design"
+]
+},
+{
+"title": "Customer Service Advocate",
+"company": "telMAX Inc.",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4480719228",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Rogers Field Representative [Spectre Management]",
+"company": "CareerBeacon",
+"location": "Moncton, New Brunswick, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4485943527",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Paid Media Coordinator (Ad Ops)",
+"company": "Cineplex",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4484277001",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -6059,6 +6122,46 @@
 "location": "Mississauga, Ontario, Canada",
 "posted": "2026-10-31",
 "link": "https://www.linkedin.com/jobs/view/4470646244",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician (Production) - Toronto, ON",
+"company": "Xerox",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4476855076",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Enterprise Implementation Consultant",
+"company": "MaintainX",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4439894192",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "M365 Training Coordinator",
+"company": "Affinity",
+"location": "Surrey, British Columbia, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4476873133",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Chromebook Sales Specialist",
+"company": "Premium Retail Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4466663921",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18583,7 +18686,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618638&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18429544-requirements-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D52bd658a-d4c2-11f1-a576-635b1349257a%26rx_job%3D2618638%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261102T040402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618638",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618638&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18429544-requirements-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D52bd658a-d4c2-11f1-a576-635b1349257a%26rx_job%3D2618638%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261102T060402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618638",
 "salary": "$80,001 - $120,000 USD per year",
 "skills": [
 "Ticketing (ServiceNow, Jira)",
