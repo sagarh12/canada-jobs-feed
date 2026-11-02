@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-02T20:59:48+00:00",
+"updated": "2026-11-02T21:09:59+00:00",
 "jobs": [
 {
 "title": "Azure Digital Solution Area Specialist- Oil & Gas",
@@ -60,17 +60,18 @@
 "years": 3,
 "quals": [
 "3+ years of experience working with relational database systems.",
-"Strong hands-on experience with MySQL (administration, performance tuning, replication, HA/DR).",
-"1+ years in a DBRE or database-focused engineering role.",
-"Experience working in cloud environments (AWS, GCP, or Azure — Azure preferred)."
+"1+ year working in a Database / SRE / Engineering-related role-· SQL Server or PostgreSQL experience preferred,  other DBMS is nice to haves",
+"Hands-on experience with SQL Server or PostgreSQL administration, performance tuning, replication, high availability, and disaster recovery.",
+"Experience working in the cloud (AWS, GCP, or Azure — Azure preferred)."
 ],
 "skills": [
 "Python",
 "C#",
+"Go",
 "SQL",
 "PowerShell",
 "PostgreSQL",
-"MySQL",
+"SQL Server",
 "NoSQL",
 "AWS",
 "Azure",
@@ -78,12 +79,13 @@
 "Terraform",
 "Ansible",
 "Git",
+"Infrastructure as code",
 "Monitoring",
 "Cybersecurity",
 "Help desk / troubleshooting",
 "Jira"
 ],
-"req": "At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness A\nFor Hybrid Roles: If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limited to, \nQualifications and Skills\n3+ years of experience working with relational database systems.\nStrong hands-on experience with MySQL (administration, performance tuning, replication, HA/DR).\n1+ years in a DBRE or database-focused engineering role.\nExperience working in cloud environments (AWS, GCP, or Azure — Azure preferred).\nCoding and automation experience (Python, PowerShell, SQL, etc.).\nExperience with Infrastructure-as-Code tools such as Ansible and Terraform.\nExperience working with source control systems such as Git.\nMySQL experience preferred; PostgreSQL is a plus.\nExperience working with VLDBs (1+ TB) and managing large database fleets (100+ instances).\nExperience with scripting or programming languages such as PowerShell, C#, SQL, and Python.\nAdditional experience with the following tools/systems is a plus: Git, Jira, Azure Cloud, Grafana, and various NoSQL technologies. On-call or after-hours work will be required.\nIt is the policy of PointClickCare to ensure equal employment opportunity without discrimination or harassment on the basis of race, religion, national origin, s"
+"req": "At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness A\nFor Hybrid Roles: If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limited to, \nQualifications and Skills\n3+ years of experience working with relational database systems.\n1+ year working in a Database / SRE / Engineering-related role-· SQL Server or PostgreSQL experience preferred,  other DBMS is nice to haves \nHands-on experience with SQL Server or PostgreSQL administration, performance tuning, replication, high availability, and disaster recovery.\nExperience working in the cloud (AWS, GCP, or Azure — Azure preferred).\nExperience working with IaC tools such as Ansible and Terraform.\nCoding / Automation experience with languages such as PowerShell, C#, SQL, Python, and Go.\nExperience working with source control systems such as Git.\nExperience working with large databases (1+ TB) and managing large database environments is a plus.\nAdditional experience with the following tools/systems is a plus: Jira, confluence, Grafana, ClickHouse, and various NoSQL databases.\nExperience working with AI tools, technologies, or AI-assisted development and automation is a plus.\nSome on-call or after-hours work will be required.\nIt is the policy of PointClickCare to ensure equal"
 },
 {
 "title": "Int Database Reliability Engineer (DBRE)",
@@ -96,17 +98,18 @@
 "years": 3,
 "quals": [
 "3+ years of experience working with relational database systems.",
-"Strong hands-on experience with MySQL (administration, performance tuning, replication, HA/DR).",
-"1+ years in a DBRE or database-focused engineering role.",
-"Experience working in cloud environments (AWS, GCP, or Azure — Azure preferred)."
+"1+ year working in a Database / SRE / Engineering-related role-· SQL Server or PostgreSQL experience preferred,  other DBMS is nice to haves",
+"Hands-on experience with SQL Server or PostgreSQL administration, performance tuning, replication, high availability, and disaster recovery.",
+"Experience working in the cloud (AWS, GCP, or Azure — Azure preferred)."
 ],
 "skills": [
 "Python",
 "C#",
+"Go",
 "SQL",
 "PowerShell",
 "PostgreSQL",
-"MySQL",
+"SQL Server",
 "NoSQL",
 "AWS",
 "Azure",
@@ -114,12 +117,13 @@
 "Terraform",
 "Ansible",
 "Git",
+"Infrastructure as code",
 "Monitoring",
 "Cybersecurity",
 "Help desk / troubleshooting",
 "Jira"
 ],
-"req": "At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness A\nFor Hybrid Roles: If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limited to, \nQualifications and Skills\n3+ years of experience working with relational database systems.\nStrong hands-on experience with MySQL (administration, performance tuning, replication, HA/DR).\n1+ years in a DBRE or database-focused engineering role.\nExperience working in cloud environments (AWS, GCP, or Azure — Azure preferred).\nCoding and automation experience (Python, PowerShell, SQL, etc.).\nExperience with Infrastructure-as-Code tools such as Ansible and Terraform.\nExperience working with source control systems such as Git.\nMySQL experience preferred; PostgreSQL is a plus.\nExperience working with VLDBs (1+ TB) and managing large database fleets (100+ instances).\nExperience with scripting or programming languages such as PowerShell, C#, SQL, and Python.\nAdditional experience with the following tools/systems is a plus: Git, Jira, Azure Cloud, Grafana, and various NoSQL technologies. On-call or after-hours work will be required.\nIt is the policy of PointClickCare to ensure equal employment opportunity without discrimination or harassment on the basis of race, religion, national origin, s"
+"req": "At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness A\nFor Hybrid Roles: If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limited to, \nQualifications and Skills\n3+ years of experience working with relational database systems.\n1+ year working in a Database / SRE / Engineering-related role-· SQL Server or PostgreSQL experience preferred,  other DBMS is nice to haves \nHands-on experience with SQL Server or PostgreSQL administration, performance tuning, replication, high availability, and disaster recovery.\nExperience working in the cloud (AWS, GCP, or Azure — Azure preferred).\nExperience working with IaC tools such as Ansible and Terraform.\nCoding / Automation experience with languages such as PowerShell, C#, SQL, Python, and Go.\nExperience working with source control systems such as Git.\nExperience working with large databases (1+ TB) and managing large database environments is a plus.\nAdditional experience with the following tools/systems is a plus: Jira, confluence, Grafana, ClickHouse, and various NoSQL databases.\nExperience working with AI tools, technologies, or AI-assisted development and automation is a plus.\nSome on-call or after-hours work will be required.\nIt is the policy of PointClickCare to ensure equal"
 },
 {
 "title": "Software Engineer, Asset Management Digital Solutions (AMDS)",
