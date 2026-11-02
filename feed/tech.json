@@ -1,6 +1,39 @@
 {
-"updated": "2026-11-02T05:19:50+00:00",
+"updated": "2026-11-02T05:29:54+00:00",
 "jobs": [
+{
+"title": "Mechanical Engineer - Product Design & Manufacturing",
+"company": "",
+"location": "Glenboro, MB, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=946dc6cfc452a3e8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/mechanical-engineer-product-design-manufacturing-946dc6cfc452a3e8",
+"salary": "$65,000.00 per year",
+"req": "About the Opportunity BD Manufacturing Ltd., home of Norberts Trailers, is growing and expanding its product lines. We're looking for a motivated Mechanical Engineer to join our engineering team and p\nParticipate in continuous improvement and automation initiatives. Qualifications  Degree in Mechanical Engineering, Manufacturing Engineering, or a related engineering discipline.\nExperience or familiarity with SolidWorks, Autodesk Inventor, or similar CAD software.\nStrong communication, organizational, and project coordination skills. Recent engineering graduates are encouraged to apply. Practical thinking, initiative, curiosity, and a willingness to learn are h\nGain hands-on experience from concept through manufacturing.\nWork closely with an experienced manufacturing and engineering team."
+},
+{
+"title": "Information Security Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto Office",
+"posted": "2026-11-02",
+"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Information-Security-Analyst_J71904",
+"source": "Fidelity Canada careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "DDI Network Engineer",
+"company": "BMO",
+"location": "Toronto, ON, CAN",
+"posted": "2026-11-02",
+"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/DDI-Network-Engineer_R260026568",
+"source": "BMO careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Retailer Support Specialist",
 "company": "Furniture Wizard Software",
@@ -22,37 +55,41 @@
 ]
 },
 {
-"title": "DDI Network Engineer",
-"company": "BMO",
-"location": "Toronto, ON, CAN",
-"posted": "2026-11-02",
-"link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/DDI-Network-Engineer_R260026568",
-"source": "BMO careers",
-"country": "CA",
-"years": null
+"title": "Data Scientist - Credit (Retros)",
+"company": "Plaid",
+"location": "Remote · United States",
+"posted": "2026-11-02T05:28:53.960+00:00",
+"link": "https://jobs.ashbyhq.com/plaid/9d8a139c-8f99-4049-b7bd-8de693820d7b",
+"source": "Plaid careers",
+"country": "US",
+"years": 2,
+"skills": [
+"Python",
+"SQL",
+"Machine learning",
+"dbt",
+"ETL / data pipelines",
+"Data visualization",
+"System design"
+],
+"req": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that\nWe’re part of Plaid’s Data organization, building models and insights that help millions of people better understand and grow their financial lives. We use Plaid’s unique financial data to help lender\nAs a Data Scientist on the Credit team, you’ll apply quantitative analysis and deep credit expertise to help lenders make better use of cash flow insights. You’ll work across customer problems, credit\nServe as a subject matter expert on credit insights and credit policy implementation, supporting Data Science, Engineering, and Go-to-Market partners.\nApply your expertise in quantitative analysis, data mining, and data visualization to develop models and actionable insights.\nApplying data science and credit expertise to real-world lending decisions.\n2–5 years of industry experience in a financial services Data Science role.\nHands-on credit expertise building and maintaining credit policies for lenders.\nNice to have: Experience building data pipelines and automating ETL processes with dbt or similar tools.\nOur mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem mo\nPlaid is proud to be an equal opportunity employer and values diversity at our com"
 },
 {
-"title": "Information Security Analyst",
-"company": "Fidelity Canada",
-"location": "Toronto Office",
-"posted": "2026-11-02",
-"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Information-Security-Analyst_J71904",
-"source": "Fidelity Canada careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Mechanical Engineer - Product Design & Manufacturing",
-"company": "",
-"location": "Glenboro, MB, CA",
-"posted": "2026-11-02",
-"link": "https://ca.indeed.com/viewjob?jk=946dc6cfc452a3e8",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/mechanical-engineer-product-design-manufacturing-946dc6cfc452a3e8",
-"salary": "$65,000.00 per year",
-"req": "About the Opportunity BD Manufacturing Ltd., home of Norberts Trailers, is growing and expanding its product lines. We're looking for a motivated Mechanical Engineer to join our engineering team and p\nParticipate in continuous improvement and automation initiatives. Qualifications  Degree in Mechanical Engineering, Manufacturing Engineering, or a related engineering discipline.\nExperience or familiarity with SolidWorks, Autodesk Inventor, or similar CAD software.\nStrong communication, organizational, and project coordination skills. Recent engineering graduates are encouraged to apply. Practical thinking, initiative, curiosity, and a willingness to learn are h\nGain hands-on experience from concept through manufacturing.\nWork closely with an experienced manufacturing and engineering team."
+"title": "Machine Learning Engineer - Lendscore",
+"company": "Plaid",
+"location": "Remote · United States",
+"posted": "2026-11-02T05:27:54.363+00:00",
+"link": "https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+"source": "Plaid careers",
+"country": "US",
+"years": 2,
+"skills": [
+"Python",
+"Machine learning",
+"Spark",
+"System design"
+],
+"req": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that\nWe focus on credit, building models to the standards required in lending and supporting the next wave of cash-flow-based underwriting. We value technical expertise, creativity, user empathy, and teamw\n2+ years of experience training and serving AI or machine learning models in a production environment.\nExperience in fintech lending and a strong understanding of how models are built and used in lending.\nExperience building or working with data-intensive backend applications in large, distributed systems.\nMaster’s degree or equivalent work experience in Computer Science, Mathematics, Engineering, or a closely related field.\nNice to have: Experience in data analytics or data engineering.\nOur mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem mo\nPlaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (incl\nAdditional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pa"
 },
 {
 "title": "ServiceNow Discovery Developer",
@@ -5932,6 +5969,36 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-10-31",
 "link": "https://www.linkedin.com/jobs/view/4459316471",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Outside Sales Internship / Co-op - 2027",
+"company": "Uline",
+"location": "Carleton Place, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4450015025",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Journey Optimization Developer",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4475254252",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Automotive Accounting Specialist - Training and Implementation",
+"company": "PBS Systems",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-10-31",
+"link": "https://www.linkedin.com/jobs/view/4483925628",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
