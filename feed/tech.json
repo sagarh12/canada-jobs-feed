@@ -1,6 +1,42 @@
 {
-"updated": "2026-11-02T19:09:54+00:00",
+"updated": "2026-11-02T19:19:48+00:00",
 "jobs": [
+{
+"title": "Int Database Reliability Engineer (DBRE)",
+"company": "PointClickCare",
+"location": "Remote · United States",
+"posted": "2026-11-02T19:13:33.485000+00:00",
+"link": "https://jobs.lever.co/pointclickcare/dc0d44ce-bc2a-4577-bb0b-a38250bfc971",
+"source": "PointClickCare careers",
+"country": "US",
+"years": 3,
+"quals": [
+"3+ years of experience working with relational database systems.",
+"Strong hands-on experience with MySQL (administration, performance tuning, replication, HA/DR).",
+"1+ years in a DBRE or database-focused engineering role.",
+"Experience working in cloud environments (AWS, GCP, or Azure — Azure preferred)."
+],
+"skills": [
+"Python",
+"C#",
+"SQL",
+"PowerShell",
+"PostgreSQL",
+"MySQL",
+"NoSQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Terraform",
+"Ansible",
+"Git",
+"Monitoring",
+"Cybersecurity",
+"Help desk / troubleshooting",
+"Jira"
+],
+"req": "At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness A\nFor Hybrid Roles: If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include, but not limited to, \nQualifications and Skills\n3+ years of experience working with relational database systems.\nStrong hands-on experience with MySQL (administration, performance tuning, replication, HA/DR).\n1+ years in a DBRE or database-focused engineering role.\nExperience working in cloud environments (AWS, GCP, or Azure — Azure preferred).\nCoding and automation experience (Python, PowerShell, SQL, etc.).\nExperience with Infrastructure-as-Code tools such as Ansible and Terraform.\nExperience working with source control systems such as Git.\nMySQL experience preferred; PostgreSQL is a plus.\nExperience working with VLDBs (1+ TB) and managing large database fleets (100+ instances).\nExperience with scripting or programming languages such as PowerShell, C#, SQL, and Python.\nAdditional experience with the following tools/systems is a plus: Git, Jira, Azure Cloud, Grafana, and various NoSQL technologies. On-call or after-hours work will be required.\nIt is the policy of PointClickCare to ensure equal employment opportunity without discrimination or harassment on the basis of race, religion, national origin, s"
+},
 {
 "title": "Int Database Reliability Engineer (DBRE)",
 "company": "PointClickCare",
@@ -3451,6 +3487,16 @@
 "posted": "2026-11-02",
 "link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8464",
 "source": "NAV CANADA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Success Engineer",
+"company": "Adobe",
+"location": "Ottawa",
+"posted": "2026-11-02",
+"link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Ottawa/Technology-Consultant_R168536-1",
+"source": "Adobe careers",
 "country": "CA",
 "years": null
 },
@@ -11078,39 +11124,6 @@
 "source": "GitLab careers",
 "country": "US",
 "years": 3
-},
-{
-"title": "Developer, Enterprise Tenants and Policies",
-"company": "1Password",
-"location": "Canada",
-"posted": "2026-10-30T19:13:47.185+00:00",
-"link": "https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6",
-"source": "1Password careers",
-"country": "CA",
-"years": 2,
-"salary": "$500",
-"quals": [
-"Experience with a modern backend language (e.g. Go, Node.js, Ruby, or Python)",
-"A drive for and proven experience in software development best practices and coding standards",
-"You enjoy solving moderately complex problems and have demonstrated an ability to propose effective solutions",
-"You enjoy communicating and collaborating, with experience working effectively across teams and explaining technical concepts to non-technic"
-],
-"skills": [
-"Python",
-"TypeScript",
-"Go",
-"Ruby",
-"React",
-"Node.js",
-"Machine learning",
-"NLP",
-"Oracle",
-"Kubernetes",
-"Microservices",
-"Cybersecurity",
-"System design"
-],
-"req": "At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic\nThis team focuses on the B2B side of our Enterprise Password Manager. We build features that help large organizations manage 1Password at scale. Our team focuses on multi-tenancy and linked accounts, \nYou have 2+ years of experience in software development\nExperience with a modern backend language (e.g. Go, Node.js, Ruby, or Python)\nA drive for and proven experience in software development best practices and coding standards\nYou enjoy communicating and collaborating, with experience working effectively across teams and explaining technical concepts to non-technical cross-functional partners\nExperience with DevOps practices while also contributing to application development\nExperience working with Kubernetes and infrastructure configuration\nExperience working with microservices or distributed systems\nExperience building frontends with TypeScript and React\nBuild features that support multi-tenancy, linked accounts, policy management, and the admin console experience\nAt 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.\nYou’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is "
 }
 ]
 }
