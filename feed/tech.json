@@ -1,36 +1,81 @@
 {
-"updated": "2026-11-03T02:19:46+00:00",
+"updated": "2026-11-03T02:29:44+00:00",
 "jobs": [
 {
-"title": "CNC Machinist/Programmer",
-"company": "Advance Machines Ltd.",
-"location": "Delta, BC, CA",
+"title": "Client Success Representative",
+"company": "One Door",
+"location": "Remote · United States",
 "posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
+"link": "https://www.indeed.com/viewjob?jk=d519688cc8900230",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/client-success-representative-d519688cc8900230",
+"salary": "$45,000 - $52,000 USD per year",
+"skills": [
+"REST APIs",
+"Excel",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Salesforce"
+],
+"req": "Update the knowledge base when you learn something new, so the next person (including future you) can solve it faster. What You Bring  1–3 years in customer support, a help desk or client success, ide\nExperience working cases in Salesforce or a similar ticketing tool (Zendesk, Freshdesk, ServiceNow).\nBonus: Jira, Excel, or experience with retail or telecom customers."
+},
+{
+"title": "Intermediate .NET Developer",
+"company": "Aquila Software Group",
+"location": "Remote · United States",
+"posted": "2026-11-03",
+"link": "https://www.indeed.com/viewjob?jk=fa8318c4e571ca2c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://aquilasw.recruiterbox.com/jobs/fk0zcfx?fjb_hash=ezLpq610",
+"skills": [
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"HTML/CSS",
+"Angular",
+".NET",
+"REST APIs",
+"SQL Server",
+"AWS",
+"Azure",
+"Git",
+"Microservices",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Object-oriented programming",
+"System design"
+],
+"req": "We are excited to speak to you about this opportunity. If you are interested in joining our growing team, please apply to this link directly. Who we are At Aquila, we invest in category-defining B2B/B\nExplore AI-assisted development. You will incorporate AI-assisted tools into your development workflow where they add value, exploring ways to improve coding, testing, troubleshooting, and productivit\nThe architectural experience. You have experience designing back-end systems and making technical decisions about service structures, APIs, and data access. You can evaluate different approaches, expl\nThe database skills. You have experience working with SQL Server, T-SQL, stored procedures, and relational database design. You understand how to optimize queries and work with data-access technologie\nThe problem-solving approach. You have worked with complex, established applications and can understand existing functionality, troubleshoot issues, and identify opportunities for modernization and im\nThe adaptability and curiosity. You are comfortable learning new technologies and exploring tools that improve how software is developed. You may have experience with AI-assisted development tools suc\nThe collaboration. You communicate technical ideas clearly, work effectively with product stakeholders and distributed development teams, and enjoy sharing knowledge with others. You are comfortable b\nA virtual technical interview with the Development Manager and members of the technical team,"
+},
+{
+"title": "Business Analyst",
+"company": "ThirdEye CyberSecurity",
+"location": "Regina, SK, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=95d4f8211a3b1234",
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
-"salary": "$45 per hour",
+"apply": "http://ca.indeed.com/job/business-analyst-95d4f8211a3b1234",
+"salary": "$75.00-$80.00 per hour",
+"start": "December 1, 2026",
 "skills": [
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "Administrative Support - Operations Support",
-"company": "Boiron Group - Royal LePage Terrequity Realty, Inc.",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=d15fef3c55ef2446",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/administrative-support-operations-support-d15fef3c55ef2446",
-"salary": "$21.00-$26.00 per hour",
-"skills": [
-"Excel"
+".NET",
+"Azure",
+"Git",
+"Microservices",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Jest / PyTest"
 ],
-"req": "A – POSITION DESCRIPTION Scope of Position: The Administrative Assistant reports to the President and provides administrative and operational support across the company. The role provides backup for t\nIdentify and follow up on missing paperwork, unmatched receipts, and open orders so that period-end records are complete and accurate. Project and Administrative Support:  Provide project management s\nPrepare status updates, action-item lists, and summary reports for project owners and the President, and flag risks, delays, and decisions required.\nProvide administrative support to the President and the management team, including scheduling, meeting preparation, document organization, and follow-up on action items.\nTake over administrative tasks currently performed by other team members, as identified and assigned by the President, and document the procedures for each task taken on. General:  Maintain organized \nTravel between the main plant and Hana as needed to support inventory, order, and shipping and receiving activities at both locations. Key Relationships:  President: Reports directly; receives priorit\nController & Admin Assistant / AR-AP: Provides order, receiving, inventory, and retail documentation to support invoicing, payables, and the month end close. Decision-Making Authority: Executes order,\nFood Handler Certification an asset (or willingness to obtain). Work Experience:  Minimum 2-3 years of experience in an administrative, executive assistant, customer service, o"
+"req": "Business Analyst Due Date: November 13, 2026 Term: December 1, 2026, to March 31, 2027. 4 Months initial engagement with potential for extension up to 24 months. Start Date: December 1, 2026 Location:\nFacilitate Agile ceremonies, perform Scrum Master duties as needed, remove barriers, and promote collaboration and continuous improvement."
 },
 {
 "title": "Client Success Representative (Full-Time Contractor, Remote – Canada)",
@@ -52,6 +97,37 @@
 "Salesforce"
 ],
 "req": "Update the knowledge base when you learn something new, so the next person (including future you) can solve it faster. What You Bring  1–3 years in customer support, a help desk or client success, ide\nExperience working cases in Salesforce or a similar ticketing tool (Zendesk, Freshdesk, ServiceNow).\nBonus: Jira, Excel, or experience with retail or telecom customers."
+},
+{
+"title": "Administrative Support - Operations Support",
+"company": "Boiron Group - Royal LePage Terrequity Realty, Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=d15fef3c55ef2446",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/administrative-support-operations-support-d15fef3c55ef2446",
+"salary": "$21.00-$26.00 per hour",
+"skills": [
+"Excel"
+],
+"req": "A – POSITION DESCRIPTION Scope of Position: The Administrative Assistant reports to the President and provides administrative and operational support across the company. The role provides backup for t\nIdentify and follow up on missing paperwork, unmatched receipts, and open orders so that period-end records are complete and accurate. Project and Administrative Support:  Provide project management s\nPrepare status updates, action-item lists, and summary reports for project owners and the President, and flag risks, delays, and decisions required.\nProvide administrative support to the President and the management team, including scheduling, meeting preparation, document organization, and follow-up on action items.\nTake over administrative tasks currently performed by other team members, as identified and assigned by the President, and document the procedures for each task taken on. General:  Maintain organized \nTravel between the main plant and Hana as needed to support inventory, order, and shipping and receiving activities at both locations. Key Relationships:  President: Reports directly; receives priorit\nController & Admin Assistant / AR-AP: Provides order, receiving, inventory, and retail documentation to support invoicing, payables, and the month end close. Decision-Making Authority: Executes order,\nFood Handler Certification an asset (or willingness to obtain). Work Experience:  Minimum 2-3 years of experience in an administrative, executive assistant, customer service, o"
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "Advance Machines Ltd.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
+"salary": "$45 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Software Engineer, Full Stack",
@@ -82,6 +158,26 @@
 "source": "EY careers",
 "country": "CA",
 "years": 2
+},
+{
+"title": "Programmer Analyst",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M5H1B6",
+"posted": "2026-11-03T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Programmer-Analyst-ON-M5H1B6/606737617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Business Analyst, Toronto",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M5H 0B4",
+"posted": "2026-11-03T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Business-Analyst%2C-Toronto-ON-M5H-0B4/606727217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Digital Sales Representative - Expansion",
@@ -8512,6 +8608,364 @@
 "Hardware setup"
 ],
 "req": "Summary: Provides technical support to users by researching and answering questions, troubleshooting problems, and maintaining hardware and software throughout Heartland Co-op facilities. Essential Du\nAble to travel to locations throughout Heartland Co-op.\nMust maintain valid driver’s license and commercial insurability at all times.\nOther duties as assigned by management. Work Environment: The work environment characteristics described here are representative of those an employee encounters while performing the essential function\nTechnical Skills - Strives to continuously build knowledge and skills; Shares expertise with others.\nDependability - Follows instructions, responds to management direction; Commits to long hours of work when necessary to reach goals; Completes tasks on time or notifies appropriate person with an alte"
+},
+{
+"title": "Software developer",
+"company": "Media Resources",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50646550",
+"source": "Job Bank",
+"country": "CA",
+"years": 7
+},
+{
+"title": "IT - After Hours Support - ASL Distribution (Oakville)",
+"company": "Fastfrate",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=03fe2c1d035076a0",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.dayforcehcm.com/en-US/fastfrate/CANDIDATEPORTAL/jobs/573",
+"salary": "$50.00 - $80.00/ hour",
+"skills": [
+"Python",
+"SQL",
+"PowerShell",
+"ETL / data pipelines",
+"Excel",
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Escalate complex issues to the appropriate technical teams or vendors when necessary. EDI & Integration Support  Monitor EDI transactions and integration processes between internal systems, customers,\nCoordinate with internal teams and external partners to resolve integration-related issues.\nCoordinate hardware replacements, troubleshooting, and vendor escalations when required. Monitoring, Incident Management & Operational Support  Proactively monitor critical applications, integrations,\nIdentify recurring problems and recommend corrective actions to prevent future incidents. Qualifications:  2 to 4 years of hands-on IT technical support, application support, or systems support experi\nExperience working in a fast-paced, 24/7 logistics or distribution environment would be a strong advantage.\nExperience supporting business applications and investigating production issues.\nHands-on experience troubleshooting computers, printers, RF scanners, and peripherals.\nStrong sense of urgency and accountability when supporting business-critical systems  Basic scripting experience with PowerShell or Python. How To Apply: If you’re interested in joining our team, plea"
+},
+{
+"title": "Service Support Analyst",
+"company": "PBS Systems",
+"location": "Milton, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=92e19ab932d9ba17",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/pbssystems/CANDIDATEPORTAL/jobs/12065",
+"salary": "$48,000k/yr",
+"skills": [
+"Excel",
+"Windows",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Company Name: PBS Systems Job Location: Calgary, AB (Tech Center) or Milton, ON Job Type: Full-time, Permanent No. of Openings: 01 Job Requirement(s): Travel across Canada and USA up to one week per m"
+},
+{
+"title": "Receptionist",
+"company": "JLL",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=40221f8a10a005ca",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://click.appcast.io/t/VVJZetlX69a1gewpaOZpezD2JvKQaFD_qb5l086kJ3Y=",
+"skills": [
+"Excel",
+"Help desk / troubleshooting"
+],
+"req": "JLL empowers you to shape a brighter way. Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are "
+},
+{
+"title": "Water / Wastewater Technologist (CAD Drafting)",
+"company": "ISL Engineering and Land Services",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=a6b388fd64c4d176",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/isl/CANDIDATEPORTAL/jobs/1706",
+"skills": [
+"Python",
+"Microsoft 365"
+],
+"req": "Are you an experienced CAD drafting technician, or a recent graduate, looking to build a long-term career in municipal water and wastewater infrastructure? Do you want direct exposure to Plant 3D, Rev\nOngoing Development – we have a culture of mentorship that supports your career plans and uses both firsthand and formal training opportunities (internal and external) to build a versatile, well round\nWhat interests you about municipal water/wastewater infrastructure and long-term CAD/design work. Your resume should show us:  Post secondary education in a drafting, design, engineering, or a related\nExperience with other Autodesk platforms including Revit.\nReal world field or industry experience where candidates have worked in a municipal or industrial facility, a construction site, or a related trade bring valuable practical context to drafting and des\nApplication of tools to automate drafting tasks and cross checking (e.g., Dynamo, Python, Artificial Intelligence, etc.). A Little More About the Role This role directly supports our senior water / wa\nThe intent is that in the five-to-ten-year window, the successful candidate will take a leading role in the provision of water / wastewater CAD deliverables for projects.\nApply established company CAD standards consistently and working closely with senior staff with reviewing and updating standards as require.\nWork directly with our senior technologist as part of a planned, multi-year knowledge transfer and succession plan.\nCommitmen"
+},
+{
+"title": "AI Software Engineer",
+"company": "SS&C",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=a61a854333a3d541",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Ontario-Toronto/AI-Software-Engineer_R45795",
+"salary": "$65,000 -$90,000",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"Go",
+"SQL",
+"HTML/CSS",
+"REST APIs",
+"Kafka",
+"NoSQL",
+"CI/CD",
+"Microservices",
+"Cybersecurity",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design"
+],
+"req": "SS&C is a leading provider of mission-critical, AI-powered technology and services empowering financial services and healthcare organizations to work smarter, faster, and securely. Founded in 1986, SS\nWide-Ranging Perspectives: Committed to Celebrating the Variety of Backgrounds, Talents and Experiences of Our Employees What You Will Get To Do:  Design, develop, test, and support scalable software \nBuild and maintain modern web applications, SaaS platforms, REST APIs, and microservices for internal and external users.\nWhat You Will Bring:  Degree in Computer Science, Engineering, or a related field, or equivalent experience.\nExperience developing applications using Java, JavaScript, Python, or Go.\nExperience with SQL and relational databases; Kafka and NoSQL experience is an asset.\nSelf-motivated, collaborative, and able to manage competing priorities in a fast-paced environment. Experience using AI tools and technologies to enhance productivity and innovation is an asset."
+},
+{
+"title": "Analytical Technician",
+"company": "DOW",
+"location": "Fort Saskatchewan, AB, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=6cff1b5051ec7d33",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Fort-Saskatchewan-AB-CAN/Analytical-Technician_R2069485",
+"salary": "$43",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "At Dow, we believe in putting people first and we’re passionate about delivering integrity, respect and safety to our customers, our employees and the planet. Our people are at the heart of our soluti\nSupport the installation, qualification and implementation of new analytical equipment and methods, as required.\nActively participate in laboratory safety, quality and continuous improvement activities. Required Qualifications  A minimum of a 2-year college diploma in Chemical Technology or related.\nA minimum of 3 years of experience in an industrial lab role or lab technologist role (analytical lab role).\nAbility to safely work in a plant environment, meet physical demands, work at elevated heights, and comfortably use PPE and safety equipment. Must be familiar with or open to training on proper equipm\nA minimum requirement for this position is the ability to work legally in Canada. No visa sponsorship/support is available for this position, including any type of permanent residency support. Preferr\nExperience working in a Quality Control laboratory environment, following established procedures and safe work practices.\nExperience with analytical instrumentation, equipment maintenance and troubleshooting.\nExperience with techniques or equipment such as GC, FTIR, melt indexers, densitometers, rheometers or other laboratory analytical systems.\nCandidates will be considered for the opportunity that best aligns with their technical experience, qualifications and schedule availabilit"
+},
+{
+"title": "Service Support Analyst",
+"company": "PBS Systems",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=42996a813893257f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/pbssystems/CANDIDATEPORTAL/jobs/12065",
+"salary": "$48,000k/yr",
+"skills": [
+"Excel",
+"Windows",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Company Name: PBS Systems Job Location: Calgary, AB (Tech Center) or Milton, ON Job Type: Full-time, Permanent No. of Openings: 01 Job Requirement(s): Travel across Canada and USA up to one week per m"
+},
+{
+"title": "BI Developer",
+"company": "Hajoca Corporation",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=7d9104fffebdc1de",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://jobs.dayforcehcm.com/en-US/hajoca/CANDIDATEPORTAL/jobs/32477",
+"skills": [
+"SQL",
+"React",
+"Node.js",
+".NET",
+"REST APIs",
+"Power BI",
+"Git",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "Successfully complete required safety and compliance training programs as assigned.\nPerform other reasonably related duties as assigned by immediate supervisor and other management as requested. About You:  Bachelor's Degree or the equivalent combination of education, professional tr\n4+ years' experience in BI development, with hands-on Power BI experience including DAX, data modeling, and row-level security.\nDirect hands-on experience with the Microsoft Fabric ecosystem (Data Factory pipelines, Notebooks, Lakehouse management). Our ideal candidate will also:  Possess strong SQL skills, with direct experie\nHave experience managing Power BI/Fabric workspace administration, user permissions, and deployment pipelines.\nExperience with Microsoft Fabric Adaptive Query Optimization (FAQO) for improving semantic model performance and managing query execution across Power BI datasets.\nHave a proven ability to diagnose performance bottlenecks and refresh failures in production BI environments. Additional Nice-to-Haves / Growth Opportunities include:  Experience with advanced externa\nExperience with Power BI Project files (PBIP) and Git-based version control workflows.\nStrong attention to detail and the ability to meet deadlines. The benefits of working with us: Our culture is well-suited for exceptional people who use their talents to drive business and want to sha"
+},
+{
+"title": "QA Tester",
+"company": "Teknita",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=ac9126988e98acd4",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.teknita.com/company/careers/quality-assurance-qa-tester-software-applications/",
+"skills": [
+"SQL",
+"REST APIs",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira",
+"Postman",
+"Salesforce"
+],
+"req": "QA Tester ============= Job ID 10TEKSM00181-110226 – Remote, San Mateo County, USA We are seeking an experienced Quality Assurance (QA) Tester to ensure the quality, functionality, and reliability of \nRequired Skills:  + Hands-on experience in software quality assurance and manual testing. + Experience testing enterprise applications, SaaS platforms, and complex business systems. + Strong understan"
+},
+{
+"title": "Business Systems & Data Analyst",
+"company": "Cobalt Truck Equipment",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=2a2625a2b21cfe58",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6fa3a43d-7094-40bb-96fe-14301f9bebd7&ccId=328411570_3&jobId=26373&jwId=328411570_1&source=IN&lang=en_US",
+"skills": [
+"SQL",
+"Power BI",
+"Excel",
+"SQL Server",
+"Microsoft 365",
+"Data structures & algorithms",
+"Salesforce"
+],
+"req": "Help establish the data and process foundation required for future operational initiatives, including improved inventory planning and just-in-time inventory strategies.\nAnalyze how information related to sales demand, quoting, inventory, purchasing, work orders, production, and other operational processes moves through the organization and identify gaps that limit ti\nTwo (2) or more years of relevant experience in business analysis, data analysis, business intelligence, business systems, process improvement, or a related discipline.\nExperience developing reports, dashboards, data models, or business intelligence solutions used to support operational decision-making.\nAbility to organize ambiguous problems, manage multiple improvement efforts, document findings clearly, and follow changes through testing and validation. Preferred Skills  Experience with Microsoft P\nExperience working with Microsoft SQL Server or other relational database platforms.\nExperience with Salesforce reporting, data structures, objects, relationships, or business workflows.\nExperience with Microsoft SharePoint, Microsoft Lists, Excel, Power Automate, or Power Apps.\nExperience supporting ERP, CRM, workflow automation, integration, or other business-critical platforms.\nExperience in manufacturing, distribution, supply chain, inventory, purchasing, production, quoting, or order-management environments.\nAbility to communicate complex findings in clear business terms and work with leaders to define measures "
+},
+{
+"title": "SUR Developer I",
+"company": "Gainwell Technologies LLC",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=56874b570bfe0e97",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://jobs.gainwelltechnologies.com/job/Any-city-SUR-Developer-I-NC-99999/1447027800/",
+"salary": "$46,600 - $66,600 USD per year",
+"skills": [
+"C",
+"SQL",
+".NET",
+"Oracle",
+"Azure",
+"Git",
+"Help desk / troubleshooting",
+"SDLC"
+],
+"req": "SUR Developer I =================== Date: Nov 2, 2026 Location: Any city, NC, US, 99999 Req ID: 39326 Work Mode: Default Be part of a team that unleashes the power of leading-edge technologies to help\nCollaborate with business analysts, testers, and senior developers to deliver system enhancements.\nContribute to continuous improvement initiatives and application modernization efforts. What we're looking for --------------------------  0 to 2 years of experience in software development, applicati\nBasic programming and database experience with Oracle Database, PL/SQL, C, ASP.NET, SQL, and relational database concepts."
+},
+{
+"title": "Production Specialist",
+"company": "ECRI",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=f978b417fe637ee0",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/A2203B23CA790E25E77436AD7A6384DC/jobs/357846?source=Indeed",
+"salary": "$36 - $41 USD per hour",
+"skills": [
+"Excel",
+"Microsoft 365",
+"Jira"
+],
+"req": "ABOUT ECRI ECRI is an independent, nonprofit healthcare safety organization advancing evidence-based, effective healthcare globally. For more than 50 years, we've helped healthcare leaders make smarte"
+},
+{
+"title": "Advanced Software Engineer - AI Reliability Engineering",
+"company": "General Dynamics Mission Systems",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=0c00aa08ecc9b679",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers-gdms.icims.com/jobs/76781/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$118,519 - $131,482 USD per year",
+"skills": [
+"Python",
+"JavaScript",
+"TypeScript",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"Computer vision",
+"ETL / data pipelines",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Agile / Scrum",
+"System design",
+"Embedded systems",
+"Blockchain"
+],
+"req": "Basic Qualifications : Bachelor's degree in Software Engineering, or related Science, Technology, Engineering or Mathematics field, plus a minimum of 5 years of relevant experience; or Master's degree"
+},
+{
+"title": "Ground Architecture Systems Engineer",
+"company": "Arcfield",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=88fff826062d0cac",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://careers.arcfield.com/jobs/8859/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$110,204 - $191,624 USD per year",
+"skills": [
+"MATLAB",
+"Machine learning",
+"Excel",
+"Agile / Scrum",
+"Jira"
+],
+"req": "Arcfield Overview: Arcfield was purpose-built to relentlessly protect the nation and its allies from today’s national security threats. We have nearly 70 years of proven expertise and excel in space s\nParticipate in technical interchange meetings, architecture reviews, requirements reviews, and Agile planning activities. Qualifications: Required: Bachelor’s degree in Systems Engineering, Aerospace \nMust possess and be able to maintain a TS/SCI with Poly  Experience supporting systems engineering activities across the engineering “V” model and full system development life cycle.\nHands-on experience using Cameo Systems Modeler to develop and maintain MBSE artifacts.\nExperience applying SysML and/or UAF to model mission, system, enterprise, or system-of-systems architectures.\nExperience with requirements development, traceability, interface definition, architecture analysis, and technical baseline management.\nExperience performing modeling and simulation analysis using MATLAB, STK, AFSIM, or similar tools.\nStrong written and verbal communication skills, including the ability to develop and present clear technical recommendations. Desired: Master’s degree in Systems Engineering, Engineering Management, C\nExperience supporting a Chief Architect organization, Systems Engineering and Technical Assistance (SETA), Systems Engineering Integration and Test (SEIT), or government acquisition organization.\nExperience with intelligence-community, space, cyber, GEOINT, SIGINT, OPIR, radar, e"
+},
+{
+"title": "BUSINESS ANALYST L5",
+"company": "Wipro",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=1fd2cec487c1816e",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://careers.wipro.com/job/BUSINESS-ANALYST-L5/216286-en_US",
+"salary": "$80,000 - $158,000 USD per year",
+"skills": [
+"Microsoft 365"
+],
+"req": "Job Title: BUSINESS ANALYST L5 City: Louisville State/Province: Kentucky Posting Start Date: 11/2/26 Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting \nImplementation knowledge and experience in Epic Payer Platform(Clinical data exchage, member insights, electronic authorizations, ADTs, PAF an claims exchange)  Implementing, configuring, and maintain"
+},
+{
+"title": "Quality Specialist",
+"company": "Superior Plus Propane",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=1514fc7cb0d068fc",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.dayforcehcm.com/en-US/superiorplus/CANDIDATEPORTAL/jobs/44916",
+"salary": "$22 - $28 USD per hour",
+"skills": [
+"Excel",
+"Statistics"
+]
+},
+{
+"title": "IT Operations and Incident Support Analyst",
+"company": "Two Harbors Investment Corp.",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=4e68c9d1dc17a5c7",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/twoharbors/Round-Point/jobs/3627",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup",
+"ITIL"
+],
+"req": "We are looking for an Experienced IT Support Analyst to monitor and support the on-premises and cloud-based software solutions and infrastructure which includes enterprise job scheduling, batch proces\nAct as the point of contact to coordinate and manage triage efforts and communication for major incidents, outages and performance issues  Create, manage and operate using an established series of run\nMaintaining a strong understanding of the organization's business needs and working closely with other departments to ensure that IT is aligned with those needs. Qualifications/Requirements  Proven ex\nAbility to manage multiple projects and competing tactical issues and/or initiatives  High problem-solving aptitude and expert knowledge in troubleshooting complex technical ecosystems Education/Exper"
 },
 {
 "title": "Broadcast Technician",
