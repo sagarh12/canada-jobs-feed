@@ -1,8 +1,8 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,45%,1617,985,1617,2026-11-03
 2,REST APIs,Framework,25%,889,543,889,2026-11-03
-3,SQL,Language,24%,885,515,885,2026-11-03
-4,Python,Language,23%,822,487,822,2026-11-03
+3,SQL,Language,25%,886,516,886,2026-11-03
+4,Python,Language,23%,823,488,823,2026-11-03
 5,Excel,Data & AI,21%,755,493,755,2026-11-03
 6,System design,Practice,19%,703,422,703,2026-11-03
 7,Hardware setup,IT support,19%,675,414,675,2026-11-03
@@ -28,7 +28,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 27,C,Language,8%,280,163,280,2026-11-03
 28,HTML/CSS,Language,7%,264,175,264,2026-11-03
 29,Jira,Practice,7%,258,154,258,2026-11-03
-30,Machine learning,Data & AI,7%,252,150,252,2026-11-03
+30,Machine learning,Data & AI,7%,253,151,253,2026-11-03
 31,Kubernetes,Cloud & DevOps,7%,236,140,236,2026-11-03
 32,React,Framework,7%,236,138,236,2026-11-03
 33,Monitoring,Cloud & DevOps,6%,230,142,230,2026-11-03
@@ -72,8 +72,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 71,EDR,Security,3%,93,65,93,2026-11-03
 72,CompTIA A+,Certification,3%,92,56,92,2026-11-03
 73,CompTIA Security+,Certification,3%,91,61,91,2026-11-03
-74,Go,Language,2%,90,45,90,2026-11-03
-75,Snowflake,Data & AI,2%,90,37,90,2026-11-03
+74,Snowflake,Data & AI,3%,91,38,91,2026-11-03
+75,Go,Language,2%,90,45,90,2026-11-03
 76,Spark,Data & AI,2%,90,53,90,2026-11-03
 77,GitHub Actions,Cloud & DevOps,2%,87,57,87,2026-11-03
 78,SIEM,Security,2%,84,60,84,2026-11-03
@@ -154,4 +154,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 153,Google cert (Data / IT / Cyber),Certification,0%,2,1,2,2026-11-03
 154,Solidity,Language,0%,1,1,1,2026-11-03
 
-,Based on 3614 postings in the last 30 days (3614 all time)
+,Based on 3615 postings in the last 30 days (3615 all time)
