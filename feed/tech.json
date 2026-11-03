@@ -1,19 +1,24 @@
 {
-"updated": "2026-11-03T01:19:51+00:00",
+"updated": "2026-11-03T01:29:49+00:00",
 "jobs": [
 {
-"title": "CNC Machinist/Programmer",
-"company": "Advance Machines Ltd.",
-"location": "Delta, BC, CA",
+"title": "Client Success Representative (Full-Time Contractor, Remote – Canada)",
+"company": "One Door",
+"location": "CA (remote)",
 "posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
+"link": "https://ca.indeed.com/viewjob?jk=8080b06bbd5a78fe",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
-"salary": "$45 per hour",
+"years": null,
+"apply": "http://ca.indeed.com/job/client-success-representative-full-time-contractor-remote-canada-8080b06bbd5a78fe",
+"salary": "C$4,000 – C$4,650 per month",
 "skills": [
-"Help desk / troubleshooting"
+"REST APIs",
+"Excel",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Salesforce"
 ]
 },
 {
@@ -31,6 +36,21 @@
 "Excel"
 ],
 "req": "A – POSITION DESCRIPTION Scope of Position: The Administrative Assistant reports to the President and provides administrative and operational support across the company. The role provides backup for t\nIdentify and follow up on missing paperwork, unmatched receipts, and open orders so that period-end records are complete and accurate. Project and Administrative Support:  Provide project management s\nPrepare status updates, action-item lists, and summary reports for project owners and the President, and flag risks, delays, and decisions required.\nProvide administrative support to the President and the management team, including scheduling, meeting preparation, document organization, and follow-up on action items.\nTake over administrative tasks currently performed by other team members, as identified and assigned by the President, and document the procedures for each task taken on. General:  Maintain organized \nTravel between the main plant and Hana as needed to support inventory, order, and shipping and receiving activities at both locations. Key Relationships:  President: Reports directly; receives priorit\nController & Admin Assistant / AR-AP: Provides order, receiving, inventory, and retail documentation to support invoicing, payables, and the month end close. Decision-Making Authority: Executes order,\nFood Handler Certification an asset (or willingness to obtain). Work Experience:  Minimum 2-3 years of experience in an administrative, executive assistant, customer service, o"
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "Advance Machines Ltd.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
+"salary": "$45 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
 },
 {
 "title": "Research Engineer, Benchmarks & Evaluation",
@@ -8088,6 +8108,242 @@
 "req": "Hands-on experience building production gRPC and/or REST APIs in Go.\nExperience with Kubernetes-native development (client-go, controller-runtime).\nSolid experience with relational and key-value data stores.\nExperience with CI/CD pipelines and container-based deployment.\nStrong communication and documentation skills. Preferred Qualifications Open-source contributions to Go-based projects.\nExperience writing Kubernetes operators or controllers.\nExperience with WASM, Tinygo, or embedded systems. How to Apply Would you like to know more about this opportunity? For immediate consideration, please send your resume to Harry@bvteck.com or contact "
 },
 {
+"title": "Design Coordinator - New Grad (Infrastructure)",
+"company": "Ledcor",
+"location": "Whitby, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=1c5359ab1863a4ef",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ledcor.com/jobs/18436883-design-coordinator-new-grad-infrastructure",
+"salary": "$76,500.00 - $102,000.00",
+"skills": [
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Test Technologist - PCL (Evening)",
+"company": "Ecolab",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=45e2451fc0d6c838",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.ecolab.com/global/en/job/EIYEIEUSR00309186EXTERNALENGLOBAL/Test-Technologist-PCL-Evening?utm_source=srm_indeed_org",
+"salary": "$1,000",
+"skills": [
+"LLMs / GenAI",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Work in a hybrid environment. What You Will Do  Execute validation and qualification testing of passive cold plate loops and related liquid cooling hardware.\nSupport test planning and scheduling activities by preparing equipment, fixtures, and required instrumentation.\nMaintain and calibrate lab equipment, sensors, and instrumentation as required.\nFollow all laboratory safety procedures and best practices when operating test equipment and handling fluids and pressurized systems. Position Details  100% in the office  Evening Shift - 3pm to 11:30\n2-3 years of hands-on experience in mechanical, thermal, or fluid system testing.\nPractical experience with test setups, instrumentation, and data acquisition systems.\nExperience performing pressure, flow, thermal, and leak testing.\nCommitment to safety, quality, and accurate test execution. Preferred Qualifications  Experience with data center liquid cooling systems.\nExperience supporting engineering validation, qualification, or product development programs.\nExperience working in a manufacturing, product development, or testing laboratory environment. We thank every candidate in advance; however, we will contact only those selected for an interview. Pleas"
+},
+{
+"title": "Sessional Lecturer - CSC490H1S - Capstone Design Project",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=bbc051d7a326aa9c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-CSC490H1S%E2%80%AF-Capstone-Design-Project-ON/607623017/",
+"salary": "$7,062.93",
+"skills": [
+"Python",
+"Django",
+"Flask",
+"FastAPI",
+"REST APIs",
+"TensorFlow",
+"PyTorch",
+"Machine learning",
+"LLMs / GenAI",
+"AWS",
+"Azure",
+"Google Cloud",
+"Kubernetes",
+"Terraform"
+],
+"req": "Demonstrated expertise in topic area of the course required.\nStrong organizational, interpersonal, and communication skills required.\nTeaching experience at the university level or equivalent industry level required. Preferred qualifications:  Previous experience teaching undergraduate courses in the field of Computer Science prefer\nExperience working with application and machine learning infrastructure, such as Kubernetes, Terraform, AWS/Azure/GCP.\nExperience fine-tuning language models using frameworks such as Tensorflow, Pytorch, Transformers.\nExperience serving LLMs with frameworks such as TGI/VLLM/SGLang.\nExperience prompting LLMs for a variety of classification and generation tasks.\nExperience building APIs in Python using frameworks such as Django, Flask, FastAPI.\nExperience deploying startup vs. enterprise-scale projects. Description of duties:  Preparing and delivering the lectures in-person on campus as scheduled.\nProviding appropriate contact time outside of class to students, through office hours, email, the course website and/or the course bulletin board.\nManaging the grades, including the timely completion and release of grades and feedback to students throughout the term; submitting final course grades (due May 7, 2027). While there is a lot of room \nThe University is committed to the principles of the Accessibility for Ontarians with Disabilities Act (AODA). As such, we strive to make our recruitment, assessment and selection processes as accessi"
+},
+{
+"title": "Intern, Full Stack Engineer",
+"company": "Constellation Brands",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=413d45e0408cc24f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600",
+"salary": "$19 - $32 USD per hour",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"React",
+"React Native",
+"Next.js",
+"Node.js",
+"REST APIs",
+"Snowflake",
+"PostgreSQL",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Mobile (iOS / Android)"
+],
+"req": "Job Description What unites us and makes Constellation Brands such an exciting place to work is our collective passion for building brands that people love. We are all brand builders – regardless of o\nQualifications  Pursuing a degree in Computer Science or a similar program  Positive attitude and receptive to feedback  Passion for applying technology to solve real-world problems. Have you particip"
+},
+{
+"title": "Software Engineer",
+"company": "Optum",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=f516092d51bd9493",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2390176&lang=en",
+"salary": "$72,800 - $130,000 USD per year",
+"skills": [
+"Python",
+"JavaScript",
+"React",
+"Node.js",
+"ETL / data pipelines",
+"BigQuery",
+"AWS",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Microservices",
+"Testing (unit, automated)",
+"System design",
+"SDLC"
+]
+},
+{
+"title": "IT Technician 5 – Office of Information Technology",
+"company": "University of Nevada, Reno",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=64f8f823354e5642",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://nshe.wd1.myworkdayjobs.com/en-US/UNR-external/job/University-of-Nevada-Reno---Main-Campus/IT-Technician-5---Office-of-Information-Technology_R0154000",
+"skills": [
+"PowerShell",
+"Linux",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "The University of Nevada, Reno (UNR) appreciates your interest in employment at our growing institution. We want your application process to go smoothly and quickly. Final applications must be submitt\nA valid Class “C” Nevada driver’s license or higher operator’s license is required at the time of appointment and as a condition of continuing employment Preferred Qualifications Candidates with the f"
+},
+{
+"title": "Junior Salesforce Developer",
+"company": "Trinzic",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=3354cd5066cba90d",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.trinzic.com/us/en/job/R2127251",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"REST APIs",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Azure",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"Salesforce"
+],
+"req": "Location Houston, Texas Category Support Services Job Type Full time Job Id R2127251 Posted Date 11/02/2026 JOB DESCRIPTION Title: Junior Salesforce Developer At KBR, we deliver science, technology an\nContribute to continuous improvement of Salesforce workflows, governance standards, data standards, and user experience.\nWork independently on assigned tasks while seeking guidance from senior team members when appropriate. Work Environment:  Location: Remote  Travel Requirements: Minimal 0-20%  Working Hours: Standard \nBachelor’s degree in Computer Science, Information Systems, Engineering, Data Analytics, or a related field, or equivalent relevant technical experience.\n2+ years of experience supporting Salesforce administration, Salesforce development, business applications, CRM systems, or enterprise workflow automation.\nHands-on experience with Salesforce configuration, including standard and custom objects, fields, page layouts, record types, validation rules, flows, reports, dashboards, profiles, permission sets, a\nExperience building or supporting Salesforce automation using Flow, approval processes, or comparable workflow tools.\nFoundational experience with Apex, Lightning Web Components, JavaScript, HTML, CSS, SOQL, or related Salesforce development technologies.\nExperience gathering requirements from business stakeholders and translating requirements into configuration, automation, documentation, or technical tasks.\nExperience troubleshooting application issues, valida"
+},
+{
+"title": "CAD Intern",
+"company": "Kimley-Horn",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=1ce8a21ab5f3f22e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers-kimley-horn.icims.com/jobs/27486/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"req": "Overview: Kimley-Horn is looking for a CAD Drafter Intern to join our Raleigh, North Carolina (NC) office! This is not a remote position. Responsibilities:  This person will use basic computer draftin"
+},
+{
+"title": "AWS Cloud Engineer",
+"company": "BV Teck",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=d3be6d62522232f5",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://brightvisiontechnologies.applytojob.com/apply/phF6jmSOBL/AWS-Cloud-Engineer?source=INDE&~",
+"salary": "$115,000 - $165,000 USD per year",
+"skills": [
+"AWS",
+"Infrastructure as code",
+"Monitoring",
+"Vulnerability management",
+"IAM",
+"Cloud security",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "Maintain runbooks, diagrams, standards, and change records; collaborate across engineering and operations. Required Qualifications Experience Required: typically 4+ years in a related professional rol\nPractical experience with the role-specific technology stack: AWS IAM, VPC, EC2, S3, managed services, CloudWatch, automation, and cloud security.\nProfessional experience in cloud engineering, infrastructure, DevOps, or systems operations relevant to the role.\nExperience with scripting, automation, source control, or infrastructure as code.\nStrong documentation and cross-team collaboration skills. Preferred Qualifications Additional hands-on depth in AWS IAM, VPC, EC2, S3, managed services, CloudWatch, automation, and cloud security.\nExperience with cloud services, automation, and modern delivery practices relevant to the project."
+},
+{
+"title": "Azure Cloud Engineer",
+"company": "BV Teck",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=bc245a82369c779f",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://brightvisiontechnologies.applytojob.com/apply/aLqVZb9bsi/Azure-Cloud-Engineer?source=INDE&~",
+"salary": "$115,000 - $165,000 USD per year",
+"skills": [
+"Azure",
+"Infrastructure as code",
+"Monitoring",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "Maintain runbooks, diagrams, standards, and change records; collaborate across engineering and operations. Required Qualifications Experience Required: typically 4+ years in a related professional rol\nPractical experience with the role-specific technology stack: Azure resource management, networking, identity, compute, storage, monitoring, automation, and governance.\nProfessional experience in cloud engineering, infrastructure, DevOps, or systems operations relevant to the role.\nExperience with scripting, automation, source control, or infrastructure as code.\nStrong documentation and cross-team collaboration skills. Preferred Qualifications Additional hands-on depth in Azure resource management, networking, identity, compute, storage, monitoring, automatio\nExperience with cloud services, automation, and modern delivery practices relevant to the project."
+},
+{
+"title": "Incident Response Specialist",
+"company": "Swoon",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.linkedin.com/jobs/view/4485427505",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Broadcast Technician",
 "company": "Rogers",
 "location": "Vancouver, BC, CA",
@@ -10805,6 +11061,46 @@
 "location": "Edmonton, Alberta, Canada",
 "posted": "2026-11-01",
 "link": "https://www.linkedin.com/jobs/view/4460549543",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Communauté des talents étudiants : occasions futures",
+"company": "Deloitte",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4459425836",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "First Nations/Inuit/Métis Candidates: Cybersecurity, Application Security Analyst/Consultant -R8dius",
+"company": "Deloitte",
+"location": "Fredericton, New Brunswick, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4460504237",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "First Nations/Inuit/Métis Candidates: Cybersecurity, Application Security Analyst/Consultant -R8dius",
+"company": "Deloitte",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4460515133",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analog Engineer Intern - PhD",
+"company": "Marvell Technology",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-01",
+"link": "https://www.linkedin.com/jobs/view/4411568565",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
