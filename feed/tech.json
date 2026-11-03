@@ -1,17 +1,48 @@
 {
-"updated": "2026-11-03T02:29:44+00:00",
+"updated": "2026-11-03T02:39:47+00:00",
 "jobs": [
 {
-"title": "Client Success Representative",
-"company": "One Door",
-"location": "Remote · United States",
+"title": "CNC Machinist/Programmer",
+"company": "Advance Machines Ltd.",
+"location": "Delta, BC, CA",
 "posted": "2026-11-03",
-"link": "https://www.indeed.com/viewjob?jk=d519688cc8900230",
+"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
+"salary": "$45 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Administrative Support - Operations Support",
+"company": "Boiron Group - Royal LePage Terrequity Realty, Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=d15fef3c55ef2446",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/administrative-support-operations-support-d15fef3c55ef2446",
+"salary": "$21.00-$26.00 per hour",
+"skills": [
+"Excel"
+],
+"req": "A – POSITION DESCRIPTION Scope of Position: The Administrative Assistant reports to the President and provides administrative and operational support across the company. The role provides backup for t\nIdentify and follow up on missing paperwork, unmatched receipts, and open orders so that period-end records are complete and accurate. Project and Administrative Support:  Provide project management s\nPrepare status updates, action-item lists, and summary reports for project owners and the President, and flag risks, delays, and decisions required.\nProvide administrative support to the President and the management team, including scheduling, meeting preparation, document organization, and follow-up on action items.\nTake over administrative tasks currently performed by other team members, as identified and assigned by the President, and document the procedures for each task taken on. General:  Maintain organized \nTravel between the main plant and Hana as needed to support inventory, order, and shipping and receiving activities at both locations. Key Relationships:  President: Reports directly; receives priorit\nController & Admin Assistant / AR-AP: Provides order, receiving, inventory, and retail documentation to support invoicing, payables, and the month end close. Decision-Making Authority: Executes order,\nFood Handler Certification an asset (or willingness to obtain). Work Experience:  Minimum 2-3 years of experience in an administrative, executive assistant, customer service, o"
+},
+{
+"title": "Client Success Representative (Full-Time Contractor, Remote – Canada)",
+"company": "One Door",
+"location": "CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=8080b06bbd5a78fe",
+"source": "Indeed",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/client-success-representative-d519688cc8900230",
-"salary": "$45,000 - $52,000 USD per year",
+"apply": "http://ca.indeed.com/job/client-success-representative-full-time-contractor-remote-canada-8080b06bbd5a78fe",
+"salary": "C$4,000 – C$4,650 per month",
 "skills": [
 "REST APIs",
 "Excel",
@@ -21,6 +52,29 @@
 "Salesforce"
 ],
 "req": "Update the knowledge base when you learn something new, so the next person (including future you) can solve it faster. What You Bring  1–3 years in customer support, a help desk or client success, ide\nExperience working cases in Salesforce or a similar ticketing tool (Zendesk, Freshdesk, ServiceNow).\nBonus: Jira, Excel, or experience with retail or telecom customers."
+},
+{
+"title": "Business Analyst",
+"company": "ThirdEye CyberSecurity",
+"location": "Regina, SK, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=95d4f8211a3b1234",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/business-analyst-95d4f8211a3b1234",
+"salary": "$75.00-$80.00 per hour",
+"start": "December 1, 2026",
+"skills": [
+".NET",
+"Azure",
+"Git",
+"Microservices",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Jest / PyTest"
+],
+"req": "Business Analyst Due Date: November 13, 2026 Term: December 1, 2026, to March 31, 2027. 4 Months initial engagement with potential for extension up to 24 months. Start Date: December 1, 2026 Location:\nFacilitate Agile ceremonies, perform Scrum Master duties as needed, remove barriers, and promote collaboration and continuous improvement."
 },
 {
 "title": "Intermediate .NET Developer",
@@ -55,39 +109,16 @@
 "req": "We are excited to speak to you about this opportunity. If you are interested in joining our growing team, please apply to this link directly. Who we are At Aquila, we invest in category-defining B2B/B\nExplore AI-assisted development. You will incorporate AI-assisted tools into your development workflow where they add value, exploring ways to improve coding, testing, troubleshooting, and productivit\nThe architectural experience. You have experience designing back-end systems and making technical decisions about service structures, APIs, and data access. You can evaluate different approaches, expl\nThe database skills. You have experience working with SQL Server, T-SQL, stored procedures, and relational database design. You understand how to optimize queries and work with data-access technologie\nThe problem-solving approach. You have worked with complex, established applications and can understand existing functionality, troubleshoot issues, and identify opportunities for modernization and im\nThe adaptability and curiosity. You are comfortable learning new technologies and exploring tools that improve how software is developed. You may have experience with AI-assisted development tools suc\nThe collaboration. You communicate technical ideas clearly, work effectively with product stakeholders and distributed development teams, and enjoy sharing knowledge with others. You are comfortable b\nA virtual technical interview with the Development Manager and members of the technical team,"
 },
 {
-"title": "Business Analyst",
-"company": "ThirdEye CyberSecurity",
-"location": "Regina, SK, CA (remote)",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=95d4f8211a3b1234",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/business-analyst-95d4f8211a3b1234",
-"salary": "$75.00-$80.00 per hour",
-"start": "December 1, 2026",
-"skills": [
-".NET",
-"Azure",
-"Git",
-"Microservices",
-"Agile / Scrum",
-"Testing (unit, automated)",
-"Jest / PyTest"
-],
-"req": "Business Analyst Due Date: November 13, 2026 Term: December 1, 2026, to March 31, 2027. 4 Months initial engagement with potential for extension up to 24 months. Start Date: December 1, 2026 Location:\nFacilitate Agile ceremonies, perform Scrum Master duties as needed, remove barriers, and promote collaboration and continuous improvement."
-},
-{
-"title": "Client Success Representative (Full-Time Contractor, Remote – Canada)",
+"title": "Client Success Representative",
 "company": "One Door",
-"location": "CA (remote)",
+"location": "Remote · United States",
 "posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=8080b06bbd5a78fe",
+"link": "https://www.indeed.com/viewjob?jk=d519688cc8900230",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/client-success-representative-full-time-contractor-remote-canada-8080b06bbd5a78fe",
-"salary": "C$4,000 – C$4,650 per month",
+"apply": "http://www.indeed.com/job/client-success-representative-d519688cc8900230",
+"salary": "$45,000 - $52,000 USD per year",
 "skills": [
 "REST APIs",
 "Excel",
@@ -99,35 +130,34 @@
 "req": "Update the knowledge base when you learn something new, so the next person (including future you) can solve it faster. What You Bring  1–3 years in customer support, a help desk or client success, ide\nExperience working cases in Salesforce or a similar ticketing tool (Zendesk, Freshdesk, ServiceNow).\nBonus: Jira, Excel, or experience with retail or telecom customers."
 },
 {
-"title": "Administrative Support - Operations Support",
-"company": "Boiron Group - Royal LePage Terrequity Realty, Inc.",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=d15fef3c55ef2446",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/administrative-support-operations-support-d15fef3c55ef2446",
-"salary": "$21.00-$26.00 per hour",
+"title": "EDA Cloud & Developer Infrastructure Engineer",
+"company": "OpenAI",
+"location": "Remote · United States",
+"posted": "2026-11-03T02:37:14.184+00:00",
+"link": "https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999",
+"source": "OpenAI careers",
+"country": "US",
+"years": null,
 "skills": [
-"Excel"
+"Python",
+"REST APIs",
+"ETL / data pipelines",
+"PostgreSQL",
+"MySQL",
+"Azure",
+"Terraform",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"Git",
+"Linux",
+"Monitoring",
+"IAM",
+"Help desk / troubleshooting",
+"Hardware setup",
+"System design"
 ],
-"req": "A – POSITION DESCRIPTION Scope of Position: The Administrative Assistant reports to the President and provides administrative and operational support across the company. The role provides backup for t\nIdentify and follow up on missing paperwork, unmatched receipts, and open orders so that period-end records are complete and accurate. Project and Administrative Support:  Provide project management s\nPrepare status updates, action-item lists, and summary reports for project owners and the President, and flag risks, delays, and decisions required.\nProvide administrative support to the President and the management team, including scheduling, meeting preparation, document organization, and follow-up on action items.\nTake over administrative tasks currently performed by other team members, as identified and assigned by the President, and document the procedures for each task taken on. General:  Maintain organized \nTravel between the main plant and Hana as needed to support inventory, order, and shipping and receiving activities at both locations. Key Relationships:  President: Reports directly; receives priorit\nController & Admin Assistant / AR-AP: Provides order, receiving, inventory, and retail documentation to support invoicing, payables, and the month end close. Decision-Making Authority: Executes order,\nFood Handler Certification an asset (or willingness to obtain). Work Experience:  Minimum 2-3 years of experience in an administrative, executive assistant, customer service, o"
-},
-{
-"title": "CNC Machinist/Programmer",
-"company": "Advance Machines Ltd.",
-"location": "Delta, BC, CA",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
-"salary": "$45 per hour",
-"skills": [
-"Help desk / troubleshooting"
-]
+"req": "This is a highly collaborative, hands-on role with opportunities to drive improvements across the entire hardware development lifecycle. We're looking for engineers who bring deep expertise in one or \nHave strong software engineering fundamentals, with proficiency in Python or a similar programming language and experience building reliable automation, tools, or infrastructure services.\nBring deep technical expertise in at least one area of infrastructure engineering, such as Linux/HPC environments, cloud infrastructure, CI/CD systems, storage, networking, or EDA development workflow\nHave experience designing, deploying, and operating cloud infrastructure, preferably Azure, with familiarity in infrastructure-as-code tools such as Terraform or Bicep.\nHave experience building and maintaining CI/CD pipelines using tools such as Jenkins, Buildkite, GitHub Actions, or similar platforms.\nAre curious about hardware development and excited to expand your technical expertise across infrastructure, silicon design workflows, and developer productivity.\nBonus Qualifications\nExperience supporting ASIC or semiconductor development environments, including EDA workflows, design verification, physical design, emulation, or formal verification.\nExperience operating large-scale HPC clusters or workload schedulers such as Slurm.\nExperience with enterprise identity and authentication systems, such as Entra ID, OpenLDAP, FreeIPA, or SSSD.\nExperience designing and operating relational databases such"
 },
 {
 "title": "Software Engineer, Full Stack",
