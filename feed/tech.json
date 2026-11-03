@@ -1,17 +1,125 @@
 {
-"updated": "2026-11-03T02:49:58+00:00",
+"updated": "2026-11-03T02:59:45+00:00",
 "jobs": [
 {
-"title": "Client Success Representative",
-"company": "One Door",
+"title": "Software Engineer",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-03",
-"link": "https://www.indeed.com/viewjob?jk=d519688cc8900230",
+"link": "https://www.indeed.com/viewjob?jk=2fc5236ade818f31",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/client-success-representative-d519688cc8900230",
-"salary": "$45,000 - $52,000 USD per year",
+"apply": "http://www.indeed.com/job/software-engineer-2fc5236ade818f31",
+"salary": "$50 - $100 USD per hour",
+"req": "Job Summary We are accepting applications from individuals with backgrounds in software engineering, software development, programming, and related fields to join our expert network for future indepen\nProvide clear feedback and suggest appropriate checks without claiming that code, tests, or performance results have been verified when they have not. Experience  Relevant background in software engin"
+},
+{
+"title": "Security Operations Engineer",
+"company": "Alpaca",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=3e8e9bc0b3313609",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/oysna5c54us",
+"salary": "$400",
+"skills": [
+"Python",
+"Bash/Shell",
+"REST APIs",
+"Spark",
+"AWS",
+"Azure",
+"Google Cloud",
+"Kubernetes",
+"CI/CD",
+"Linux",
+"SIEM",
+"SOC",
+"Incident response",
+"NIST / ISO 27001",
+"Threat intelligence",
+"Cloud security",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)"
+]
+},
+{
+"title": "IT Security Engineer",
+"company": "Alpaca",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=d724ff5a399daa5d",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/11w8z9n14us",
+"salary": "$400",
+"skills": [
+"Python",
+"Bash/Shell",
+"PowerShell",
+"REST APIs",
+"Spark",
+"AWS",
+"Azure",
+"Google Cloud",
+"SOC",
+"Incident response",
+"IAM",
+"EDR",
+"NIST / ISO 27001",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Hardware setup"
+],
+"req": "Identity and Access Security:  IAM and SSO Standards: Define and maintain security standards for SSO and conditional access across cloud, SaaS, and internal systems."
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "Advance Machines Ltd.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
+"salary": "$45 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Administrative Support - Operations Support",
+"company": "Boiron Group - Royal LePage Terrequity Realty, Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=d15fef3c55ef2446",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/administrative-support-operations-support-d15fef3c55ef2446",
+"salary": "$21.00-$26.00 per hour",
+"skills": [
+"Excel"
+],
+"req": "A – POSITION DESCRIPTION Scope of Position: The Administrative Assistant reports to the President and provides administrative and operational support across the company. The role provides backup for t\nIdentify and follow up on missing paperwork, unmatched receipts, and open orders so that period-end records are complete and accurate. Project and Administrative Support:  Provide project management s\nPrepare status updates, action-item lists, and summary reports for project owners and the President, and flag risks, delays, and decisions required.\nProvide administrative support to the President and the management team, including scheduling, meeting preparation, document organization, and follow-up on action items.\nTake over administrative tasks currently performed by other team members, as identified and assigned by the President, and document the procedures for each task taken on. General:  Maintain organized \nTravel between the main plant and Hana as needed to support inventory, order, and shipping and receiving activities at both locations. Key Relationships:  President: Reports directly; receives priorit\nController & Admin Assistant / AR-AP: Provides order, receiving, inventory, and retail documentation to support invoicing, payables, and the month end close. Decision-Making Authority: Executes order,\nFood Handler Certification an asset (or willingness to obtain). Work Experience:  Minimum 2-3 years of experience in an administrative, executive assistant, customer service, o"
+},
+{
+"title": "Client Success Representative (Full-Time Contractor, Remote – Canada)",
+"company": "One Door",
+"location": "CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=8080b06bbd5a78fe",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/client-success-representative-full-time-contractor-remote-canada-8080b06bbd5a78fe",
+"salary": "C$4,000 – C$4,650 per month",
 "skills": [
 "REST APIs",
 "Excel",
@@ -21,6 +129,29 @@
 "Salesforce"
 ],
 "req": "Update the knowledge base when you learn something new, so the next person (including future you) can solve it faster. What You Bring  1–3 years in customer support, a help desk or client success, ide\nExperience working cases in Salesforce or a similar ticketing tool (Zendesk, Freshdesk, ServiceNow).\nBonus: Jira, Excel, or experience with retail or telecom customers."
+},
+{
+"title": "Business Analyst",
+"company": "ThirdEye CyberSecurity",
+"location": "Regina, SK, CA (remote)",
+"posted": "2026-11-03",
+"link": "https://ca.indeed.com/viewjob?jk=95d4f8211a3b1234",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/business-analyst-95d4f8211a3b1234",
+"salary": "$75.00-$80.00 per hour",
+"start": "December 1, 2026",
+"skills": [
+".NET",
+"Azure",
+"Git",
+"Microservices",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Jest / PyTest"
+],
+"req": "Business Analyst Due Date: November 13, 2026 Term: December 1, 2026, to March 31, 2027. 4 Months initial engagement with potential for extension up to 24 months. Start Date: December 1, 2026 Location:\nFacilitate Agile ceremonies, perform Scrum Master duties as needed, remove barriers, and promote collaboration and continuous improvement."
 },
 {
 "title": "Intermediate .NET Developer",
@@ -55,39 +186,16 @@
 "req": "We are excited to speak to you about this opportunity. If you are interested in joining our growing team, please apply to this link directly. Who we are At Aquila, we invest in category-defining B2B/B\nExplore AI-assisted development. You will incorporate AI-assisted tools into your development workflow where they add value, exploring ways to improve coding, testing, troubleshooting, and productivit\nThe architectural experience. You have experience designing back-end systems and making technical decisions about service structures, APIs, and data access. You can evaluate different approaches, expl\nThe database skills. You have experience working with SQL Server, T-SQL, stored procedures, and relational database design. You understand how to optimize queries and work with data-access technologie\nThe problem-solving approach. You have worked with complex, established applications and can understand existing functionality, troubleshoot issues, and identify opportunities for modernization and im\nThe adaptability and curiosity. You are comfortable learning new technologies and exploring tools that improve how software is developed. You may have experience with AI-assisted development tools suc\nThe collaboration. You communicate technical ideas clearly, work effectively with product stakeholders and distributed development teams, and enjoy sharing knowledge with others. You are comfortable b\nA virtual technical interview with the Development Manager and members of the technical team,"
 },
 {
-"title": "Business Analyst",
-"company": "ThirdEye CyberSecurity",
-"location": "Regina, SK, CA (remote)",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=95d4f8211a3b1234",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/business-analyst-95d4f8211a3b1234",
-"salary": "$75.00-$80.00 per hour",
-"start": "December 1, 2026",
-"skills": [
-".NET",
-"Azure",
-"Git",
-"Microservices",
-"Agile / Scrum",
-"Testing (unit, automated)",
-"Jest / PyTest"
-],
-"req": "Business Analyst Due Date: November 13, 2026 Term: December 1, 2026, to March 31, 2027. 4 Months initial engagement with potential for extension up to 24 months. Start Date: December 1, 2026 Location:\nFacilitate Agile ceremonies, perform Scrum Master duties as needed, remove barriers, and promote collaboration and continuous improvement."
-},
-{
-"title": "Client Success Representative (Full-Time Contractor, Remote – Canada)",
+"title": "Client Success Representative",
 "company": "One Door",
-"location": "CA (remote)",
+"location": "Remote · United States",
 "posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=8080b06bbd5a78fe",
+"link": "https://www.indeed.com/viewjob?jk=d519688cc8900230",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/client-success-representative-full-time-contractor-remote-canada-8080b06bbd5a78fe",
-"salary": "C$4,000 – C$4,650 per month",
+"apply": "http://www.indeed.com/job/client-success-representative-d519688cc8900230",
+"salary": "$45,000 - $52,000 USD per year",
 "skills": [
 "REST APIs",
 "Excel",
@@ -97,37 +205,6 @@
 "Salesforce"
 ],
 "req": "Update the knowledge base when you learn something new, so the next person (including future you) can solve it faster. What You Bring  1–3 years in customer support, a help desk or client success, ide\nExperience working cases in Salesforce or a similar ticketing tool (Zendesk, Freshdesk, ServiceNow).\nBonus: Jira, Excel, or experience with retail or telecom customers."
-},
-{
-"title": "Administrative Support - Operations Support",
-"company": "Boiron Group - Royal LePage Terrequity Realty, Inc.",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=d15fef3c55ef2446",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/administrative-support-operations-support-d15fef3c55ef2446",
-"salary": "$21.00-$26.00 per hour",
-"skills": [
-"Excel"
-],
-"req": "A – POSITION DESCRIPTION Scope of Position: The Administrative Assistant reports to the President and provides administrative and operational support across the company. The role provides backup for t\nIdentify and follow up on missing paperwork, unmatched receipts, and open orders so that period-end records are complete and accurate. Project and Administrative Support:  Provide project management s\nPrepare status updates, action-item lists, and summary reports for project owners and the President, and flag risks, delays, and decisions required.\nProvide administrative support to the President and the management team, including scheduling, meeting preparation, document organization, and follow-up on action items.\nTake over administrative tasks currently performed by other team members, as identified and assigned by the President, and document the procedures for each task taken on. General:  Maintain organized \nTravel between the main plant and Hana as needed to support inventory, order, and shipping and receiving activities at both locations. Key Relationships:  President: Reports directly; receives priorit\nController & Admin Assistant / AR-AP: Provides order, receiving, inventory, and retail documentation to support invoicing, payables, and the month end close. Decision-Making Authority: Executes order,\nFood Handler Certification an asset (or willingness to obtain). Work Experience:  Minimum 2-3 years of experience in an administrative, executive assistant, customer service, o"
-},
-{
-"title": "CNC Machinist/Programmer",
-"company": "Advance Machines Ltd.",
-"location": "Delta, BC, CA",
-"posted": "2026-11-03",
-"link": "https://ca.indeed.com/viewjob?jk=02ed29cb8adf2b59",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-02ed29cb8adf2b59",
-"salary": "$45 per hour",
-"skills": [
-"Help desk / troubleshooting"
-]
 },
 {
 "title": "EDA Cloud & Developer Infrastructure Engineer",
@@ -5557,7 +5634,7 @@
 "Agile / Scrum",
 "Jira"
 ],
-"req": "Business Analyst with Healthcare Experience About the Role We are seeking a Business Analyst to support digital transformation initiatives for our healthcare client, BlueShield of California. In this \nMonitor dependencies, risks, and implementation issues while helping ensure solutions align with documented requirements and compliance mandates. Work Model We strive to provide flexibility wherever p\nExperience working in Agile delivery environments.\nStrong experience writing user stories and acceptance criteria.\nHands-on experience with Jira and Confluence.\nExperience supporting business validation, testing, and release activities.\nAbility to manage multiple priorities and work effectively in cross-functional teams. These Will Help You Stand Out  Healthcare payer industry experience.\nExperience supporting member portals, provider portals, provider directory solutions, or digital healthcare products."
+"req": "Business Analyst with Healthcare Experience About the Role We are seeking a Business Analyst to support digital transformation initiatives for our healthcare client. In this role, you will partner wit\nMonitor dependencies, risks, and implementation issues while helping ensure solutions align with documented requirements and compliance mandates. Work Model We strive to provide flexibility wherever p\nExperience working in Agile delivery environments.\nStrong experience writing user stories and acceptance criteria.\nHands-on experience with Jira and Confluence.\nExperience supporting business validation, testing, and release activities.\nAbility to manage multiple priorities and work effectively in cross-functional teams. These Will Help You Stand Out  Healthcare payer industry experience.\nExperience supporting member portals, provider portals, provider directory solutions, or digital healthcare products."
 },
 {
 "title": "IT Intern",
@@ -8996,6 +9073,100 @@
 "ITIL"
 ],
 "req": "We are looking for an Experienced IT Support Analyst to monitor and support the on-premises and cloud-based software solutions and infrastructure which includes enterprise job scheduling, batch proces\nAct as the point of contact to coordinate and manage triage efforts and communication for major incidents, outages and performance issues  Create, manage and operate using an established series of run\nMaintaining a strong understanding of the organization's business needs and working closely with other departments to ensure that IT is aligned with those needs. Qualifications/Requirements  Proven ex\nAbility to manage multiple projects and competing tactical issues and/or initiatives  High problem-solving aptitude and expert knowledge in troubleshooting complex technical ecosystems Education/Exper"
+},
+{
+"title": "Junior SAP Master Data Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=046c17b93a5ec02a",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://careers.acarasolutions.com/jobdetails.asp?da=&refid=145_564720&job_number=564720&sourcename=Indeed",
+"salary": "$23 - $25 USD per hour",
+"skills": [
+"Excel",
+"Ticketing (ServiceNow, Jira)",
+"SAP"
+],
+"req": "Maintain material masters across views (basic, purchasing, MRP, sales) and related records such as purchasing info records and source lists. Requests and Controls  Process master data requests from th\nFollow segregation-of-duties controls, especially for vendor bank detail changes, and verify changes with the requester where required.\nKeep an audit trail of changes and support internal and external audit requests. Data Quality  Run regular data-quality reports to find duplicates, incomplete records and inactive vendors or customers\nCorrect errors and escalate root causes to the Master Data Lead.\nValidate each load against source totals, and correct or reprocess records that fail on missing or invalid master data.\nTrack recurring file errors by VMS source and escalate format or mapping issues to the SAP Master Data Specialist. Projects and Mass Changes  Prepare and validate load files for mass updates and migra\nSupport testing (unit and UAT) for master data changes in system upgrades and S/4HANA rollouts.\nUpdate process documentation, work instructions and training material. Collaboration  Work with procurement, supply chain and HR to resolve master data issues that block postings, invoices or payments\nAnswer user questions on how to request and use master data correctly. Required Skills / Qualifications: Required: Bachelor's degree in Information Systems, Supply Chain, Business Administration or a \n0-2 years of experience in data entry, data analysis or an ERP environment.\nCl"
+},
+{
+"title": "Billing Analyst (Remote)",
+"company": "CareFirst BlueCross BlueShield",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=f2f17ef28b3dce35",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://carefirstcareers.ttcportals.com/jobs/18411894-billing-analyst-remote?tm_job=22751-1A&tm_event=view&tm_company=2380",
+"salary": "$51,552 - $102,388 USD per year",
+"skills": [
+"Excel",
+"Help desk / troubleshooting"
+],
+"req": "Resp & Qualifications PURPOSE: Responsible for maintaining admin rates, preparing and delivering invoices to bring in revenue for the organization. This includes establishing and following required te\nResponsible for monitoring and tracking manual billing data as well as enrollment system updates. Provide regular progress reports for internal and external stakeholders when appropriate. Creates AdHo\nTroubleshoots user system issues. Works with vendors, account management and technical resources to track and correct identified issues in a timely manner. Develop solutions and recommend workarounds \nConducts user acceptance testing for vendor change requests and for scheduled system releases to identify defects and ensure proper resolution prior to signing off for production. QUALIFICATIONS: Educ"
+},
+{
+"title": "Software Developer",
+"company": "AttainX,Inc",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=d60c8d5887e5aa25",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ad333ea2-8bdb-4f34-a4b4-928a2644de1c&ccId=19000101_000001&jobId=575062&source=IN&lang=en_US",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"React",
+"Angular",
+"Spring Boot",
+"REST APIs",
+"Machine learning",
+"NoSQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Jenkins",
+"Git",
+"Microservices",
+"Networking (TCP/IP, DNS)",
+"Agile / Scrum",
+"Jira",
+"Postman"
+],
+"req": "Job Title: Software Engineer - Full-Stack Location: Remote Citizenship: US Citizenship required Clearance: Must be eligible for a Public Trust AttainX, Inc. is in search of a Full-Stack developer resp\nDesign, develop and test enterprise web APIs and backend services  Design, develop and test UIs that utilize REST APIs  Work with product management to translate requirements into technical design and"
+},
+{
+"title": "Undergrad Intern – Amgen Foundation (Summer 2027)",
+"company": "Amgen",
+"location": "Remote · United States",
+"posted": "2026-11-02",
+"link": "https://www.indeed.com/viewjob?jk=5b7c7c521935fc30",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.amgen.com/en/job/washington-d-c/undergrad-intern-amgen-foundation-summer-2027/87/102780105360",
+"salary": "$28.87 per hour",
+"req": "Provide support for the Foundation’s day-to-day business operations that helps make the team's work smoother and more effective Program Eligibility Requirements ------------------------------------  E\nBring your authentic self to the table and become the professional you’re inspired to be through accepting a culture that values the diversity of thought and experience and will flex to your strengths\nParticipate in executive and social networking events, as well as community volunteer projects. and make a lasting impact with the Amgen team. -------------------------------------------------- career"
+},
+{
+"title": "Full Stack Engineer",
+"company": "Grand Software Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-02",
+"link": "https://www.linkedin.com/jobs/view/4486104785",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Broadcast Technician",
