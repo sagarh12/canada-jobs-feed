@@ -1,705 +1,94 @@
 {
-"updated": "2026-11-04T14:49:51+00:00",
+"updated": "2026-11-04T14:59:51+00:00",
 "jobs": [
-{
-"title": "Web Developer / UI/UX Specialist- Remote (DC, MD, VA- Locals only)",
-"company": "Swingtech Consulting Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=2c5ec3886f9dafba",
-"source": "Indeed",
-"country": "US",
-"years": 15,
-"apply": "https://ats.rippling.com/swingtech-careers/jobs/6690786c-0f93-41f1-ab69-df596c289e5f?jobSite=Indeed",
-"salary": "$600",
-"skills": [
-"JavaScript",
-"HTML/CSS",
-"Help desk / troubleshooting",
-"Agile / Scrum"
-]
-},
-{
-"title": "Technical Designer - RPAS Division (Mechanical / Aerospace)",
-"company": "Expert Geophysics Limited",
-"location": "Newmarket, ON, CA (remote)",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=c759edfd7391080e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/technical-designer-rpas-division-mechanical-aerospace-c759edfd7391080e",
-"salary": "$55,000.00-$70,000.00 per year",
-"skills": [
-"Python",
-"C++",
-"C",
-"MATLAB",
-"REST APIs",
-"Airflow",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "Expert Geophysics Limited is a leading provider of airborne geophysical survey services, delivering advanced electromagnetic and magnetic data acquisition solutions to mineral exploration and resource\nPackage hardware within tight mass, center-of-gravity, clearance, thermal, accessibility, serviceability, and other constraints.\nParticipate in occasional field testing to validate designs and aircraft systems. Core Requirements  Bachelor's degree in Mechanical, Robotics, Aerospace, Mechatronics, or a closely related engineerin\nBasic experience with FEA, including applying appropriate loads, constraints, contacts, and mesh settings, and critically interpreting the results.\nAbility to work effectively from higher-level requirements while independently resolving routine design and integration problems. Additional Technical Capabilities The following knowledge and experien\nExperience supporting engineering test programs, including inspections, instrumentation, configuration control, data collection, and post-test troubleshooting.\nExperience working with systems where mechanical, electrical, and software requirements are highly interconnected. Useful Secondary Skills  Basic electronics and harnessing familiarity, including conn\nExperience with CNC machining, sheet metal fabrication, waterjet or laser cutting, 3D printing, or composite fabrication.\nExperience designing components for CNC machining and additive manufacturing.\nExperience with engineering test equipment such as multimet"
-},
-{
-"title": "Service Engineer (L2)",
-"company": "Netology",
-"location": "Engineer, BC, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=8117cbb79192fbec",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://netology.pl/oferty-pracy/service-engineer-l2/",
-"skills": [
-"Linux",
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Windows",
-"Microsoft 365",
-"VMware / virtualization"
-]
-},
-{
-"title": "Support Specialist",
-"company": "",
-"location": "Red Deer, AB, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=0ecab0b7c84ead76",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/support-specialist-0ecab0b7c84ead76",
-"salary": "$ 22.40",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Company: Mi-Trato Digital Solutions Position: Support Specialist Location: 4724 60th St, Red Deer, AB, T4N 7C7 Job Type: Full-time About Us: Mi-Trato Digital Solutions is a forward-thinking company de\nEscalate complex technical issues to the appropriate internal development or engineering teams."
-},
-{
-"title": "Technical Operations Coordinator (IT Support)",
-"company": "OnSite Computer Services",
-"location": "Kitchener, ON, CA (remote)",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=e0e567aaa156ee98",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/technical-operations-coordinator-it-support-e0e567aaa156ee98",
-"salary": "$25.00-$30.00 per hour",
-"skills": [
-"Bash/Shell",
-"PowerShell",
-"Excel",
-"Networking (TCP/IP, DNS)",
-"Cybersecurity",
-"IAM",
-"Windows",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting"
-],
-"req": "About Us OnSite Computer Services has been providing professional IT support to businesses throughout Kitchener-Waterloo, Cambridge, and surrounding areas since 2003. We are an established Managed IT \nHelp identify opportunities to improve internal processes and efficiency. Qualifications Required:  Previous experience in an IT support, help desk, desktop support, or similar technical role.\nProficiency with Microsoft Outlook, Word, and Excel. Considered an Asset:  Previous experience working for an MSP or IT services company.\nExperience with IT ticketing or service management systems.\nPowerShell scripting or automation experience.\nExperience with backup monitoring and troubleshooting.\nExperience coordinating technicians or technical projects.\nFamiliarity with IT billing, purchasing, or office administration. We don't expect candidates to know every system we use. A strong technical foundation, excellent organizational skills, and a willing\nCandidates must live within a reasonable daily commuting distance of our Kitchener office.\nIs a team player: Helps keep the entire team productive and organized. What We Offer  Competitive hourly compensation based on experience.\nA supportive, experienced technical team."
-},
 {
 "title": "Financial Planning Analyst",
 "company": "RBC",
-"location": "VANCOUVER, British Columbia, Canada",
+"location": "TORONTO, Ontario, Canada",
 "posted": "2026-11-04",
-"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Financial-Planning-Analyst_R-0000183834-1",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Financial-Planning-Analyst_R-0000183833-1",
 "source": "RBC careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Junior ERP Developer",
-"company": "Smith and Long Limited",
-"location": "Markham, ON, CA",
+"title": "Data Scientist - Credit Risk (ATH 5749)",
+"company": "TD",
+"location": "Toronto, Ontario",
 "posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=49657383b9f64670",
-"source": "Indeed",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist---Credit-Risk--ATH-5749-_R_1519168",
+"source": "TD careers",
 "country": "CA",
+"years": null
+},
+{
+"title": "TDS Operations Analyst II, Client Enablement",
+"company": "TD",
+"location": "Toronto, Ontario",
+"posted": "2026-11-04",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDS-Operations-Analyst-II--Client-Enablement_R_1518531",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst – Center of Excellence & Data Analytics",
+"company": "Canadian Tire",
+"location": "Toronto, ON",
+"posted": "2026-11-04",
+"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Analyst---Center-of-Excellence---Data-Analytics_JR163585-1",
+"source": "Canadian Tire careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator II",
+"company": "American College of Education",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=51c3452f89cb1476",
+"source": "Indeed",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/junior-erp-developer-49657383b9f64670",
-"salary": "$60,000.00-$70,000.00 per year",
+"apply": "https://ats.rippling.com/ace/jobs/7b07bc8a-b87a-4852-ae34-b505a90ee505?jobSite=Indeed",
+"salary": "$90,000",
 "skills": [
-"C",
-"SQL",
 ".NET",
-"Help desk / troubleshooting"
-],
-"req": "At Smith and Long, technology drives everything we do. From managing complex construction projects and financial operations to supporting field teams across Canada, our ERP system serves as the backbo\nWants to grow into a senior ERP and systems professional. Key Responsibilities  Assist with ERP customizations, enhancements and maintenance.\nSupport upgrades, testing and deployment activities. Qualifications  Degree or diploma in Computer Science, Software Engineering, IT, Business Systems or related field.\nRecent graduates encouraged to apply."
-},
-{
-"title": "Courseware Developer",
-"company": "CAE",
-"location": "4 Locations, Canada",
-"posted": "2026-11-04",
-"link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal---8585-Cote-De-Liesse-QC-Canada/Courseware-Developer_124122",
-"source": "CAE careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Franchise Development Communication Coordinator (Corporate Head Office)",
-"company": "Oxford Learning Centre",
-"location": "London, ON, CA (remote)",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=be7f5c44195f406d",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://oxfordlearning.talentnest.com/en/posting/245550/location/293949?source=indeed",
-"salary": "$56,000-$62,000 per year",
-"skills": [
-"Salesforce"
-]
-},
-{
-"title": "Computer Technician",
-"company": "",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=a1446510d47d3efd",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/computer-technician-a1446510d47d3efd",
-"salary": "$31.43-$41.05 per hour",
-"skills": [
-"Windows",
-"Help desk / troubleshooting",
-"Hardware setup"
-]
-},
-{
-"title": "Junior Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
-"posted": "2026-11-04",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Coop Work Experience Student",
-"company": "Alberta Health Services",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=03f3e56eaf7613ac",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://careers.albertahealthservices.ca/jobs/coop-work-experience-student-601886",
-"salary": "$17.95",
-"skills": [
-"Python",
-"Java",
-"C",
-"SQL",
-"Machine learning",
-"Power BI",
-"Tableau",
-"Excel",
-"Help desk / troubleshooting"
-],
-"req": "Your Opportunity: Health Shared Services provides vital services to clinical and non-clinical teams across Alberta’s healthcare system to help them deliver timely, high-quality healthcare to patients \nDescription: The co-op student can expect to be an active member of their team and will receive training and mentoring from IT professionals. While the student positions will be challenging, this oppo"
-},
-{
-"title": "EGIS ADMINISTRATOR",
-"company": "Manitoba Hydro",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=1b27d849a6d6a49c",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI1RjYzNzc2QjRBOEMzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
-"salary": "$56.88-$69.95",
-"skills": [
-"Excel",
-"Microsoft 365",
-"SAP"
-],
-"req": "Provide training to new users, contractors and students in the Distribution Engineering Technical School (DETS) program.\nManage the interface with other corporate systems to exchange data developed on or required by eGIS and administer selected auxiliary applications that directly interface with eGIS. These systems incl\nDevelop progressive proposals and ideas for the long-term success and value of eGIS and the Distribution Engineering Standards & Support Services and Distribution Engineering departments. Qualificatio\nPractical experience and a detailed working knowledge in distribution design and in the construction of electric distribution systems.\nMust be prepared to travel."
-},
-{
-"title": "Information technology (IT) analyst",
-"company": "Astra North Infoteck Inc.",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-04",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659812",
-"source": "Job Bank",
-"country": "CA",
-"years": 10
-},
-{
-"title": "Analyst, information technology (IT)",
-"company": "IMP Solutions",
-"location": "Halifax, Nova Scotia, Canada",
-"posted": "2026-11-04",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659675",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Analyst",
-"company": "University of Manitoba",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=05775a84ce6fd333",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://viprecprod.ad.umanitoba.ca/default.aspx?REQ_ID=51260&Language=1",
-"salary": "$26.20 to $37.62 per hour",
-"skills": [
-"Bash/Shell",
-"Statistics",
-"Linux",
-"Help desk / troubleshooting"
-],
-"req": "Experience in computational analysis and interpretation of biological or sequencing data required.\nExperience with multi-omics analysis considered an asset.\nExperience in scientific writing, including preparation of research reports or manuscripts, considered an asset.\nAn acceptable equivalent combination of education and experience may be considered. SKILLS AND ABILITIES:  Knowledge of microbiology and biological research methods is required.\nAbility to analyze, integrate, and interpret biological datasets using appropriate computational and bioinformatics tools is required.\nExpertise required in R, Tidyverse, Bioconductor, Linux, Bash, high-performance computing clusters, Compute Canada Trillium Server, GATK, DELLY, VCFshiny, rMATS, FAScore, DESeq2, ClusterProfiler, and \nAbility to process, analyze, and interpret sequencing data using appropriate bioinformatics and computational tools is required.\nStrong analytical, critical-thinking, and problem-solving skills required.\nStrong scientific writing skills, including the ability to prepare, revise, and finalize research manuscripts, is required.\nAbility to work independently, manage assigned research activities, and meet established deadlines is required.\nStrong organizational skills and attention to detail to ensure accuracy in data analysis and documentation required.\nAbility to communicate research findings clearly and collaborate effectively with supervisors and research team members is required.\nWillingness and ability to"
-},
-{
-"title": "Help desk technician",
-"company": "IMP Solutions",
-"location": "Halifax, Nova Scotia, Canada",
-"posted": "2026-11-04",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659735",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software developer",
-"company": "Astra North Infoteck Inc.",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-04",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659773",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Administrative Assistant",
-"company": "Lactation Clinic",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=8ace53308767108e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-8ace53308767108e",
-"salary": "$22.00-$24.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Receptionist",
-"company": "CBRE",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=583f7cd9538cda12",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://cbreglobal.avature.net/careers/JobDetail?jobId=302588&source=Indeed",
-"salary": "$50,000",
-"skills": [
-"Excel",
-"Microsoft 365"
-],
-"req": "About CBRE and Experience Services: CBRE is the world's largest commercial real estate services firm. Experience by Industrious is CBRE’s global hospitality business that partners with leading compani\nDeliver own output by following defined procedures and processes under close supervision and guidance What You’ll Need: High School Diploma or GED with up to 2 years of job-related experience. Experie"
-},
-{
-"title": "Systems Analyst (2 Positions)",
-"company": "NAV CANADA",
-"location": "Ottawa",
-"posted": "2026-11-04",
-"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Systems-Analyst--2-Positions-_JR-8226",
-"source": "NAV CANADA careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "LATAM Customer Support Specialist",
-"company": "Lettuce Box, Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=7a9a970c9f8758e5",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "http://www.indeed.com/job/latam-customer-support-specialist-7a9a970c9f8758e5",
-"salary": "$8.00 per hour",
-"skills": [
-"REST APIs",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"Jira"
-],
-"req": "LATAM Customer Support Specialist Location: Remote (Mexico, Honduras, Costa Rica and other Central American countries) Job type: Full-time, independent contractor Schedule: Full-time, Monday to Friday\nActively contribute to the creation and improvement of FAQs, Knowledge Base materials, and other collateral, both internal-facing and customer-facing.\nEffectively influence and drive internal resources to ensure that customer issues and commitments are met. Required Skills & Experience:  3+ years in a customer support related role.\nFast and reliable internet is required.\nHands-on experience with Zendesk.\nThis position has specific required hours. Are you available to work 10:00 AM to 7:00 PM Pacific Time (PT), Monday to Friday?\nDo you have previous experience with APIs and integrations?\nWhat is your expected hourly rate in USD? Please enter a number only. Experience:  Customer support: 3 years (Required)  Zendesk in a professional setting: 1 year (Required) Language:  Fluent English "
-},
-{
-"title": "Technical Solutions Specialist",
-"company": "BusPlanner",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=c27c3efea6ab05be",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://apply.workable.com/j/C2A08FB114",
-"skills": [
-"SQL",
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Help desk / troubleshooting"
-],
-"req": "Position Summary The Technical Solutions Specialist is part of BusPlanner's Projects team and provides hands-on technical troubleshooting, configuration, and implementation support across the BusPlann\nHelp build and configure environments used to support product demos and sales presentations (this role does not conduct demos or sales activities directly). Client & Cross-Functional Collaboration  Pa\nHelp build and maintain a technical documentation repository, including training materials, templates, and frameworks that support consistent processes and cross-coverage across the team. Product Supp\nInvestigate and troubleshoot application errors, system messages, and unexpected behavior, escalating complex or system-level issues as needed. Reporting & Compliance Support  Assist with government a\nSupport seasonal and cyclical processes (e.g., school-year setup, grade rollovers, annual update cycles) as assigned. Requirements  3-5 years of experience in technical support, software implementatio"
-},
-{
-"title": "Junior Software Engineer",
-"company": "Prachub",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=00169afc3a5f149e",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/junior-software-engineer-00169afc3a5f149e",
-"salary": "$80,000 - $110,000 USD per year",
-"skills": [
-"JavaScript",
-"TypeScript",
-"SQL",
-"HTML/CSS",
-"REST APIs",
-"Git",
-"Testing (unit, automated)"
-]
-},
-{
-"title": "Data Analyst",
-"company": "Prachub",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=d784d15f6edb324d",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "http://www.indeed.com/job/data-analyst-d784d15f6edb324d",
-"salary": "$70,000 - $95,000 USD per year",
-"skills": [
-"Python",
-"R",
-"SQL",
-"Statistics"
-]
-},
-{
-"title": "Intake Specialist - Remote",
-"company": "Dragonfly Health",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=ba90e12f8e319441",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://recruiting2.ultipro.com/STA1026SSERV/JobBoard/88f6bf58-d226-4c6f-8429-70fb7f1dc30d/OpportunityDetail?opportunityId=eda5036e-25e9-4ed9-925c-87780f7a0d9a&postingId=c6433279-695c-4ab7-86ab-bf8d93d4b670",
-"salary": "$20.00 per hour",
-"skills": [
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Agile / Scrum"
-],
-"req": "Dragonfly Health - A great place to land Dragonfly Health is the leading care-at-home data, technology and service platform, and the industry’s first scale durable medical equipment (DME) and pharmacy\nCommunicate with healthcare partners, internal departments, and technical support teams to coordinate issue resolution, provide updates, and ensure a positive customer experience.\nWhat we look for  High school diploma or equivalent required.\nAt least six months of customer-facing experience, with a strong commitment to delivering excellent service and resolving customer concerns.\nOne year of experience in a call center, help desk, technical support, or healthcare environment is strongly preferred.\nSpanish-speaking skills are a plus but not required.\nWhy IT Intake Specialists are important At Dragonfly Health, our healthcare partners depend on reliable technology and responsive support to manage their operations and coordinate patient care. The In\nLet's soar together  Experience Preferred 1 year(s): Experience in a call center, help desk, technical support, or healthcare environment.\nEducation Required High School or better Equal Opportunity Employer This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, ple"
-},
-{
-"title": "Software Developer, AI Engineering & SDLC Transformation",
-"company": "Fidelity Canada",
-"location": "Toronto Office",
-"posted": "2026-11-04",
-"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer--AI-Engineering---SDLC-Transformation_J70855",
-"source": "Fidelity Canada careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Software Developer",
-"company": "Fidelity Canada",
-"location": "Toronto Office",
-"posted": "2026-11-04",
-"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer_J70854-1",
-"source": "Fidelity Canada careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Mid-Level Model Based Systems Engineer",
-"company": "PMAT Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=8f1588afe883f8fe",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "https://pmat.bamboohr.com/careers/334?source=indeed&src=indeed&postedDate=2026-11-04",
-"salary": "$80,000 - $100,000 USD per year",
-"skills": [
-"Docker",
-"Cybersecurity",
-"Hardware setup",
-"Jira",
-"Data structures & algorithms"
-],
-"req": "At PMAT, we work on mission critical systems that directly support the warfighter, designing, building, and securing modern digital capabilities across cloud, data, and software environments. Our team\nProvide technical guidance to junior engineers and contribute to engineering documentation, deliverables, and program reporting. About Us: PMAT is an innovative small business founded with a passion f\nAt least 4 years of hands-on MBSE experience using SysML or equivalent modeling methodologies.\nExperience developing, maintaining, and analyzing system or SoS architectures, requirements, interfaces, operational workflows, and technical dependencies.\nExperience developing or supporting data models, data dictionaries, information architectures, metadata definitions, or structured engineering data repositories.\nExperience integrating engineering models, technical data, requirements, and system information across multiple disciplines, platforms, or organizational environments.\nExperience collaborating with systems engineers, mission engineers, software developers, cybersecurity personnel, data engineers, and other technical stakeholders to align architectures with operation\nStrong written and verbal communication skills with the ability to develop technical documentation, communicate architectural concepts, and present engineering findings to technical and program leader\nExperience with Systems Modeling Language (SysML), Department of Defense Architecture Framework (DoDAF), Unified Ar"
-},
-{
-"title": "Accounting Tech and Admin Assistant",
-"company": "Sanjit Kumar Professional Corp",
-"location": "Leduc, AB, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=4ceb4e4cffff3d4a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/accounting-tech-and-admin-assistant-4ceb4e4cffff3d4a",
-"salary": "$43,000.00-$45,000.00 per year",
-"skills": [
-"Excel"
-],
-"req": "Job Overview The Accounting Tech and Admin Assistant supports accurate day-to-day accounting and administrative operations through organized recordkeeping, data entry, and account support. This role h"
-},
-{
-"title": "Customer Service Representative",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=c6f5ae9c2e50700f",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/customer-service-representative-c6f5ae9c2e50700f",
-"salary": "$55,000.00 per year",
-"skills": [
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting"
-],
-"req": "About Slab Sharks Slab Sharks Inc. is a rapidly growing company in the collectibles industry, specializing in trading card consignment, auctions, and live commerce. We help collectors buy, sell, and m\nInvestigate customer concerns by reviewing account details, transactions, and internal records.\nMaintain accurate documentation of customer interactions, resolutions, and recurring issues. 3. Cross-Department Coordination  Collaborate with consignment, operations, fulfillment, finance, and other\nFollow up with internal teams to ensure customer issues are resolved within established timelines.\nSupport effective communication between customers and internal departments. 4. Customer Experience, Reporting & Process Improvement  Identify recurring customer concerns and recommend improvements to \nWork toward established service standards and contribute to improving the overall customer experience. Reporting & Performance  Maintain accurate and organized customer support records.\nEnsure customer inquiries are handled in accordance with company policies and service standards. Qualifications & Requirements Required Qualifications  Previous experience in customer service, custome\nAbility to work independently while collaborating with internal departments.\nStrong sense of accountability and commitment to resolving customer issues. Preferred Qualifications  Experience using customer support or ticketing platforms such as Zendesk, Freshdesk, Gorgias, or s\nPrevious experience supporting e-comm"
-},
-{
-"title": "Intermediate Fullstack Engineer, Subscription Lifecycle",
-"company": "GitLab Inc",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=5826424c34f50aaa",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
-"salary": "$115,200 - $194,400 USD per year",
-"skills": [
-"Ruby",
-"Vue",
-"Ruby on Rails",
-"GitLab",
-"Incident response",
-"Microsoft 365",
-"Salesforce"
-],
-"req": "Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, pub\nPartner with Product and Design to translate renewal, billing account, and customer experience requirements into resilient, well-tested solutions.\nIntegrate subscription lifecycle workflows safely with billing, customer account, and internal admin systems.\nParticipate in incident response for subscription and renewal issues, given their potential impact on revenue and customer access. What you'll bring ---------------------  Professional experience as a\nExperience owning technical direction for a product area, including proposing, discussing, and driving thorough, iterative solutions.\nExperience building or maintaining transactional or checkout-style flows, ideally in a billing, ecommerce, or subscription context.\nAlignment with GitLab's values and a commitment to working in accordance with them. About the team ------------------ The Subscription Lifecycle team is part of GitLab's Monetization section and owns "
-},
-{
-"title": "Remote Technical Alarm Specialist (Job ID 3022637)",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=089ea1db124130f7",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://jobs.adt.com/job/24106217/remote-technical-alarm-specialist-us-nationwide/",
-"salary": "$19 - $26 USD per hour",
-"skills": [
-"Swift",
-"Help desk / troubleshooting"
-],
-"req": "Company Overview: ADT has been in the business of helping save lives since 1874. As the 1 smart home security provider in the U.S., we help protect and connect families, businesses and larger commerci\nTroubleshoot and install a wide range of ADT products and services, clearly communicating complex issues and their resolutions to enhance the customer experience.\nAddress various technical issues, including: + Landline and cell/radio communication failures + Peripheral security devices including door/window sensors, glass break detectors, motion detectors, life\nAt least 1 year of technical service experience is required.\nOne (1) year of home security systems technician experience is highly preferred.\nWork from home position must have private work area that is quiet and free of distractions and meets company standards with adequate internet bandwidth to perform the role. Why Join ADT?"
-},
-{
-"title": "Problem Analyst",
-"company": "Western Governors University",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=c7fedcd842ae910b",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Problem-Analyst_JR-026521",
-"salary": "$81,300 - $121,900 USD per year",
-"skills": [
-"SQL",
-"REST APIs",
-"Oracle",
-"AWS",
-"Linux",
-"IAM",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Salesforce",
-"AWS certification",
-"CompTIA A+",
-"CompTIA Network+",
-"ITIL"
-],
-"req": "Exceptional analytical and data mining skills, including experience with forecasting and trend analysis.\nExceptional written and verbal communication skills, including executive-level correspondence. Minimum Qualifications  Bachelor's degree in Computer Information Systems, Computer Science, or a related\nAt least 1 year of incident management escalation experience.\nBasic knowledge of: Salesforce, Single Sign-On (SSO) Management Systems, Active Directory, Microsoft Office 365, Google Apps Administration, PAM, Scheduling Management Applications, OnBase, Remote Des\nCertifications:Linux+AWS Certified Cloud PractitionerCompTIA A+CompTIA Network+ITIL Foundation Travel Requirements This position requires occasional travel of up to 20%, including attendance at design"
-},
-{
-"title": "Remote Technical Alarm Specialist",
-"company": "ADT",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=89790e9bf3a92601",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://jobs.adt.com/job/24106217/remote-technical-alarm-specialist-us-nationwide/",
-"salary": "$19 - $26 USD per hour",
-"skills": [
-"Swift",
-"Help desk / troubleshooting"
-],
-"req": "Company Overview: ADT has been in the business of helping save lives since 1874. As the 1 smart home security provider in the U.S., we help protect and connect families, businesses and larger commerci\nTroubleshoot and install a wide range of ADT products and services, clearly communicating complex issues and their resolutions to enhance the customer experience.\nAddress various technical issues, including: + Landline and cell/radio communication failures + Peripheral security devices including door/window sensors, glass break detectors, motion detectors, life\nAt least 1 year of technical service experience is required.\nOne (1) year of home security systems technician experience is highly preferred.\nWork from home position must have private work area that is quiet and free of distractions and meets company standards with adequate internet bandwidth to perform the role. Why Join ADT?"
-},
-{
-"title": "Machine Learning Engineer, AI Software (C++)",
-"company": "Qualcomm",
-"location": "Markham, ON, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=552e006ef8131690",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://app.eightfold.ai/careers/job/446721430478?domain=qualcomm.com",
-"salary": "$104,800.00 - $154,800.00",
-"skills": [
-"C++",
-"REST APIs",
-"TensorFlow",
-"PyTorch",
-"Machine learning",
-"Deep learning",
 "LLMs / GenAI",
-"Docker",
-"Git",
-"Linux",
-"Windows",
+"Azure",
+"Help desk / troubleshooting",
 "Hardware setup",
-"Jira",
-"Data structures & algorithms",
-"Object-oriented programming",
-"System design",
-"Mobile (iOS / Android)",
-"Embedded systems"
+"VMware / virtualization"
 ],
-"req": "Duties :  Development of modern C++17 software library for Qualcomm Hexagon Processors  Design and performance tune modern C++17 code for an embedded system  Development of model analyzing tools for t\nExperience with low level interactions between operating systems and hardware."
+"req": "Demonstrates positive attitude and motivation, concern for students, teamwork, and excellent time management skills.\nMust support and embrace the College’s Impact mission to improve the people and communities we serve through our civic engagement initiatives.\nMust have exceptional communication, organization, and time management skills.\nMust be \"self-motivated\" as well as creative and efficient in proposing solutions to complex, time-critical problems.\nMust be collaborative in driving decisions and a team-player.\nBuilds and maintains student satisfaction.\nRecognizes and anticipates student needs. Day to Day Responsibilities In this role you will wear different hats, but your skills will be especially essential in the following areas: Install, configure\nDocument system configurations, procedures, and changes. Qualifications and Education Requirements  Associate's degree in technology or similar field.\nProven work experience in IT.\nExperience with or knowledge of programming languages and operating systems; current equipment and technologies, enterprise backup and recovery procedures, system performance-monitoring tools, active \nExperience in project management, application design and integration, and cloud computing (specifically Microsoft Azure).\nKnowledge of server and network administration best practices. Our Commitment to Employees Just as we strive to empower our students for success, we also aim to enrich the lives of our employees. For "
 },
 {
-"title": "Student Business Services Specialist I",
-"company": "National University",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=b98b0b10ca59daa3",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://nus.wd1.myworkdayjobs.com/en-US/Careers/job/Remote-USA/Student-Business-Services-Specialist-I_R20263330",
-"salary": "$20 - $23 USD per hour",
-"skills": [
-"NIST / ISO 27001",
-"Help desk / troubleshooting"
-],
-"req": "Scrutinize student digital records for a thorough review of account.\nDocument necessary follow-ups on student account files.\nTroubleshoot student account concerns, conflicting information, and research and follow-through on solutions.\nReview outstanding check files on refunds and evaluate status to return funds either to student (reissue), lender, or provider.\nEnsure student accounts are kept current by providing monthly invoices and audits for timely payment. Create, attach and invoice third party contracts. Comply with noted terms and conditions.\nAnswer incoming calls using Five9  Determine if inactive credits due are to be returned to student, third-party, or lender to ensure compliance with Title IV and/or state regulations.\nProcess student payments in TouchNet .in compliance with PCI DSS security standards.\nPost Financial Aid single award disbursements funds to student accounts in an accurate and timely manner.\nProvide assistance to resolve student account discrepancies that may require the services of other university teams and/or third-party vendors.\nCommunicate with students regarding tuition questions, third party contracts, master promissory notes, billing issues, refunds, attendance issues, account adjustments, etc.\nGenerate student billing and review tuition and fees for accuracy.\nConduct student audits in preparation for annual Escheat process .\nReview and authorize student tuition credits or refunds to credit card/bank account.\nEnsure the timely processing of st"
-},
-{
-"title": "Contract WordPress Developer",
-"company": "gemini agency",
-"location": "Remote · United States",
-"posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=3dc8d5eafedfa364",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://geminiams.bamboohr.com/careers/79?source=indeed&src=indeed&postedDate=2026-11-04",
-"skills": [
-"JavaScript",
-"PHP",
-"HTML/CSS",
-"Help desk / troubleshooting"
-],
-"req": "Contract WordPress Developer Ongoing | Approximately 50 hours per month Gemini Agency is looking for an experienced contract WordPress developer with marketing agency experience to build, improve, and\nComplete monthly hosting-related maintenance, backup checks, and WordPress, theme, and plugin updates. What You Bring  Previous experience supporting digital marketing agencies is required.\nDeep WordPress expertise, including PHP, HTML, CSS, JavaScript, and database troubleshooting.\nExperience with custom themes, the WordPress block editor, and common page builders. Blocksy experience is a plus.\nExperience managing requests across multiple client websites and working with account and project managers.\nA huge plus: Understanding how website functionality and user experience support conversions, along with experience implementing and troubleshooting GA4, Google Tag Manager, form submission tracking, \nApproximately 45 hours for development maintenance, troubleshooting, and client requests. About Gemini Gemini is a Twin Cities digital marketing agency focused on helping our clients grow. We combine "
-},
-{
-"title": "IT Sales",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=6a317bf2cb68d726",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/it-sales-6a317bf2cb68d726",
-"salary": "$50,000.00-$250,000.00 per year",
-"skills": [
-"Salesforce"
-],
-"req": "Job Summary As an IT Sales professional, you will develop business relationships and connect organizations with technology solutions that address their needs. You will combine consultative selling, ma"
-},
-{
-"title": "GIS Developer",
+"title": "Data Modeler - 3NF & Analytical RDBMS",
 "company": "Axella Compusoft Inc.",
 "location": "Brampton, ON, CA (remote)",
 "posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=1b07a48e31d96bae",
+"link": "https://ca.indeed.com/viewjob?jk=87b5d695204a5070",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/gis-developer-1b07a48e31d96bae",
-"salary": "$40.00-$55.90 per hour",
+"years": 7,
+"apply": "http://ca.indeed.com/job/data-modeler-3nf-analytical-rdbms-87b5d695204a5070",
+"salary": "$50.00-$75.00 per hour",
 "skills": [
-"Python",
-"Java",
-"JavaScript",
-"TypeScript",
 "SQL",
-"HTML/CSS",
-"React",
-"Angular",
-"Spring Boot",
-".NET",
-"REST APIs",
+"ETL / data pipelines",
+"Databricks",
+"Snowflake",
+"Power BI",
 "PostgreSQL",
 "SQL Server",
 "Oracle",
-"AWS",
 "Azure",
-"Docker",
-"CI/CD",
-"GitLab",
-"Git",
-"IAM",
-"Help desk / troubleshooting",
-"Agile / Scrum"
+"Agile / Scrum",
+"Data structures & algorithms",
+"System design",
+"SDLC"
 ],
-"req": "About the Role We are seeking an experienced ESRI / GIS Developer to join our geospatial technology team. The ideal candidate will have strong experience with ESRI ArcGIS technologies, GIS application\nDevelop web-based GIS applications using ArcGIS Maps SDK for JavaScript, ArcGIS Experience Builder, ArcGIS Web AppBuilder, or similar ESRI frameworks.\nSupport integration with ArcGIS Survey123, Field Maps, Dashboards, Experience Builder, and other ArcGIS applications.\nIdentify opportunities to modernize GIS applications and improve performance, usability, automation, and maintainability. Qualifications  5+ years of experience in GIS development, ESRI technologies, \nStrong hands-on experience with the ESRI ArcGIS platform.\nExperience with ArcGIS Enterprise, ArcGIS Online, ArcGIS Server, Portal for ArcGIS, and ArcGIS Data Store.\nStrong experience developing web GIS applications using ArcGIS Maps SDK for JavaScript.\nExperience with JavaScript, TypeScript, HTML5, CSS, and modern web development frameworks.\nExperience with Python and ArcPy for GIS automation and geoprocessing.\nExperience developing and consuming RESTful APIs and web services.\nStrong experience with ArcGIS Pro and GIS data management.\nExperience with enterprise geodatabases and spatial databases such as SQL Server, PostgreSQL/PostGIS, Oracle Spatial, or similar platforms.\nExperience creating and managing feature services, map services, image services, and geoprocessing services.\nExperience with ArcGIS Survey123, Field"
+"req": "About the Role We are seeking an experienced Data Modeler – 3NF & Analytical RDBMS to join our data and analytics team. The ideal candidate will have strong expertise in relational data modeling, Thir\nSupport Master Data Management and reference data modeling where applicable.\nIdentify opportunities to simplify data structures, improve data reuse, and reduce duplication across enterprise systems. Qualifications  7+ years of experience in Data Modeling, Data Architecture, Da\nStrong hands-on experience designing 3NF relational data models.\nStrong experience with conceptual, logical, and physical data modeling.\nExperience designing Star Schema, Snowflake Schema, fact tables, dimension tables, and dimensional models.\nExperience with relational databases such as Oracle, Microsoft SQL Server, PostgreSQL, Azure SQL, or similar platforms.\nExperience with database design, constraints, primary and foreign keys, indexes, partitions, and referential integrity.\nExperience with enterprise data warehouses, data marts, operational data stores, and analytical databases.\nExperience with source-to-target mapping, data transformation, ETL/ELT processes, and data integration.\nExperience working with large-scale enterprise datasets and complex relational structures.\nExperience with data modeling tools such as ERwin Data Modeler, ER/Studio, Visio, Sparx Enterprise Architect, or similar tools.\nExperience collaborating with Business Analysts and stakeholders to gather and validate data requirements.\n"
 },
 {
 "title": "Solution Designer",
@@ -744,63 +133,704 @@
 "req": "About the Role We are seeking an experienced Solution Designer to join our technology team. The ideal candidate will have a strong background in solution architecture, application design, systems inte\nIdentify opportunities to improve architecture consistency, reuse, automation, and overall solution quality. Qualifications  7+ years of experience in Solution Design, Solution Architecture, Applicati\nStrong experience designing enterprise-scale applications and integrated systems.\nExperience creating high-level design and low-level design documentation.\nExperience with technologies such as Java, Spring Boot, .NET, Angular, React, or similar enterprise application frameworks.\nExperience with cloud platforms, preferably Microsoft Azure, including services related to compute, storage, networking, databases, identity, and integration.\nExperience with container technologies such as Docker and Kubernetes is considered an asset.\nExperience with Microsoft Entra ID, OAuth 2.0, OpenID Connect, JWT, and SSO is considered an asset.\nExperience with tools such as Azure DevOps, GitHub, Jenkins, Terraform, Bicep, or similar platforms.\nExperience defining integration strategies across internal and external enterprise systems.\nExperience with architectural modeling tools and techniques, including UML, sequence diagrams, component diagrams, and deployment diagrams.\nExperience working with large, cross-functional, multi-vendor, or distributed delivery teams.\nExperience working in government, publi"
 },
 {
-"title": "Data Modeler - 3NF & Analytical RDBMS",
+"title": "GIS Developer",
 "company": "Axella Compusoft Inc.",
 "location": "Brampton, ON, CA (remote)",
 "posted": "2026-11-04",
-"link": "https://ca.indeed.com/viewjob?jk=87b5d695204a5070",
+"link": "https://ca.indeed.com/viewjob?jk=1b07a48e31d96bae",
 "source": "Indeed",
 "country": "CA",
-"years": 7,
-"apply": "http://ca.indeed.com/job/data-modeler-3nf-analytical-rdbms-87b5d695204a5070",
-"salary": "$50.00-$75.00 per hour",
+"years": 5,
+"apply": "http://ca.indeed.com/job/gis-developer-1b07a48e31d96bae",
+"salary": "$40.00-$55.90 per hour",
 "skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
 "SQL",
-"ETL / data pipelines",
-"Databricks",
-"Snowflake",
-"Power BI",
+"HTML/CSS",
+"React",
+"Angular",
+"Spring Boot",
+".NET",
+"REST APIs",
 "PostgreSQL",
 "SQL Server",
 "Oracle",
+"AWS",
 "Azure",
-"Agile / Scrum",
-"Data structures & algorithms",
-"System design",
-"SDLC"
+"Docker",
+"CI/CD",
+"GitLab",
+"Git",
+"IAM",
+"Help desk / troubleshooting",
+"Agile / Scrum"
 ],
-"req": "About the Role We are seeking an experienced Data Modeler – 3NF & Analytical RDBMS to join our data and analytics team. The ideal candidate will have strong expertise in relational data modeling, Thir\nSupport Master Data Management and reference data modeling where applicable.\nIdentify opportunities to simplify data structures, improve data reuse, and reduce duplication across enterprise systems. Qualifications  7+ years of experience in Data Modeling, Data Architecture, Da\nStrong hands-on experience designing 3NF relational data models.\nStrong experience with conceptual, logical, and physical data modeling.\nExperience designing Star Schema, Snowflake Schema, fact tables, dimension tables, and dimensional models.\nExperience with relational databases such as Oracle, Microsoft SQL Server, PostgreSQL, Azure SQL, or similar platforms.\nExperience with database design, constraints, primary and foreign keys, indexes, partitions, and referential integrity.\nExperience with enterprise data warehouses, data marts, operational data stores, and analytical databases.\nExperience with source-to-target mapping, data transformation, ETL/ELT processes, and data integration.\nExperience working with large-scale enterprise datasets and complex relational structures.\nExperience with data modeling tools such as ERwin Data Modeler, ER/Studio, Visio, Sparx Enterprise Architect, or similar tools.\nExperience collaborating with Business Analysts and stakeholders to gather and validate data requirements.\n"
+"req": "About the Role We are seeking an experienced ESRI / GIS Developer to join our geospatial technology team. The ideal candidate will have strong experience with ESRI ArcGIS technologies, GIS application\nDevelop web-based GIS applications using ArcGIS Maps SDK for JavaScript, ArcGIS Experience Builder, ArcGIS Web AppBuilder, or similar ESRI frameworks.\nSupport integration with ArcGIS Survey123, Field Maps, Dashboards, Experience Builder, and other ArcGIS applications.\nIdentify opportunities to modernize GIS applications and improve performance, usability, automation, and maintainability. Qualifications  5+ years of experience in GIS development, ESRI technologies, \nStrong hands-on experience with the ESRI ArcGIS platform.\nExperience with ArcGIS Enterprise, ArcGIS Online, ArcGIS Server, Portal for ArcGIS, and ArcGIS Data Store.\nStrong experience developing web GIS applications using ArcGIS Maps SDK for JavaScript.\nExperience with JavaScript, TypeScript, HTML5, CSS, and modern web development frameworks.\nExperience with Python and ArcPy for GIS automation and geoprocessing.\nExperience developing and consuming RESTful APIs and web services.\nStrong experience with ArcGIS Pro and GIS data management.\nExperience with enterprise geodatabases and spatial databases such as SQL Server, PostgreSQL/PostGIS, Oracle Spatial, or similar platforms.\nExperience creating and managing feature services, map services, image services, and geoprocessing services.\nExperience with ArcGIS Survey123, Field"
 },
 {
-"title": "Systems Administrator II",
-"company": "American College of Education",
+"title": "IT Sales",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=6a317bf2cb68d726",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-sales-6a317bf2cb68d726",
+"salary": "$50,000.00-$250,000.00 per year",
+"skills": [
+"Salesforce"
+],
+"req": "Job Summary As an IT Sales professional, you will develop business relationships and connect organizations with technology solutions that address their needs. You will combine consultative selling, ma"
+},
+{
+"title": "Contract WordPress Developer",
+"company": "gemini agency",
 "location": "Remote · United States",
 "posted": "2026-11-04",
-"link": "https://www.indeed.com/viewjob?jk=51c3452f89cb1476",
+"link": "https://www.indeed.com/viewjob?jk=3dc8d5eafedfa364",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://ats.rippling.com/ace/jobs/7b07bc8a-b87a-4852-ae34-b505a90ee505?jobSite=Indeed",
-"salary": "$90,000",
+"apply": "https://geminiams.bamboohr.com/careers/79?source=indeed&src=indeed&postedDate=2026-11-04",
 "skills": [
-".NET",
-"LLMs / GenAI",
-"Azure",
-"Help desk / troubleshooting",
-"Hardware setup",
-"VMware / virtualization"
+"JavaScript",
+"PHP",
+"HTML/CSS",
+"Help desk / troubleshooting"
 ],
-"req": "Demonstrates positive attitude and motivation, concern for students, teamwork, and excellent time management skills.\nMust support and embrace the College’s Impact mission to improve the people and communities we serve through our civic engagement initiatives.\nMust have exceptional communication, organization, and time management skills.\nMust be \"self-motivated\" as well as creative and efficient in proposing solutions to complex, time-critical problems.\nMust be collaborative in driving decisions and a team-player.\nBuilds and maintains student satisfaction.\nRecognizes and anticipates student needs. Day to Day Responsibilities In this role you will wear different hats, but your skills will be especially essential in the following areas: Install, configure\nDocument system configurations, procedures, and changes. Qualifications and Education Requirements  Associate's degree in technology or similar field.\nProven work experience in IT.\nExperience with or knowledge of programming languages and operating systems; current equipment and technologies, enterprise backup and recovery procedures, system performance-monitoring tools, active \nExperience in project management, application design and integration, and cloud computing (specifically Microsoft Azure).\nKnowledge of server and network administration best practices. Our Commitment to Employees Just as we strive to empower our students for success, we also aim to enrich the lives of our employees. For "
+"req": "Contract WordPress Developer Ongoing | Approximately 50 hours per month Gemini Agency is looking for an experienced contract WordPress developer with marketing agency experience to build, improve, and\nComplete monthly hosting-related maintenance, backup checks, and WordPress, theme, and plugin updates. What You Bring  Previous experience supporting digital marketing agencies is required.\nDeep WordPress expertise, including PHP, HTML, CSS, JavaScript, and database troubleshooting.\nExperience with custom themes, the WordPress block editor, and common page builders. Blocksy experience is a plus.\nExperience managing requests across multiple client websites and working with account and project managers.\nA huge plus: Understanding how website functionality and user experience support conversions, along with experience implementing and troubleshooting GA4, Google Tag Manager, form submission tracking, \nApproximately 45 hours for development maintenance, troubleshooting, and client requests. About Gemini Gemini is a Twin Cities digital marketing agency focused on helping our clients grow. We combine "
 },
 {
-"title": "Data Analyst – Center of Excellence & Data Analytics",
-"company": "Canadian Tire",
-"location": "Toronto, ON",
+"title": "Student Business Services Specialist I",
+"company": "National University",
+"location": "Remote · United States",
 "posted": "2026-11-04",
-"link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Analyst---Center-of-Excellence---Data-Analytics_JR163585-1",
-"source": "Canadian Tire careers",
+"link": "https://www.indeed.com/viewjob?jk=b98b0b10ca59daa3",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://nus.wd1.myworkdayjobs.com/en-US/Careers/job/Remote-USA/Student-Business-Services-Specialist-I_R20263330",
+"salary": "$20 - $23 USD per hour",
+"skills": [
+"NIST / ISO 27001",
+"Help desk / troubleshooting"
+],
+"req": "Scrutinize student digital records for a thorough review of account.\nDocument necessary follow-ups on student account files.\nTroubleshoot student account concerns, conflicting information, and research and follow-through on solutions.\nReview outstanding check files on refunds and evaluate status to return funds either to student (reissue), lender, or provider.\nEnsure student accounts are kept current by providing monthly invoices and audits for timely payment. Create, attach and invoice third party contracts. Comply with noted terms and conditions.\nAnswer incoming calls using Five9  Determine if inactive credits due are to be returned to student, third-party, or lender to ensure compliance with Title IV and/or state regulations.\nProcess student payments in TouchNet .in compliance with PCI DSS security standards.\nPost Financial Aid single award disbursements funds to student accounts in an accurate and timely manner.\nProvide assistance to resolve student account discrepancies that may require the services of other university teams and/or third-party vendors.\nCommunicate with students regarding tuition questions, third party contracts, master promissory notes, billing issues, refunds, attendance issues, account adjustments, etc.\nGenerate student billing and review tuition and fees for accuracy.\nConduct student audits in preparation for annual Escheat process .\nReview and authorize student tuition credits or refunds to credit card/bank account.\nEnsure the timely processing of st"
+},
+{
+"title": "Machine Learning Engineer, AI Software (C++)",
+"company": "Qualcomm",
+"location": "Markham, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=552e006ef8131690",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://app.eightfold.ai/careers/job/446721430478?domain=qualcomm.com",
+"salary": "$104,800.00 - $154,800.00",
+"skills": [
+"C++",
+"REST APIs",
+"TensorFlow",
+"PyTorch",
+"Machine learning",
+"Deep learning",
+"LLMs / GenAI",
+"Docker",
+"Git",
+"Linux",
+"Windows",
+"Hardware setup",
+"Jira",
+"Data structures & algorithms",
+"Object-oriented programming",
+"System design",
+"Mobile (iOS / Android)",
+"Embedded systems"
+],
+"req": "Duties :  Development of modern C++17 software library for Qualcomm Hexagon Processors  Design and performance tune modern C++17 code for an embedded system  Development of model analyzing tools for t\nExperience with low level interactions between operating systems and hardware."
+},
+{
+"title": "Remote Technical Alarm Specialist",
+"company": "ADT",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=89790e9bf3a92601",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.adt.com/job/24106217/remote-technical-alarm-specialist-us-nationwide/",
+"salary": "$19 - $26 USD per hour",
+"skills": [
+"Swift",
+"Help desk / troubleshooting"
+],
+"req": "Company Overview: ADT has been in the business of helping save lives since 1874. As the 1 smart home security provider in the U.S., we help protect and connect families, businesses and larger commerci\nTroubleshoot and install a wide range of ADT products and services, clearly communicating complex issues and their resolutions to enhance the customer experience.\nAddress various technical issues, including: + Landline and cell/radio communication failures + Peripheral security devices including door/window sensors, glass break detectors, motion detectors, life\nAt least 1 year of technical service experience is required.\nOne (1) year of home security systems technician experience is highly preferred.\nWork from home position must have private work area that is quiet and free of distractions and meets company standards with adequate internet bandwidth to perform the role. Why Join ADT?"
+},
+{
+"title": "Problem Analyst",
+"company": "Western Governors University",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=c7fedcd842ae910b",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Problem-Analyst_JR-026521",
+"salary": "$81,300 - $121,900 USD per year",
+"skills": [
+"SQL",
+"REST APIs",
+"Oracle",
+"AWS",
+"Linux",
+"IAM",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Salesforce",
+"AWS certification",
+"CompTIA A+",
+"CompTIA Network+",
+"ITIL"
+],
+"req": "Exceptional analytical and data mining skills, including experience with forecasting and trend analysis.\nExceptional written and verbal communication skills, including executive-level correspondence. Minimum Qualifications  Bachelor's degree in Computer Information Systems, Computer Science, or a related\nAt least 1 year of incident management escalation experience.\nBasic knowledge of: Salesforce, Single Sign-On (SSO) Management Systems, Active Directory, Microsoft Office 365, Google Apps Administration, PAM, Scheduling Management Applications, OnBase, Remote Des\nCertifications:Linux+AWS Certified Cloud PractitionerCompTIA A+CompTIA Network+ITIL Foundation Travel Requirements This position requires occasional travel of up to 20%, including attendance at design"
+},
+{
+"title": "Remote Technical Alarm Specialist (Job ID 3022637)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=089ea1db124130f7",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.adt.com/job/24106217/remote-technical-alarm-specialist-us-nationwide/",
+"salary": "$19 - $26 USD per hour",
+"skills": [
+"Swift",
+"Help desk / troubleshooting"
+],
+"req": "Company Overview: ADT has been in the business of helping save lives since 1874. As the 1 smart home security provider in the U.S., we help protect and connect families, businesses and larger commerci\nTroubleshoot and install a wide range of ADT products and services, clearly communicating complex issues and their resolutions to enhance the customer experience.\nAddress various technical issues, including: + Landline and cell/radio communication failures + Peripheral security devices including door/window sensors, glass break detectors, motion detectors, life\nAt least 1 year of technical service experience is required.\nOne (1) year of home security systems technician experience is highly preferred.\nWork from home position must have private work area that is quiet and free of distractions and meets company standards with adequate internet bandwidth to perform the role. Why Join ADT?"
+},
+{
+"title": "Intermediate Fullstack Engineer, Subscription Lifecycle",
+"company": "GitLab Inc",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=5826424c34f50aaa",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
+"salary": "$115,200 - $194,400 USD per year",
+"skills": [
+"Ruby",
+"Vue",
+"Ruby on Rails",
+"GitLab",
+"Incident response",
+"Microsoft 365",
+"Salesforce"
+],
+"req": "Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, pub\nPartner with Product and Design to translate renewal, billing account, and customer experience requirements into resilient, well-tested solutions.\nIntegrate subscription lifecycle workflows safely with billing, customer account, and internal admin systems.\nParticipate in incident response for subscription and renewal issues, given their potential impact on revenue and customer access. What you'll bring ---------------------  Professional experience as a\nExperience owning technical direction for a product area, including proposing, discussing, and driving thorough, iterative solutions.\nExperience building or maintaining transactional or checkout-style flows, ideally in a billing, ecommerce, or subscription context.\nAlignment with GitLab's values and a commitment to working in accordance with them. About the team ------------------ The Subscription Lifecycle team is part of GitLab's Monetization section and owns "
+},
+{
+"title": "Customer Service Representative",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=c6f5ae9c2e50700f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/customer-service-representative-c6f5ae9c2e50700f",
+"salary": "$55,000.00 per year",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "About Slab Sharks Slab Sharks Inc. is a rapidly growing company in the collectibles industry, specializing in trading card consignment, auctions, and live commerce. We help collectors buy, sell, and m\nInvestigate customer concerns by reviewing account details, transactions, and internal records.\nMaintain accurate documentation of customer interactions, resolutions, and recurring issues. 3. Cross-Department Coordination  Collaborate with consignment, operations, fulfillment, finance, and other\nFollow up with internal teams to ensure customer issues are resolved within established timelines.\nSupport effective communication between customers and internal departments. 4. Customer Experience, Reporting & Process Improvement  Identify recurring customer concerns and recommend improvements to \nWork toward established service standards and contribute to improving the overall customer experience. Reporting & Performance  Maintain accurate and organized customer support records.\nEnsure customer inquiries are handled in accordance with company policies and service standards. Qualifications & Requirements Required Qualifications  Previous experience in customer service, custome\nAbility to work independently while collaborating with internal departments.\nStrong sense of accountability and commitment to resolving customer issues. Preferred Qualifications  Experience using customer support or ticketing platforms such as Zendesk, Freshdesk, Gorgias, or s\nPrevious experience supporting e-comm"
+},
+{
+"title": "Accounting Tech and Admin Assistant",
+"company": "Sanjit Kumar Professional Corp",
+"location": "Leduc, AB, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=4ceb4e4cffff3d4a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/accounting-tech-and-admin-assistant-4ceb4e4cffff3d4a",
+"salary": "$43,000.00-$45,000.00 per year",
+"skills": [
+"Excel"
+],
+"req": "Job Overview The Accounting Tech and Admin Assistant supports accurate day-to-day accounting and administrative operations through organized recordkeeping, data entry, and account support. This role h"
+},
+{
+"title": "Mid-Level Model Based Systems Engineer",
+"company": "PMAT Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=8f1588afe883f8fe",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://pmat.bamboohr.com/careers/334?source=indeed&src=indeed&postedDate=2026-11-04",
+"salary": "$80,000 - $100,000 USD per year",
+"skills": [
+"Docker",
+"Cybersecurity",
+"Hardware setup",
+"Jira",
+"Data structures & algorithms"
+],
+"req": "At PMAT, we work on mission critical systems that directly support the warfighter, designing, building, and securing modern digital capabilities across cloud, data, and software environments. Our team\nProvide technical guidance to junior engineers and contribute to engineering documentation, deliverables, and program reporting. About Us: PMAT is an innovative small business founded with a passion f\nAt least 4 years of hands-on MBSE experience using SysML or equivalent modeling methodologies.\nExperience developing, maintaining, and analyzing system or SoS architectures, requirements, interfaces, operational workflows, and technical dependencies.\nExperience developing or supporting data models, data dictionaries, information architectures, metadata definitions, or structured engineering data repositories.\nExperience integrating engineering models, technical data, requirements, and system information across multiple disciplines, platforms, or organizational environments.\nExperience collaborating with systems engineers, mission engineers, software developers, cybersecurity personnel, data engineers, and other technical stakeholders to align architectures with operation\nStrong written and verbal communication skills with the ability to develop technical documentation, communicate architectural concepts, and present engineering findings to technical and program leader\nExperience with Systems Modeling Language (SysML), Department of Defense Architecture Framework (DoDAF), Unified Ar"
+},
+{
+"title": "Software Developer",
+"company": "Fidelity Canada",
+"location": "Toronto Office",
+"posted": "2026-11-04",
+"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer_J70854-1",
+"source": "Fidelity Canada careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Software Developer, AI Engineering & SDLC Transformation",
+"company": "Fidelity Canada",
+"location": "Toronto Office",
+"posted": "2026-11-04",
+"link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Software-Developer--AI-Engineering---SDLC-Transformation_J70855",
+"source": "Fidelity Canada careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intake Specialist - Remote",
+"company": "Dragonfly Health",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=ba90e12f8e319441",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://recruiting2.ultipro.com/STA1026SSERV/JobBoard/88f6bf58-d226-4c6f-8429-70fb7f1dc30d/OpportunityDetail?opportunityId=eda5036e-25e9-4ed9-925c-87780f7a0d9a&postingId=c6433279-695c-4ab7-86ab-bf8d93d4b670",
+"salary": "$20.00 per hour",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+],
+"req": "Dragonfly Health - A great place to land Dragonfly Health is the leading care-at-home data, technology and service platform, and the industry’s first scale durable medical equipment (DME) and pharmacy\nCommunicate with healthcare partners, internal departments, and technical support teams to coordinate issue resolution, provide updates, and ensure a positive customer experience.\nWhat we look for  High school diploma or equivalent required.\nAt least six months of customer-facing experience, with a strong commitment to delivering excellent service and resolving customer concerns.\nOne year of experience in a call center, help desk, technical support, or healthcare environment is strongly preferred.\nSpanish-speaking skills are a plus but not required.\nWhy IT Intake Specialists are important At Dragonfly Health, our healthcare partners depend on reliable technology and responsive support to manage their operations and coordinate patient care. The In\nLet's soar together  Experience Preferred 1 year(s): Experience in a call center, help desk, technical support, or healthcare environment.\nEducation Required High School or better Equal Opportunity Employer This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, ple"
+},
+{
+"title": "Data Analyst",
+"company": "Prachub",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=d784d15f6edb324d",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "http://www.indeed.com/job/data-analyst-d784d15f6edb324d",
+"salary": "$70,000 - $95,000 USD per year",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Statistics"
+]
+},
+{
+"title": "Junior Software Engineer",
+"company": "Prachub",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=00169afc3a5f149e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/junior-software-engineer-00169afc3a5f149e",
+"salary": "$80,000 - $110,000 USD per year",
+"skills": [
+"JavaScript",
+"TypeScript",
+"SQL",
+"HTML/CSS",
+"REST APIs",
+"Git",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Technical Solutions Specialist",
+"company": "BusPlanner",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=c27c3efea6ab05be",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://apply.workable.com/j/C2A08FB114",
+"skills": [
+"SQL",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Help desk / troubleshooting"
+],
+"req": "Position Summary The Technical Solutions Specialist is part of BusPlanner's Projects team and provides hands-on technical troubleshooting, configuration, and implementation support across the BusPlann\nHelp build and configure environments used to support product demos and sales presentations (this role does not conduct demos or sales activities directly). Client & Cross-Functional Collaboration  Pa\nHelp build and maintain a technical documentation repository, including training materials, templates, and frameworks that support consistent processes and cross-coverage across the team. Product Supp\nInvestigate and troubleshoot application errors, system messages, and unexpected behavior, escalating complex or system-level issues as needed. Reporting & Compliance Support  Assist with government a\nSupport seasonal and cyclical processes (e.g., school-year setup, grade rollovers, annual update cycles) as assigned. Requirements  3-5 years of experience in technical support, software implementatio"
+},
+{
+"title": "LATAM Customer Support Specialist",
+"company": "Lettuce Box, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=7a9a970c9f8758e5",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/latam-customer-support-specialist-7a9a970c9f8758e5",
+"salary": "$8.00 per hour",
+"skills": [
+"REST APIs",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira"
+],
+"req": "LATAM Customer Support Specialist Location: Remote (Mexico, Honduras, Costa Rica and other Central American countries) Job type: Full-time, independent contractor Schedule: Full-time, Monday to Friday\nActively contribute to the creation and improvement of FAQs, Knowledge Base materials, and other collateral, both internal-facing and customer-facing.\nEffectively influence and drive internal resources to ensure that customer issues and commitments are met. Required Skills & Experience:  3+ years in a customer support related role.\nFast and reliable internet is required.\nHands-on experience with Zendesk.\nThis position has specific required hours. Are you available to work 10:00 AM to 7:00 PM Pacific Time (PT), Monday to Friday?\nDo you have previous experience with APIs and integrations?\nWhat is your expected hourly rate in USD? Please enter a number only. Experience:  Customer support: 3 years (Required)  Zendesk in a professional setting: 1 year (Required) Language:  Fluent English "
+},
+{
+"title": "Systems Analyst (2 Positions)",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-11-04",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Systems-Analyst--2-Positions-_JR-8226",
+"source": "NAV CANADA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Receptionist",
+"company": "CBRE",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=583f7cd9538cda12",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://cbreglobal.avature.net/careers/JobDetail?jobId=302588&source=Indeed",
+"salary": "$50,000",
+"skills": [
+"Excel",
+"Microsoft 365"
+],
+"req": "About CBRE and Experience Services: CBRE is the world's largest commercial real estate services firm. Experience by Industrious is CBRE’s global hospitality business that partners with leading compani\nDeliver own output by following defined procedures and processes under close supervision and guidance What You’ll Need: High School Diploma or GED with up to 2 years of job-related experience. Experie"
+},
+{
+"title": "Administrative Assistant",
+"company": "Lactation Clinic",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=8ace53308767108e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-8ace53308767108e",
+"salary": "$22.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Software developer",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659773",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Help desk technician",
+"company": "IMP Solutions",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659735",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "University of Manitoba",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=05775a84ce6fd333",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://viprecprod.ad.umanitoba.ca/default.aspx?REQ_ID=51260&Language=1",
+"salary": "$26.20 to $37.62 per hour",
+"skills": [
+"Bash/Shell",
+"Statistics",
+"Linux",
+"Help desk / troubleshooting"
+],
+"req": "Experience in computational analysis and interpretation of biological or sequencing data required.\nExperience with multi-omics analysis considered an asset.\nExperience in scientific writing, including preparation of research reports or manuscripts, considered an asset.\nAn acceptable equivalent combination of education and experience may be considered. SKILLS AND ABILITIES:  Knowledge of microbiology and biological research methods is required.\nAbility to analyze, integrate, and interpret biological datasets using appropriate computational and bioinformatics tools is required.\nExpertise required in R, Tidyverse, Bioconductor, Linux, Bash, high-performance computing clusters, Compute Canada Trillium Server, GATK, DELLY, VCFshiny, rMATS, FAScore, DESeq2, ClusterProfiler, and \nAbility to process, analyze, and interpret sequencing data using appropriate bioinformatics and computational tools is required.\nStrong analytical, critical-thinking, and problem-solving skills required.\nStrong scientific writing skills, including the ability to prepare, revise, and finalize research manuscripts, is required.\nAbility to work independently, manage assigned research activities, and meet established deadlines is required.\nStrong organizational skills and attention to detail to ensure accuracy in data analysis and documentation required.\nAbility to communicate research findings clearly and collaborate effectively with supervisors and research team members is required.\nWillingness and ability to"
+},
+{
+"title": "Analyst, information technology (IT)",
+"company": "IMP Solutions",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659675",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Astra North Infoteck Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50659812",
+"source": "Job Bank",
+"country": "CA",
+"years": 10
+},
+{
+"title": "EGIS ADMINISTRATOR",
+"company": "Manitoba Hydro",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=1b27d849a6d6a49c",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI1RjYzNzc2QjRBOEMzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
+"salary": "$56.88-$69.95",
+"skills": [
+"Excel",
+"Microsoft 365",
+"SAP"
+],
+"req": "Provide training to new users, contractors and students in the Distribution Engineering Technical School (DETS) program.\nManage the interface with other corporate systems to exchange data developed on or required by eGIS and administer selected auxiliary applications that directly interface with eGIS. These systems incl\nDevelop progressive proposals and ideas for the long-term success and value of eGIS and the Distribution Engineering Standards & Support Services and Distribution Engineering departments. Qualificatio\nPractical experience and a detailed working knowledge in distribution design and in the construction of electric distribution systems.\nMust be prepared to travel."
+},
+{
+"title": "Coop Work Experience Student",
+"company": "Alberta Health Services",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=03f3e56eaf7613ac",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.albertahealthservices.ca/jobs/coop-work-experience-student-601886",
+"salary": "$17.95",
+"skills": [
+"Python",
+"Java",
+"C",
+"SQL",
+"Machine learning",
+"Power BI",
+"Tableau",
+"Excel",
+"Help desk / troubleshooting"
+],
+"req": "Your Opportunity: Health Shared Services provides vital services to clinical and non-clinical teams across Alberta’s healthcare system to help them deliver timely, high-quality healthcare to patients \nDescription: The co-op student can expect to be an active member of their team and will receive training and mentoring from IT professionals. While the student positions will be challenging, this oppo"
+},
+{
+"title": "Junior Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-04",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Computer Technician",
+"company": "",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=a1446510d47d3efd",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/computer-technician-a1446510d47d3efd",
+"salary": "$31.43-$41.05 per hour",
+"skills": [
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Franchise Development Communication Coordinator (Corporate Head Office)",
+"company": "Oxford Learning Centre",
+"location": "London, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=be7f5c44195f406d",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://oxfordlearning.talentnest.com/en/posting/245550/location/293949?source=indeed",
+"salary": "$56,000-$62,000 per year",
+"skills": [
+"Salesforce"
+]
+},
+{
+"title": "Courseware Developer",
+"company": "CAE",
+"location": "4 Locations, Canada",
+"posted": "2026-11-04",
+"link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal---8585-Cote-De-Liesse-QC-Canada/Courseware-Developer_124122",
+"source": "CAE careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior ERP Developer",
+"company": "Smith and Long Limited",
+"location": "Markham, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=49657383b9f64670",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/junior-erp-developer-49657383b9f64670",
+"salary": "$60,000.00-$70,000.00 per year",
+"skills": [
+"C",
+"SQL",
+".NET",
+"Help desk / troubleshooting"
+],
+"req": "At Smith and Long, technology drives everything we do. From managing complex construction projects and financial operations to supporting field teams across Canada, our ERP system serves as the backbo\nWants to grow into a senior ERP and systems professional. Key Responsibilities  Assist with ERP customizations, enhancements and maintenance.\nSupport upgrades, testing and deployment activities. Qualifications  Degree or diploma in Computer Science, Software Engineering, IT, Business Systems or related field.\nRecent graduates encouraged to apply."
+},
+{
+"title": "Financial Planning Analyst",
+"company": "RBC",
+"location": "VANCOUVER, British Columbia, Canada",
+"posted": "2026-11-04",
+"link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Financial-Planning-Analyst_R-0000183834-1",
+"source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Operations Coordinator (IT Support)",
+"company": "OnSite Computer Services",
+"location": "Kitchener, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=e0e567aaa156ee98",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-operations-coordinator-it-support-e0e567aaa156ee98",
+"salary": "$25.00-$30.00 per hour",
+"skills": [
+"Bash/Shell",
+"PowerShell",
+"Excel",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "About Us OnSite Computer Services has been providing professional IT support to businesses throughout Kitchener-Waterloo, Cambridge, and surrounding areas since 2003. We are an established Managed IT \nHelp identify opportunities to improve internal processes and efficiency. Qualifications Required:  Previous experience in an IT support, help desk, desktop support, or similar technical role.\nProficiency with Microsoft Outlook, Word, and Excel. Considered an Asset:  Previous experience working for an MSP or IT services company.\nExperience with IT ticketing or service management systems.\nPowerShell scripting or automation experience.\nExperience with backup monitoring and troubleshooting.\nExperience coordinating technicians or technical projects.\nFamiliarity with IT billing, purchasing, or office administration. We don't expect candidates to know every system we use. A strong technical foundation, excellent organizational skills, and a willing\nCandidates must live within a reasonable daily commuting distance of our Kitchener office.\nIs a team player: Helps keep the entire team productive and organized. What We Offer  Competitive hourly compensation based on experience.\nA supportive, experienced technical team."
+},
+{
+"title": "Support Specialist",
+"company": "",
+"location": "Red Deer, AB, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=0ecab0b7c84ead76",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/support-specialist-0ecab0b7c84ead76",
+"salary": "$ 22.40",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Company: Mi-Trato Digital Solutions Position: Support Specialist Location: 4724 60th St, Red Deer, AB, T4N 7C7 Job Type: Full-time About Us: Mi-Trato Digital Solutions is a forward-thinking company de\nEscalate complex technical issues to the appropriate internal development or engineering teams."
+},
+{
+"title": "Service Engineer (L2)",
+"company": "Netology",
+"location": "Engineer, BC, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=8117cbb79192fbec",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://netology.pl/oferty-pracy/service-engineer-l2/",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Microsoft 365",
+"VMware / virtualization"
+]
+},
+{
+"title": "Technical Designer - RPAS Division (Mechanical / Aerospace)",
+"company": "Expert Geophysics Limited",
+"location": "Newmarket, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=c759edfd7391080e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/technical-designer-rpas-division-mechanical-aerospace-c759edfd7391080e",
+"salary": "$55,000.00-$70,000.00 per year",
+"skills": [
+"Python",
+"C++",
+"C",
+"MATLAB",
+"REST APIs",
+"Airflow",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Expert Geophysics Limited is a leading provider of airborne geophysical survey services, delivering advanced electromagnetic and magnetic data acquisition solutions to mineral exploration and resource\nPackage hardware within tight mass, center-of-gravity, clearance, thermal, accessibility, serviceability, and other constraints.\nParticipate in occasional field testing to validate designs and aircraft systems. Core Requirements  Bachelor's degree in Mechanical, Robotics, Aerospace, Mechatronics, or a closely related engineerin\nBasic experience with FEA, including applying appropriate loads, constraints, contacts, and mesh settings, and critically interpreting the results.\nAbility to work effectively from higher-level requirements while independently resolving routine design and integration problems. Additional Technical Capabilities The following knowledge and experien\nExperience supporting engineering test programs, including inspections, instrumentation, configuration control, data collection, and post-test troubleshooting.\nExperience working with systems where mechanical, electrical, and software requirements are highly interconnected. Useful Secondary Skills  Basic electronics and harnessing familiarity, including conn\nExperience with CNC machining, sheet metal fabrication, waterjet or laser cutting, 3D printing, or composite fabrication.\nExperience designing components for CNC machining and additive manufacturing.\nExperience with engineering test equipment such as multimet"
+},
+{
+"title": "Web Developer / UI/UX Specialist- Remote (DC, MD, VA- Locals only)",
+"company": "Swingtech Consulting Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=2c5ec3886f9dafba",
+"source": "Indeed",
+"country": "US",
+"years": 15,
+"apply": "https://ats.rippling.com/swingtech-careers/jobs/6690786c-0f93-41f1-ab69-df596c289e5f?jobSite=Indeed",
+"salary": "$600",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+]
 },
 {
 "title": "Release Train Engineer, Deloitte Global Technology",
