@@ -1,303 +1,45 @@
 {
-"updated": "2026-11-05T09:09:45+00:00",
+"updated": "2026-11-05T09:19:45+00:00",
 "jobs": [
 {
-"title": "GPU Validation Engineer",
-"company": "Intel",
-"location": "Canada, Toronto",
+"title": "Administrator",
+"company": "Embark Student Corp.",
+"location": "Newmarket, ON, CA",
 "posted": "2026-11-05",
-"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU-Validation-Engineer_JR0287979-1",
-"source": "Intel careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Clinical Genetics Technologist I",
-"company": "Alberta Precision Labs",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=e2f664779ba2f9cf",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://albertahs.referrals.selectminds.com/apl/jobs/clinical-genetics-technologist-i-602309",
-"salary": "$40.91",
-"skills": [
-"Hardware setup"
-],
-"req": "Description: As a Clinical Genetics Technologist (CGT) I, you will perform and interpret routine and complex testing for various genetic conditions using molecular and cytogenetic techniques according\nSecurity Screening: A satisfactory criminal record check and/or Vulnerable Sector Search is required prior to your first day of work. Additionally, all employees have an ongoing duty to disclose any c"
-},
-{
-"title": "Electronics Engineer",
-"company": "Lumentum Operations",
-"location": "Ottawa, ON, CA (remote)",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=e1ecad9bbfd3b25e",
-"source": "Indeed",
-"country": "CA",
-"years": 10,
-"apply": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Electronics-Engineer_20261530",
-"salary": "$110,625 - 149,675 CAD",
-"skills": [
-"Excel",
-"Hardware setup",
-"Embedded systems"
-],
-"req": "locations Canada - Ottawa (Bill Leathem) time type Full time posted on Posted Today job requisition id 20261530 It's fun to work in a company where people truly BELIEVE in what they're doing! We're co\nCreate detailed schematics, guide PCB layouts, and perform simulations using industry-standard CAD tools (Cadence, Ansys) What We’re Looking For Required Qualifications:  Bachelor's or Master's degree\nExpertise in complex PCBA design.\nExpertise in leading a small team (layout, junior designers, verification engineers)  Proficiency in hardware design and simulation tools such as Cadence and Ansys.\nHands-on experience with testing equipment (e.g., oscilloscopes, spectrum analyzers).\nExperience in a power/digital design and in control systems is an asset."
-},
-{
-"title": "Office Administrator",
-"company": "",
-"location": "North Vancouver, BC, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=a91fdf1d06c3b096",
+"link": "https://ca.indeed.com/viewjob?jk=f1a5027ef9246f7e",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-a91fdf1d06c3b096",
-"salary": "$19.53-$32.44 per hour",
+"apply": "http://ca.indeed.com/job/administrator-f1a5027ef9246f7e",
+"salary": "$17.60-$40.12 per hour",
 "skills": [
 "Google Workspace"
 ]
 },
 {
-"title": "Public Sector Account Executive, Canada - Local Governments",
-"company": "GitLab Inc",
-"location": "Remote, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=ed9fa6c3dd919a3c",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://job-boards.greenhouse.io/gitlab/jobs/8891730002",
-"skills": [
-"CI/CD",
-"GitLab",
-"Microsoft 365",
-"SDLC"
-],
-"req": "Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, pub"
-},
-{
-"title": "Consultant, Business Analytics",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-11-05",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Business-Analytics_2620647-1",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Personal Banking Associate Trainee",
-"company": "TD",
-"location": "Sherwood Park, Alberta",
-"posted": "2026-11-05",
-"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Sherwood-Park-Alberta/Personal-Banking-Associate-Trainee_R_1517676",
-"source": "TD careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "ECE/ IT Teacher",
-"company": "MintZeal",
-"location": "Burnaby, BC, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=1cc7d83c4e317b8f",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/ece-it-teacher-1cc7d83c4e317b8f",
-"salary": "$19.00-$21.00 per hour"
-},
-{
-"title": "Full Stack Developer",
-"company": "",
-"location": "Winnipeg, MB, CA (remote)",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=3c06232421f286bd",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/full-stack-developer-3c06232421f286bd",
-"salary": "$40.00 per hour",
-"skills": [
-"React",
-"REST APIs",
-"PostgreSQL",
-"Redis",
-"Docker",
-"CI/CD"
-]
-},
-{
-"title": "Online Reading Tutor",
-"company": "Viva Phonics",
+"title": "Data Engineer - AWS / Snowflake",
+"company": "Sagility",
 "location": "Remote · United States",
 "posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
-"salary": "$12",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On\nIn order to efficiently manage our application volume, we may request a teaching demonstration from specific candidates as part of our evaluation process before advancing to the interview stage. Requi"
-},
-{
-"title": "Front Desk Executive",
-"company": "Ethnic Supermarket",
-"location": "Burlington, ON, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
-"salary": "$18.00-$24.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "NSX/ VCF Consultant",
-"company": "Cloud Destinations",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=2f9110c1aa2dab5f",
+"link": "https://www.indeed.com/viewjob?jk=3563571baaf08ee0",
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "http://www.indeed.com/job/nsx-vcf-consultant-2f9110c1aa2dab5f",
-"salary": "$130 - $150 USD per hour",
+"apply": "https://career.sagilityhealth.com/us/en/current-openings/REQ-031881",
 "skills": [
-"Kubernetes",
-"Ansible",
-"Infrastructure as code",
-"Firewalls",
-"Help desk / troubleshooting",
-"VMware / virtualization"
-],
-"req": "Skill Set: NSX | AVI Senior Consultant Total Weekly Hours: 40hrs/week (2,328 hours total, 11/25/2026 to 1/25/2028) Position Overview: As a Senior AVI / NSX Consultant, you will serve as the primary de\nProvide technical mentorship, knowledge transfer, and Day-1 and Day-2 operational support, including Load Balancing as Code best practices. Qualifications:  5+ years of VMware delivery experience in p\nHands-on experience deploying VMware AVI Load Balancer and NSX in VCF 5.x and/or 9.x environments.\nStrong technical experience with vSphere, vSAN, VKS, Software-Defined Data Center (SDDC) Manager, and container networking.\nHands-on Ansible automation experience and familiarity with infrastructure-as-code practices."
-},
-{
-"title": "Sapiens PolicyPro Configuration Analyst",
-"company": "Kamis",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=a00ad46950ad9323",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "https://workforce.intuit.com/recruiting/kamis-professional-staffing-llc-4cf4a5d098faf59f/6e5a0f83-6511-45d7-a574-0191197aaabf?source=Indeed",
-"salary": "$90,000 - $96,000 USD per year",
-"skills": [
-"C",
 "SQL",
+"ETL / data pipelines",
+"Snowflake",
 "SQL Server",
-"Oracle",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"Data structures & algorithms",
-"System design"
-],
-"req": "THE OPPORTUNITY Our client is seeking an experienced Configuration Analyst to join its technology team and support the configuration and enhancement of a SaaS-based insurance platform. This is an exce"
-},
-{
-"title": "Full-Stack Engineer",
-"company": "Splitero",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=960c4ec0b074ae7e",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "https://grnh.se/mlu1dwni8us",
-"salary": "$140,000 - $155,000 USD per year",
-"skills": [
-"JavaScript",
-"TypeScript",
-"React",
-"Next.js",
-"Node.js",
-"Tailwind",
-"REST APIs",
-"PostgreSQL",
 "AWS",
 "Terraform",
-"Serverless",
-"Infrastructure as code",
-"Selenium / Cypress",
-"Jest / PyTest",
-"System design",
-"SDLC",
-"Salesforce"
-],
-"req": "About the Job As a Full-Stack Engineer at Splitero, you will play a crucial role in architecting, developing, and maintaining our software from marketing through origination. Your expertise in modern \nWork with AI technologies for both your day-to-day role as an engineer and also for new product implementations, leveraging APIs with major AI platforms  Collaborate with front-end developers to integ\nDesire to participate in fast-paced early-stage startup  Adaptability: Embraces changing circumstances with resiliency and positivity  Team-Oriented: Prioritizes collaboration, inclusivity, and teamma\nGenerous Resources - We want to ensure you are set up to do your best work. In addition to a solid tech stack, and access to any WeWork location, you will receive a monthly cell and internet stipend.\nFlexible PTO and Parental Leave - We offer a generous PTO and encourage employees to take time off to recharge. We're proud to offer a parental leave policy that allows you to welcome your new additio"
-},
-{
-"title": "Software Production Support Engineer",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=a2dacd9c6af8eeab",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/software-production-support-engineer-a2dacd9c6af8eeab",
-"salary": "$90,000 - $96,000 USD per year",
-"skills": [
-"SQL",
-"Spring Boot",
-"REST APIs",
-"Docker",
-"CI/CD",
+"Git",
 "Help desk / troubleshooting",
-"Testing (unit, automated)",
-"Jest / PyTest"
+"Agile / Scrum",
+"Jira",
+"System design"
 ],
-"req": "Position Overview The Software Engineer covers critical Production Support and Client Onboarding for CCV Business operation within R&D team for level 2 and level 3 support. Responsibilities Production"
-},
-{
-"title": "Business Analyst",
-"company": "Traveltical Inc.",
-"location": "Kitchener, ON, CA (remote)",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=0cd16113786ad317",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/business-analyst-0cd16113786ad317",
-"salary": "$18.00-$25.00 per hour"
-},
-{
-"title": "Information technology (IT) analyst",
-"company": "ADECCO",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-05",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50665360",
-"source": "Job Bank",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Commission-Only IT Sales Hunter (B2B)",
-"company": "MIDAS TECH",
-"location": "Richmond Hill, ON, CA (remote)",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=84d997cefda9a237",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/commission-only-it-sales-hunter-b2b-84d997cefda9a237",
-"salary": "$150",
-"skills": [
-"Cybersecurity",
-"Microsoft 365",
-"Hardware setup"
-]
+"req": "About Sagility ------------------ Sagility combines industry-leading technology and transformation-driven BPM services with decades of healthcare domain expertise to help clients draw closer to their "
 },
 {
 "title": "Software Systems Engineer - Interferometry/microscopy",
@@ -335,44 +77,302 @@
 "req": "Develops software and tools in support of design, infrastructure and technology platforms, including operating systems, compilers, routers, networks, utilities, databases, cloud-based and Internet-rel"
 },
 {
-"title": "Data Engineer - AWS / Snowflake",
-"company": "Sagility",
-"location": "Remote · United States",
+"title": "Commission-Only IT Sales Hunter (B2B)",
+"company": "MIDAS TECH",
+"location": "Richmond Hill, ON, CA (remote)",
 "posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=3563571baaf08ee0",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "https://career.sagilityhealth.com/us/en/current-openings/REQ-031881",
-"skills": [
-"SQL",
-"ETL / data pipelines",
-"Snowflake",
-"SQL Server",
-"AWS",
-"Terraform",
-"Git",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"Jira",
-"System design"
-],
-"req": "About Sagility ------------------ Sagility combines industry-leading technology and transformation-driven BPM services with decades of healthcare domain expertise to help clients draw closer to their "
-},
-{
-"title": "Administrator",
-"company": "Embark Student Corp.",
-"location": "Newmarket, ON, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=f1a5027ef9246f7e",
+"link": "https://ca.indeed.com/viewjob?jk=84d997cefda9a237",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/administrator-f1a5027ef9246f7e",
-"salary": "$17.60-$40.12 per hour",
+"apply": "http://ca.indeed.com/job/commission-only-it-sales-hunter-b2b-84d997cefda9a237",
+"salary": "$150",
+"skills": [
+"Cybersecurity",
+"Microsoft 365",
+"Hardware setup"
+]
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "ADECCO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50665360",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Business Analyst",
+"company": "Traveltical Inc.",
+"location": "Kitchener, ON, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=0cd16113786ad317",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/business-analyst-0cd16113786ad317",
+"salary": "$18.00-$25.00 per hour"
+},
+{
+"title": "Software Production Support Engineer",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=a2dacd9c6af8eeab",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-production-support-engineer-a2dacd9c6af8eeab",
+"salary": "$90,000 - $96,000 USD per year",
+"skills": [
+"SQL",
+"Spring Boot",
+"REST APIs",
+"Docker",
+"CI/CD",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"Jest / PyTest"
+],
+"req": "Position Overview The Software Engineer covers critical Production Support and Client Onboarding for CCV Business operation within R&D team for level 2 and level 3 support. Responsibilities Production"
+},
+{
+"title": "Full-Stack Engineer",
+"company": "Splitero",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=960c4ec0b074ae7e",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://grnh.se/mlu1dwni8us",
+"salary": "$140,000 - $155,000 USD per year",
+"skills": [
+"JavaScript",
+"TypeScript",
+"React",
+"Next.js",
+"Node.js",
+"Tailwind",
+"REST APIs",
+"PostgreSQL",
+"AWS",
+"Terraform",
+"Serverless",
+"Infrastructure as code",
+"Selenium / Cypress",
+"Jest / PyTest",
+"System design",
+"SDLC",
+"Salesforce"
+],
+"req": "About the Job As a Full-Stack Engineer at Splitero, you will play a crucial role in architecting, developing, and maintaining our software from marketing through origination. Your expertise in modern \nWork with AI technologies for both your day-to-day role as an engineer and also for new product implementations, leveraging APIs with major AI platforms  Collaborate with front-end developers to integ\nDesire to participate in fast-paced early-stage startup  Adaptability: Embraces changing circumstances with resiliency and positivity  Team-Oriented: Prioritizes collaboration, inclusivity, and teamma\nGenerous Resources - We want to ensure you are set up to do your best work. In addition to a solid tech stack, and access to any WeWork location, you will receive a monthly cell and internet stipend.\nFlexible PTO and Parental Leave - We offer a generous PTO and encourage employees to take time off to recharge. We're proud to offer a parental leave policy that allows you to welcome your new additio"
+},
+{
+"title": "Sapiens PolicyPro Configuration Analyst",
+"company": "Kamis",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=a00ad46950ad9323",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://workforce.intuit.com/recruiting/kamis-professional-staffing-llc-4cf4a5d098faf59f/6e5a0f83-6511-45d7-a574-0191197aaabf?source=Indeed",
+"salary": "$90,000 - $96,000 USD per year",
+"skills": [
+"C",
+"SQL",
+"SQL Server",
+"Oracle",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Data structures & algorithms",
+"System design"
+],
+"req": "THE OPPORTUNITY Our client is seeking an experienced Configuration Analyst to join its technology team and support the configuration and enhancement of a SaaS-based insurance platform. This is an exce"
+},
+{
+"title": "NSX/ VCF Consultant",
+"company": "Cloud Destinations",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=2f9110c1aa2dab5f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/nsx-vcf-consultant-2f9110c1aa2dab5f",
+"salary": "$130 - $150 USD per hour",
+"skills": [
+"Kubernetes",
+"Ansible",
+"Infrastructure as code",
+"Firewalls",
+"Help desk / troubleshooting",
+"VMware / virtualization"
+],
+"req": "Skill Set: NSX | AVI Senior Consultant Total Weekly Hours: 40hrs/week (2,328 hours total, 11/25/2026 to 1/25/2028) Position Overview: As a Senior AVI / NSX Consultant, you will serve as the primary de\nProvide technical mentorship, knowledge transfer, and Day-1 and Day-2 operational support, including Load Balancing as Code best practices. Qualifications:  5+ years of VMware delivery experience in p\nHands-on experience deploying VMware AVI Load Balancer and NSX in VCF 5.x and/or 9.x environments.\nStrong technical experience with vSphere, vSAN, VKS, Software-Defined Data Center (SDDC) Manager, and container networking.\nHands-on Ansible automation experience and familiarity with infrastructure-as-code practices."
+},
+{
+"title": "Front Desk Executive",
+"company": "Ethnic Supermarket",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
+"salary": "$18.00-$24.00 per hour",
 "skills": [
 "Google Workspace"
 ]
+},
+{
+"title": "Online Reading Tutor",
+"company": "Viva Phonics",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
+"salary": "$12",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On\nIn order to efficiently manage our application volume, we may request a teaching demonstration from specific candidates as part of our evaluation process before advancing to the interview stage. Requi"
+},
+{
+"title": "Full Stack Developer",
+"company": "",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=3c06232421f286bd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/full-stack-developer-3c06232421f286bd",
+"salary": "$40.00 per hour",
+"skills": [
+"React",
+"REST APIs",
+"PostgreSQL",
+"Redis",
+"Docker",
+"CI/CD"
+]
+},
+{
+"title": "ECE/ IT Teacher",
+"company": "MintZeal",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=1cc7d83c4e317b8f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/ece-it-teacher-1cc7d83c4e317b8f",
+"salary": "$19.00-$21.00 per hour"
+},
+{
+"title": "Personal Banking Associate Trainee",
+"company": "TD",
+"location": "Sherwood Park, Alberta",
+"posted": "2026-11-05",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Sherwood-Park-Alberta/Personal-Banking-Associate-Trainee_R_1517676",
+"source": "TD careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant, Business Analytics",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-11-05",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Business-Analytics_2620647-1",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Public Sector Account Executive, Canada - Local Governments",
+"company": "GitLab Inc",
+"location": "Remote, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=ed9fa6c3dd919a3c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://job-boards.greenhouse.io/gitlab/jobs/8891730002",
+"skills": [
+"CI/CD",
+"GitLab",
+"Microsoft 365",
+"SDLC"
+],
+"req": "Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, pub"
+},
+{
+"title": "Office Administrator",
+"company": "",
+"location": "North Vancouver, BC, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=a91fdf1d06c3b096",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-a91fdf1d06c3b096",
+"salary": "$19.53-$32.44 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Electronics Engineer",
+"company": "Lumentum Operations",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=e1ecad9bbfd3b25e",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Electronics-Engineer_20261530",
+"salary": "$110,625 - 149,675 CAD",
+"skills": [
+"Excel",
+"Hardware setup",
+"Embedded systems"
+],
+"req": "locations Canada - Ottawa (Bill Leathem) time type Full time posted on Posted Today job requisition id 20261530 It's fun to work in a company where people truly BELIEVE in what they're doing! We're co\nCreate detailed schematics, guide PCB layouts, and perform simulations using industry-standard CAD tools (Cadence, Ansys) What We’re Looking For Required Qualifications:  Bachelor's or Master's degree\nExpertise in complex PCBA design.\nExpertise in leading a small team (layout, junior designers, verification engineers)  Proficiency in hardware design and simulation tools such as Cadence and Ansys.\nHands-on experience with testing equipment (e.g., oscilloscopes, spectrum analyzers).\nExperience in a power/digital design and in control systems is an asset."
+},
+{
+"title": "Clinical Genetics Technologist I",
+"company": "Alberta Precision Labs",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=e2f664779ba2f9cf",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://albertahs.referrals.selectminds.com/apl/jobs/clinical-genetics-technologist-i-602309",
+"salary": "$40.91",
+"skills": [
+"Hardware setup"
+],
+"req": "Description: As a Clinical Genetics Technologist (CGT) I, you will perform and interpret routine and complex testing for various genetic conditions using molecular and cytogenetic techniques according\nSecurity Screening: A satisfactory criminal record check and/or Vulnerable Sector Search is required prior to your first day of work. Additionally, all employees have an ongoing duty to disclose any c"
+},
+{
+"title": "GPU Validation Engineer",
+"company": "Intel",
+"location": "Canada, Toronto",
+"posted": "2026-11-05",
+"link": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU-Validation-Engineer_JR0287979-1",
+"source": "Intel careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Application Security Analyst, Deloitte Global Technology",
@@ -8729,6 +8729,174 @@
 "apply": "https://careers-kimley-horn.icims.com/jobs/27596/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
 "salary": "$88,000 - $91,500 USD per year",
 "req": "Overview: Kimley-Horn's Broomfield, Colorado (CO) office is looking for Engineering graduates to join their Structural team in 2027! This is not a remote position. Responsibilities:  You will have the\nCollaborate with senior engineers and project managers to develop innovative solutions and address technical challenges.\nFinancial Wellness: Student loan matching in our 401(k), and performance-based bonuses.\nProfessional Development: Tuition reimbursement and extensive internal training programs."
+},
+{
+"title": "Coding Application Specialist, Coding Services",
+"company": "Providence Health Care",
+"location": "Surrey, BC, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=971589e96d7bada7",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers-phc.icims.com/jobs/67226/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$41.87/Hr",
+"skills": [
+"SQL",
+"SQL Server",
+"Microsoft 365",
+"Help desk / troubleshooting"
+],
+"req": "Ability to deal effectively with others, demonstrate leadership and maintain cooperative working relationships.\nInclusive culture: We respect the diversity, dignity and interdependence of all persons. We value the cultural richness that our diverse workforce brings to the care of our equally diverse population "
+},
+{
+"title": "Dynamics 365 / Azure Developer",
+"company": "Adastra Corporation",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=ae5d44cfd47bbafb",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers-adastragrp.icims.com/jobs/5917/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"JavaScript",
+"TypeScript",
+"C",
+".NET",
+"REST APIs",
+"ETL / data pipelines",
+"Azure",
+"CI/CD",
+"Git",
+"IAM",
+"Help desk / troubleshooting",
+"System design",
+"SDLC",
+"Azure certification"
+],
+"req": "Overview: The Dynamics 365 / Cloud Developer is a hands-on technical delivery professional responsible for developing, configuring and integrating Microsoft Dynamics 365, Power Platform, Dataverse and"
+},
+{
+"title": "ERP Security & GRC Analyst",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-04",
+"link": "https://www.linkedin.com/jobs/view/4476638650",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Social Worker Bachelors",
+"company": "Health Sciences North",
+"location": "Greater Sudbury, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=27cf122277ef4e26",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.hsnsudbury.ca/job/Sudbury-Social-Worker-Bachelors-ON-P3E1B1/1291725847/",
+"salary": "$39.17 - $50.76 /hour",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Co-op/Intern Business Consultant",
+"company": "Kinaxis",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.linkedin.com/jobs/view/4479224977",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Support Specialist",
+"company": "Quarterhill",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=2380acafe1eb2bab",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.quarterhill.com/jobs/1573/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"Linux",
+"Windows",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Overview: The Operations Support Specialist is responsible for providing operational and technical support for tolling technology, lane controller systems, and intelligent transportation systems produ\nProvide support coverage during scheduled shifts, weekends, holidays, and emergency situations as required. This list of responsibilities might not cover everything you'll end up doing. Qualifications\nCertificate, diploma, or degree in a technology, electronics, or IT-related field preferred.\n2+ years of experience in customer service, technical support, operations support, or an IT-related field preferred. Technical Skills Strong troubleshooting and analytical skills.\nExperience with service desk or help desk ticketing systems such as ServiceNow.\nExperience with systems monitoring tools and operational dashboards.\nKnowledge base article creation and documentation experience preferred."
+},
+{
+"title": "Test Engineer II",
+"company": "Arcfield",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=ba5ff75b0ed9ae1e",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.arcfield.com/jobs/8881/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$64,842 - $112,748 USD per year",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C",
+"SQL",
+"REST APIs",
+"Machine learning",
+"Excel",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"GitLab",
+"Git",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest",
+"Postman"
+],
+"req": "Arcfield Overview: Arcfield was purpose-built to relentlessly protect the nation and its allies from today’s national security threats. We have nearly 70 years of proven expertise and excel in space s\nMentorship (Light): Occasionally guide or assist Level 1 Test Engineers or interns with standard testing processes and tool usage. Qualifications: Required Qualifications ---------------------------  \nExperience: 2 to 4 years of professional experience in software testing, hardware validation, or systems quality assurance.\nPossess and maintain a Secret Clearance  Technical Skills:  Test Automation: Hands-on experience with at least one test automation tool/framework (e.g., Selenium, Cypress, Appium, JUnit, TestNG).\nAPI Testing: Experience testing RESTful APIs or web services using tools like Postman, SoapUI, or Swagger.\nTools & Methodologies: + Proficiency with version control systems (e.g., Git). + Familiarity with Agile/Scrum development methodologies. + Experience with test management and defect tracking tools (e.\nCI/CD Experience: Familiarity with DevOps tools like Jenkins, GitLab CI, or GitHub Actions.\nDomain Knowledge: Prior experience in [Insert relevant industry, e.g., Healthcare, Aerospace, FinTech, Defense] is a strong plus. Key Competencies --------------------  Analytical Thinking: Strong pro"
+},
+{
+"title": "Canada- Jr Software Engineer (SRE)",
+"company": "PointClickCare",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.linkedin.com/jobs/view/4460631377",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Adjudication",
+"company": "ConnectiveRx",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=517d152909cb4620",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers-connectiverx.icims.com/jobs/4128/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$55,000 - $71,500 USD per year",
+"skills": [
+"Salesforce"
+],
+"req": "Overview: Being on medication is tough enough. We want to make getting it the easy part. Getting prescriptions to patients has become increasingly complex. When things get messy along the prescription\nRespond to and resolve business rule questions or concerns escalated by internal teams or adjudicator partners, escalating complex issues as appropriate.\nParticipate in regularly scheduled adjudication calls, ad hoc meetings, and internal discussions; engage in training sessions as required to support operational objectives. Qualifications:  Bachelor’s\nIntermediate skill level in Microsoft office applications  Proficient analytical and problem-solving skills with the ability to conduct independent investigations. Must conduct research by gathering i"
 },
 {
 "title": "Content Enablement Intern 2027 (USA)",
@@ -35346,6 +35514,29 @@
 "source": "BMO careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Information Technologist",
+"company": "Health Sciences North",
+"location": "Greater Sudbury, ON, CA",
+"posted": "2026-11-02",
+"link": "https://ca.indeed.com/viewjob?jk=0beb61a0041e3169",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.hsnsudbury.ca/job/Sudbury-Information-Technologist-ON-P3E3Y9/1291715947/",
+"salary": "$34.32-$40.38/hour",
+"skills": [
+"Excel",
+"Azure",
+"IAM",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"SAP"
+],
+"req": "Repair or install hardware and software with minimum interruptions or down time.\nLiaise with vendors and internal and external stakeholders for support, and research pricing of products.\nContribute to learner development by providing academic support, mentorship, preceptorship and supervision as required.\nRepresent the department or program on various committees and in meetings as required.\nPerform other duties as required. QUALIFICATIONS EDUCATION AND TRAINING:  Minimum of a three (3) year Diploma in Computer Science, IT and Information Systems, or in a related field, from an accredited\nMinistry of Labour “Worker Health and Safety Awareness in 4 Steps” training certificate is required. EXPERIENCE:  Minimum of one (1) year experience working in an IT department.\nExperience in a Service Desk environment is required.\nExperience within a health care environment is preferred.\nTraining or recent experience with Personal Computers (PCs), printers, and end-user hardware support.\nTraining or recent experience with the deployment and support for Software as a Service (SaaS) and Microsoft 365 (M365) products including Azure Active Directory (AD), Multi Factor Authentication (MFA\nDemonstrated training, experience or utilization of lean methodology for process improvement.\nDemonstrated commitment to the safety of co-workers and patients. PERSONAL SUITABILITY:  Successful Criminal Record Judicial Matters Check (CRJMC) is required.\nAbility to travel between local sites. Selection Process: "
 }
 ]
 }
