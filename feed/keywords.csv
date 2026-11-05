@@ -1,8 +1,8 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,45%,1910,956,1910,2026-11-05
 2,SQL,Language,24%,1022,495,1022,2026-11-05
-3,REST APIs,Framework,24%,1016,500,1016,2026-11-05
-4,Python,Language,22%,946,446,946,2026-11-05
+3,REST APIs,Framework,24%,1017,501,1017,2026-11-05
+4,Python,Language,22%,947,447,947,2026-11-05
 5,Excel,Data & AI,21%,903,477,903,2026-11-05
 6,Hardware setup,IT support,19%,814,402,814,2026-11-05
 7,System design,Practice,19%,795,379,795,2026-11-05
@@ -13,7 +13,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 12,CI/CD,Cloud & DevOps,13%,563,288,563,2026-11-05
 13,AWS,Cloud & DevOps,13%,547,264,547,2026-11-05
 14,Windows,IT support,13%,536,263,536,2026-11-05
-15,Cybersecurity,Security,11%,484,232,484,2026-11-05
+15,Cybersecurity,Security,11%,485,233,485,2026-11-05
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,481,229,481,2026-11-05
 17,"Ticketing (ServiceNow, Jira)",IT support,11%,473,247,473,2026-11-05
 18,IAM,Security,11%,464,247,464,2026-11-05
@@ -35,20 +35,20 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 34,Monitoring,Cloud & DevOps,6%,253,125,253,2026-11-05
 35,SQL Server,Database,6%,250,114,250,2026-11-05
 36,Oracle,Database,6%,245,116,245,2026-11-05
-37,TypeScript,Language,6%,234,117,234,2026-11-05
+37,TypeScript,Language,5%,234,117,234,2026-11-05
 38,Salesforce,Practice,5%,232,132,232,2026-11-05
-39,Vulnerability management,Security,5%,231,122,231,2026-11-05
+39,Vulnerability management,Security,5%,232,123,232,2026-11-05
 40,Google Cloud,Cloud & DevOps,5%,215,109,215,2026-11-05
 41,Data structures & algorithms,Practice,5%,213,90,213,2026-11-05
 42,SDLC,Practice,5%,212,93,212,2026-11-05
-43,PowerShell,Language,5%,203,106,203,2026-11-05
+43,PowerShell,Language,5%,204,107,204,2026-11-05
 44,.NET,Framework,5%,200,110,200,2026-11-05
-45,Firewalls,Security,5%,195,91,195,2026-11-05
-46,Bash/Shell,Language,4%,189,83,189,2026-11-05
-47,Incident response,Security,4%,189,100,189,2026-11-05
+45,Firewalls,Security,5%,196,92,196,2026-11-05
+46,Incident response,Security,4%,190,101,190,2026-11-05
+47,Bash/Shell,Language,4%,189,83,189,2026-11-05
 48,ITIL,Certification,4%,188,94,188,2026-11-05
 49,Embedded systems,Practice,4%,179,97,179,2026-11-05
-50,SOC,Security,4%,177,86,177,2026-11-05
+50,SOC,Security,4%,178,87,178,2026-11-05
 51,PostgreSQL,Database,4%,175,74,175,2026-11-05
 52,C++,Language,4%,171,74,171,2026-11-05
 53,Tableau,Data & AI,4%,166,77,166,2026-11-05
@@ -71,11 +71,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 70,Angular,Framework,3%,113,51,113,2026-11-05
 71,Spark,Data & AI,3%,110,55,110,2026-11-05
 72,MySQL,Database,3%,109,43,109,2026-11-05
-73,EDR,Security,2%,106,62,106,2026-11-05
+73,EDR,Security,3%,107,63,107,2026-11-05
 74,CompTIA Security+,Certification,2%,103,56,103,2026-11-05
 75,Snowflake,Data & AI,2%,102,34,102,2026-11-05
 76,Go,Language,2%,101,38,101,2026-11-05
-77,SIEM,Security,2%,96,55,96,2026-11-05
+77,SIEM,Security,2%,97,56,97,2026-11-05
 78,GitHub Actions,Cloud & DevOps,2%,95,49,95,2026-11-05
 79,GitLab,Cloud & DevOps,2%,92,52,92,2026-11-05
 80,Selenium / Cypress,Practice,2%,89,46,89,2026-11-05
@@ -91,7 +91,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 90,PHP,Language,2%,66,31,66,2026-11-05
 91,CISSP,Certification,2%,64,32,64,2026-11-05
 92,MongoDB,Database,1%,63,35,63,2026-11-05
-93,Threat intelligence,Security,1%,61,35,61,2026-11-05
+93,Threat intelligence,Security,1%,62,36,62,2026-11-05
 94,Vue,Framework,1%,48,25,48,2026-11-05
 95,Next.js,Framework,1%,46,27,46,2026-11-05
 96,VBA,Language,1%,46,19,46,2026-11-05
@@ -154,4 +154,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 153,C#,Language,0%,3,3,3,2026-11-05
 154,Solidity,Language,0%,1,1,1,2026-11-05
 
-,Based on 4254 postings in the last 30 days (4254 all time)
+,Based on 4255 postings in the last 30 days (4255 all time)
