@@ -1,89 +1,37 @@
 {
-"updated": "2026-11-05T03:09:49+00:00",
+"updated": "2026-11-05T03:19:50+00:00",
 "jobs": [
 {
-"title": "ECE/ IT Teacher",
-"company": "MintZeal",
-"location": "Burnaby, BC, CA",
+"title": "Full-Stack Engineer",
+"company": "Splitero",
+"location": "Remote · United States",
 "posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=1cc7d83c4e317b8f",
+"link": "https://www.indeed.com/viewjob?jk=960c4ec0b074ae7e",
 "source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/ece-it-teacher-1cc7d83c4e317b8f",
-"salary": "$19.00-$21.00 per hour"
-},
-{
-"title": "Full Stack Developer",
-"company": "",
-"location": "Winnipeg, MB, CA (remote)",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=3c06232421f286bd",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/full-stack-developer-3c06232421f286bd",
-"salary": "$40.00 per hour",
+"country": "US",
+"years": 4,
+"apply": "https://grnh.se/mlu1dwni8us",
+"salary": "$140,000 - $155,000 USD per year",
 "skills": [
+"JavaScript",
+"TypeScript",
 "React",
+"Next.js",
+"Node.js",
+"Tailwind",
 "REST APIs",
 "PostgreSQL",
-"Redis",
-"Docker",
-"CI/CD"
-]
-},
-{
-"title": "Online Reading Tutor",
-"company": "Viva Phonics",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
-"salary": "$12",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On"
-},
-{
-"title": "Front Desk Executive",
-"company": "Ethnic Supermarket",
-"location": "Burlington, ON, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
-"salary": "$18.00-$24.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "NSX/ VCF Consultant",
-"company": "Cloud Destinations",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=2f9110c1aa2dab5f",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/nsx-vcf-consultant-2f9110c1aa2dab5f",
-"salary": "$130 - $150 USD per hour",
-"skills": [
-"Kubernetes",
-"Ansible",
+"AWS",
+"Terraform",
+"Serverless",
 "Infrastructure as code",
-"Firewalls",
-"Help desk / troubleshooting",
-"VMware / virtualization"
+"Selenium / Cypress",
+"Jest / PyTest",
+"System design",
+"SDLC",
+"Salesforce"
 ],
-"req": "Skill Set: NSX | AVI Senior Consultant Total Weekly Hours: 40hrs/week (2,328 hours total, 11/25/2026 to 1/25/2028) Position Overview: As a Senior AVI / NSX Consultant, you will serve as the primary de\nProvide technical mentorship, knowledge transfer, and Day-1 and Day-2 operational support, including Load Balancing as Code best practices. Qualifications:  5+ years of VMware delivery experience in p\nHands-on experience deploying VMware AVI Load Balancer and NSX in VCF 5.x and/or 9.x environments.\nStrong technical experience with vSphere, vSAN, VKS, Software-Defined Data Center (SDDC) Manager, and container networking.\nHands-on Ansible automation experience and familiarity with infrastructure-as-code practices."
+"req": "About the Job As a Full-Stack Engineer at Splitero, you will play a crucial role in architecting, developing, and maintaining our software from marketing through origination. Your expertise in modern \nWork with AI technologies for both your day-to-day role as an engineer and also for new product implementations, leveraging APIs with major AI platforms  Collaborate with front-end developers to integ\nDesire to participate in fast-paced early-stage startup  Adaptability: Embraces changing circumstances with resiliency and positivity  Team-Oriented: Prioritizes collaboration, inclusivity, and teamma\nGenerous Resources - We want to ensure you are set up to do your best work. In addition to a solid tech stack, and access to any WeWork location, you will receive a monthly cell and internet stipend.\nFlexible PTO and Parental Leave - We offer a generous PTO and encourage employees to take time off to recharge. We're proud to offer a parental leave policy that allows you to welcome your new additio"
 },
 {
 "title": "Sapiens PolicyPro Configuration Analyst",
@@ -107,6 +55,90 @@
 "System design"
 ],
 "req": "THE OPPORTUNITY Our client is seeking an experienced Configuration Analyst to join its technology team and support the configuration and enhancement of a SaaS-based insurance platform. This is an exce"
+},
+{
+"title": "NSX/ VCF Consultant",
+"company": "Cloud Destinations",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=2f9110c1aa2dab5f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/nsx-vcf-consultant-2f9110c1aa2dab5f",
+"salary": "$130 - $150 USD per hour",
+"skills": [
+"Kubernetes",
+"Ansible",
+"Infrastructure as code",
+"Firewalls",
+"Help desk / troubleshooting",
+"VMware / virtualization"
+],
+"req": "Skill Set: NSX | AVI Senior Consultant Total Weekly Hours: 40hrs/week (2,328 hours total, 11/25/2026 to 1/25/2028) Position Overview: As a Senior AVI / NSX Consultant, you will serve as the primary de\nProvide technical mentorship, knowledge transfer, and Day-1 and Day-2 operational support, including Load Balancing as Code best practices. Qualifications:  5+ years of VMware delivery experience in p\nHands-on experience deploying VMware AVI Load Balancer and NSX in VCF 5.x and/or 9.x environments.\nStrong technical experience with vSphere, vSAN, VKS, Software-Defined Data Center (SDDC) Manager, and container networking.\nHands-on Ansible automation experience and familiarity with infrastructure-as-code practices."
+},
+{
+"title": "Front Desk Executive",
+"company": "Ethnic Supermarket",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
+"salary": "$18.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Online Reading Tutor",
+"company": "Viva Phonics",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
+"salary": "$12",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On"
+},
+{
+"title": "Full Stack Developer",
+"company": "",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=3c06232421f286bd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/full-stack-developer-3c06232421f286bd",
+"salary": "$40.00 per hour",
+"skills": [
+"React",
+"REST APIs",
+"PostgreSQL",
+"Redis",
+"Docker",
+"CI/CD"
+]
+},
+{
+"title": "ECE/ IT Teacher",
+"company": "MintZeal",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=1cc7d83c4e317b8f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/ece-it-teacher-1cc7d83c4e317b8f",
+"salary": "$19.00-$21.00 per hour"
 },
 {
 "title": "Billing Engineer",
@@ -7190,6 +7222,98 @@
 "System design"
 ],
 "req": "Backend / Platform Engineer Inviso is partnering with one of our clients to find an experienced Backend / Platform Engineer to join their team working remotely. Inviso is managing the recruitment and \nStrong software engineering skills with experience designing reliable, testable, and maintainable services.\nExperience with AI gateway, orchestration, entitlements, tenancy, metering, quotas, or similar platform capabilities.\nAbility to design APIs and developer experiences for internal and external consumers.\nExperience with multi-tenant systems, tenant isolation, service boundaries, and platform-level enforcement patterns.\nExperience building integration frameworks, connector patterns, governed data access, or reliable data on-ramps.\nExperience owning services through design, development, testing, deployment, monitoring, and support.\nPragmatic mindset with the ability to ship meaningful value quickly while maintaining engineering quality. Desired Qualifications  Experience with C, Python, Go, or similar backend languages.\nExperience with API gateways, orchestration systems, connector frameworks, event-driven systems, or platform engineering.\nExperience with AI, LLM, RAG, agentic workflows, tool/function calling, MCP, A2A, or AI development lifecycle practices.\nExperience with event-sourced metering, quotas, entitlements, or billing-related platform services.\nExperience building enterprise-scale software used by multiple products, customers, or internal teams.\nExperience using "
+},
+{
+"title": "Full-time Institutional Research Advanced Data Analyst",
+"company": "Algonquin College",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=963d66d6575b25ee",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://algonquincollege.wd3.myworkdayjobs.com/en-US/CareerOpportunities/job/Ottawa-Campus/Full-time-Institutional-Research-Advanced-Data-Analyst_R177309",
+"salary": "$41.20-$47.57",
+"start": "December 14, 2026",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Power BI",
+"Statistics"
+]
+},
+{
+"title": "2027 Summer Opportunities",
+"company": "Sasktel",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=f809a7208bd9e774",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.sasktel.com/job/Saskatoon%2C-SK-2027-Summer-Opportunities-Saskatoon-SK/607752217/",
+"salary": "$19.87 - $24.99/hour",
+"req": "SaskTel may use technology-assisted tools, including artificial intelligence (AI), to help review and assess applications. All hiring decisions are made by qualified members of our recruitment team. A"
+},
+{
+"title": "Program Coordinator 2, Full-Time",
+"company": "Taproot Community Support Services Ltd",
+"location": "Parksville, BC, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=14faec3c71637729",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://indeed.njoyn.com/cl4/xweb/XWeb.asp?page=jobdetails&clid=76383&JobID=J1126-0088&BRID=463197&sbdid=936",
+"salary": "$70",
+"skills": [
+"Statistics"
+],
+"req": "Orients, determines the need for, and provides training to program staff, contractors, volunteers and practicum students.\nMaintains related records and statistics and produces reports as required.\nProvides on-call and emergency coverage on pager or cell phone as required.\nPerforms miscellaneous job-related duties as required. The Position The Program Coordinator 2 (PC2) Plans, implements and oversees the day to day operations of a program in this CARF accredited agency\nMinimum of three years in a similar facility or program, including at least one year in a supervisory or management role.\nCurrent WCB Occupational First Aid, Level 1 and CPR certificates required.\nExperience with basic sign language and/or alternative communication strategies training or experience an asset.\nValid Class 5 Driver’s License and clean driver’s abstract  Ability to use common computer applications required.\nMANDT or Non-violent crisis intervention (or willing to obtain within probationary period). What Taproot Community Support Services Does At Taproot, your passion for helping others can truly make a di"
+},
+{
+"title": "Service Desk Technician",
+"company": "Applied Medical",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=5a3bd01366a01fd3",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.appliedmedical.com/jobs/15355/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$22 - $36 USD per hour",
+"skills": [
+"Azure",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Mobile (iOS / Android)",
+"SAP"
+],
+"req": ": Applied Medical is a new generation medical device company with a proven business model and commitment to innovation fueled by rapid business growth and expansion. Our company has been developing an\nEnsure compliance with IT security protocols and company standards in all support activities. Position Requirements: This position requires the following skills and attributes Minimum of two years of \nHands-on experience with Windows 10 and Windows 11, Active Directory, System Center Configuration Manager (SCCM), and Microsoft Office.\nTop-tier customer service skills and commitment to delivering a quality client experience.\nExperience providing desktop support in a multi-building corporate campus environment. Preferred: The following skills and attributes are preferred Bachelor’s degree in Computer Information Systems, M\nExperience with macOS and troubleshooting issues on iOS and Android platforms.\nGenerous vacation accrual and paid holiday schedule. Please note that the compensation range may be adjusted in the future, and bonus and incentive compensation plans may apply. Our total reward packa"
+},
+{
+"title": "FTZ Client Import Analyst",
+"company": "Livingston International",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=6ca0abe9f1662715",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.livingstonintl.com/job/Schaumburg-FTZ-Client-Import-Analyst-IL-US082/1447880900/",
+"salary": "$25 - $38 USD per hour",
+"skills": [
+"Excel",
+"Statistics"
+],
+"req": "Client Import Analyst Join Livingston and grow your career in the constantly changing world of international trade. Livingston is a market leader offering customs brokerage, international trade consul\nResponsible to conduct documented internal audit.\nAdhere to established policies and procedures. KNOWLEDGE & SKILLS -----------------------  Excellent oral and written communication and organizational skills. Client Service oriented  - interpersonal "
 },
 {
 "title": "Content Enablement Intern 2027 (USA)",
