@@ -1,113 +1,6 @@
 {
-"updated": "2026-11-05T03:29:50+00:00",
+"updated": "2026-11-05T03:39:47+00:00",
 "jobs": [
-{
-"title": "ECE/ IT Teacher",
-"company": "MintZeal",
-"location": "Burnaby, BC, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=1cc7d83c4e317b8f",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/ece-it-teacher-1cc7d83c4e317b8f",
-"salary": "$19.00-$21.00 per hour"
-},
-{
-"title": "Full Stack Developer",
-"company": "",
-"location": "Winnipeg, MB, CA (remote)",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=3c06232421f286bd",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/full-stack-developer-3c06232421f286bd",
-"salary": "$40.00 per hour",
-"skills": [
-"React",
-"REST APIs",
-"PostgreSQL",
-"Redis",
-"Docker",
-"CI/CD"
-]
-},
-{
-"title": "Online Reading Tutor",
-"company": "Viva Phonics",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
-"salary": "$12",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On"
-},
-{
-"title": "Front Desk Executive",
-"company": "Ethnic Supermarket",
-"location": "Burlington, ON, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
-"salary": "$18.00-$24.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "NSX/ VCF Consultant",
-"company": "Cloud Destinations",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=2f9110c1aa2dab5f",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/nsx-vcf-consultant-2f9110c1aa2dab5f",
-"salary": "$130 - $150 USD per hour",
-"skills": [
-"Kubernetes",
-"Ansible",
-"Infrastructure as code",
-"Firewalls",
-"Help desk / troubleshooting",
-"VMware / virtualization"
-],
-"req": "Skill Set: NSX | AVI Senior Consultant Total Weekly Hours: 40hrs/week (2,328 hours total, 11/25/2026 to 1/25/2028) Position Overview: As a Senior AVI / NSX Consultant, you will serve as the primary de\nProvide technical mentorship, knowledge transfer, and Day-1 and Day-2 operational support, including Load Balancing as Code best practices. Qualifications:  5+ years of VMware delivery experience in p\nHands-on experience deploying VMware AVI Load Balancer and NSX in VCF 5.x and/or 9.x environments.\nStrong technical experience with vSphere, vSAN, VKS, Software-Defined Data Center (SDDC) Manager, and container networking.\nHands-on Ansible automation experience and familiarity with infrastructure-as-code practices."
-},
-{
-"title": "Sapiens PolicyPro Configuration Analyst",
-"company": "Kamis",
-"location": "Remote · United States",
-"posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=a00ad46950ad9323",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "https://workforce.intuit.com/recruiting/kamis-professional-staffing-llc-4cf4a5d098faf59f/6e5a0f83-6511-45d7-a574-0191197aaabf?source=Indeed",
-"salary": "$90,000 - $96,000 USD per year",
-"skills": [
-"C",
-"SQL",
-"SQL Server",
-"Oracle",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"Data structures & algorithms",
-"System design"
-],
-"req": "THE OPPORTUNITY Our client is seeking an experienced Configuration Analyst to join its technology team and support the configuration and enhancement of a SaaS-based insurance platform. This is an exce"
-},
 {
 "title": "Full-Stack Engineer",
 "company": "Splitero",
@@ -139,6 +32,113 @@
 "Salesforce"
 ],
 "req": "About the Job As a Full-Stack Engineer at Splitero, you will play a crucial role in architecting, developing, and maintaining our software from marketing through origination. Your expertise in modern \nWork with AI technologies for both your day-to-day role as an engineer and also for new product implementations, leveraging APIs with major AI platforms  Collaborate with front-end developers to integ\nDesire to participate in fast-paced early-stage startup  Adaptability: Embraces changing circumstances with resiliency and positivity  Team-Oriented: Prioritizes collaboration, inclusivity, and teamma\nGenerous Resources - We want to ensure you are set up to do your best work. In addition to a solid tech stack, and access to any WeWork location, you will receive a monthly cell and internet stipend.\nFlexible PTO and Parental Leave - We offer a generous PTO and encourage employees to take time off to recharge. We're proud to offer a parental leave policy that allows you to welcome your new additio"
+},
+{
+"title": "Sapiens PolicyPro Configuration Analyst",
+"company": "Kamis",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=a00ad46950ad9323",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://workforce.intuit.com/recruiting/kamis-professional-staffing-llc-4cf4a5d098faf59f/6e5a0f83-6511-45d7-a574-0191197aaabf?source=Indeed",
+"salary": "$90,000 - $96,000 USD per year",
+"skills": [
+"C",
+"SQL",
+"SQL Server",
+"Oracle",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Data structures & algorithms",
+"System design"
+],
+"req": "THE OPPORTUNITY Our client is seeking an experienced Configuration Analyst to join its technology team and support the configuration and enhancement of a SaaS-based insurance platform. This is an exce"
+},
+{
+"title": "NSX/ VCF Consultant",
+"company": "Cloud Destinations",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=2f9110c1aa2dab5f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/nsx-vcf-consultant-2f9110c1aa2dab5f",
+"salary": "$130 - $150 USD per hour",
+"skills": [
+"Kubernetes",
+"Ansible",
+"Infrastructure as code",
+"Firewalls",
+"Help desk / troubleshooting",
+"VMware / virtualization"
+],
+"req": "Skill Set: NSX | AVI Senior Consultant Total Weekly Hours: 40hrs/week (2,328 hours total, 11/25/2026 to 1/25/2028) Position Overview: As a Senior AVI / NSX Consultant, you will serve as the primary de\nProvide technical mentorship, knowledge transfer, and Day-1 and Day-2 operational support, including Load Balancing as Code best practices. Qualifications:  5+ years of VMware delivery experience in p\nHands-on experience deploying VMware AVI Load Balancer and NSX in VCF 5.x and/or 9.x environments.\nStrong technical experience with vSphere, vSAN, VKS, Software-Defined Data Center (SDDC) Manager, and container networking.\nHands-on Ansible automation experience and familiarity with infrastructure-as-code practices."
+},
+{
+"title": "Front Desk Executive",
+"company": "Ethnic Supermarket",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
+"salary": "$18.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Online Reading Tutor",
+"company": "Viva Phonics",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
+"salary": "$12",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On"
+},
+{
+"title": "Full Stack Developer",
+"company": "",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=3c06232421f286bd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/full-stack-developer-3c06232421f286bd",
+"salary": "$40.00 per hour",
+"skills": [
+"React",
+"REST APIs",
+"PostgreSQL",
+"Redis",
+"Docker",
+"CI/CD"
+]
+},
+{
+"title": "ECE/ IT Teacher",
+"company": "MintZeal",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=1cc7d83c4e317b8f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/ece-it-teacher-1cc7d83c4e317b8f",
+"salary": "$19.00-$21.00 per hour"
 },
 {
 "title": "Cloud & AI Solution Engineer - Azure Platform",
