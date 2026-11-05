@@ -1,6 +1,23 @@
 {
-"updated": "2026-11-05T17:59:48+00:00",
+"updated": "2026-11-05T18:05:35+00:00",
 "jobs": [
+{
+"title": "Software Engineer II, Analytics Compute Platform Team",
+"company": "Amplitude",
+"location": "Remote · United States",
+"posted": "2026-11-05T17:31:14.303+00:00",
+"link": "https://jobs.ashbyhq.com/amplitude/f65ba1d9-f809-442f-88df-453241e8d509",
+"source": "Amplitude careers",
+"country": "US",
+"years": 2,
+"salary": "$86,000 - $118,000",
+"skills": [
+"REST APIs",
+"Monitoring",
+"Embedded systems"
+],
+"req": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI \nEvery chart, insight, and experiment result a customer sees in Amplitude passes through the compute layer our team owns. We sit between Amplitude’s product experiences, APIs, and MCPs and our analytic\nBecome a go-to person. Build real expertise in part of the system, answer teammates’ questions, and share what you learn through docs and demos.\nStay close to the customer. Understand the customer problem behind every project, measure whether your work made their experience better, and bring what you learn back to the team.\nPropose and Move a set of query paths onto a new internal representation, with parity testing and a safe rollout so that future improvements can be done safely.\nBackend engineering fundamentals: You have 2–4 years of experience building and running production services. You write clear, tested code and can reason about failure, retries, and correctness in data\nExperience with query engines, columnar or analytical databases, or large-scale data processing.\nExperience with observability, SLOs, and oncall for a production service.\nOwn the product experience. We treat customer success as our job, not the job of the teams in front of us."
+},
 {
 "title": "Sales Engineer - Banking and Wealth",
 "company": "Plaid",
@@ -2304,7 +2321,7 @@
 "req": "Job Description: Tier 1 Enterprise Service Desk Representative Type – Hourly Business Unit – NASA Enterprise Service Desk Reports to: ESD Team Lead Locations: Stennis, MS | Philadelphia, PA | Remote S\nProvides good interpersonal skills in handling customer inquiries. Work Schedule – Set Shifts are offered. Tier 1 support is provided 24 hours a day, 7 days a week, 365 days a year. Shift schedules ar"
 },
 {
-"title": "Mobile Software Engineer I",
+"title": "Mobile Software Engineer I (iOS)",
 "company": "TD",
 "location": "Toronto, Ontario",
 "posted": "2026-11-05",
