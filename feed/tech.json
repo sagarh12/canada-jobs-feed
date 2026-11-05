@@ -1,28 +1,68 @@
 {
-"updated": "2026-11-05T02:39:43+00:00",
+"updated": "2026-11-05T02:49:51+00:00",
 "jobs": [
 {
-"title": "Sapiens PolicyPro Configuration Analyst",
-"company": "Kamis",
+"title": "ECE/ IT Teacher",
+"company": "MintZeal",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=1cc7d83c4e317b8f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/ece-it-teacher-1cc7d83c4e317b8f",
+"salary": "$19.00-$21.00 per hour"
+},
+{
+"title": "Full Stack Developer",
+"company": "",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=3c06232421f286bd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/full-stack-developer-3c06232421f286bd",
+"salary": "$40.00 per hour",
+"skills": [
+"React",
+"REST APIs",
+"PostgreSQL",
+"Redis",
+"Docker",
+"CI/CD"
+]
+},
+{
+"title": "Online Reading Tutor",
+"company": "Viva Phonics",
 "location": "Remote · United States",
 "posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=a00ad46950ad9323",
+"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
 "source": "Indeed",
 "country": "US",
-"years": 4,
-"apply": "https://workforce.intuit.com/recruiting/kamis-professional-staffing-llc-4cf4a5d098faf59f/6e5a0f83-6511-45d7-a574-0191197aaabf?source=Indeed",
-"salary": "$90,000 - $96,000 USD per year",
+"years": null,
+"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
+"salary": "$12",
 "skills": [
-"C",
-"SQL",
-"SQL Server",
-"Oracle",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"Data structures & algorithms",
-"System design"
+"Help desk / troubleshooting"
 ],
-"req": "THE OPPORTUNITY Our client is seeking an experienced Configuration Analyst to join its technology team and support the configuration and enhancement of a SaaS-based insurance platform. This is an exce"
+"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On"
+},
+{
+"title": "Front Desk Executive",
+"company": "Ethnic Supermarket",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
+"salary": "$18.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
 },
 {
 "title": "NSX/ VCF Consultant",
@@ -46,35 +86,27 @@
 "req": "Skill Set: NSX | AVI Senior Consultant Total Weekly Hours: 40hrs/week (2,328 hours total, 11/25/2026 to 1/25/2028) Position Overview: As a Senior AVI / NSX Consultant, you will serve as the primary de\nProvide technical mentorship, knowledge transfer, and Day-1 and Day-2 operational support, including Load Balancing as Code best practices. Qualifications:  5+ years of VMware delivery experience in p\nHands-on experience deploying VMware AVI Load Balancer and NSX in VCF 5.x and/or 9.x environments.\nStrong technical experience with vSphere, vSAN, VKS, Software-Defined Data Center (SDDC) Manager, and container networking.\nHands-on Ansible automation experience and familiarity with infrastructure-as-code practices."
 },
 {
-"title": "Front Desk Executive",
-"company": "Ethnic Supermarket",
-"location": "Burlington, ON, CA",
-"posted": "2026-11-05",
-"link": "https://ca.indeed.com/viewjob?jk=5f7e89bb64b70953",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/front-desk-executive-5f7e89bb64b70953",
-"salary": "$18.00-$24.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Online Reading Tutor",
-"company": "Viva Phonics",
+"title": "Sapiens PolicyPro Configuration Analyst",
+"company": "Kamis",
 "location": "Remote · United States",
 "posted": "2026-11-05",
-"link": "https://www.indeed.com/viewjob?jk=b4519cb184dc82e3",
+"link": "https://www.indeed.com/viewjob?jk=a00ad46950ad9323",
 "source": "Indeed",
 "country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/online-reading-tutor-b4519cb184dc82e3",
-"salary": "$12",
+"years": 4,
+"apply": "https://workforce.intuit.com/recruiting/kamis-professional-staffing-llc-4cf4a5d098faf59f/6e5a0f83-6511-45d7-a574-0191197aaabf?source=Indeed",
+"salary": "$90,000 - $96,000 USD per year",
 "skills": [
-"Help desk / troubleshooting"
+"C",
+"SQL",
+"SQL Server",
+"Oracle",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Data structures & algorithms",
+"System design"
 ],
-"req": "Viva Phonics is looking for energetic teachers to lead one-on-one online reading tutoring, Monday-Friday during the afternoons and evenings. You will have access to a structured curriculum. Regular On"
+"req": "THE OPPORTUNITY Our client is seeking an experienced Configuration Analyst to join its technology team and support the configuration and enhancement of a SaaS-based insurance platform. This is an exce"
 },
 {
 "title": "Forward Deployed Engineer, AI - Technology Strategy & Transformation",
@@ -6982,6 +7014,152 @@
 "Hardware setup"
 ],
 "req": "This position is Exempt with no supervisory responsibilities Job Summary The Network support specialist will respond to routine student technology problems including password resets, learning center e\nResolve network related issues i.e.: internet connectivity, printers and resources and responsible for installation, maintenance and repair of staff and student computers including loading and unloadi\nMust be able to effectively interact with staff and administration in order to assist in technology needs and have the ability to maintain confidentiality and handle sensitive materials  Must be able "
+},
+{
+"title": "Business Developer Data Centers",
+"company": "Hilti Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=c1bc6465db3b0815",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://careers.hilti.group/en/jobs/22134-en/business-developer-data-centers/",
+"req": "Toronto, Ontario, Canada  Business Development  Experienced Professionals  22134 Build strategic partnerships. Drive long-term growth. ---------------------------------------------------------- Develo\nDrive year-over-year profit growth of assigned accounts.\nInfluence internal and external stakeholders.\nDrive local sales development, direct or indirect, through specifications, long-term relationship building, and execution of account strategy. What You’ll Bring ---------------------  This position is\nParticipate in the international business travel, to the United States for your initial training. Please note that any travel visa requirements will be your responsibility to obtain and need to be in \nSeven (7) years of Hilti sales experience or equivalent outside sales experience, required.\nExperience working with Data Centers, required  Lean Explorer certification, preferred.\nHilti Leadership experience, preferred.\nCivil or Structural Engineering degree, preferred."
+},
+{
+"title": "IT Systems & Security Administrator",
+"company": "Q2 Artificial Lift Services",
+"location": "Red Deer, AB, CA (remote)",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=946483819ac06473",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/q2als/CANDIDATEPORTAL/jobs/1646",
+"skills": [
+"PowerShell",
+"Cybersecurity",
+"SIEM",
+"Incident response",
+"Vulnerability management",
+"IAM",
+"EDR",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting"
+],
+"req": "Stable, full-time employment  Competitive compensation  Comprehensive health and dental benefits  RRSP matching program  Supportive team environment  Opportunity to work in a growing manufacturing org"
+},
+{
+"title": "Automated QA Analyst",
+"company": "Vantix Systems Inc",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=79ab043b1b28ff3f",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://jobs.vantixsystems.com/2748/bh-286485-automated-qa-analyst/",
+"skills": [
+"JavaScript",
+"Excel",
+"Oracle",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"SDLC"
+],
+"req": "Description Join a top employer on a high-impact contract as an Automated QA Analyst, helping teams deliver reliable, well-tested applications through strong automation practices. This role is based i"
+},
+{
+"title": "Technical /Research Support I",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=367605c784594762",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=45053&SiteId=1&PostingSeq=1",
+"req": "About Western ----------------- With an international reputation for success, Western ranks as one of Canada's top research-intensive universities. Our research excellence expands knowledge and drives"
+},
+{
+"title": "Research Engineer",
+"company": "University of British Columbia",
+"location": "Okanagan, BC, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=60aeed86861a2b9e",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Okanagan-Campus---Kelowna-BC-Canada/Research-Engineer_JR26542",
+"salary": "$6,631.67 - $9,533.25 CAD",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting"
+],
+"req": "Prior hands-on experience in pouch or cylindrical cell manufacturing within battery companies or research organizations specializing in battery materials and cell development is required.\nDemonstrated experience in process engineering and manufacturing scale-up for lithium-ion batteries.\nPractical experience with electrode and cell manufacturing processes, including slurry mixing, coating, drying, calendering, slitting, stacking, electrolyte filling, sealing, formation, and testing.\nWorking knowledge of computer applications for word processing and spreadsheets, as well as Internet browsers and email applications."
+},
+{
+"title": "Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
+"company": "Amgen",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=3008d4396022abd0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.amgen.com/en/job/washington-d-c/grad-intern-r-and-d-tsrs-data-sciences-operations-and-analytic-summer-2027/87/102866836608",
+"salary": "$35 - $41 USD per hour",
+"skills": [
+"Databricks",
+"Git",
+"Data structures & algorithms"
+],
+"req": "Collaborate and communicate new digital workflow with end users and non-technical experts. Program Eligibility Requirements ------------------------------------  Must be available to work a full-time \nBring your authentic self to the table and become the professional you’re inspired to be through accepting a culture that values the diversity of thought and experience and will flex to your strengths\nParticipate in executive and social networking events, as well as community volunteer projects. and make a lasting impact with the Amgen team. -------------------------------------------------- career"
+},
+{
+"title": "IT Support Specialist",
+"company": "Brazos Valley Community Action Agency",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=c2722a78f5b53e1c",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/7FDB4ACED5C5616515B977AE67B44EAE/jobs/134678?source=Indeed",
+"skills": [
+"Excel",
+"Networking (TCP/IP, DNS)",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"ITIL"
+],
+"req": "Technical Support + Handle support incidents via phone, email, and other forms of communication. - Utilize a ticketing system, perform remote assistance and conduct desk side visits as needed. + Troub\nSystem & Asset Management + Manage hardware and software deployments, including configuring and installing hardware and software. Maintain systems ensuring that they are up to date. - Assist with deve\nSecurity & Compliance + Adhere to security and privacy protocols, ensuring System Security & HIPAA compliance. MISSION, VISION, AND VALUES  Empathy - Demonstrates a high level of empathy, respect, and\nCommitment to Patient/Customer Service - Exhibits exceptional patient/customer service skills, consistently providing professional support. Demonstrates effective communication skills, actively listen\nCollaborative Team - Demonstrates flexibility, enthusiasm, and willingness to cooperate while working with others in an inter-professional team to support organizational activities. Identifies and sup\nCritical Thinking Skills – Uses logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems. PROFESSIONAL/TECHNICAL KNOWLEDGE, SKILLS \nMinimum of one year in an IT support role including technical support and troubleshooting.\nOperating System Skills: Experience in or knowledge of PC and Mac Support, as well as computer and network troubleshooting.\nWorkstation/Server Skills: Experience installing, upgrading, and configuring so"
+},
+{
+"title": "Backend / Platform Engineer - USA",
+"company": "Inviso",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=a818ed48a5785b85",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://inviso.hrmdirect.com/employment/view.php?req=3857500&jbsrc=1014&location=8cfd93f9-c116-71b2-f7a5-c95883715eb5",
+"skills": [
+"Python",
+"C",
+"Go",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"System design"
+],
+"req": "Backend / Platform Engineer Inviso is partnering with one of our clients to find an experienced Backend / Platform Engineer to join their team working remotely. Inviso is managing the recruitment and \nStrong software engineering skills with experience designing reliable, testable, and maintainable services.\nExperience with AI gateway, orchestration, entitlements, tenancy, metering, quotas, or similar platform capabilities.\nAbility to design APIs and developer experiences for internal and external consumers.\nExperience with multi-tenant systems, tenant isolation, service boundaries, and platform-level enforcement patterns.\nExperience building integration frameworks, connector patterns, governed data access, or reliable data on-ramps.\nExperience owning services through design, development, testing, deployment, monitoring, and support.\nPragmatic mindset with the ability to ship meaningful value quickly while maintaining engineering quality. Desired Qualifications  Experience with C, Python, Go, or similar backend languages.\nExperience with API gateways, orchestration systems, connector frameworks, event-driven systems, or platform engineering.\nExperience with AI, LLM, RAG, agentic workflows, tool/function calling, MCP, A2A, or AI development lifecycle practices.\nExperience with event-sourced metering, quotas, entitlements, or billing-related platform services.\nExperience building enterprise-scale software used by multiple products, customers, or internal teams.\nExperience using "
 },
 {
 "title": "Content Enablement Intern 2027 (USA)",
@@ -19705,6 +19883,25 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Configuration Analyst Stf - E4",
+"company": "Lockheed Martin",
+"location": "Remote · United States",
+"posted": "2026-11-03",
+"link": "https://www.indeed.com/viewjob?jk=1f955cc44a2ae34d",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://lockheedmartin.eightfold.ai/careers/job/996477760595?utm_source=indeed&domain=lockheedmartin.com",
+"salary": "$80,200 - $206,800 USD per year",
+"skills": [
+"Excel",
+"Hardware setup",
+"Jira",
+"System design"
+],
+"req": "Standard Job Description ---------------------------- WHAT WE'RE DOING Lockheed Martin Rotary and Mission Systems has an opportunity for a Configuration Management Analyst, supporting the RMS EMC2 pro\nThe successful candidate will have an attention to detail and the ability to work in a fast-paced, dynamic environment to meet mission requirements. Please Note:  This position requires a government s\nEPDM/PDM experience. Pay Information GeoZone Definition: GeoZones are geographic groupings created by Lockheed Martin to align compensation ranges with regional labor markets and cost-of-labor differe\nAnnual short-term and/or long-term incentive compensation programs may be offered depending on the position. Payments under these annual programs are not guaranteed and can vary from year to year and \nFor (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at l"
 },
 {
 "title": "Software Engineer, International Expansion",
