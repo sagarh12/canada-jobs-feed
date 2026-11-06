@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T00:29:44+00:00",
+"updated": "2026-11-06T00:39:50+00:00",
 "jobs": [
 {
 "title": "Product Design Intern",
@@ -31104,31 +31104,6 @@
 "source": "Twilio careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Research Engineer, Benchmarks & Evaluation",
-"company": "Ramp",
-"location": "Remote · United States",
-"posted": "2026-11-03T00:39:43.962+00:00",
-"link": "https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361",
-"source": "Ramp careers",
-"country": "US",
-"years": null,
-"salary": "$275",
-"quals": [
-"Hands-on experience building LLM benchmarks or evals that people used to make real decisions",
-"Strong Python and software engineering; your eval code is reproducible and fast",
-"Statistical judgment: variance, confidence intervals, sample size, inter-rater agreement, and knowing when a delta is noise",
-"Working knowledge of post-training (SFT, RL with verifiable rewards) and how evals feed into it"
-],
-"skills": [
-"Python",
-"SQL",
-"LLMs / GenAI",
-"Statistics",
-"Embedded systems"
-],
-"req": "The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nBuild benchmarks from real workflows: turn agent traces, customer edge cases and expert labels into versioned benchmark suites for long-horizon agents that run for hours across tools and systems, plus\nHands-on experience building LLM benchmarks or evals that people used to make real decisions\nIndustry experience on an eval, benchmarking or post-training team\nFamiliarity with accounting, finance or other expert-domain work\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
 }
 ]
 }
