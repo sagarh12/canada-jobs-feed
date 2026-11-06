@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T20:49:45+00:00",
+"updated": "2026-11-06T20:59:48+00:00",
 "jobs": [
 {
 "title": "Cybersecurity Incident Coordinator",
@@ -4101,6 +4101,30 @@
 "System design"
 ],
 "req": "Experience designing solution architectures, RESTful APIs, microservices, and reusable integration components, with the ability to apply these skills to MCP server and tool development.\nStrong SQL skills and experience integrating applications with relational databases and data platforms, preferably Starburst/Trino.\nExperience building secure, high-performance data access services to query and expose curated data to downstream applications and AI agents.\nFull-stack development experience with React, Angular, JavaScript/TypeScript, including dynamic dashboards, visualizations, and reusable UI components. Equal Opportunity Employer We are an equal oppor"
+},
+{
+"title": "Software Engineer, GPU Infrastructure",
+"company": "Cohere",
+"location": "Canada",
+"posted": "2026-11-06T14:28:37.909+00:00",
+"link": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4",
+"source": "Cohere careers",
+"country": "CA",
+"years": null,
+"salary": "$75",
+"skills": [
+"Python",
+"Go",
+"Node.js",
+"Machine learning",
+"Kubernetes",
+"Linux",
+"Monitoring",
+"Help desk / troubleshooting",
+"Hardware setup",
+"System design"
+],
+"req": "Internal Infrastructure builds the infrastructure and tools used to train, evaluate, and serve Cohere's foundation models. You will work with AI researchers and ML engineers on stability, scalability,\nIf this does not line up exactly with your experience, we still encourage you to apply.\nIf any of the above doesn’t line up exactly with your experience, we still encourage you to apply.\nWe may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applic"
 },
 {
 "title": "Analyst, Credit Risk Models",
