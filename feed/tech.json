@@ -1,6 +1,66 @@
 {
-"updated": "2026-11-06T01:09:46+00:00",
+"updated": "2026-11-06T01:19:50+00:00",
 "jobs": [
+{
+"title": "Help Desk Technician-Remote",
+"company": "Noha Consultants",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=1f9a5dd9d6292829",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/help-desk-technician-remote-1f9a5dd9d6292829",
+"salary": "$27 - $28 USD per hour",
+"skills": [
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Summer Sales Student",
+"company": "Vantage Marketing",
+"location": "Newmarket, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=4f6e7ed52ae3e8c3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/summer-sales-student-4f6e7ed52ae3e8c3",
+"salary": "$5,000.00-$6,000.00 per month",
+"skills": [
+"Salesforce"
+],
+"req": "Overview The Summer Sales Student supports sales and customer relationships through outreach, needs discovery, and organized follow-up. This role offers practical exposure to sales, marketing, and bus"
+},
+{
+"title": "Administrative Assistant/Secretary",
+"company": "YC Crane Solutions",
+"location": "West Kelowna, BC, CA (remote)",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=8e2e18fb6501159e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistantsecretary-8e2e18fb6501159e",
+"salary": "$40.00-$50.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Customer Success Engineer",
+"company": "GitLab",
+"location": "Remote · United States",
+"posted": "2026-11-05T20:19:13-05:00",
+"link": "https://job-boards.greenhouse.io/gitlab/jobs/8931347002",
+"source": "GitLab careers",
+"country": "US",
+"years": null
+},
 {
 "title": "AMER Data Analyst - Sales Strategy and Operations",
 "company": "Stripe",
@@ -6545,6 +6605,280 @@
 "location": "",
 "posted": "2026-11-05",
 "link": "https://www.linkedin.com/jobs/view/4487594015",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Applications",
+"company": "Alberta-Pacific Forest Industries",
+"location": "Boyle, AB, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=4b34913643dd478f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://alpac.jobs.hr.cloud.sap/job/Boyle-Analyst%2C-Applications-AB-T0A-0M0/1291734347/",
+"skills": [
+"Python",
+"SQL",
+"SQL Server",
+"Oracle",
+"Cybersecurity",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"ITIL"
+],
+"req": "Support organizational cybersecurity objectives by ensuring security considerations are incorporated into application management and solution delivery. Qualifications  Completion of post-secondary deg\n5 + years progressively related work experience is required.\nExperience working with Al Pac’s secondary business applications including but not limited to LIMS, LRMS, GEO-Spatial ESRI tools, web applications, DBA tools is an asset.\nThe successful candidate is not expected to arrive with advanced database-administration expertise; however, they must demonstrate the aptitude and interest to develop stronger database, integration a\nExperience working with field-collected GIS data, GPS information, forestry roads or other natural-resource datasets is an asset.\nExperience developing, maintaining or monitoring data-integration and quality-control workflows using Safe Software FME Form and FME Flow is a strong asset.\nExperience with ArcGIS Enterprise, including Portal, hosted or referenced services, web maps and web applications, is an asset.\nExperience with enterprise geodatabases and spatial data stored in relational database platforms such as Oracle or SQL Server is an asset.\nExperience supporting authoritative, enterprise-wide spatial datasets, including data stewardship, metadata, quality assurance, versioned editing, publishing and coordination of updates from multiple \nWorking knowledge and experience with utilizing Agile development methodologies.\nExperience in strategic planni"
+},
+{
+"title": "IT Help Desk Specialist",
+"company": "True Environmental",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=c3a8315e79eb1224",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.lever.co/true-environmental/226a3eb0-8f8c-44ca-8a10-1403ec3875fc?lever-source=Indeed",
+"skills": [
+"Azure",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "True Environmental and its partner firms, have united their strengths to establish the nation's premier environmental and engineering services consulting firm. This powerhouse organization offers an e\nAbout the Role  Provide first-line IT service desk support to employees via ticketing system, phone, email and in person, logging, prioritizing and resolving incidents and service requests  Troublesho"
+},
+{
+"title": "Co-op Student – IT & Systems Support - 4-8 Months",
+"company": "Strata Engineering",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=c2c86e29acc11254",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://secure.collage.co/jobs/strataengineering/66901?origin=indeed",
+"salary": "$23-25 per hour",
+"skills": [
+"Bash/Shell",
+"PowerShell",
+"Excel",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Vulnerability management",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Job Summary : Reporting to the IT Support Technician, the IT Co-op Student will assist with the day-to-day operations of Strata Engineering's IT environment. The successful candidate will provide tech\nPerform other IT-related duties and special projects as required. QUALIFICATIONS :  Must be legally authorized to work in Canada. We are unable to provide visa sponsorship or assist with obtaining a w\nMust be eligible to participate in a recognized co-op program. Technical Skills  Basic understanding of Windows operating systems and computer hardware.\nExperience in PowerShell scripting, automating manual tasks and optimizing system administration workflows. Assets  Strong analytical and problem-solving abilities.\nAbility to explain technical concepts to employees with varying levels of technical knowledge. What we offer :  Hands-on experience supporting a professional engineering consulting environment.\nMentorship and guidance from experienced IT professionals.\nMultiple factors such as qualifications, overall experience and position responsibilities will be used to determine the successful candidates actual hourly rate within the expected range. About Us: St"
+},
+{
+"title": "Administrative Assistant",
+"company": "Paloma Pressure Control Canada",
+"location": "Red Deer County, AB, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=de6ae51a6f60c2ea",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-de6ae51a6f60c2ea",
+"salary": "$40,000.00",
+"skills": [
+"Excel"
+],
+"req": "Assist with other administrative duties and projects as needed. Qualifications & Experience  Previous administrative or office experience is an asset."
+},
+{
+"title": "HR Systems and Process Specialist (9-month contract)",
+"company": "EY",
+"location": "Saint John, New Brunswick, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4486560191",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "HR Systems and Process Specialist (9-month contract)",
+"company": "EY",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4486561155",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Structural Engineering Graduate",
+"company": "Stantec",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=036f919ca6142dbb",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://rr.jobsyn.org/EB08483450EB48E5AC53680E04633F8D1554",
+"salary": "$68,500.00 - $95,800.00",
+"req": "Stantec’s Buildings team is on a mission to become the world’s leading integrated design practice. Our architects, engineers, interior designers, consultants, sustainability specialists, and technolog\nExperience with US building codes and design standards considered an asset.\nExperience with steel-framed buildings required.\nUnderstanding of Component Design Software and Building Analysis Software. Experience with S-FRAME, SAFE, SAP2000, ETABS, RAM, and/ or MASS preferred.\nA self-starter who is innovative and enjoys working in a team environment. Education and Experience  Minimum of a Bachelor's degree in Structural/ Civil Engineering from an accredited university requi"
+},
+{
+"title": "Information Services Summer Student",
+"company": "Paramount Resources Ltd.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=e7e26c5c7949e902",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b8dcb5ca-ab7a-4dad-b6cd-2c7a858453dd&ccId=19000101_000001&jobId=596604&source=IN&lang=en_CA",
+"start": "May 2027",
+"skills": [
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "INFORMATION SERVICES SUMMER STUDENT At Paramount Resources Ltd. we’re driven by the passion to be the best. Paramount is dynamic, fast-moving and unsatisfied with the status quo. A combination of focu\nYou will be documenting incidents in the ticket management system and escalate issues to the IS team, as required.\nYou are able to effectively work in a team environment. To be eligible for a Paramount Resources student position, you must meet the following requirements: You are currently enrolled at one of the fo"
+},
+{
+"title": "Quality & Manufacturing Engineer Co-op",
+"company": "VÄDERSTAD GROUP",
+"location": "Langbank, SK, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=631017c18dafa482",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://vaderstad.wd3.myworkdayjobs.com/en-US/External_Careers/job/Langbank-Canada/Quality---Manufacturing-Engineer-Co-op_JR101515",
+"skills": [
+"Excel",
+"Statistics"
+],
+"req": "Summary =========== Väderstad is looking for people who share our passion for farming. Our employees are the most important resource we have in achieving our goals. We provide great career opportuniti\nVäderstad provides you the opportunity to work with an ambitious, growth-oriented team that is driven to continuously improve. Education/Experience ========================  Good knowledge of the Micr\nMust be able to lift or move up to 50 lbs.\nSome time spent in an office setting Physical Environment:  Shop Conditions  Wear PPE as required"
+},
+{
+"title": "Workday HRIS Payroll Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=4326741a06efbcdd",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://comfortsystemsusa.wd1.myworkdayjobs.com/Corpcareers/job/Houston-TX-Corp-HQ/Workday-HRIS-Payroll-Analyst_JR109019",
+"skills": [
+"Microsoft 365",
+"Help desk / troubleshooting"
+],
+"req": "Workday HRIS Payroll Analyst Location: Remote Experience: 3+ years Position Summary Comfort Systems USA is seeking a Workday Payroll Administrator to support the configuration, maintenance and day-to-\nFollow change management procedures, maintain documentation and support internal controls and audit requests.\nProvide guidance and documentation to help payroll users work effectively in Workday. Required Qualifications  3+ years of experience administering or supporting Workday Payroll.\nHands-on experience with payroll configuration, troubleshooting and testing.\nAbility to prioritize competing needs and work independently in a remote environment. Preferred Qualifications  Experience supporting payroll in a multi-company or multi-state environment.\nExperience with Workday reporting, calculated fields and payroll integrations.\nExperience with Workday implementations, enhancements or release management."
+},
+{
+"title": "IT Support Analyst",
+"company": "Transcat",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=f19cfc150ecd0a81",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://careers-transcat.icims.com/jobs/5815/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$22 - $25 USD per hour",
+"skills": [
+"Azure",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Other duties as assigned Qualifications: Required Knowledge, Skills, and Abilities  Exceptional customer service skills  Ability to identify patterns, not just individual tickets, and identify areas f"
+},
+{
+"title": "Winterover Experiment Operator",
+"company": "University of Wisconsin–Madison",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=c00a1c506e6be6b9",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.wisc.edu/jobs/winterover-experiment-operator-madison-wisconsin-united-states-south-pole-antarctica",
+"salary": "$80,000",
+"skills": [
+"Python",
+"Bash/Shell",
+"Statistics",
+"Ansible",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Ability to take initiative (must be a self-starter)  Excellent communication and organization skills. Preferred Qualifications: -----------------------------  Experience with operational procedures fo\nKnowledge of computer systems security methodology and experience with host-based security tools  High-performing computing hardware maintenance and debugging skills.\nExperience with data storage products such as RAID disk arrays.\nFamiliarity with configuration management systems (e.g. Puppet, Ansible, Chef)  Experience with centralized IT monitoring solutions (e.g. Nagios, CheckMK, Zabbix, etc.)  Ability to use standard labora\nExperience working at polar and/or high-altitude sites and remote locations. Education: -------------- Preferred Master's Degree or Ph.D. in engineering, physics, computer science, or IT degree with a"
+},
+{
+"title": "Premier Service Desk Associate",
+"company": "Konica Minolta Business Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=3906c79e55c94c5e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.konicaminoltaus.com/jobs/14380/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$20 - $32 USD per hour",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"SAP",
+"CompTIA A+"
+],
+"req": "Job ID: 2026-14380 Overview: Si ce poste est situé au Canada, veuillez visiter notre site français à l’adresse suivante : https://careerscafr-kmbskonicaminolta.icims.com/jobs et rechercher le numéro d\nDocument customer interactions, troubleshooting activities, findings, and resolution details within designated systems and customer-required platforms.\nIdentify and escalate risks impacting customer experience, service delivery, or contractual obligations.\nCommunicate professionally and effectively with customers while delivering a consistent, personalized, and high-quality support experience.\nParticipate in learning and development activities and apply acquired knowledge to improve customer experience and operational effectiveness.\nComplete projects and tasks as assigned by management Client Access & Security Requirements:  Obtain and maintain customer-required system access, credentials, and certifications necessary to support \nUtilize personal cellular device for required authentication applications or activation codes. Qualifications:  Excellent verbal and written communication skills  Good customer service and interperson\nSuccessful completion of internal Konica Minolta certifications within the specified timeframe required.\nOccasional travel may be required.\nHigh School Diploma or equivalent required  Minimum three years of customer service, call center, service desk, help desk, or technical support experience preferred.\nServiceNow, CXOne, SAP experience preferred  Experie"
+},
+{
+"title": "Software Engineer Intern, Software Systems [Summer 2027]",
+"company": "Zoox",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=202a813a2bd7240b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20?lever-source=Indeed",
+"salary": "$6,500 - $9,500 USD per month",
+"skills": [
+"Python",
+"C++",
+"Machine learning",
+"Git",
+"Testing (unit, automated)"
+],
+"req": "About Our Internship Program Zoox's internship program offers hands-on experience with cutting-edge technology, mentorship from some of the industry's brightest minds, and the opportunity to make mean"
+},
+{
+"title": "Software Developer",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4485568311",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Metrics Analyst",
+"company": "SaskTel",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4485648330",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -14859,7 +15193,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=Sonova&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=166225&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=5hAgJiPWL2rdJyya4q8%2bWH%2fqnkUuYsMnzjllWeWPj5Y%3d",
+"apply": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=Sonova&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=166225&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=mtp5%2ffuGNaQg7gCxolBRQEFJaUikQx561zSWALUbS6E%3d",
 "salary": "$91,000-$114,000",
 "skills": [
 "MATLAB"
@@ -17876,6 +18210,59 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-04",
 "link": "https://www.linkedin.com/jobs/view/4469917879",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Resident Engineer",
+"company": "Extreme Networks",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.linkedin.com/jobs/view/4485509595",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AWS Cloud/Linux Engineer",
+"company": "Atlas Technologies, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-04",
+"link": "https://www.indeed.com/viewjob?jk=2f972e47fa6d3748",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://atlas-tech.hrmdirect.com/employment/view.php?req=3857341&jbsrc=1014&location=de9a8b56-6ef8-db70-4489-82a7e08a1c66",
+"skills": [
+"Python",
+"Bash/Shell",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Linux",
+"Microservices",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Vulnerability management",
+"IAM",
+"Encryption / PKI",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"CompTIA Security+",
+"CISSP"
+],
+"req": "Looking for a career where hard work is valued, and your ideas and feedback are part of the way we operate daily? Want to bring your skills to a company that encourages teamwork and champions continue\nDocumentation & Knowledge Sharing: Maintain architecture diagrams, Standard Operating Procedures (SOPs), runbooks, and baseline configurations. You Have:  US Citizenship  An active Secret clearance or\nHands-on experience designing, deploying, and maintaining secure, scalable, and highly available enterprise architectures in AWS.\nIn-depth administration experience with enterprise Linux distributions (specifically RHEL 9), including storage/LVM management, package managers, systemd services, OS patching, user management, and pe\nStrong operational expertise across foundational AWS services, including EC2, VPC, IAM, S3, EBS, EFS, ELB/ALB, Route 53, CloudWatch, CloudTrail, AWS Config, RDS, ACM, and Systems Manager.\nPractical experience supporting containerized workloads and microservices using Docker and container orchestration platforms (Amazon EKS or Amazon ECS).\nDemonstrated experience implementing backup strategies, recovery objectives (RTO/RPO), patch cycles, vulnerability remediation, and business continuity plans.\nExperience working with DISA STIGs, ACAS/SCAP remediation, RMF controls, POA&Ms, and continuous monitoring.\nStrong communication, technical documentation, collaboration, and leadership skills in a multi-disciplinary Agile environment. Education/Experience  10+ years "
+},
+{
+"title": "Data Engineer - Snowflake, dbtCore/Cloud, AWS",
+"company": "Aviva Canada",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-04",
+"link": "https://www.linkedin.com/jobs/view/4486540826",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
