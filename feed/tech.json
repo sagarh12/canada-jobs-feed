@@ -1,239 +1,59 @@
 {
-"updated": "2026-11-06T09:09:48+00:00",
+"updated": "2026-11-06T09:19:49+00:00",
 "jobs": [
 {
-"title": "POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer",
-"company": "TikTok",
+"title": "AI Platform Engineer",
+"company": "XIM, Inc.",
 "location": "Remote · United States",
 "posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=51c66050585dceca",
+"link": "https://www.indeed.com/viewjob?jk=58c292c80a79d9ce",
 "source": "Indeed",
 "country": "US",
-"years": null,
-"apply": "https://lifeattiktok.com/search/7696000179569854725",
-"salary": "$35- $35"
-},
-{
-"title": "Data Engineer - Intelligence & Enrichment (Contract)",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=5041b63a0d35e847",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/data-engineer-intelligence-enrichment-contract-5041b63a0d35e847",
+"years": 4,
+"apply": "https://ximxim.com/careers/ai-platform-engineer/",
 "skills": [
+"Python",
+"SQL",
 "REST APIs",
-"Machine learning",
-"ETL / data pipelines",
-"Vector databases",
-"Git"
-],
-"req": "Data Engineer - Intelligence & Enrichment (Contract) About Eternal Bridge Eternal Bridge is developing the intelligence backbone for discovery. We are creating an enterprise intelligence platform desi\nExperience with vector databases / embeddings / entity resolution - which tools?"
-},
-{
-"title": "Actuarial Co-op-1",
-"company": "ATHENE",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=0164a8a67f3443a6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/Toronto-Ontario/Actuarial-Co-op-1_R255309",
-"skills": [
-"Python",
-"SQL",
-"Excel",
-"Statistics"
-],
-"req": "We are driven to do more. More for our customers and the financial professionals who offer our products. If you are driven to do more and love the challenge of pursuing more, Athene is your kind of co\nProficiency with Microsoft Office, particularly Excel; experience manipulating and analyzing large data sets is preferred. Exposure to Python, SQL, SAS or Power Query is an asset.\nCurrently pursuing a four-year degree in actuarial science, mathematics, statistics, finance or a related field. Drive. Discipline. Confidence. Focus. Commitment. Learn more about working at Athene. A"
-},
-{
-"title": "Light Duty Truck Technical Support and Business Development Specialist",
-"company": "Global International Business Broker Inc.",
-"location": "Remote, CA",
-"posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=1f3ab1d029f5f2ff",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/light-duty-truck-technical-support-and-business-development-specialist-1f3ab1d029f5f2ff",
-"salary": "$70,000 CAD",
-"skills": [
-"Windows",
-"Help desk / troubleshooting"
-],
-"req": "Develop service-shop and dealer relationships through researched outreach, calls, email and virtual demonstrations; qualify needs and prepare authorized quotations. What you bring  Demonstrated help-d\nThe company supplies the computer, monitors, headset, security tools and required software. Technology allowance is too cover reliable high speed internet, and phone allowance."
-},
-{
-"title": "Data Scientist, Marketing & eCommerce",
-"company": "Teleflora",
-"location": "Remote · United States",
-"posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=8ace159c231a0aba",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000160077912-data-scientist-marketing-ecommerce",
-"salary": "$100,000 - $135,000 USD per year",
-"skills": [
-"Python",
-"SQL",
-"Machine learning",
-"LLMs / GenAI",
-"Statistics",
-"BigQuery",
-"Google Cloud",
+"dbt",
+"Selenium / Cypress",
 "System design"
 ],
-"req": "Company Description Teleflora provides innovative marketing, education, and technology to make sure our member florists get the resources they need to thrive, creating beautiful bouquets with keepsake\nCollaborate with internal teams to identify potential AI use cases and evaluate their business value.\nContribute to analytical best practices and continuous improvement initiatives. Qualifications  3+ years of hands-on experience in data science and predictive modeling, including experience supporting\nProven experience independently designing, building, and validating predictive Customer Lifetime Value (LTV/CLV) models that estimate future customer value using transaction and behavioral data.\nStrong experience developing statistical and machine learning models for eCommerce revenue forecasting, customer purchasing behavior, and retention.\nAdvanced proficiency in Python and SQL, with demonstrated experience developing predictive models using customer-level datasets.\nExperience applying statistical modeling and machine learning techniques to customer behavior, purchase frequency, and retention prediction.\nExperience conducting cohort analysis and customer segmentation to support customer analytics.\nMaster's degree in Data Science, Statistics, or a related quantitative field, or equivalent practical experience. Preferred Qualifications  Experience with Google Cloud Platform (GCP) and BigQuery."
+"req": "About Us ------------ We blend best practices from outsourcing to deliver services that feel in-house. Our strengths: low‑risk project delivery with high quality, stable cross‑functional teams of in‑h"
 },
 {
-"title": "Retirement Plan Administration Support Specialist",
-"company": "Aquila Software Group",
-"location": "Remote · United States",
-"posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=022757dc4a6f1d52",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://aquilasw.recruiterbox.com/jobs/fk0zcxj?fjb_hash=ezLpq610",
-"skills": [
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting"
-],
-"req": "We are excited to speak to you about this opportunity. If you are interested in joining our growing team, please apply to this link directly. Who we are At Aquila, we invest in category-defining B2B/B\nSolve complex administration questions. You will draw on your understanding of qualified retirement plans, including calculations, compliance testing, contributions, distributions, and regulatory requ\nCollaborate on software improvements. You will identify and document software issues, communicate bug reports and enhancement requests, and work with our development team to help resolve them. You wil\nShare knowledge with customers and colleagues. You will contribute to release notes, written resources, training materials, and webinars that explain software functionality, regulatory changes, and co\nThe industry knowledge. You have a strong understanding of qualified retirement plans, including compliance testing, contributions, distributions, and plan documentation. You are familiar with ERISA a\nThe software experience. You have used retirement plan administration software in your work and understand how it supports calculations, compliance, and day-to-day administration. You may have experie\nThe curiosity to keep learning. You are interested in technology and how software can improve retirement plan administration. You are open to learning new software, contributing to product testing, an\nA virtual interview with the Director of Customer Experience to explore your retirement plan "
-},
-{
-"title": "Funeral Home Receptionist",
-"company": "PARK PLACE FUNERAL HOME CHAPEL & CREMATORIUM LTD",
-"location": "Sherwood Park, AB, CA",
-"posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=c79a20246fd8156c",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/funeral-home-receptionist-c79a20246fd8156c",
-"salary": "$18.00-$22.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Help Desk Technician-Remote",
-"company": "Noha Consultants",
-"location": "Remote · United States",
-"posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=1f9a5dd9d6292829",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/help-desk-technician-remote-1f9a5dd9d6292829",
-"salary": "$27 - $28 USD per hour",
-"skills": [
-"IAM",
-"Windows",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "Summer Sales Student",
-"company": "Vantage Marketing",
-"location": "Newmarket, ON, CA",
-"posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=4f6e7ed52ae3e8c3",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/summer-sales-student-4f6e7ed52ae3e8c3",
-"salary": "$5,000.00-$6,000.00 per month",
-"skills": [
-"Salesforce"
-],
-"req": "Overview The Summer Sales Student supports sales and customer relationships through outreach, needs discovery, and organized follow-up. This role offers practical exposure to sales, marketing, and bus"
-},
-{
-"title": "Administrative Assistant/Secretary",
-"company": "YC Crane Solutions",
-"location": "West Kelowna, BC, CA (remote)",
-"posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=8e2e18fb6501159e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistantsecretary-8e2e18fb6501159e",
-"salary": "$40.00-$50.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Customer Success Specialist",
-"company": "FNG Packaging Corporation",
-"location": "Coquitlam, BC, CA",
-"posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=a6ea314510b78331",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/customer-success-specialist-a6ea314510b78331",
-"salary": "$48,000.00-$50,000.00 per year"
-},
-{
-"title": "Frontend / UI Engineer REMOTE",
-"company": "ELITEBRAIN",
-"location": "Remote · United States",
-"posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=6ff4017a04d8c006",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://jobs.smartrecruiters.com/ELITEBRAIN/744000159993068-frontend-ui-engineer-remote",
-"salary": "$80 - $100 USD per hour",
-"skills": [
-"JavaScript",
-"TypeScript",
-"React",
-"Git"
-],
-"req": "Company Description Our client is a technology-driven organization working on advanced artificial intelligence initiatives that require high-quality software engineering expertise. The company collabo\nIdentify relevant source code, components, files, and artifacts required to complete each task.\nA public GitHub profile with substantial, verifiable contributions is mandatory. Candidates must demonstrate meaningful activity through commits, merged pull requests, maintained repositories, or open\nProven experience developing, implementing, and delivering complex user interfaces and interactive web applications.\nExperience defining objective, reproducible testing criteria and validating software functionality.\nAbility to work independently in a fully remote, project-based environment. Preferred Qualifications  Hands-on experience with SVG, Canvas, graphics programming, or advanced UI rendering.\nExperience in product design or UI design combined with practical frontend development skills."
-},
-{
-"title": "Social Media and Marketing intern",
+"title": "Business Analyst (Remote)",
 "company": "",
-"location": "Remote · United States",
+"location": "Remote, CA",
 "posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=a06001305744d82e",
+"link": "https://ca.indeed.com/viewjob?jk=6302680bc82f282c",
 "source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/social-media-and-marketing-intern-a06001305744d82e",
-"salary": "$23 - $28 USD per hour",
-"req": "Overview Are you passionate about digital storytelling and eager to dive into the dynamic world of social media marketing? As a Social Media and Marketing Intern, you will play a vital role in shaping\nAssist in coordinating public relations activities and outreach efforts to enhance brand reputation through effective communication strategies. Experience  Currently pursuing or recently completed a d\nExperience with video editing and photography is a plus; ability to produce multimedia content that captures attention."
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/business-analyst-remote-6302680bc82f282c",
+"salary": "$110,000.00 per year",
+"skills": [
+"Power BI",
+"Tableau",
+"Excel"
+],
+"req": "About Nextcontinent Nextcontinent is an international management consulting network connecting independent consulting firms and professionals across more than 20 countries. The organization provides e\nSupport the implementation and evaluation of business improvement initiatives. Qualifications and Requirements  3+ years of experience in business analysis, management consulting, or a related profess\nBachelor's degree in Business Administration, Economics, Finance, Management, or a related discipline.\nExperience with business process analysis and requirements gathering.\nAbility to work independently and collaborate with international teams."
 },
 {
-"title": "Junior Software Engineer (AI Training Data Expert)",
-"company": "",
-"location": "Remote · United States",
+"title": "Technical Support Engineer (Mandarin Required) - Mississauga, ON",
+"company": "GOFO Canada Inc.",
+"location": "Mississauga, ON, CA",
 "posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=e2820809cc4e9a57",
+"link": "https://ca.indeed.com/viewjob?jk=fb0099dc6eec427d",
 "source": "Indeed",
-"country": "US",
-"years": 0,
-"apply": "http://www.indeed.com/job/junior-software-engineer-ai-training-data-expert-e2820809cc4e9a57",
-"salary": "USD 100/hour",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/technical-support-engineer-mandarin-required-mississauga-fb0099dc6eec427d",
+"salary": "$22.00-$25.00 per hour",
 "skills": [
-"Python",
-"Java",
-"JavaScript",
-"TypeScript",
-"C++",
-"Go"
-]
+"System design"
+],
+"req": "Company Description GOFO is a technology-driven global last-mile network operator dedicated to providing high-efficiency, high-reliability delivery solutions for e-commerce platforms and brand custome\nFollow up on day-to-day on-site issues with quick response, and continuously improve the FAQ documentation. Qualifications  Bachelor's degree or above, with 2+ years of experience in project implement\nExperience in system implementation and rollout promotion in the express delivery / logistics industry is preferred."
 },
 {
 "title": "Power BI Data Engineer",
@@ -260,38 +80,238 @@
 ]
 },
 {
-"title": "Technical Support Engineer (Mandarin Required) - Mississauga, ON",
-"company": "GOFO Canada Inc.",
-"location": "Mississauga, ON, CA",
+"title": "Junior Software Engineer (AI Training Data Expert)",
+"company": "",
+"location": "Remote · United States",
 "posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=fb0099dc6eec427d",
+"link": "https://www.indeed.com/viewjob?jk=e2820809cc4e9a57",
 "source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/technical-support-engineer-mandarin-required-mississauga-fb0099dc6eec427d",
-"salary": "$22.00-$25.00 per hour",
+"country": "US",
+"years": 0,
+"apply": "http://www.indeed.com/job/junior-software-engineer-ai-training-data-expert-e2820809cc4e9a57",
+"salary": "USD 100/hour",
 "skills": [
-"System design"
-],
-"req": "Company Description GOFO is a technology-driven global last-mile network operator dedicated to providing high-efficiency, high-reliability delivery solutions for e-commerce platforms and brand custome\nFollow up on day-to-day on-site issues with quick response, and continuously improve the FAQ documentation. Qualifications  Bachelor's degree or above, with 2+ years of experience in project implement\nExperience in system implementation and rollout promotion in the express delivery / logistics industry is preferred."
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"C++",
+"Go"
+]
 },
 {
-"title": "Business Analyst (Remote)",
+"title": "Social Media and Marketing intern",
 "company": "",
-"location": "Remote, CA",
+"location": "Remote · United States",
 "posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=6302680bc82f282c",
+"link": "https://www.indeed.com/viewjob?jk=a06001305744d82e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/social-media-and-marketing-intern-a06001305744d82e",
+"salary": "$23 - $28 USD per hour",
+"req": "Overview Are you passionate about digital storytelling and eager to dive into the dynamic world of social media marketing? As a Social Media and Marketing Intern, you will play a vital role in shaping\nAssist in coordinating public relations activities and outreach efforts to enhance brand reputation through effective communication strategies. Experience  Currently pursuing or recently completed a d\nExperience with video editing and photography is a plus; ability to produce multimedia content that captures attention."
+},
+{
+"title": "Frontend / UI Engineer REMOTE",
+"company": "ELITEBRAIN",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=6ff4017a04d8c006",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.smartrecruiters.com/ELITEBRAIN/744000159993068-frontend-ui-engineer-remote",
+"salary": "$80 - $100 USD per hour",
+"skills": [
+"JavaScript",
+"TypeScript",
+"React",
+"Git"
+],
+"req": "Company Description Our client is a technology-driven organization working on advanced artificial intelligence initiatives that require high-quality software engineering expertise. The company collabo\nIdentify relevant source code, components, files, and artifacts required to complete each task.\nA public GitHub profile with substantial, verifiable contributions is mandatory. Candidates must demonstrate meaningful activity through commits, merged pull requests, maintained repositories, or open\nProven experience developing, implementing, and delivering complex user interfaces and interactive web applications.\nExperience defining objective, reproducible testing criteria and validating software functionality.\nAbility to work independently in a fully remote, project-based environment. Preferred Qualifications  Hands-on experience with SVG, Canvas, graphics programming, or advanced UI rendering.\nExperience in product design or UI design combined with practical frontend development skills."
+},
+{
+"title": "Customer Success Specialist",
+"company": "FNG Packaging Corporation",
+"location": "Coquitlam, BC, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=a6ea314510b78331",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/business-analyst-remote-6302680bc82f282c",
-"salary": "$110,000.00 per year",
+"years": null,
+"apply": "http://ca.indeed.com/job/customer-success-specialist-a6ea314510b78331",
+"salary": "$48,000.00-$50,000.00 per year"
+},
+{
+"title": "Administrative Assistant/Secretary",
+"company": "YC Crane Solutions",
+"location": "West Kelowna, BC, CA (remote)",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=8e2e18fb6501159e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistantsecretary-8e2e18fb6501159e",
+"salary": "$40.00-$50.00 per hour",
 "skills": [
-"Power BI",
-"Tableau",
-"Excel"
+"Google Workspace"
+]
+},
+{
+"title": "Summer Sales Student",
+"company": "Vantage Marketing",
+"location": "Newmarket, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=4f6e7ed52ae3e8c3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/summer-sales-student-4f6e7ed52ae3e8c3",
+"salary": "$5,000.00-$6,000.00 per month",
+"skills": [
+"Salesforce"
 ],
-"req": "About Nextcontinent Nextcontinent is an international management consulting network connecting independent consulting firms and professionals across more than 20 countries. The organization provides e\nSupport the implementation and evaluation of business improvement initiatives. Qualifications and Requirements  3+ years of experience in business analysis, management consulting, or a related profess\nBachelor's degree in Business Administration, Economics, Finance, Management, or a related discipline.\nExperience with business process analysis and requirements gathering.\nAbility to work independently and collaborate with international teams."
+"req": "Overview The Summer Sales Student supports sales and customer relationships through outreach, needs discovery, and organized follow-up. This role offers practical exposure to sales, marketing, and bus"
+},
+{
+"title": "Help Desk Technician-Remote",
+"company": "Noha Consultants",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=1f9a5dd9d6292829",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/help-desk-technician-remote-1f9a5dd9d6292829",
+"salary": "$27 - $28 USD per hour",
+"skills": [
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Funeral Home Receptionist",
+"company": "PARK PLACE FUNERAL HOME CHAPEL & CREMATORIUM LTD",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=c79a20246fd8156c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/funeral-home-receptionist-c79a20246fd8156c",
+"salary": "$18.00-$22.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Retirement Plan Administration Support Specialist",
+"company": "Aquila Software Group",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=022757dc4a6f1d52",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://aquilasw.recruiterbox.com/jobs/fk0zcxj?fjb_hash=ezLpq610",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "We are excited to speak to you about this opportunity. If you are interested in joining our growing team, please apply to this link directly. Who we are At Aquila, we invest in category-defining B2B/B\nSolve complex administration questions. You will draw on your understanding of qualified retirement plans, including calculations, compliance testing, contributions, distributions, and regulatory requ\nCollaborate on software improvements. You will identify and document software issues, communicate bug reports and enhancement requests, and work with our development team to help resolve them. You wil\nShare knowledge with customers and colleagues. You will contribute to release notes, written resources, training materials, and webinars that explain software functionality, regulatory changes, and co\nThe industry knowledge. You have a strong understanding of qualified retirement plans, including compliance testing, contributions, distributions, and plan documentation. You are familiar with ERISA a\nThe software experience. You have used retirement plan administration software in your work and understand how it supports calculations, compliance, and day-to-day administration. You may have experie\nThe curiosity to keep learning. You are interested in technology and how software can improve retirement plan administration. You are open to learning new software, contributing to product testing, an\nA virtual interview with the Director of Customer Experience to explore your retirement plan "
+},
+{
+"title": "Data Scientist, Marketing & eCommerce",
+"company": "Teleflora",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=8ace159c231a0aba",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.smartrecruiters.com/TheWonderfulCompany/744000160077912-data-scientist-marketing-ecommerce",
+"salary": "$100,000 - $135,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"Machine learning",
+"LLMs / GenAI",
+"Statistics",
+"BigQuery",
+"Google Cloud",
+"System design"
+],
+"req": "Company Description Teleflora provides innovative marketing, education, and technology to make sure our member florists get the resources they need to thrive, creating beautiful bouquets with keepsake\nCollaborate with internal teams to identify potential AI use cases and evaluate their business value.\nContribute to analytical best practices and continuous improvement initiatives. Qualifications  3+ years of hands-on experience in data science and predictive modeling, including experience supporting\nProven experience independently designing, building, and validating predictive Customer Lifetime Value (LTV/CLV) models that estimate future customer value using transaction and behavioral data.\nStrong experience developing statistical and machine learning models for eCommerce revenue forecasting, customer purchasing behavior, and retention.\nAdvanced proficiency in Python and SQL, with demonstrated experience developing predictive models using customer-level datasets.\nExperience applying statistical modeling and machine learning techniques to customer behavior, purchase frequency, and retention prediction.\nExperience conducting cohort analysis and customer segmentation to support customer analytics.\nMaster's degree in Data Science, Statistics, or a related quantitative field, or equivalent practical experience. Preferred Qualifications  Experience with Google Cloud Platform (GCP) and BigQuery."
+},
+{
+"title": "Light Duty Truck Technical Support and Business Development Specialist",
+"company": "Global International Business Broker Inc.",
+"location": "Remote, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=1f3ab1d029f5f2ff",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/light-duty-truck-technical-support-and-business-development-specialist-1f3ab1d029f5f2ff",
+"salary": "$70,000 CAD",
+"skills": [
+"Windows",
+"Help desk / troubleshooting"
+],
+"req": "Develop service-shop and dealer relationships through researched outreach, calls, email and virtual demonstrations; qualify needs and prepare authorized quotations. What you bring  Demonstrated help-d\nThe company supplies the computer, monitors, headset, security tools and required software. Technology allowance is too cover reliable high speed internet, and phone allowance."
+},
+{
+"title": "Actuarial Co-op-1",
+"company": "ATHENE",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=0164a8a67f3443a6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/Toronto-Ontario/Actuarial-Co-op-1_R255309",
+"skills": [
+"Python",
+"SQL",
+"Excel",
+"Statistics"
+],
+"req": "We are driven to do more. More for our customers and the financial professionals who offer our products. If you are driven to do more and love the challenge of pursuing more, Athene is your kind of co\nProficiency with Microsoft Office, particularly Excel; experience manipulating and analyzing large data sets is preferred. Exposure to Python, SQL, SAS or Power Query is an asset.\nCurrently pursuing a four-year degree in actuarial science, mathematics, statistics, finance or a related field. Drive. Discipline. Confidence. Focus. Commitment. Learn more about working at Athene. A"
+},
+{
+"title": "Data Engineer - Intelligence & Enrichment (Contract)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=5041b63a0d35e847",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/data-engineer-intelligence-enrichment-contract-5041b63a0d35e847",
+"skills": [
+"REST APIs",
+"Machine learning",
+"ETL / data pipelines",
+"Vector databases",
+"Git"
+],
+"req": "Data Engineer - Intelligence & Enrichment (Contract) About Eternal Bridge Eternal Bridge is developing the intelligence backbone for discovery. We are creating an enterprise intelligence platform desi\nExperience with vector databases / embeddings / entity resolution - which tools?"
+},
+{
+"title": "POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer",
+"company": "TikTok",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=51c66050585dceca",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://lifeattiktok.com/search/7696000179569854725",
+"salary": "$35- $35"
 },
 {
 "title": "Analyst, Credit Risk Models",
@@ -9102,6 +9122,191 @@
 "years": null,
 "apply": "https://careers-kimley-horn.icims.com/jobs/27620/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
 "req": "Overview: Kimley-Horn is looking for a CAD Drafter Intern to join our Water/Wastewater team in St. Pete, Florida (FL)! This is not a remote position. Responsibilities:  This person will use basic comp"
+},
+{
+"title": "Safety Data Analyst",
+"company": "Trimac",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=16a99083de182018",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers-trimac.icims.com/jobs/4322/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"SQL",
+"Power BI",
+"Excel",
+"Microsoft 365"
+],
+"req": "Overview: Trimac isn't just a transportation company; it's an industry disruptor with a remarkable 80-year legacy of safely delivering products that improve people’s lives across North America. Our wo\nRespond to data requests from internal teams in a timely and accurate manner.\nBuild and maintain Power BI dashboards and visualizations that use consistent definitions, clearly display trends and exceptions, and enable stakeholders to understand performance and identify require\nSupport safety data governance by maintaining a data dictionary, applying standardized definitions, documenting report logic and calculation methods, validating changes, and retaining evidence require\nParticipate in system updates or testing as required, providing input on reporting functionality and data output accuracy.\nReview existing data and reporting workflows to identify duplicate entry, manual hand-offs, control gaps, and recurring rework. Document improvement opportunities and bring practical recommendations f\nOne to three years of experience in data analytics, reporting, or business intelligence is required. Experience working with safety, transportation, operational, or other risk-related data is an asset\nAdvanced working knowledge of Microsoft Excel, SharePoint, Power BI, Microsoft Forms, Microsoft Lists, and Power Automate is required. Experience with Power Apps, Power Query, DAX, SQL, data modelling\nComfortable working collaboratively within a team and communicating proactively with a manage"
+},
+{
+"title": "Asset Evaluation Co-op",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4477029288",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Systems Engineer",
+"company": "Arcfield",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=0ccdb1cdbaf9a7ec",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.arcfield.com/jobs/8898/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$75,347 - $131,014 USD per year",
+"skills": [
+"MATLAB",
+"Machine learning",
+"Excel",
+"Jira"
+],
+"req": "Arcfield Overview: Arcfield was purpose-built to relentlessly protect the nation and its allies from today’s national security threats. We have nearly 70 years of proven expertise and excel in space s\nLearn new technologies, tools, and mission systems quickly while progressively taking on greater responsibility. Qualifications: Basic Qualifications BS 2-4 Years, MS 0-2 or HS 8-10  Technical degree \nMust possess and be able to maintain a TS/SCI clearance with polygraph.\nAbility to work effectively with technical leads, teammates, customers, and multidisciplinary engineering teams. Desired Experience & Interests Experience or interest in systems engineering and missio\nExperience or interest in modeling and simulation, data analysis, and integration and test."
+},
+{
+"title": "Test Analyst - QNXT",
+"company": "Cognizant",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=4502d8c5694f5802",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071161915/test-analyst-qnxt/",
+"salary": "$70,000 - $92,000 USD per year",
+"quals": [
+"Good with Running SQL Queries.",
+"Test case and test strategy experience.",
+"Defect triage and management."
+],
+"skills": [
+"SQL",
+"REST APIs"
+],
+"req": "About the role We are seeking a Test Analyst with strong hands-on expertise in QNXT to execute end-to-end testing across Provider and Claims modules. In this role, you will design detailed test scenar\nPartner closely with business analysts, developers, and healthcare domain SMEs to ensure full test coverage and release readiness. Work model We strive to provide flexibility wherever possible. Based \nMust have QNXT testing experience in Provider & Claims modules.\nMust have Claims Testing Experience.\nTest case and test strategy experience."
+},
+{
+"title": "Intern – Software Development - 8 months - Hybrid Ottawa",
+"company": "Entrust",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4470953735",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Trainer (Remote)",
+"company": "GovCIO",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=2c1c618bcfba29ed",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers.govcio.com/careers-home/jobs/9828/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$85,000 - $95,000 USD per year",
+"skills": [
+"Microsoft 365",
+"Hardware setup"
+],
+"req": "Facilitate knowledge transfer and contribute to workforce readiness, operational excellence, and mission success. Qualifications: Required Skills and Experience: Bachelor's degree in Education, Traini\nMinimum 2 year of experience developing training content, technical documentation, or knowledge materials.\nExperience delivering classroom, virtual, or webinar-based training to diverse audiences.\nExperience supporting operational, technical, healthcare IT, government, or enterprise technology environments preferred.\nRegular and reliable attendance is required Clearance Required: Must be able to obtain and maintain a Public Trust Security Clearance  U.S. citizenship required Preferred Skills and Experience:  Stron\nExperience creating multimedia learning content, including videos, interactive tutorials, and web-based training.\nExperience with Learning Management Systems (LMS) and e-learning development tools."
+},
+{
+"title": "Service Desk II (Monaca)",
+"company": "SelectQuote",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=8f3ad6212ac1595e",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.selectquote.com/jobs/7216/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$19.65",
+"skills": [
+"IAM",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+]
+},
+{
+"title": "Junior IT Support/Enterprise Architect- Washington, DC",
+"company": "Serco",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=36a2d67e5ab03af1",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://careers.serco-na.com/us/en/job/36160/Junior-IT-Support-Enterprise-Architect-Washington-DC",
+"salary": "$45,229 - $67,000 USD per year",
+"skills": [
+"Machine learning",
+"Power BI",
+"Excel",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"CompTIA A+"
+],
+"req": "You will assist with some App management and SharePoint Platform development queries which more specialized groups can help answer specific questions on if the query data is collected. To be successfu\nA bachelor’s degree in professional engineering degree, computer science, management information systems, or related fields.\n1 year of experience in IT Support, this can include internships, undergraduate work, and graduate assistantships.\n1 year of group experience in help desk or customer service (this can include internships, undergraduate work, and graduate assistantships.\nCompany Overview Serco Inc. (Serco) is the Americas division of Serco Group, plc. In North America, Serco’s 9,000+ employees strive to make an impact every day across 100+ sites in the areas of Defens"
+},
+{
+"title": "Revenue Cycle/Coding Analyst",
+"company": "MedStar Health",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=af6d177e845a9faf",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://careers.medstarhealth.org/careers-home/jobs/164946/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$71,843 - $135,907 USD per year",
+"skills": [
+"Power BI",
+"Tableau",
+"Excel"
+],
+"req": "Supports internal and external coding audit programs through data collection analysis and reporting.\nParticipates in multi-disciplinary quality and service improvement teams. Minimal Qualifications Education  Bachelor's degree in Health Information Management; Healthcare Administration; Data Analytic\nExcellent computer skills required."
+},
+{
+"title": "Winter Co-op 2027 - Investment Analyst",
+"company": "Manulife",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4478805633",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Deployed Engineer",
+"company": "Randox",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4487739119",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Technician (Contractor) - Treyarch - Vancouver, BC",
+"company": "Activision",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4462117537",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Security Risk Engineer",
@@ -20735,6 +20940,22 @@
 "Data structures & algorithms"
 ],
 "req": "Collaborate with product, architecture, QA, and operations teams through release and production support. Required Qualifications Experience Required: typically 4+ years in a related professional role;\nPractical experience with the role-specific technology stack: React, TypeScript/JavaScript, hooks, state management, HTML, CSS, responsive design, REST/GraphQL, and front-end testing.\nProfessional experience building or supporting production software using the core technologies relevant to this role.\nExperience with APIs, integrations, data stores, and appropriate testing practices.\nExperience collaborating with cross-functional teams in an Agile or iterative delivery environment. Preferred Qualifications Additional hands-on depth in React, TypeScript/JavaScript, hooks, state man\nExperience with cloud services, automation, and modern delivery practices relevant to the project."
+},
+{
+"title": "Strategy Analyst",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-04",
+"link": "https://ca.indeed.com/viewjob?jk=41c372525d570195",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.manulife.com/global/en/job/JR26101022/Strategy-Analyst",
+"salary": "$62,850.00 CAD",
+"skills": [
+"HTML/CSS"
+],
+"req": "Description --------------- The Strategy Analyst, is a key part of the Manulife Bank Strategy, Governance and Controls team and will contribute to the successful delivery of the overall strategic mand\nSupport the planning and development of Bank employee events including Quarterly Leaders Forums, town halls, lunch & learns, and other key bank wide events Required Qualifications:  1-2 years of exper"
 },
 {
 "title": "Content Enablement Intern 2027 (USA)",
