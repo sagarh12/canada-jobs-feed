@@ -1,23 +1,50 @@
 {
-"updated": "2026-11-06T01:39:45+00:00",
+"updated": "2026-11-06T01:49:56+00:00",
 "jobs": [
 {
-"title": "Help Desk Technician-Remote",
-"company": "Noha Consultants",
+"title": "Frontend / UI Engineer REMOTE",
+"company": "ELITEBRAIN",
 "location": "Remote · United States",
 "posted": "2026-11-06",
-"link": "https://www.indeed.com/viewjob?jk=1f9a5dd9d6292829",
+"link": "https://www.indeed.com/viewjob?jk=6ff4017a04d8c006",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/help-desk-technician-remote-1f9a5dd9d6292829",
-"salary": "$27 - $28 USD per hour",
+"apply": "https://jobs.smartrecruiters.com/ELITEBRAIN/744000159993068-frontend-ui-engineer-remote",
+"salary": "$80 - $100 USD per hour",
 "skills": [
-"IAM",
-"Windows",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting"
+"JavaScript",
+"TypeScript",
+"React",
+"Git"
+],
+"req": "Company Description Our client is a technology-driven organization working on advanced artificial intelligence initiatives that require high-quality software engineering expertise. The company collabo\nIdentify relevant source code, components, files, and artifacts required to complete each task.\nA public GitHub profile with substantial, verifiable contributions is mandatory. Candidates must demonstrate meaningful activity through commits, merged pull requests, maintained repositories, or open\nProven experience developing, implementing, and delivering complex user interfaces and interactive web applications.\nExperience defining objective, reproducible testing criteria and validating software functionality.\nAbility to work independently in a fully remote, project-based environment. Preferred Qualifications  Hands-on experience with SVG, Canvas, graphics programming, or advanced UI rendering.\nExperience in product design or UI design combined with practical frontend development skills."
+},
+{
+"title": "Customer Success Specialist",
+"company": "FNG Packaging Corporation",
+"location": "Coquitlam, BC, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=a6ea314510b78331",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/customer-success-specialist-a6ea314510b78331",
+"salary": "$48,000.00-$50,000.00 per year"
+},
+{
+"title": "Administrative Assistant/Secretary",
+"company": "YC Crane Solutions",
+"location": "West Kelowna, BC, CA (remote)",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=8e2e18fb6501159e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistantsecretary-8e2e18fb6501159e",
+"salary": "$40.00-$50.00 per hour",
+"skills": [
+"Google Workspace"
 ]
 },
 {
@@ -37,18 +64,22 @@
 "req": "Overview The Summer Sales Student supports sales and customer relationships through outreach, needs discovery, and organized follow-up. This role offers practical exposure to sales, marketing, and bus"
 },
 {
-"title": "Administrative Assistant/Secretary",
-"company": "YC Crane Solutions",
-"location": "West Kelowna, BC, CA (remote)",
+"title": "Help Desk Technician-Remote",
+"company": "Noha Consultants",
+"location": "Remote · United States",
 "posted": "2026-11-06",
-"link": "https://ca.indeed.com/viewjob?jk=8e2e18fb6501159e",
+"link": "https://www.indeed.com/viewjob?jk=1f9a5dd9d6292829",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistantsecretary-8e2e18fb6501159e",
-"salary": "$40.00-$50.00 per hour",
+"apply": "http://www.indeed.com/job/help-desk-technician-remote-1f9a5dd9d6292829",
+"salary": "$27 - $28 USD per hour",
 "skills": [
-"Google Workspace"
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
 ]
 },
 {
@@ -6890,6 +6921,170 @@
 "posted": "2026-11-05",
 "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Specialist-I--IT-Enterprise-GIS-Technical-Specialist_72911-1",
 "source": "Enbridge careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support Specialist",
+"company": "Nextgen Automation LTD",
+"location": "Burnaby, BC, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=2aba106c020b8ad8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=22751ebe-8f26-4992-9661-598b4344dce1&ccId=19000101_000001&jobId=552562&source=IN&lang=en_CA",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Agile / Scrum"
+],
+"req": "Own assigned tickets through resolution, ensuring timely follow-up, clear client communication, and appropriate escalation when required.\nContribute to a positive client experience by demonstrating urgency, professionalism, accountability, and a commitment to resolving issues correctly. What NextGen Offers At NextGen Automation, we beli\nStay Agile: Embrace change, be curious and find better ways to get things done. These values guide how we work, support one another, and create exceptional experiences for our customers. If you're loo"
+},
+{
+"title": "Analyst - Plastics Recycling",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=a2b36f62e36ad974",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9f16667e-93e9-453a-b7cc-2bfeb3eda460&ccId=19000101_000003&jobId=749278&jwId=SYS:JW:001&source=IN&lang=en_US",
+"salary": "$83,000 - $103,000 USD per year",
+"skills": [
+"SQL",
+"Power BI",
+"Tableau",
+"Excel"
+],
+"req": "Clear communication and translating analysis into presentations, business cases, and recommendations. Qualifications  Bachelor's degree in analytics, engineering, sustainability, or related field.\n2-5 years of analytical experience.\nAdvanced Excel, PowerPoint, and technical writing. Compensation & Other Information  Location: Remote from the United States of America  Pay Rate: Based on a variety of factors in accordance with appl\nReports To: Sr. Recycling Manager Circular Action Alliance is an equal employment opportunity employer. All qualified applicants for employment will be considered without regard to race, color, religi"
+},
+{
+"title": "ERP Business Analyst (Contract)",
+"company": "Teck Resources Limited",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=d22f590a32c504cb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.teck.com/job/Vancouver-ERP-Business-Analyst-%28Contract%29-Brit/1448381400/?feedId=223000&utm_source=Indeed&utm_campaign=Teck_Indeed",
+"skills": [
+"Azure",
+"Testing (unit, automated)",
+"SAP"
+],
+"req": "Support ad hoc requests and day-to-day activities. Qualifications  Bachelor’s or Post-Graduate Degree in Engineering, Computer Science, Business Administration, or a related discipline; equivalent pro\nInterest in developing expertise in SAP S/4HANA and Tricentis qTest."
+},
+{
+"title": "Mobile App Developer",
+"company": "Zion Church",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=a189eeb99d3b8364",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://zionchurch.org/employment/?gnk=job&gni=8a78859ea0f425eb01a0fd3cc9e44665&gns=Indeed+Free",
+"salary": "$70,040 - $108,150 USD per year",
+"skills": [
+"Python",
+"Java",
+"Kotlin",
+"Swift",
+"SQL",
+"React Native",
+"Node.js",
+"Flutter",
+"REST APIs",
+"TensorFlow",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"A/B testing",
+"NoSQL",
+"Vector databases",
+"SQLite",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"Monitoring",
+"Vulnerability management",
+"Encryption / PKI",
+"Testing (unit, automated)",
+"System design",
+"Mobile (iOS / Android)",
+"Embedded systems"
+],
+"req": "FT - Mobile App Developer (Closes November 16, 2026) We're looking for a skilled Mobile App Developer to join our team and help build the next generation of AI-powered mobile experiences. All of our m\nWork closely with product managers and designers to translate product requirements into technical specifications and a polished mobile user experience.\nParticipate in the entire mobile development lifecycle, from concept and design to app store deployment and maintenance. AI Integration  Collaborate closely with our AI team to integrate AI models and\nStay current on mobile-specific AI tooling and SDKs (such as on-device inference frameworks, Core ML, ML Kit, or similar) and recommend where they can improve app performance or reduce dependency on s\n5+ years of professional experience in mobile application development.\nDemonstrated, hands-on experience integrating AI/ML models or AI-powered services into mobile applications, not just backend or web systems.\nExpertise in consuming backend APIs built with languages such as Python, Node.js, or Java.\nStrong experience with local and remote database technologies (SQLite, Core Data, Realm, and cloud-backed SQL/NoSQL).\nExperience with cloud platforms such as AWS, Azure, or GCP, including AI/ML services offered by those platforms (SageMaker, Vertex AI, Azure AI, or similar).\nExperience writing and maintaining unit tests, UI tests, and automated test suites, including tests that account for non-deterministic AI outputs.\nDeep knowledge of s"
+},
+{
+"title": "UAS Technical Analyst",
+"company": "CACI International",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=1e00c11589827bf8",
+"source": "Indeed",
+"country": "US",
+"years": 11,
+"apply": "https://searchcareers.caci.com/careers/job/1443154402050",
+"salary": "$61,600 - $129,300 USD per year",
+"req": "Job Title: UAS Technical Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up to 50% Type of Tra\nProvide high-level subject matter proficiency and advanced technical knowledge of highly specialized applications and technology support to DEVCOM C5ISR Center for Counter-Improvised Threat devices, e\nBA/BS and 6 years of experience, associate’s degree plus 9 years of experience or 11 years of recent specialized experience.\nDemonstrate experience and understanding in HUMINT, SIGINT, ELINT, FISINT, and IMINT intelligence disciplines and the ability to fuse disparate data into completed reports.\nExperience and the Ability to integrate UAS and C-UAS TTPs into Operational and Intelligence Planning.\nMust demonstrate ability to provide analysis to identify trends on target devices and TTPs.\nExperience providing intelligence support regarding issues within the CENTCOM AOR or other specific COCOMs. Desired:  Knowledge of and ability to perform analysis on the latest Commercial Based and em"
+},
+{
+"title": "Maintenance Engineer Intern",
+"company": "Saint-Gobain",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=1889888810478648",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://joinus.saint-gobain.com/description?nPostingTargetId=329813&id=Q2FFK026203F3VBQBLO7V8M1O&LG=EN&languageSelect=EN&source=Indeed&sType=Indeed+Organic",
+"salary": "$24.00 per hour",
+"skills": [
+"Excel",
+"Agile / Scrum"
+]
+},
+{
+"title": "Software Engineer (Remote Opportunities Available)",
+"company": "Revenue Management Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=9a37c87f6f498907",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6418a056-8837-4dff-a20d-15a29bdc0576&ccId=19000101_000001&jobId=601877&source=IN&lang=en_US",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C",
+"SQL",
+".NET",
+"Machine learning",
+"LLMs / GenAI",
+"Git",
+"Linux",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jest / PyTest"
+],
+"req": "Remote opportunities available Please note this role is not currently sponsoring any VISAs. Job Description We are seeking an experienced Software Engineer to join our development team. In this positi"
+},
+{
+"title": "Student Engineering Technician",
+"company": "Municipality of Clarington",
+"location": "Hampton, Ontario, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4487569723",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
@@ -18273,6 +18468,16 @@
 "location": "Markham, Ontario, Canada",
 "posted": "2026-11-04",
 "link": "https://www.linkedin.com/jobs/view/4486540826",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Engineer",
+"company": "Magnet Forensics",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-04",
+"link": "https://www.linkedin.com/jobs/view/4487537886",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -31681,16 +31886,6 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 7
-},
-{
-"title": "Digital Sales Representative - Expansion",
-"company": "Twilio",
-"location": "Remote · United States",
-"posted": "2026-11-02T20:43:06-05:00",
-"link": "https://job-boards.greenhouse.io/twilio/jobs/8327942",
-"source": "Twilio careers",
-"country": "US",
-"years": null
 }
 ]
 }
