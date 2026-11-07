@@ -1,26 +1,6 @@
 {
-"updated": "2026-11-07T03:39:50+00:00",
+"updated": "2026-11-07T03:49:51+00:00",
 "jobs": [
-{
-"title": "Integration Engineering Specialist",
-"company": "Kongsberg",
-"location": "Ottawa, ON, CA (remote)",
-"posted": "2026-11-07",
-"link": "https://ca.indeed.com/viewjob?jk=d0f2d12053159ce4",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fd13316-1f93-4d98-b39c-59a884b85873&ccId=9201247417322_3&jobId=598481",
-"salary": "$65,800- $98,400",
-"skills": [
-"Linux",
-"Networking (TCP/IP, DNS)",
-"Windows",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "About Kongsberg Geospatial Kongsberg Geospatial does challenging work that matters. We are an industry leading company that has been delivering real-time geospatial technology solutions for Defence an\nSite Coordination  Plan and coordinate site installation activities with internal teams, subcontractors, and customer representatives.\nEnsure compliance with electrical installation standards You Have  A Canadian security clearance or eligibility to obtain one.\nA post-secondary degree or diploma in Electrical Engineering, Computer Engineering, or a related field, or equivalent experience.\nMinimum 2+ years of experience in hardware deployment, system integration, and/or software installation.\nExperience in aerodrome or industrial hardware installation.\nExperience deploying complex systems in aviation, defence, telecommunications, industrial automation, or similar environments.\nExperience with sensor systems, cameras, video distribution, or real-time data processing systems.\nExperience with fibre-optic networks, structured cabling, and network infrastructure."
-},
 {
 "title": "Software Developer / Analyst",
 "company": "Tangam Systems",
@@ -55,6 +35,26 @@
 "System design"
 ],
 "req": "Who we are Tangam Systems (http://www.tangamsystems.com) is a rapidly growing software company at the forefront of data analytics, optimization, and visualization. Our clients range from Fortune 500 e\nDevelop Insightful Tools: Create internal dashboards and full-stack applications (using Angular/TypeScript, .NET Core, NodeJS) that turn complex operational data into actionable insights for our teams\nBe a Tech Champion: As part of a tight-knit agile team, you'll help us evaluate and adopt new tools and practices, shaping the future of our technology stack. Requirements  1–3 years of professional s\nExperience building full-stack applications, backend logic, data processing/ETL pipelines, and user interfaces.\nDegree or diploma in Computer Science, Mathematics, or a related technical discipline.\nHands-on experience or familiarity with cloud infrastructure and DevOps tools (Azure, Docker, Kubernetes) is an asset.\nInterest or experience in AI, LLMs, or automated agents is an asset.\nWork-Life Balance: Flex time, work from home days (3 days/week in office required)  Set-up: Standing / adjustable desks, massage chair & quiet rooms, employee lounge with Xbox, Switch & PS4/PS5  Benef"
+},
+{
+"title": "Integration Engineering Specialist",
+"company": "Kongsberg",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-07",
+"link": "https://ca.indeed.com/viewjob?jk=d0f2d12053159ce4",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8fd13316-1f93-4d98-b39c-59a884b85873&ccId=9201247417322_3&jobId=598481",
+"salary": "$65,800- $98,400",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "About Kongsberg Geospatial Kongsberg Geospatial does challenging work that matters. We are an industry leading company that has been delivering real-time geospatial technology solutions for Defence an\nSite Coordination  Plan and coordinate site installation activities with internal teams, subcontractors, and customer representatives.\nEnsure compliance with electrical installation standards You Have  A Canadian security clearance or eligibility to obtain one.\nA post-secondary degree or diploma in Electrical Engineering, Computer Engineering, or a related field, or equivalent experience.\nMinimum 2+ years of experience in hardware deployment, system integration, and/or software installation.\nExperience in aerodrome or industrial hardware installation.\nExperience deploying complex systems in aviation, defence, telecommunications, industrial automation, or similar environments.\nExperience with sensor systems, cameras, video distribution, or real-time data processing systems.\nExperience with fibre-optic networks, structured cabling, and network infrastructure."
 },
 {
 "title": "Intern, Finance Business partner Toronto (Winter 2027)",
@@ -8278,6 +8278,187 @@
 "AWS certification"
 ],
 "req": "Review, validate, test, debug, and optimize AI-generated code while applying engineering best practices throughout the software development lifecycle. Work model We strive to provide flexibility where\nProven data engineering experience building, deploying, and supporting scalable data pipelines and processing solutions.\nHands-on expertise with AWS services and cloud-native data engineering architectures.\nExperience working with one or more of the following technologies: AWS Glue, AWS DMS, Apache Kafka, Apache Airflow, or Snowflake.\nExperience using AI-assisted development tools such as Claude Code, Kiro, or similar technologies to accelerate software engineering while maintaining engineering rigor.\nExperience reviewing, testing, debugging, and optimizing AI-generated code before production deployment.\nHands-on experience developing AWS Lambda functions using Python and integrating them with AWS services. These will help you stand out  Experience with Kiro, including specification-driven development\nPractical experience using Claude Code for software engineering or data engineering initiatives.\nExperience implementing automated testing frameworks, CI/CD pipelines, deployment automation, and code-quality controls.\nUnderstanding of agentic AI engineering concepts, including agents, tools, memory, workflow orchestration, and human-in-the-loop patterns. Preferred differentiators Candidates will stand out if they h"
+},
+{
+"title": "Project Developer - Turkney",
+"company": "Trane Technologies",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=8b93133f6b8f6d18",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.tranetechnologies.com/global/en/job/JR-19209",
+"salary": "$94,366.66 - $132,054.99",
+"req": "Category Sales Job Id JR-19209 Commercial HVAC Americas This job available in 2 locations  Calgary, Alberta, Canada  Edmonton, Alberta, Canada Be a part of our mission! As a world leader in creating c\nSome travel required, other duties as assigned. What you will bring:  5+ Years of experience working for a consulting engineer performing energy retrofits or HVAC industry design  Four-year degree in \nProject Management and Performance Contracting/ESCO experience required.\nMust have a general knowledge of basic engineering, electricity, mechanical HVAC systems and the building construction industry.\nFlexibility to work outside normal work hours/weekends, as required, including some travel with occasional overnight stays."
+},
+{
+"title": "Analyst, Replenishment Planning",
+"company": "Hiram Walker & Sons Ltd.",
+"location": "Windsor, ON, CA (remote)",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=1780820dffac5c4b",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Windsor-ON/Analyst--Replenishment-Planning_JR-055540-1",
+"salary": "$69,400.00 to $86,700.00",
+"skills": [
+"Excel",
+"Oracle",
+"SAP"
+],
+"req": "Escalate overdue, unconfirmed, short-shipped, or otherwise at-risk orders promptly. Reporting and Collaboration -------------------------------  Maintain accurate transactional and master data in plan\nAdherence to controls and documentation requirements. Qualifications and Experience ---------------------------------  Bachelor’s degree in Supply Chain Management, Business, Operations, Engineering, \n1-3 years of experience in supply chain, planning, logistics, inventory management, procurement operations, or customer operations.\nExperience with ERP and planning platforms such as JDE, SAP, Anaplan, JDA, Logility, Oracle, or comparable systems.\nStrong Excel, analytical, organizational, and communication skills with close attention to detail. Core Competencies ---------------------  Planning and Order Execution  Inventory and OOS Monitoring  "
+},
+{
+"title": "Bilingual BI Developer",
+"company": "Iceberg Finance Group",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=366f016d4ab27ab4",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://icebergfinance.bamboohr.com/careers/310?source=indeed&src=indeed&postedDate=2026-11-06",
+"skills": [
+"Python",
+"SQL",
+"Spark",
+"ETL / data pipelines",
+"Power BI",
+"Azure",
+"CI/CD",
+"Git",
+"Agile / Scrum",
+"Embedded systems"
+],
+"req": "Collaborate effectively and maintain clear documentation. What We're Looking For Experience  3+ years of experience in Business Intelligence, Data Integration, Data Engineering, or a related field. Mi\nExperience using Spark for data transformation and processing. Engineering Practices  Comfortable working with Git, code reviews, and modern CI/CD workflows. Profile  Curious, organized, and self-moti\nOwnership-oriented and capable of working independently. Languages  Ability to communicate effectively in both English and French, as our documentation and business stakeholders operate in both langua\nExperience in finance, consumer credit, lending, or fintech environments.\nExperience with Power BI Embedded, Row-Level Security (RLS), or report automation.\nA small, experienced data team where learning happens quickly and your work is highly visible to senior leadership."
+},
+{
+"title": "Junior Receptionist + Office Intern (Co-op)",
+"company": "Davidson and Co",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=ba6f04c9e7f7c6ee",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://davidsonandco.bamboohr.com/careers/112?source=indeed&src=indeed&postedDate=2026-11-06",
+"salary": "$50,000",
+"skills": [
+"Excel",
+"Microsoft 365"
+],
+"req": "About Us We are a growing, people-first accounting firm with offices in Vancouver and Calgary. Our teams work together across service lines and departments to support clients, employees, and the commu\nTake on a variety of ad hoc tasks and responsibilities based on business needs What You Bring Education  Currently enrolled in a diploma or degree program in Business Administration, Office Administra"
+},
+{
+"title": "Sage Intacct ERP Administrator",
+"company": "Litco LSO",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=a0a8ea38e0fd9d99",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://litcolso.bamboohr.com/careers/294?source=indeed&src=indeed&postedDate=2026-11-06",
+"skills": [
+"SQL",
+"REST APIs",
+"Power BI",
+"Excel",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting"
+],
+"req": "Who We Are Litco LSO is a Legal Support Organization (LSO) that unites independent law firms by sharing services and business practices across a network of partners. As a first-of-its-kind LSO for Nor\nServe as our go-to Sage Intacct expert, configuring and maintaining entities, chart of accounts, dimensions, workflows, security roles, Smart Rules, and custom fields  Evaluate enhancement requests an"
+},
+{
+"title": "Technologist, Mechatronics & Automation - Technologist 3 (CUPE 1482)",
+"company": "University of Manitoba",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=54eb12264a683529",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://viprecprod.ad.umanitoba.ca/default.aspx?REQ_ID=51461&Language=1",
+"salary": "$37.87 to $53.89 per hour",
+"start": "December 7, 2026",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup",
+"Embedded systems"
+],
+"req": "Engineering Technology Diploma from a recognized Community College or equivalent and eligibility for CTTAM certification required. EXPERIENCE:  7 years of related experience in a research setting is r\nExperience working with manufacturing equipment (conventional and advanced digital manufacturing) required.\nExperience working with mechatronics and electronics required.\nExperience maintaining and initiating building maintenance and infrastructure improvements is required.\nExtensive experience in maintaining, troubleshooting and repairing equipment is required.\nKnowledge of safety regulations, WHIMIS and hazardous materials protocols and safe work procedures in a lab/shop setting is required.\nAn acceptable equivalent combination of education and experience may be considered. SKILLS AND ABILITIES:  Ability to perform selection, operation and maintenance of specialized equipment that require\nAbility to design and fabricate apparatus using basic and specialized tools is required.\nAbility to prepare specifications, drawings, instructions and procedures is required.\nAbility to plan, organize and administer an entire project is required.\nProficiency in the safe use of tools and equipment including maintenance and calibration is required.\nExcellent verbal and written communication skills are required to work with students and staff.\nAbility to oversee inventory control and ensure accurate stock management required.\nAbility to coordinate multiple responsibilities while effectively prio"
+},
+{
+"title": "Application Support Specialist, Information and Communications Technology",
+"company": "University of Saskatchewan",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-06",
+"link": "https://ca.indeed.com/viewjob?jk=894ce121ae4ecf86",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://usask.csod.com/ux/ats/careersite/14/home/requisition/15783?c=usask",
+"salary": "$53,091.00 - 82,954.00 per annum",
+"skills": [
+"PHP",
+"SQL",
+"Help desk / troubleshooting"
+],
+"req": "Application Support Specialist, Information and Communications Technology ============================================================================= Unit Overview: Information and Communications Te\nTroubleshoots application and system issues and escalates complex defects or problems to senior team members.\nSupports communication activities with internal and external stakeholders regarding system changes and operational matters.\nUndertakes related duties, as assigned, consistent with the nature of the position. Qualifications:  A bachelor’s degree in computer science, information technology, or a related field.\nMinimum of two years of related experience."
+},
+{
+"title": "IT Workday Analyst II",
+"company": "Riverside Health",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=74498f73a87634dc",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://rivhs.wd1.myworkdayjobs.com/Non-ProviderRHS/job/Riverside-Support-Services---Denbigh---Newport-News-Virginia/Financial-System-Analyst_2026-038887",
+"salary": "$81,000 - $111,375 USD per year",
+"skills": [
+"Python",
+"Java",
+"SQL",
+"REST APIs",
+"Excel",
+"Oracle",
+"Linux",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Collaborate with end users on configuring and implementing new features and system changes  Maintain trouble ticketing system for Financial team tickets ensuring tickets are responded to in a timely m"
+},
+{
+"title": "Data Solutions Analyst",
+"company": "Northeast Community College",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=f32b13658d3abf5b",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://northeast.bamboohr.com/careers/84?source=indeed&src=indeed&postedDate=2026-11-06",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Data structures & algorithms"
+],
+"req": "Northeast Community College is seeking a full-time Data Solutions Analyst. Reporting to the Executive Director of Data and Strategic Analytics, the Data Solutions Analyst plays a key role in advancing"
+},
+{
+"title": "Technology Specialist, Networking",
+"company": "Durham Region (The Regional Municipality of Durham)",
+"location": "Whitby, Ontario, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4488098484",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Software Engineer, ML Workload Platform",
@@ -20500,6 +20681,72 @@
 "location": "Vancouver, British Columbia, Canada",
 "posted": "2026-11-05",
 "link": "https://www.linkedin.com/jobs/view/4449880403",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Software Engineer (C#, .Net, React)",
+"company": "Manulife",
+"location": "Waterloo, ON, CA",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=a49952cc0cf737b7",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.manulife.com/global/en/job/JR26091833/Full-Stack-Software-Engineer-C-Net-React",
+"salary": "$86,100.00 CAD",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"HTML/CSS",
+"React",
+"Spring Boot",
+".NET",
+"REST APIs",
+"SQL Server",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Git",
+"Microservices",
+"Monitoring",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"System design"
+],
+"req": "The Individual Insurance Offer Team is a diverse, collaborative group that builds and evolves the technology supporting our web-based life insurance illustration experience. We are seeking a Full-Stac\nCommunicate technical information clearly and effectively within a geographically distributed team. Required Qualifications:  3+ years of professional full-stack software engineering experience, prefe\nProfessional experience developing with C and .NET, including building, testing, and supporting RESTful APIs and microservices.\nExperience with F, or experience with functional programming and an interest in becoming productive in an F codebase.\nExperience developing web applications using React and JavaScript or TypeScript.\nExperience with containerized applications using Docker and Kubernetes, preferably Azure Kubernetes Service.\nExperience with Microsoft SQL Server, Azure SQL Database, or another relational database technology.\nExperience with GitHub, pull requests, code reviews, automated testing, and modern CI/CD pipelines.\nStrong analytical, problem-solving, and communication skills, with the ability to collaborate across technical and business teams. Preferred Qualifications:  Experience in life insurance, financial se\nExperience with ProductXpress or a similar insurance calculation and configuration platform.\nExperience with Java and Spring Boot.\nExperience with cloud-native technologies and deployment tools such as Helm, Terraform, Flux, or Istio.\nExperience with monitorin"
+},
+{
+"title": "Systems Analyst - Enterprise Applications",
+"company": "The Corporation of The City of Victoria",
+"location": "Victoria, BC, CA (remote)",
+"posted": "2026-11-05",
+"link": "https://ca.indeed.com/viewjob?jk=8ab223f3068895aa",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careersen-victoria.icims.com/jobs/4881/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$62.26 per hour",
+"skills": [
+"REST APIs"
+],
+"req": "Investigate and resolve application, integration and data issues, including incidents and service requests; monitor system and integration processes; correct errors; restore services; and escalate iss\nDesign, build, test, deploy and maintain integrations between enterprise applications and internal or external systems using file-based integrations, web services, APIs, scheduled data loads and other\nWork as part of a team to support enterprise applications and deliver solutions that meet business needs. Perform related duties where qualified. INDEPENDENCE  Work is performed according to establish\nAbility to collaborate effectively with City departments, vendors, external service providers and project teams, including providing training and knowledge transfer. QUALIFICATIONS  Undergraduate degr\nRequired to sign an attestation of confidentiality. Experience:  Five (5) years of recent related experience analyzing, administering, integrating or supporting enterprise business applications in a c"
+},
+{
+"title": "IT Administrator",
+"company": "Robert Half",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-05",
+"link": "https://www.linkedin.com/jobs/view/4486907960",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
