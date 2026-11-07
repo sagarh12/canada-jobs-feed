@@ -1,12 +1,12 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,45%,2261,993,2261,2026-11-07
+1,Help desk / troubleshooting,IT support,45%,2263,995,2263,2026-11-07
 2,SQL,Language,24%,1223,528,1223,2026-11-07
 3,REST APIs,Framework,24%,1206,515,1206,2026-11-07
 4,Python,Language,23%,1147,496,1147,2026-11-07
 5,Excel,Data & AI,22%,1088,502,1088,2026-11-07
 6,Hardware setup,IT support,19%,983,434,983,2026-11-07
-7,System design,Practice,19%,948,393,948,2026-11-07
-8,Microsoft 365,IT support,16%,805,365,805,2026-11-07
+7,System design,Practice,19%,949,394,949,2026-11-07
+8,Microsoft 365,IT support,16%,806,366,806,2026-11-07
 9,Azure,Cloud & DevOps,16%,801,339,801,2026-11-07
 10,Agile / Scrum,Practice,15%,777,320,777,2026-11-07
 11,Git,Cloud & DevOps,13%,675,295,675,2026-11-07
@@ -14,9 +14,9 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 13,Windows,IT support,13%,639,273,639,2026-11-07
 14,AWS,Cloud & DevOps,13%,633,251,633,2026-11-07
 15,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,567,237,567,2026-11-07
-16,Cybersecurity,Security,11%,564,230,564,2026-11-07
+16,Cybersecurity,Security,11%,565,231,565,2026-11-07
 17,IAM,Security,11%,550,240,550,2026-11-07
-18,"Ticketing (ServiceNow, Jira)",IT support,11%,543,238,543,2026-11-07
+18,"Ticketing (ServiceNow, Jira)",IT support,11%,544,239,544,2026-11-07
 19,JavaScript,Language,10%,510,219,510,2026-11-07
 20,Power BI,Data & AI,10%,505,213,505,2026-11-07
 21,LLMs / GenAI,Data & AI,9%,470,185,470,2026-11-07
@@ -36,7 +36,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 35,TypeScript,Language,6%,286,127,286,2026-11-07
 36,SQL Server,Database,6%,280,107,280,2026-11-07
 37,Oracle,Database,6%,279,113,279,2026-11-07
-38,Vulnerability management,Security,5%,277,129,277,2026-11-07
+38,Vulnerability management,Security,5%,278,130,278,2026-11-07
 39,Salesforce,Practice,5%,274,124,274,2026-11-07
 40,Data structures & algorithms,Practice,5%,258,109,258,2026-11-07
 41,Google Cloud,Cloud & DevOps,5%,254,107,254,2026-11-07
@@ -56,7 +56,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 55,Mobile (iOS / Android),Practice,4%,188,78,188,2026-11-07
 56,SAP,Practice,4%,187,89,187,2026-11-07
 57,Terraform,Cloud & DevOps,4%,186,77,186,2026-11-07
-58,NIST / ISO 27001,Security,4%,183,80,183,2026-11-07
+58,NIST / ISO 27001,Security,4%,184,81,184,2026-11-07
 59,Infrastructure as code,Cloud & DevOps,3%,173,79,173,2026-11-07
 60,Microservices,Cloud & DevOps,3%,172,81,172,2026-11-07
 61,macOS,IT support,3%,167,60,167,2026-11-07
@@ -72,7 +72,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 71,Angular,Framework,3%,129,48,129,2026-11-07
 72,EDR,Security,2%,125,58,125,2026-11-07
 73,MySQL,Database,2%,122,43,122,2026-11-07
-74,CompTIA Security+,Certification,2%,117,44,117,2026-11-07
+74,CompTIA Security+,Certification,2%,118,45,118,2026-11-07
 75,Snowflake,Data & AI,2%,116,33,116,2026-11-07
 76,Go,Language,2%,113,39,113,2026-11-07
 77,SIEM,Security,2%,109,42,109,2026-11-07
@@ -82,7 +82,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 81,RAG,Data & AI,2%,101,42,101,2026-11-07
 82,CompTIA Network+,Certification,2%,97,34,97,2026-11-07
 83,R,Language,2%,95,41,95,2026-11-07
-84,Cloud security,Security,2%,91,32,91,2026-11-07
+84,Cloud security,Security,2%,92,33,92,2026-11-07
 85,Ansible,Cloud & DevOps,2%,90,38,90,2026-11-07
 86,Kafka,Data & AI,2%,89,34,89,2026-11-07
 87,Spring Boot,Framework,2%,89,44,89,2026-11-07
@@ -103,7 +103,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 102,Vector databases,Database,1%,49,19,49,2026-11-07
 103,BigQuery,Database,1%,47,17,47,2026-11-07
 104,GraphQL,Framework,1%,45,25,45,2026-11-07
-105,Penetration testing,Security,1%,44,16,44,2026-11-07
+105,Penetration testing,Security,1%,45,17,45,2026-11-07
 106,Swift,Language,1%,44,22,44,2026-11-07
 107,Azure certification,Certification,1%,43,18,43,2026-11-07
 108,Elasticsearch,Database,1%,43,19,43,2026-11-07
@@ -154,4 +154,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 153,C#,Language,0%,3,2,3,2026-11-07
 154,Solidity,Language,0%,1,1,1,2026-11-07
 
-,Based on 5053 postings in the last 30 days (5053 all time)
+,Based on 5056 postings in the last 30 days (5056 all time)
