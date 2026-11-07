@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-07T21:59:46+00:00",
+"updated": "2026-11-07T22:09:49+00:00",
 "jobs": [
 {
 "title": "Analyst, Organizational Effectiveness",
@@ -25774,23 +25774,6 @@
 "source": "Toast careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "AI Engineer",
-"company": "Cerebras",
-"location": "Remote · United States",
-"posted": "2026-11-04T22:08:49.289+00:00",
-"link": "https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4",
-"source": "Cerebras careers",
-"country": "US",
-"years": null,
-"skills": [
-".NET",
-"REST APIs",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "This order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.\nCerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership https://openai.com/index/cerebras-partnership/ w\nPrototypes and demos: Find original ways to showcase Cerebras fast inference. Build sample applications, notebooks, and interactive experiences that make the benefit tangible.\nDeveloper feedback: Engage with developers, troubleshoot integrations, and turn recurring questions and friction into improvements to examples, documentation, and the product experience.\nSKILLS AND QUALIFICATIONS\nHands-on experience building with model APIs and debugging AI application workflows.\nExperience working with agent harnesses or related workflows involving prompting, tool calling, context management, and evaluation.\nOriginal ideas for demos and developer experiences, with a clear sense of what makes an example useful and engaging.\nPREFERRED EXPERIENCE\nExperience optimizing latency, responsiveness, or reliability in AI applications.\nExperience teaching developers through workshops, talks, or live demonstrations."
 }
 ]
 }
