@@ -1,34 +1,66 @@
 {
-"updated": "2026-11-08T06:14:16+00:00",
+"updated": "2026-11-08T06:19:48+00:00",
 "jobs": [
 {
-"title": "Service Technician (Control4 / Lutron)",
-"company": "New Wave Electronics",
-"location": "Richmond Hill, ON, CA (remote)",
-"posted": "2026-11-08",
-"link": "https://ca.indeed.com/viewjob?jk=bf9cf55f4eddc3ad",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/service-technician-control4-lutron-bf9cf55f4eddc3ad",
-"salary": "$28.00-$35.00 per hour",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"Help desk / troubleshooting"
-],
-"req": "THE ROLE You keep our clients' systems running: you fix most problems remotely before anyone needs to drive out, back up our technicians in the field, and make sure no client call goes unanswered. New"
-},
-{
-"title": "CODYZA, volunteers (non paid)",
-"company": "CODYZA VOLUNTEER OPORTUNITY",
+"title": "Online Tutor (Independent Contractor) — High School & College Subjects",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-08",
-"link": "https://www.indeed.com/viewjob?jk=5216f240556e68b8",
+"link": "https://www.indeed.com/viewjob?jk=3a6f077a1f3d5b58",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/codyza-volunteers-non-paid-5216f240556e68b8",
-"salary": "$0.10 - $0.20 per hour"
+"apply": "http://www.indeed.com/job/online-tutor-independent-contractor-high-school-college-subjects-3a6f077a1f3d5b58",
+"salary": "$15 - $25 USD per hour"
+},
+{
+"title": "Back-End Software Engineer",
+"company": "Manulife",
+"location": "Toronto, Ontario",
+"posted": "2026-11-08",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419",
+"source": "Manulife careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Networked Simulation Engineer (Instructor Console and Fault Injection)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-08",
+"link": "https://www.indeed.com/viewjob?jk=9a36e03c68ad2712",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/networked-simulation-engineer-instructor-console-and-fault-injection-9a36e03c68ad2712",
+"salary": "$45 - $105 USD per hour",
+"skills": [
+"C++",
+"C",
+"Unity"
+]
+},
+{
+"title": "JUNIOR IT TECHNICIAN – MSP TECH",
+"company": "Forbes IT Solutions Ltd.",
+"location": "North Vancouver, BC, CA",
+"posted": "2026-11-08",
+"link": "https://ca.indeed.com/viewjob?jk=f251913c9b115204",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/junior-it-technician-msp-tech-f251913c9b115204",
+"salary": "$50,000.00 per year",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Company Overview Forbes IT Solutions Ltd. is a fast-growing Managed Service Provider (MSP) based in North Vancouver, supporting dental clinics across Canada. We work in environments where uptime matte\nStrong problem-solving mindset  Willingness to Google, test, fail, and try again  Comfortable asking smart questions (not the same question twice)  Reliable, punctual, and accountable  Clear written a\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nWhy should you be selected for this role? Experience:  IT technician: 1 year (required)  Office365 and email migration: 1 year (preferred)  AD server migration: 1 year (preferred) Language:  Fluent En"
 },
 {
 "title": "Junior Backup & Monitoring IT Technician",
@@ -57,65 +89,33 @@
 "req": "Backup & Monitoring IT Technician Forbes IT Solutions Ltd. is a fast-growing managed IT services provider specializing exclusively in the dental industry. We currently support more than 550 dental cli\nPerform file, folder, database, and system restore testing when required.\nEscalate serious cybersecurity incidents to senior technical staff when required.\nEnsure required RMM, backup, antivirus, and monitoring agents are installed and functioning correctly.\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nPlease rate your English speaking skills on a scale of 0 to 10, where 0 means no English speaking ability and 10 means fluent/native-level communication. Experience:  IT technician: 1 year (required) "
 },
 {
-"title": "JUNIOR IT TECHNICIAN – MSP TECH",
-"company": "Forbes IT Solutions Ltd.",
-"location": "North Vancouver, BC, CA",
+"title": "CODYZA, volunteers (non paid)",
+"company": "CODYZA VOLUNTEER OPORTUNITY",
+"location": "Remote · United States",
 "posted": "2026-11-08",
-"link": "https://ca.indeed.com/viewjob?jk=f251913c9b115204",
+"link": "https://www.indeed.com/viewjob?jk=5216f240556e68b8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/codyza-volunteers-non-paid-5216f240556e68b8",
+"salary": "$0.10 - $0.20 per hour"
+},
+{
+"title": "Service Technician (Control4 / Lutron)",
+"company": "New Wave Electronics",
+"location": "Richmond Hill, ON, CA (remote)",
+"posted": "2026-11-08",
+"link": "https://ca.indeed.com/viewjob?jk=bf9cf55f4eddc3ad",
 "source": "Indeed",
 "country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/junior-it-technician-msp-tech-f251913c9b115204",
-"salary": "$50,000.00 per year",
+"years": null,
+"apply": "http://ca.indeed.com/job/service-technician-control4-lutron-bf9cf55f4eddc3ad",
+"salary": "$28.00-$35.00 per hour",
 "skills": [
 "Networking (TCP/IP, DNS)",
-"IAM",
-"Windows",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup"
+"Help desk / troubleshooting"
 ],
-"req": "Company Overview Forbes IT Solutions Ltd. is a fast-growing Managed Service Provider (MSP) based in North Vancouver, supporting dental clinics across Canada. We work in environments where uptime matte\nStrong problem-solving mindset  Willingness to Google, test, fail, and try again  Comfortable asking smart questions (not the same question twice)  Reliable, punctual, and accountable  Clear written a\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nWhy should you be selected for this role? Experience:  IT technician: 1 year (required)  Office365 and email migration: 1 year (preferred)  AD server migration: 1 year (preferred) Language:  Fluent En"
-},
-{
-"title": "Networked Simulation Engineer (Instructor Console and Fault Injection)",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-08",
-"link": "https://www.indeed.com/viewjob?jk=9a36e03c68ad2712",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/networked-simulation-engineer-instructor-console-and-fault-injection-9a36e03c68ad2712",
-"salary": "$45 - $105 USD per hour",
-"skills": [
-"C++",
-"C",
-"Unity"
-]
-},
-{
-"title": "Back-End Software Engineer",
-"company": "Manulife",
-"location": "Toronto, Ontario",
-"posted": "2026-11-08",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419",
-"source": "Manulife careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Online Tutor (Independent Contractor) — High School & College Subjects",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-08",
-"link": "https://www.indeed.com/viewjob?jk=3a6f077a1f3d5b58",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/online-tutor-independent-contractor-high-school-college-subjects-3a6f077a1f3d5b58",
-"salary": "$15 - $25 USD per hour"
+"req": "THE ROLE You keep our clients' systems running: you fix most problems remotely before anyone needs to drive out, back up our technicians in the field, and make sure no client call goes unanswered. New"
 },
 {
 "title": "Technical Business Analyst- Global Payments Engineering",
@@ -422,7 +422,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191969&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191969%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D500b76c4-da42-11f1-97e5-2ba77096e292%26rx_job%3DR-0000191969%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040405Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191969&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191969%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D500b76c4-da42-11f1-97e5-2ba77096e292%26rx_job%3DR-0000191969%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T060417Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Python",
 "Java",
@@ -850,12 +850,12 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2039097",
+"apply": "https://careers.molinahealthcare.com/job/-/-/21726/102996024864",
 "salary": "$44,936 - $97,362 USD per year",
 "skills": [
 "Excel"
 ],
-"req": "Ability to analyze claims data to identify billing patterns, potential overpayments, and opportunities for Payment Integrity recovery concepts. JOB QUALIFICATIONS Required Qualifications  At least 2 y\nPrevious success in a dynamic and autonomous work environment. Preferred Qualifications  Experience working with healthcare claims, medical billing/coding, reimbursement, payment integrity, claims aud\nPayment Integrity or post-pay claims recovery experience.\nExperience developing or supporting claims edits, payment policies, recovery concepts, or reimbursement rules.\nExperience with CMS, NCCI, Medicare, Medicaid, and/or state-specific reimbursement guidance.\nMedical coding certification such as CPC, CCS, COC, or equivalent. To all current Molina employees: If you are interested in applying for this position, please apply through the Internal Job Board. Mo"
+"req": "Ability to analyze claims data to identify billing patterns, potential overpayments, and opportunities for Payment Integrity recovery concepts. JOB QUALIFICATIONS Required Qualifications  At least 2 y\nPrevious success in a dynamic and autonomous work environment. Preferred Qualifications  Experience working with healthcare claims, medical billing/coding, reimbursement, payment integrity, claims aud\nPayment Integrity or post-pay claims recovery experience.\nExperience developing or supporting claims edits, payment policies, recovery concepts, or reimbursement rules.\nExperience with CMS, NCCI, Medicare, Medicaid, and/or state-specific reimbursement guidance."
 },
 {
 "title": "Analytics Engineering & Measurement Student",
@@ -1254,6 +1254,29 @@
 "location": "Mississauga, Ontario, Canada",
 "posted": "2026-11-07",
 "link": "https://www.linkedin.com/jobs/view/4488485604",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Informatics Technical Specialist (Boston)",
+"company": "Abbott",
+"location": "Remote · United States",
+"posted": "2026-11-07",
+"link": "https://www.indeed.com/viewjob?jk=1be08693bdbf1253",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.jobs.abbott/us/en/job/ABLAUS31167185ENUSEXTERNAL/Associate-Informatics-Technical-Specialist-Boston?utm_source=indeed&utm_medium=phenom-feeds",
+"salary": "$50,700 - $101,300 USD per year",
+"req": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and \nAn excellent retirement savings plan with high employer contribution  Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to \nA company that is recognized as one of the best big companies to work for as well as a best place to work for diversity, working mothers, female executives, and scientists. The Opportunity A technical\nThis is a remote position  Qualified candidates must currently live in Boston area.\nQualified candidates must currently live in the territory, preferably near a major airport.\nMust be able to travel up towards 75%  Must have a Valid Driver’s License. Required Qualifications  Education in Computer Science, Information Systems, Biomedical Engineering or Medical or Hospital In\nOr relevant comparable experience (e.g. lab technician with experience in operating analytical equipment, performing sample registration, releasing patient sample results, and handling laboratory info"
+},
+{
+"title": "Analyst, Replenishment Planning",
+"company": "Corby Spirit and Wine Limited",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-11-07",
+"link": "https://www.linkedin.com/jobs/view/4488465139",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -10926,7 +10949,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200693920-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200693920-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D127204f1-da86-11f1-94b4-2546c7eabfa3%26rx_job%3D200693920-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040405Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200693920-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200693920-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D127204f1-da86-11f1-94b4-2546c7eabfa3%26rx_job%3D200693920-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T060422Z%26rx_vp%3Dcpc",
 "salary": "$119,100",
 "skills": [
 "Python",
@@ -10996,7 +11019,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-506282&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F102953079472%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D63c00a1a-da85-11f1-be85-2546c7eabfa3%26rx_job%3D2026-506282%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040408Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-506282&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F102953079472%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D63c00a1a-da85-11f1-be85-2546c7eabfa3%26rx_job%3D2026-506282%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T060445Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed",
 "salary": "$32 - $48 USD per hour",
 "skills": [
 "Excel",
@@ -14492,26 +14515,6 @@
 "years": null
 },
 {
-"title": "Web developer",
-"company": "Mercor",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-06",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50681663",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Information technology (IT) analyst",
-"company": "Mercor",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-06",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50679585",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
 "title": "Production Engineer, HPC Reliability & Automation L1",
 "company": "Wipro",
 "location": "Remote · United States",
@@ -14582,6 +14585,36 @@
 "location": "",
 "posted": "2026-11-06",
 "link": "https://www.linkedin.com/jobs/view/4471117511",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Kubernetes Administrator",
+"company": "JSG (Johnson Service Group, Inc.)",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4487347665",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Project Coordinator - Utilities (New Graduate)",
+"company": "Ledcor",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4487020603",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate, Portfolio Analytics",
+"company": "BMO Insurance",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4488460071",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -23718,7 +23751,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618859&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18455540-help-desk-engineer-i%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D12f54078-d9ab-11f1-873e-e9796d9e4dc2%26rx_job%3D2618859%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618859",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618859&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18455540-help-desk-engineer-i%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D12f54078-d9ab-11f1-873e-e9796d9e4dc2%26rx_job%3D2618859%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T060407Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618859",
 "salary": "$40,000",
 "skills": [
 "Linux",
@@ -26960,7 +26993,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2638632&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2638632%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D49b217b7-da42-11f1-bd3f-2ba77096e292%26rx_job%3D2638632%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040409Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2638632&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2638632%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D49b217b7-da42-11f1-bd3f-2ba77096e292%26rx_job%3D2638632%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T060448Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$25 - $40 USD per hour",
 "skills": [
 "Hardware setup"
@@ -26976,7 +27009,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2633423&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2633423%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D4a0fad43-da42-11f1-a7f8-2ba77096e292%26rx_job%3D2633423%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040409Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2633423&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2633423%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D4a0fad43-da42-11f1-a7f8-2ba77096e292%26rx_job%3D2633423%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T060448Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$62,000 - $124,500 USD per year",
 "skills": [
 "Microsoft 365",
@@ -27837,16 +27870,6 @@
 "posted": "2026-11-05",
 "link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/ServiceNow-Associate-Software-Engineer_JR00129490",
 "source": "Sun Life careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Information technology (IT) analyst",
-"company": "ADECCO",
-"location": "Belleville, Ontario, Canada",
-"posted": "2026-11-05",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50673706",
-"source": "Job Bank",
 "country": "CA",
 "years": null
 },
