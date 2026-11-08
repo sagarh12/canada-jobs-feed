@@ -1,13 +1,13 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,45%,2273,940,2273,2026-11-08
-2,SQL,Language,24%,1230,502,1230,2026-11-08
+2,SQL,Language,24%,1231,503,1231,2026-11-08
 3,REST APIs,Framework,24%,1213,488,1213,2026-11-08
-4,Python,Language,23%,1153,478,1153,2026-11-08
-5,Excel,Data & AI,21%,1090,473,1090,2026-11-08
-6,Hardware setup,IT support,19%,987,411,987,2026-11-08
+4,Python,Language,23%,1154,479,1154,2026-11-08
+5,Excel,Data & AI,21%,1091,474,1091,2026-11-08
+6,Hardware setup,IT support,19%,988,412,988,2026-11-08
 7,System design,Practice,19%,952,371,952,2026-11-08
 8,Microsoft 365,IT support,16%,809,350,809,2026-11-08
-9,Azure,Cloud & DevOps,16%,805,318,805,2026-11-08
+9,Azure,Cloud & DevOps,16%,806,319,806,2026-11-08
 10,Agile / Scrum,Practice,15%,783,302,783,2026-11-08
 11,Git,Cloud & DevOps,13%,680,271,680,2026-11-08
 12,CI/CD,Cloud & DevOps,13%,667,271,667,2026-11-08
@@ -18,7 +18,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 17,IAM,Security,11%,552,230,552,2026-11-08
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,545,225,545,2026-11-08
 19,JavaScript,Language,10%,513,197,513,2026-11-08
-20,Power BI,Data & AI,10%,506,203,506,2026-11-08
+20,Power BI,Data & AI,10%,507,204,507,2026-11-08
 21,LLMs / GenAI,Data & AI,9%,473,175,473,2026-11-08
 22,"Testing (unit, automated)",Practice,9%,473,191,473,2026-11-08
 23,Statistics,Data & AI,9%,463,178,463,2026-11-08
@@ -46,12 +46,12 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 45,.NET,Framework,5%,231,88,231,2026-11-08
 46,Bash/Shell,Language,4%,222,75,222,2026-11-08
 47,Embedded systems,Practice,4%,216,91,216,2026-11-08
-48,ITIL,Certification,4%,214,78,214,2026-11-08
+48,ITIL,Certification,4%,215,79,215,2026-11-08
 49,C++,Language,4%,211,87,211,2026-11-08
 50,Incident response,Security,4%,210,71,210,2026-11-08
 51,SOC,Security,4%,205,76,205,2026-11-08
 52,PostgreSQL,Database,4%,203,72,203,2026-11-08
-53,Tableau,Data & AI,4%,200,77,200,2026-11-08
+53,Tableau,Data & AI,4%,201,78,201,2026-11-08
 54,Data visualization,Data & AI,4%,192,81,192,2026-11-08
 55,Mobile (iOS / Android),Practice,4%,189,74,189,2026-11-08
 56,SAP,Practice,4%,189,88,189,2026-11-08
@@ -154,4 +154,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 153,C#,Language,0%,3,2,3,2026-11-08
 154,Solidity,Language,0%,1,1,1,2026-11-08
 
-,Based on 5078 postings in the last 30 days (5078 all time)
+,Based on 5080 postings in the last 30 days (5080 all time)
