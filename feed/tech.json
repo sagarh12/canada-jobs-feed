@@ -1,54 +1,34 @@
 {
-"updated": "2026-11-08T04:09:49+00:00",
+"updated": "2026-11-08T04:19:44+00:00",
 "jobs": [
 {
-"title": "Back-End Software Engineer",
-"company": "Manulife",
-"location": "Toronto, Ontario",
+"title": "Service Technician (Control4 / Lutron)",
+"company": "New Wave Electronics",
+"location": "Richmond Hill, ON, CA (remote)",
 "posted": "2026-11-08",
-"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419",
-"source": "Manulife careers",
+"link": "https://ca.indeed.com/viewjob?jk=bf9cf55f4eddc3ad",
+"source": "Indeed",
 "country": "CA",
-"years": null
+"years": null,
+"apply": "http://ca.indeed.com/job/service-technician-control4-lutron-bf9cf55f4eddc3ad",
+"salary": "$28.00-$35.00 per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting"
+],
+"req": "THE ROLE You keep our clients' systems running: you fix most problems remotely before anyone needs to drive out, back up our technicians in the field, and make sure no client call goes unanswered. New"
 },
 {
-"title": "Networked Simulation Engineer (Instructor Console and Fault Injection)",
-"company": "",
+"title": "CODYZA, volunteers (non paid)",
+"company": "CODYZA VOLUNTEER OPORTUNITY",
 "location": "Remote · United States",
 "posted": "2026-11-08",
-"link": "https://www.indeed.com/viewjob?jk=9a36e03c68ad2712",
+"link": "https://www.indeed.com/viewjob?jk=5216f240556e68b8",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/networked-simulation-engineer-instructor-console-and-fault-injection-9a36e03c68ad2712",
-"salary": "$45 - $105 USD per hour",
-"skills": [
-"C++",
-"C",
-"Unity"
-]
-},
-{
-"title": "JUNIOR IT TECHNICIAN – MSP TECH",
-"company": "Forbes IT Solutions Ltd.",
-"location": "North Vancouver, BC, CA",
-"posted": "2026-11-08",
-"link": "https://ca.indeed.com/viewjob?jk=f251913c9b115204",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/junior-it-technician-msp-tech-f251913c9b115204",
-"salary": "$50,000.00 per year",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Windows",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "Company Overview Forbes IT Solutions Ltd. is a fast-growing Managed Service Provider (MSP) based in North Vancouver, supporting dental clinics across Canada. We work in environments where uptime matte\nStrong problem-solving mindset  Willingness to Google, test, fail, and try again  Comfortable asking smart questions (not the same question twice)  Reliable, punctual, and accountable  Clear written a\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nWhy should you be selected for this role? Experience:  IT technician: 1 year (required)  Office365 and email migration: 1 year (preferred)  AD server migration: 1 year (preferred) Language:  Fluent En"
+"apply": "http://www.indeed.com/job/codyza-volunteers-non-paid-5216f240556e68b8",
+"salary": "$0.10 - $0.20 per hour"
 },
 {
 "title": "Junior Backup & Monitoring IT Technician",
@@ -77,33 +57,53 @@
 "req": "Backup & Monitoring IT Technician Forbes IT Solutions Ltd. is a fast-growing managed IT services provider specializing exclusively in the dental industry. We currently support more than 550 dental cli\nPerform file, folder, database, and system restore testing when required.\nEscalate serious cybersecurity incidents to senior technical staff when required.\nEnsure required RMM, backup, antivirus, and monitoring agents are installed and functioning correctly.\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nPlease rate your English speaking skills on a scale of 0 to 10, where 0 means no English speaking ability and 10 means fluent/native-level communication. Experience:  IT technician: 1 year (required) "
 },
 {
-"title": "CODYZA, volunteers (non paid)",
-"company": "CODYZA VOLUNTEER OPORTUNITY",
+"title": "JUNIOR IT TECHNICIAN – MSP TECH",
+"company": "Forbes IT Solutions Ltd.",
+"location": "North Vancouver, BC, CA",
+"posted": "2026-11-08",
+"link": "https://ca.indeed.com/viewjob?jk=f251913c9b115204",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/junior-it-technician-msp-tech-f251913c9b115204",
+"salary": "$50,000.00 per year",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Company Overview Forbes IT Solutions Ltd. is a fast-growing Managed Service Provider (MSP) based in North Vancouver, supporting dental clinics across Canada. We work in environments where uptime matte\nStrong problem-solving mindset  Willingness to Google, test, fail, and try again  Comfortable asking smart questions (not the same question twice)  Reliable, punctual, and accountable  Clear written a\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nWhy should you be selected for this role? Experience:  IT technician: 1 year (required)  Office365 and email migration: 1 year (preferred)  AD server migration: 1 year (preferred) Language:  Fluent En"
+},
+{
+"title": "Networked Simulation Engineer (Instructor Console and Fault Injection)",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-08",
-"link": "https://www.indeed.com/viewjob?jk=5216f240556e68b8",
+"link": "https://www.indeed.com/viewjob?jk=9a36e03c68ad2712",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/codyza-volunteers-non-paid-5216f240556e68b8",
-"salary": "$0.10 - $0.20 per hour"
+"apply": "http://www.indeed.com/job/networked-simulation-engineer-instructor-console-and-fault-injection-9a36e03c68ad2712",
+"salary": "$45 - $105 USD per hour",
+"skills": [
+"C++",
+"C",
+"Unity"
+]
 },
 {
-"title": "Service Technician (Control4 / Lutron)",
-"company": "New Wave Electronics",
-"location": "Richmond Hill, ON, CA (remote)",
+"title": "Back-End Software Engineer",
+"company": "Manulife",
+"location": "Toronto, Ontario",
 "posted": "2026-11-08",
-"link": "https://ca.indeed.com/viewjob?jk=bf9cf55f4eddc3ad",
-"source": "Indeed",
+"link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419",
+"source": "Manulife careers",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/service-technician-control4-lutron-bf9cf55f4eddc3ad",
-"salary": "$28.00-$35.00 per hour",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"Help desk / troubleshooting"
-],
-"req": "THE ROLE You keep our clients' systems running: you fix most problems remotely before anyone needs to drive out, back up our technicians in the field, and make sure no client call goes unanswered. New"
+"years": null
 },
 {
 "title": "Technical Business Analyst- Global Payments Engineering",
@@ -410,7 +410,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191969&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191969%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D500b76c4-da42-11f1-97e5-2ba77096e292%26rx_job%3DR-0000191969%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T020406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000191969&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000191969%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D500b76c4-da42-11f1-97e5-2ba77096e292%26rx_job%3DR-0000191969%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040405Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Python",
 "Java",
@@ -1172,6 +1172,47 @@
 "posted": "2026-11-07",
 "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Quantum-Machine-Learning-Research-Scientist_2616617",
 "source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Full stack Developer",
+"company": "I8IS INC.",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-07",
+"link": "https://ca.indeed.com/viewjob?jk=abbaeaffbb7689ab",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://i8is.zohorecruit.ca/jobs/Careers/5829000008183224/Java-Full-stack-Developer?source=Indeed",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"SQL",
+"React",
+"Angular",
+"Spring Boot",
+"REST APIs",
+"PostgreSQL",
+"Azure",
+"Microservices",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Object-oriented programming",
+"System design",
+"SDLC"
+],
+"req": "Java Full Stack Developer 12 Months Toronto ON Responsibilities • Translate business requirements and technical specifications into scalable, secure, and fully tested full-stack applications • Develop"
+},
+{
+"title": "Data Solutions Engineer",
+"company": "Dexterra Group",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-07",
+"link": "https://www.linkedin.com/jobs/view/4488490056",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
@@ -10843,7 +10884,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200693920-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200693920-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D127204f1-da86-11f1-94b4-2546c7eabfa3%26rx_job%3D200693920-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T020406Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200693920-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200693920-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D127204f1-da86-11f1-94b4-2546c7eabfa3%26rx_job%3D200693920-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040405Z%26rx_vp%3Dcpc",
 "salary": "$119,100",
 "skills": [
 "Python",
@@ -10913,7 +10954,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-506282&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F102953079472%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D63c00a1a-da85-11f1-be85-2546c7eabfa3%26rx_job%3D2026-506282%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T020411Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=2026-506282&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F102953079472%3Fiis%3DJob_Board%26iisn%3DIndeed%26mode%3Djob%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D117213%26rx_id%3D63c00a1a-da85-11f1-be85-2546c7eabfa3%26rx_job%3D2026-506282%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040408Z%26rx_vp%3Dcpc%26utm_medium%3Dorganic%26utm_source%3DIndeed",
 "salary": "$32 - $48 USD per hour",
 "skills": [
 "Excel",
@@ -14258,6 +14299,103 @@
 "posted": "2026-11-06",
 "link": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/OAKVILLE-Ontario-Canada/Banking-Advisor-Intern_R-0000192048",
 "source": "RBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Full Stack Engineer with Spring boot/AWS Experience",
+"company": "Cognizant",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=d05cf244a9af77a9",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071160719/java-full-stack-engineer-with-spring-bootaws-experience/",
+"salary": "$86,000 - $99,000 USD per year",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"HTML/CSS",
+"React",
+"Spring Boot",
+"REST APIs",
+"MongoDB",
+"NoSQL",
+"AWS",
+"CI/CD",
+"Git",
+"Microservices",
+"Monitoring",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design"
+],
+"req": "About the role (remote open positions (2) As a Java Full Stack Engineer with Spring boot/AWS exp, you will make an impact by designing and delivering scalable, cloud-native healthcare payer applicatio\nMentor engineering teams and support continuous improvement initiatives to enhance solution quality, scalability, and operational reliability. Work model We strive to provide flexibility wherever poss\n7+ years of software development experience with Java/J2EE technologies.\nStrong expertise in Java 8/11/17+, AWS, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, microservices architecture, and event-driven design using RabbitMQ.\nExperience developing modern web applications using React, TypeScript, JavaScript, HTML5, and CSS3.\nProven experience building REST APIs, working with NoSQL databases such as MongoDB, relational databases, Git-based source control, and Agile/Scrum delivery methodologies. These will help you stand ou\nExperience implementing CI/CD pipelines and cloud-native observability practices on AWS.\nExperience leading distributed engineering teams and mentoring developers."
+},
+{
+"title": "SUPERVISORY GENERAL ENGINEER",
+"company": "US Naval Sea Systems Command",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=52b9105e0b6d0eaf",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/891730800",
+"salary": "$143,913 - $197,200 USD per year",
+"skills": [
+"HTML/CSS"
+],
+"req": "Summary ----------- This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the \nClarification from the agency All U.S. Citizens. Duties ----------  You will serve as the Branch Head and Supervisor for all engineers and engineering technicians in the Submarine Certification Branch\nYou will develop operational and technical documentation and procedures or coordinate with other systems engineers to include: PMP Operations manuals, PMS procedures, Performance Criteria Manuals, Sys\nMust be determined suitable for federal employment.\nMust participate in the direct deposit pay program.\nNew employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, \nMales born after 12-31-59 must be registered for Selective Service.\nYou will be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withd\nThis position is covered under the Defense Acquisition Workforce Improvement Act (DAWIA). Certification in the Functional Area and Tier assigned to the position, along with Continuous Learning (CL) po\nThis position may require travel from normal duty station to CONUS and OCONUS and may include remote or isolated sites. Yo"
+},
+{
+"title": "DPS Service Employee - IT",
+"company": "Arizona Department Of Public Safety",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=caf94f7bbdbc6b0a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.governmentjobs.com/careers/azdps/jobs/5543090/dps-service-employee-it",
+"salary": "$34,129 - $54,573 USD per year",
+"skills": [
+"Swift",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Mobile (iOS / Android)"
+],
+"req": "Summary Statement --------------------- The IT DPS Service Employee in the Information Management Bureau (IMB) is a full-time, entry-level position in computer network operations. The position is desi\nResource Allocation: Monitors the Criminal Justice Information System to ensure efficient use and allocation of computer resources, maintain satisfactory response times, provide timely information to \nBasic data communications terminology. ABILITY TO:  Perform detailed keyboard work with a high degree of accuracy.\nEstablish and maintain cooperative relations with customers, vendors, and other personnel.\nAccess and reset passwords in a server environment. Minimum Qualifications -------------------------- MINIMUM QUALIFICATIONS: Requires a high school diploma or equivalent. Any combination of education"
+},
+{
+"title": "Systems Administrator & Business Analyst",
+"company": "University of Niagara Falls Canada",
+"location": "Niagara Falls, Ontario, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4454767290",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Production Scheduler (Open to New Graduates) - Onsite",
+"company": "Wonderbrands",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4488450435",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Strategic Development Program Trainee",
+"company": "Summit Search Group",
+"location": "",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4486281409",
+"source": "LinkedIn",
 "country": "CA",
 "years": null
 },
@@ -23393,7 +23531,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618859&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18455540-help-desk-engineer-i%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D12f54078-d9ab-11f1-873e-e9796d9e4dc2%26rx_job%3D2618859%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T020403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618859",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2618859&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18455540-help-desk-engineer-i%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D12f54078-d9ab-11f1-873e-e9796d9e4dc2%26rx_job%3D2618859%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2618859",
 "salary": "$40,000",
 "skills": [
 "Linux",
@@ -26635,7 +26773,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2638632&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2638632%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D49b217b7-da42-11f1-bd3f-2ba77096e292%26rx_job%3D2638632%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T020412Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2638632&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2638632%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D49b217b7-da42-11f1-bd3f-2ba77096e292%26rx_job%3D2638632%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040409Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$25 - $40 USD per hour",
 "skills": [
 "Hardware setup"
@@ -26651,7 +26789,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2633423&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2633423%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D4a0fad43-da42-11f1-a7f8-2ba77096e292%26rx_job%3D2633423%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T020412Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2633423&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2633423%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D4a0fad43-da42-11f1-a7f8-2ba77096e292%26rx_job%3D2633423%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261108T040409Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$62,000 - $124,500 USD per year",
 "skills": [
 "Microsoft 365",
