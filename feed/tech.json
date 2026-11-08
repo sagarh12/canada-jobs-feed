@@ -1,6 +1,54 @@
 {
-"updated": "2026-11-08T01:39:47+00:00",
+"updated": "2026-11-08T01:49:47+00:00",
 "jobs": [
+{
+"title": "JUNIOR IT TECHNICIAN – MSP TECH",
+"company": "Forbes IT Solutions Ltd.",
+"location": "North Vancouver, BC, CA",
+"posted": "2026-11-08",
+"link": "https://ca.indeed.com/viewjob?jk=f251913c9b115204",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/junior-it-technician-msp-tech-f251913c9b115204",
+"salary": "$50,000.00 per year",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Company Overview Forbes IT Solutions Ltd. is a fast-growing Managed Service Provider (MSP) based in North Vancouver, supporting dental clinics across Canada. We work in environments where uptime matte\nStrong problem-solving mindset  Willingness to Google, test, fail, and try again  Comfortable asking smart questions (not the same question twice)  Reliable, punctual, and accountable  Clear written a\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nWhy should you be selected for this role? Experience:  IT technician: 1 year (required)  Office365 and email migration: 1 year (preferred)  AD server migration: 1 year (preferred) Language:  Fluent En"
+},
+{
+"title": "Junior Backup & Monitoring IT Technician",
+"company": "Forbes IT Solutions Ltd.",
+"location": "North Vancouver, BC, CA",
+"posted": "2026-11-08",
+"link": "https://ca.indeed.com/viewjob?jk=147ad3a51e28514c",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/junior-backup-monitoring-it-technician-147ad3a51e28514c",
+"salary": "$50,000.00 per year",
+"skills": [
+"SQL",
+"PowerShell",
+"Cybersecurity",
+"SIEM",
+"IAM",
+"EDR",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization"
+],
+"req": "Backup & Monitoring IT Technician Forbes IT Solutions Ltd. is a fast-growing managed IT services provider specializing exclusively in the dental industry. We currently support more than 550 dental cli\nPerform file, folder, database, and system restore testing when required.\nEscalate serious cybersecurity incidents to senior technical staff when required.\nEnsure required RMM, backup, antivirus, and monitoring agents are installed and functioning correctly.\nAre you a citizen or on a work visa?\nHow many years have you worked in an MSP environment?\nPlease rate your English speaking skills on a scale of 0 to 10, where 0 means no English speaking ability and 10 means fluent/native-level communication. Experience:  IT technician: 1 year (required) "
+},
 {
 "title": "Analyst, Organizational Effectiveness",
 "company": "Regional Municipality of Wood Buffalo",
@@ -767,6 +815,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-07",
 "link": "https://www.linkedin.com/jobs/view/4487096033",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "Canadian Cancer Society",
+"location": "St John’s, Newfoundland and Labrador, Canada",
+"posted": "2026-11-07",
+"link": "https://www.linkedin.com/jobs/view/4487360743",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13670,6 +13728,49 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Caseworker – Bilingual (English/French) or Unilingual",
+"company": "Cencora",
+"location": "Charlottetown, Prince Edward Island, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4485862846",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Representative II, Bilingual - OCI",
+"company": "Olympus Corporation",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-11-06",
+"link": "https://www.linkedin.com/jobs/view/4477347075",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full-Stack Engineer (AI-Native)",
+"company": "Boost Health Insurance",
+"location": "Remote · United States",
+"posted": "2026-11-06",
+"link": "https://www.indeed.com/viewjob?jk=786bd5329a1904dc",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://www.applicantpro.com/openings/boosthealthinsurance/jobs/4269570-433119",
+"salary": "$130,000 - $170,000 USD per year",
+"skills": [
+"TypeScript",
+"React",
+"Next.js",
+"REST APIs",
+"LLMs / GenAI",
+"PostgreSQL",
+"Networking (TCP/IP, DNS)",
+"NIST / ISO 27001"
+],
+"req": "Today we are a large health insurance agency selling coverage nationwide. We have grown through multiple market shifts, from Medicare Advantage to ACA plans, and built a team with many people who have\nAn AI sales assistant that works leads over SMS and turns them into customers: it qualifies, answers questions, handles objections, sends checkout links, and hands off to a human when needed. It plugs\nWhat you bring  7+ years building production web products, with at least 3 years of senior work before 2023.\nBack-end workflow experience: state machines, job queues, retries, webhooks that are safe to receive twice.\nCreative problem solving. When the obvious path is blocked (no API, messy data, a partner that won't cooperate, a budget that doesn't fit), you find a clever, practical way through instead of waiting \nComfort with regulated data. HIPAA, PCI, or insurance-industry experience is a strong plus."
 },
 {
 "title": "Software Engineer, ML Workload Platform",
@@ -26837,6 +26938,24 @@
 "years": null
 },
 {
+"title": "Production Training Support Communications Analyst (Remote)",
+"company": "GovCIO",
+"location": "Remote · United States",
+"posted": "2026-11-05",
+"link": "https://www.indeed.com/viewjob?jk=32345573edbb48e4",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers.govcio.com/careers-home/jobs/9288/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$71,150 - $75,000 USD per year",
+"skills": [
+"Microsoft 365",
+"Agile / Scrum",
+"Jira"
+],
+"req": "Overview: GovCIO is currently hiring a Production Training Support Communications Analyst to support training efforts by helping translate technical updates for the Department of VA Veteran Readiness \nHelp manage and update communication channels such as intranet pages, email distributions, collaboration platforms, and knowledge repositories. Qualifications:  Required Skills and Experience  Bachelo\nPreferred Skills and Experience  Experience using collaboration and work‑tracking tools (e.g., Jira, Confluence, Teams, SharePoint)."
+},
+{
 "title": "Security Risk Engineer",
 "company": "Asana",
 "location": "Vancouver, BC",
@@ -27022,16 +27141,6 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 3
-},
-{
-"title": "Software Engineer II",
-"company": "Microsoft",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-05T01:43:35+00:00",
-"link": "https://apply.careers.microsoft.com/careers/job/1970393557052867",
-"source": "Microsoft careers",
-"country": "CA",
-"years": 2
 }
 ]
 }
