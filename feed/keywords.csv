@@ -37,7 +37,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 36,SQL Server,Database,6%,286,101,286,2026-11-09
 37,Vulnerability management,Security,6%,283,121,283,2026-11-09
 38,Oracle,Database,5%,282,96,282,2026-11-09
-39,Salesforce,Practice,5%,277,118,277,2026-11-09
+39,Salesforce,Practice,5%,278,119,278,2026-11-09
 40,Data structures & algorithms,Practice,5%,259,101,259,2026-11-09
 41,SDLC,Practice,5%,258,94,258,2026-11-09
 42,Google Cloud,Cloud & DevOps,5%,257,101,257,2026-11-09
@@ -80,7 +80,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 79,GitHub Actions,Cloud & DevOps,2%,106,33,106,2026-11-09
 80,GitLab,Cloud & DevOps,2%,104,45,104,2026-11-09
 81,RAG,Data & AI,2%,103,41,103,2026-11-09
-82,CompTIA Network+,Certification,2%,98,34,98,2026-11-09
+82,CompTIA Network+,Certification,2%,99,35,99,2026-11-09
 83,R,Language,2%,96,37,96,2026-11-09
 84,Cloud security,Security,2%,92,30,92,2026-11-09
 85,Spring Boot,Framework,2%,92,43,92,2026-11-09
@@ -94,9 +94,9 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 93,Threat intelligence,Security,1%,71,26,71,2026-11-09
 94,VBA,Language,1%,59,27,59,2026-11-09
 95,Serverless,Cloud & DevOps,1%,55,23,55,2026-11-09
-96,Next.js,Framework,1%,53,21,53,2026-11-09
-97,Vue,Framework,1%,53,19,53,2026-11-09
-98,CCNA,Certification,1%,52,26,52,2026-11-09
+96,Vue,Framework,1%,54,20,54,2026-11-09
+97,CCNA,Certification,1%,53,27,53,2026-11-09
+98,Next.js,Framework,1%,53,21,53,2026-11-09
 99,Postman,Practice,1%,52,20,52,2026-11-09
 100,AWS certification,Certification,1%,51,22,51,2026-11-09
 101,Airflow,Data & AI,1%,51,19,51,2026-11-09
@@ -154,4 +154,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 153,C#,Language,0%,3,2,3,2026-11-09
 154,Solidity,Language,0%,1,1,1,2026-11-09
 
-,Based on 5141 postings in the last 30 days (5141 all time)
+,Based on 5143 postings in the last 30 days (5143 all time)
