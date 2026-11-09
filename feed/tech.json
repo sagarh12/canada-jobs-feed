@@ -1,26 +1,6 @@
 {
-"updated": "2026-11-09T03:39:51+00:00",
+"updated": "2026-11-09T03:49:48+00:00",
 "jobs": [
-{
-"title": "Power BI Developer",
-"company": "Synergy Infotech",
-"location": "Remote · United States",
-"posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=94e682facc6ffd75",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/power-bi-developer-94e682facc6ffd75",
-"salary": "$70 - $80 USD per hour",
-"start": "December 2026",
-"skills": [
-"SQL",
-"Power BI",
-"Tableau",
-"SQL Server",
-"Azure"
-]
-},
 {
 "title": "Process and Workflow Applications Developer",
 "company": "Ashburn Consulting",
@@ -46,6 +26,26 @@
 "System design"
 ],
 "req": "Company Description Ashburn Consulting, a Small Business based in the Washington, DC metropolitan area, specializes in providing network and network security solutions in complex environments to a sel\nWork side-by-side with County staff and an assigned project manager; provide project metrics, active knowledge transfer, business-process documentation, release documentation, and maintainable code. M\nAt least seven (7) years maintaining .NET web applications using MVC and Clean Architecture.\nAt least seven (7) years of Microsoft SQL Server and Oracle database administration, coding, integration, and reporting experience.\nAt least seven (7) years applying responsive-design principles and UI/UX best practices, including accessible interfaces meeting WCAG 2.1 AA.\nDemonstrated data mapping and migration experience involving disparate database systems and Microsoft SQL Server.\nExperience integrating applications with SSO and Microsoft Entra ID (Azure AD).\nExperience safely using AI development tools, such as Microsoft Copilot, within organizational policies.\nExperience creating and publishing .NET deployment packages through DEV, TEST, and PROD environments.\nExperience collaborating within a structured project environment under an assigned project manager."
+},
+{
+"title": "Power BI Developer",
+"company": "Synergy Infotech",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=94e682facc6ffd75",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/power-bi-developer-94e682facc6ffd75",
+"salary": "$70 - $80 USD per hour",
+"start": "December 2026",
+"skills": [
+"SQL",
+"Power BI",
+"Tableau",
+"SQL Server",
+"Azure"
+]
 },
 {
 "title": "Analyst, Program / Project Control",
@@ -698,6 +698,16 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-08",
 "link": "https://www.linkedin.com/jobs/view/4487643098",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Support",
+"company": "Alquemy Search & Consulting",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-08",
+"link": "https://www.linkedin.com/jobs/view/4486315554",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15349,16 +15359,6 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-06",
 "link": "https://www.linkedin.com/jobs/view/4483255624",
-"source": "LinkedIn",
-"country": "CA",
-"years": null
-},
-{
-"title": "Engineering Support",
-"company": "Alquemy Search & Consulting",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-06",
-"link": "https://www.linkedin.com/jobs/view/4486315554",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
