@@ -1,17 +1,17 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,45%,2293,941,2293,2026-11-09
-2,SQL,Language,24%,1240,506,1240,2026-11-09
-3,REST APIs,Framework,24%,1228,489,1228,2026-11-09
-4,Python,Language,23%,1159,476,1159,2026-11-09
+1,Help desk / troubleshooting,IT support,45%,2296,944,2296,2026-11-09
+2,SQL,Language,24%,1242,508,1242,2026-11-09
+3,REST APIs,Framework,24%,1229,490,1229,2026-11-09
+4,Python,Language,23%,1161,478,1161,2026-11-09
 5,Excel,Data & AI,21%,1097,472,1097,2026-11-09
-6,Hardware setup,IT support,19%,995,410,995,2026-11-09
-7,System design,Practice,19%,963,375,963,2026-11-09
+6,Hardware setup,IT support,19%,997,412,997,2026-11-09
+7,System design,Practice,19%,964,376,964,2026-11-09
 8,Microsoft 365,IT support,16%,822,354,822,2026-11-09
-9,Azure,Cloud & DevOps,16%,812,316,812,2026-11-09
-10,Agile / Scrum,Practice,15%,791,303,791,2026-11-09
+9,Azure,Cloud & DevOps,16%,813,317,813,2026-11-09
+10,Agile / Scrum,Practice,15%,792,304,792,2026-11-09
 11,Git,Cloud & DevOps,13%,686,273,686,2026-11-09
 12,CI/CD,Cloud & DevOps,13%,671,271,671,2026-11-09
-13,Windows,IT support,13%,648,251,648,2026-11-09
+13,Windows,IT support,13%,649,252,649,2026-11-09
 14,AWS,Cloud & DevOps,12%,642,237,642,2026-11-09
 15,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,574,228,574,2026-11-09
 16,Cybersecurity,Security,11%,571,219,571,2026-11-09
@@ -19,16 +19,16 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,553,228,553,2026-11-09
 19,JavaScript,Language,10%,519,197,519,2026-11-09
 20,Power BI,Data & AI,10%,509,203,509,2026-11-09
-21,"Testing (unit, automated)",Practice,9%,481,193,481,2026-11-09
+21,"Testing (unit, automated)",Practice,9%,482,194,482,2026-11-09
 22,LLMs / GenAI,Data & AI,9%,475,176,475,2026-11-09
 23,Statistics,Data & AI,9%,466,177,466,2026-11-09
-24,Java,Language,9%,442,170,442,2026-11-09
+24,Java,Language,9%,443,171,443,2026-11-09
 25,Linux,Cloud & DevOps,8%,434,164,434,2026-11-09
 26,ETL / data pipelines,Data & AI,8%,397,155,397,2026-11-09
-27,C,Language,8%,392,148,392,2026-11-09
+27,C,Language,8%,393,149,393,2026-11-09
 28,Machine learning,Data & AI,7%,368,159,368,2026-11-09
-29,HTML/CSS,Language,7%,366,142,366,2026-11-09
-30,Jira,Practice,7%,366,144,366,2026-11-09
+29,Jira,Practice,7%,367,145,367,2026-11-09
+30,HTML/CSS,Language,7%,366,142,366,2026-11-09
 31,React,Framework,6%,324,129,324,2026-11-09
 32,Docker,Cloud & DevOps,6%,322,137,322,2026-11-09
 33,Monitoring,Cloud & DevOps,6%,313,126,313,2026-11-09
@@ -39,15 +39,15 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 38,Vulnerability management,Security,5%,283,121,283,2026-11-09
 39,Salesforce,Practice,5%,279,120,279,2026-11-09
 40,Data structures & algorithms,Practice,5%,260,102,260,2026-11-09
-41,SDLC,Practice,5%,258,94,258,2026-11-09
+41,SDLC,Practice,5%,259,95,259,2026-11-09
 42,Google Cloud,Cloud & DevOps,5%,257,101,257,2026-11-09
 43,PowerShell,Language,5%,246,103,246,2026-11-09
 44,.NET,Framework,5%,237,93,237,2026-11-09
 45,Firewalls,Security,5%,235,88,235,2026-11-09
 46,Bash/Shell,Language,4%,224,76,224,2026-11-09
-47,Embedded systems,Practice,4%,217,92,217,2026-11-09
-48,ITIL,Certification,4%,216,76,216,2026-11-09
-49,C++,Language,4%,213,88,213,2026-11-09
+47,Embedded systems,Practice,4%,218,93,218,2026-11-09
+48,ITIL,Certification,4%,217,77,217,2026-11-09
+49,C++,Language,4%,214,89,214,2026-11-09
 50,Incident response,Security,4%,213,72,213,2026-11-09
 51,Tableau,Data & AI,4%,206,80,206,2026-11-09
 52,SOC,Security,4%,205,74,205,2026-11-09
@@ -145,13 +145,13 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 144,Hugging Face,Data & AI,0%,9,4,9,2026-11-09
 145,Cassandra,Database,0%,8,4,8,2026-11-09
 146,Laravel,Framework,0%,8,2,8,2026-11-09
-147,Embedded C,Language,0%,7,3,7,2026-11-09
-148,Qt,Framework,0%,7,4,7,2026-11-09
-149,Blockchain,Practice,0%,6,4,6,2026-11-09
+147,Blockchain,Practice,0%,7,5,7,2026-11-09
+148,Embedded C,Language,0%,7,3,7,2026-11-09
+149,Qt,Framework,0%,7,4,7,2026-11-09
 150,Dart,Language,0%,5,2,5,2026-11-09
 151,Google cert (Data / IT / Cyber),Certification,0%,4,3,4,2026-11-09
 152,Verilog/VHDL,Language,0%,4,2,4,2026-11-09
 153,C#,Language,0%,3,2,3,2026-11-09
 154,Solidity,Language,0%,1,1,1,2026-11-09
 
-,Based on 5149 postings in the last 30 days (5149 all time)
+,Based on 5153 postings in the last 30 days (5153 all time)
