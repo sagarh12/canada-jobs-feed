@@ -1,52 +1,54 @@
 {
-"updated": "2026-11-09T08:29:44+00:00",
+"updated": "2026-11-09T08:39:50+00:00",
 "jobs": [
 {
-"title": "Receptionist",
-"company": "",
-"location": "Binbrook, ON, CA",
+"title": "Day Spa Receptionist",
+"company": "Damara Day Spa",
+"location": "Windsor, ON, CA",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=27ae62dc2b4fe096",
+"link": "https://ca.indeed.com/viewjob?jk=ba734e8e883d64ff",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/receptionist-27ae62dc2b4fe096",
-"salary": "$17.60-$22.00 per hour",
+"apply": "http://ca.indeed.com/job/day-spa-receptionist-ba734e8e883d64ff",
+"salary": "$17.60-$27.66 per hour",
 "skills": [
 "Google Workspace"
 ],
-"req": "Job Summary The Receptionist provides a welcoming, organized front desk experience and supports daily administrative operations. This role combines customer service, phone support, data entry, and cle"
+"req": "Job Summary The position is at the Caesars Windsor Hotel and Casino The Day Spa Receptionist creates a welcoming first impression and keeps front desk operations organized. This role supports a smooth"
 },
 {
-"title": "Office Administrator",
-"company": "Cakes Technology Inc.",
-"location": "Richmond Hill, ON, CA",
+"title": "Tutor Doctor - Educational Consultant",
+"company": "Tutor Doctor North & West Toronto",
+"location": "Etobicoke, ON, CA",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=4636951610ea5c93",
+"link": "https://ca.indeed.com/viewjob?jk=3362284f9dd54fbc",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-4636951610ea5c93",
-"salary": "$25.00-$30.00 per hour",
+"apply": "http://ca.indeed.com/job/tutor-doctor-educational-consultant-3362284f9dd54fbc",
+"salary": "$20.00 per hour",
+"req": "Overview Tutor Doctor Etobicoke & Woodbridge provides personalized, one-on-one tutoring in-home and online. We work with elementary and high school students, post-secondary students, and adult learner\nCommunicate with students, families, and colleagues about progress, challenges, and next steps.\nUse computer skills to organize learning materials, track progress, and support clear, timely updates. Your impact: Help students access focused support that strengthens learning and gives families a \nConduct complimentary one-hour consultations with students and families to understand the student’s learning needs, goals, and availability.\nRecommend a tutoring program tailored to the student and follow up with the family to answer questions and guide them through enrollment.\nShare consultation notes, family needs, and agreed next steps with the office team so they can coordinate tutoring support. What you’ll bring  Previous sales experience.\nA warm, professional approach to working with students and families."
+},
+{
+"title": "Power BI Developer",
+"company": "Synergy Infotech",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=94e682facc6ffd75",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/power-bi-developer-94e682facc6ffd75",
+"salary": "$70 - $80 USD per hour",
+"start": "December 2026",
 "skills": [
-"Google Workspace"
+"SQL",
+"Power BI",
+"Tableau",
+"SQL Server",
+"Azure"
 ]
-},
-{
-"title": "Administrative Assistant",
-"company": "Better Bud Botanicals",
-"location": "Falkland, BC, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=99e794adbd880bfe",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-99e794adbd880bfe",
-"salary": "$30.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "Job Overview The Administrative Assistant supports daily office operations by coordinating information, maintaining organized records, and providing courteous service to visitors and callers. This rol"
 },
 {
 "title": "Process and Workflow Applications Developer",
@@ -75,53 +77,51 @@
 "req": "Company Description Ashburn Consulting, a Small Business based in the Washington, DC metropolitan area, specializes in providing network and network security solutions in complex environments to a sel\nWork side-by-side with County staff and an assigned project manager; provide project metrics, active knowledge transfer, business-process documentation, release documentation, and maintainable code. M\nAt least seven (7) years maintaining .NET web applications using MVC and Clean Architecture.\nAt least seven (7) years of Microsoft SQL Server and Oracle database administration, coding, integration, and reporting experience.\nAt least seven (7) years applying responsive-design principles and UI/UX best practices, including accessible interfaces meeting WCAG 2.1 AA.\nDemonstrated data mapping and migration experience involving disparate database systems and Microsoft SQL Server.\nExperience integrating applications with SSO and Microsoft Entra ID (Azure AD).\nExperience safely using AI development tools, such as Microsoft Copilot, within organizational policies.\nExperience creating and publishing .NET deployment packages through DEV, TEST, and PROD environments.\nExperience collaborating within a structured project environment under an assigned project manager."
 },
 {
-"title": "Power BI Developer",
-"company": "Synergy Infotech",
-"location": "Remote · United States",
+"title": "Administrative Assistant",
+"company": "Better Bud Botanicals",
+"location": "Falkland, BC, CA",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=94e682facc6ffd75",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/power-bi-developer-94e682facc6ffd75",
-"salary": "$70 - $80 USD per hour",
-"start": "December 2026",
-"skills": [
-"SQL",
-"Power BI",
-"Tableau",
-"SQL Server",
-"Azure"
-]
-},
-{
-"title": "Tutor Doctor - Educational Consultant",
-"company": "Tutor Doctor North & West Toronto",
-"location": "Etobicoke, ON, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=3362284f9dd54fbc",
+"link": "https://ca.indeed.com/viewjob?jk=99e794adbd880bfe",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/tutor-doctor-educational-consultant-3362284f9dd54fbc",
-"salary": "$20.00 per hour",
-"req": "Overview Tutor Doctor Etobicoke & Woodbridge provides personalized, one-on-one tutoring in-home and online. We work with elementary and high school students, post-secondary students, and adult learner\nCommunicate with students, families, and colleagues about progress, challenges, and next steps.\nUse computer skills to organize learning materials, track progress, and support clear, timely updates. Your impact: Help students access focused support that strengthens learning and gives families a \nConduct complimentary one-hour consultations with students and families to understand the student’s learning needs, goals, and availability.\nRecommend a tutoring program tailored to the student and follow up with the family to answer questions and guide them through enrollment.\nShare consultation notes, family needs, and agreed next steps with the office team so they can coordinate tutoring support. What you’ll bring  Previous sales experience.\nA warm, professional approach to working with students and families."
-},
-{
-"title": "Day Spa Receptionist",
-"company": "Damara Day Spa",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=ba734e8e883d64ff",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/day-spa-receptionist-ba734e8e883d64ff",
-"salary": "$17.60-$27.66 per hour",
+"apply": "http://ca.indeed.com/job/administrative-assistant-99e794adbd880bfe",
+"salary": "$30.00 per hour",
 "skills": [
 "Google Workspace"
 ],
-"req": "Job Summary The position is at the Caesars Windsor Hotel and Casino The Day Spa Receptionist creates a welcoming first impression and keeps front desk operations organized. This role supports a smooth"
+"req": "Job Overview The Administrative Assistant supports daily office operations by coordinating information, maintaining organized records, and providing courteous service to visitors and callers. This rol"
+},
+{
+"title": "Office Administrator",
+"company": "Cakes Technology Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=4636951610ea5c93",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-4636951610ea5c93",
+"salary": "$25.00-$30.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Receptionist",
+"company": "",
+"location": "Binbrook, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=27ae62dc2b4fe096",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/receptionist-27ae62dc2b4fe096",
+"salary": "$17.60-$22.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "Job Summary The Receptionist provides a welcoming, organized front desk experience and supports daily administrative operations. This role combines customer service, phone support, data entry, and cle"
 },
 {
 "title": "OpenText Analyst - Operate (Future Opportunity)",
