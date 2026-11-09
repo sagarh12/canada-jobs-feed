@@ -1,218 +1,328 @@
 {
-"updated": "2026-11-09T14:19:50+00:00",
+"updated": "2026-11-09T14:29:48+00:00",
 "jobs": [
 {
-"title": "AI Analyst",
-"company": "RapidAI Technologies",
-"location": "Remote · United States",
+"title": "Data Scientist II",
+"company": "TD",
+"location": "Toronto, Ontario",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=1c46fe6b37ccd00b",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/ai-analyst-1c46fe6b37ccd00b",
-"salary": "$37 - $45 USD per hour",
-"skills": [
-"Python",
-"JavaScript",
-"SQL",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"RAG",
-"System design",
-"Salesforce"
-],
-"req": "Document workflows, technical solutions, and implementation processes. Required Qualifications  Strong analytical and problem-solving skills.\nStrong communication skills and willingness to learn new technologies. Preferred Skills  Experience with n8n, Zapier, Make, or similar automation platforms.\nExperience building AI agents, chatbots, or virtual assistants.\nExperience with website development and integrations."
-},
-{
-"title": "Solutions Engineer - DAYZER",
-"company": "PowerGEM",
-"location": "Remote · United States",
-"posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=bb33b71a4e726b81",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://power-gem.co/careers/#open-roles",
-"skills": [
-"Python",
-"SQL",
-"Help desk / troubleshooting",
-"System design"
-],
-"req": "Collaborate with top industry experts and thought leaders  Succeed in a culture that encourages creativity and forward thinking  Enjoy competitive compensation while making an impact Sales Solutions E\nRole Overview PowerGEM is looking for a Solutions Consultant to serve as the technical partner to our sales team throughout the DAYZER sales cycle. In this role, you will translate complex power marke\nRequirements  A bachelor's degree in Electrical Engineering, Power Systems, Economics, or a related technical field (or equivalent practical experience).\nA few years of experience in electricity markets, power systems analysis, energy trading, or technical sales/pre-sales – ideally some combination of the two.\nNice to Haves  Hands-on experience with PowerGEM software (DAYZER, PROBE, SERVM, TARA, or MCAST) or comparable tools (e.g., PLEXOS, PROMOD, GE MAPS).\nExperience working directly with an ISO/RTO, utility, IPP, or energy trading desk.\nPrior experience in a Sales Engineer, Solutions Consultant, or technical pre-sales role for enterprise or specialized software."
-},
-{
-"title": "Software Verification & Test Engineer",
-"company": "Crown Innovations, Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=a42b35347f61585b",
-"source": "Indeed",
-"country": "US",
-"years": 8,
-"apply": "https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600988-software-verification-test-engineer",
-"salary": "$100,000 - $150,000 USD per year",
-"skills": [
-"Python",
-"Java",
-"C++",
-"C",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Testing (unit, automated)",
-"Embedded systems"
-],
-"req": "Company Description Software Verification & Test Engineer Remote | East Coast Hours | Up to 10% Travel | Full Time Position Overview Crown Innovations is seeking an experienced Aviation Software Verif\nSupport preparation and maintenance of verification evidence required for avionics certification.\nApply Java development experience to support software development, testing, automation, troubleshooting, or verification activities.\nSupport reporting program and technical status activities as required. Minimum Required Qualifications  Minimum eight years of professional software development, software verification, software testin\nMinimum five years of Java development experience.\nDirect professional experience using SCADE.\nDirect experience supporting DO-178C software development, verification, testing, or certification activities.\nDemonstrated experience developing and executing requirements-based software test cases and procedures.\nExperience performing functional, system, integration, or performance testing of avionics systems.\nExperience testing software in conjunction with avionics hardware.\nExperience supporting avionics certification and testing activities.\nExperience with navigation avionics, aircraft navigation systems, inertial navigation systems, or closely related aviation systems.\nExperience with FAA certification activities, aircraft safety analysis, or other safety critical aviation development processes.\nMust be a U.S. Citizen. Preferred Qualifications  Experience "
-},
-{
-"title": "Service Desk Analyst",
-"company": "NIAGARA REGION",
-"location": "Thorold, ON, CA (remote)",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=fb1bbc8587d88ff5",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://careers.niagararegion.ca/psc/careers/EMPLOYEE/PSFT_HR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1002&JobOpeningId=46539&PostingSeq=1",
-"skills": [
-"Windows",
-"Help desk / troubleshooting",
-"Hardware setup",
-"ITIL"
-],
-"req": "Location ------------ Location: Thorold, ON Division ------------ I.T. Solutions Important Notices & Amendments ----------------------------------- This position currently falls within our hybrid mode\n1-3 years of recent and related experience supporting IT Technology in a mid to large scale Microsoft networked environment.\n1-3 years of recent and related experience supporting Office Automation (OA) and Personal Computer (PC) software packages;  A+, MCP, ITIL, HDI or other similar certification would be an asset;  Experi\nStrong PC Hardware skills, including configuration and peripherals installation;  Experience with troubleshooting, triaging and resolving desktop and hardware issues;  Working knowledge, and experienc"
-},
-{
-"title": "Associate Graduate Leadership Development Program - Summer 2027",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-11-09",
-"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Graduate-Leadership-Development-Program---Summer--2027_2622684-1",
-"source": "CIBC careers",
+"link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-II_R_1498627",
+"source": "TD careers",
 "country": "CA",
 "years": null
 },
 {
-"title": "Business Systems Analyst – FinTech / PropTech",
-"company": "AvranceCorp Development",
-"location": "Mississauga, ON, CA",
+"title": "Physics Assistant, BC Cancer",
+"company": "Provincial Health Services Authority (PHSA)",
+"location": "Vancouver, BC, CA",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=034690302a652cbe",
+"link": "https://ca.indeed.com/viewjob?jk=57b1d60488878c50",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/business-systems-analyst-fintech-proptech-034690302a652cbe",
-"salary": "$70,000.00-$90,000.00 per year",
+"years": 1,
+"apply": "https://jobs.phsa.ca/job/physics-assistant-bc-cancer",
 "skills": [
-"SQL",
-"REST APIs",
-"Azure",
-"Agile / Scrum",
-"Jira",
-"SDLC",
-"Blockchain"
+"Statistics"
 ],
-"req": "Company: eGOLIA Group / TradeREA Location: 2810 Matheson Boulevard East, Unit 800, Mississauga, Ontario Engagement: Consulting contract with a full-time commitment Initial Probationary Period: Three m\nTranslate compliance-approved policies into system requirements for identity verification, investor qualification, access restrictions and audit trails.\nCoordinate priorities and dependencies with the CTO and Scrum Master/Project Coordinator. Required Qualifications  Bachelor’s degree in Business, Information Systems, Computer Science, Engineering, Fi\nAt least three years of experience as a Business Systems Analyst, Business Analyst, Product Analyst or in a comparable role.\nExperience working in Agile/Scrum development environments.\nExcellent written and verbal communication skills, including the ability to communicate with senior business stakeholders and technical teams.\nAvailability to work onsite Monday–Friday at our Mississauga head office. Preferred Qualifications The following are assets rather than mandatory requirements:  FinTech, PropTech, financial services, \nExperience working with third-party APIs and technology vendors."
+"req": "Job Summary: In accordance with the Mission, Vision and Values, and strategic directions of Provincial Health Services Authority patient safety is a priority and a responsibility shared by everyone at\nOne year of related experience in radiation therapy physics or an equivalent combination of education, training and experience acceptable to BCCA. Skills and Abilities  Physical ability to perform the"
 },
 {
-"title": "Salesforce Business Analyst - Remote",
+"title": "Public Health Technologist, Translational Research in Microbiology",
+"company": "Provincial Health Services Authority (PHSA)",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=089de3ee8a07dd94",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.phsa.ca/job/public-health-technologist-translational-research-microbiology",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting"
+],
+"req": "Job Summary: The Technologist, Molecular Services Program aids in developing and is responsible for performing Nucleic Acid testing using a variety of procedures for the detection and identification o"
+},
+{
+"title": "Security Consultant",
+"company": "Redwolf Security",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=956fa50510f6fe01",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/security-consultant-956fa50510f6fe01",
+"salary": "$100,000 to $150,000 CAD",
+"skills": [
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Incident response",
+"Penetration testing",
+"Firewalls",
+"Encryption / PKI",
+"Jira"
+],
+"req": "We are so excited you are here! We are Red Wolf Security; a provider of the most comprehensive, safe and feature rich threat simulation platform available for enterprise. Our mission is to help organi\nCoordinate delivery work, maintain project clarity, sequence prerequisites, support readiness, and protect customer expectations. 2. Client and partner knowledge elicitation: The interviewer and knowl\nTrain customers on our platform and methodology, facilitate useful sessions, write clear material, and communicate at both technical and executive altitude. Technical skills and experience we value  D\nMulti-vendor reasoning: recognising the common security patterns that sit beneath different vendor terminology and product implementations. Required qualifications  Meaningful strength in at least thr\nIntellectual honesty about what you know and what you need to learn. Preferred qualifications  Security, networking, systems, or technical-delivery foundations, with an appetite to keep learning.\nExperience in one or more of the technical skill groups above."
+},
+{
+"title": "Remote Dental Billing and Coding / Insurance Specialist",
 "company": "",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=b27274daaa86b88f",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/remote-dental-billing-and-coding-insurance-specialist-b27274daaa86b88f",
+"salary": "$35.60-$49.34 per hour"
+},
+{
+"title": "Dental Software & Practice Onboarding Roles",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=b693fb6502d49b2e",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/dental-software-practice-onboarding-roles-b693fb6502d49b2e",
+"salary": "$58.15-$90.81 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Business Analyst and Project Support",
+"company": "Provincial Health Services Authority (PHSA)",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=e46dc155922e1e98",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobs.phsa.ca/job/business-analyst-and-project-support",
+"req": "Job Summary: In accordance with the Mission, Vision and Values, and strategic directions of PHSA safety, including both patient and employee safety, is a priority and a responsibility shared by everyo\nImplements or contributes to the implementation of effective processes to assess project risks, identify risk mitigation strategies and monitor risk throughout the project lifecycle. Supports the Mana\nProvides user support, advice and orientation. Develops content, as required, for training modules, delivers training, and provides and guidance to system users and department staff. Develops and main"
+},
+{
+"title": "UX/UI Game Dev (Unity) Internship",
+"company": "UNIVERSAL PHOENIX GROUP LLC",
 "location": "Remote · United States",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=900581b572284c47",
+"link": "https://www.indeed.com/viewjob?jk=272776831ae58ae8",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://vxforward.careerplug.com/j/0373qrj",
-"salary": "$60 - $70 USD per hour",
+"apply": "http://www.indeed.com/job/uxui-game-dev-unity-internship-272776831ae58ae8",
+"salary": "$1.00 per year",
 "skills": [
+"JavaScript",
+"PHP",
+"SQL",
+"Unity",
+"Linux",
+"Help desk / troubleshooting",
+"Object-oriented programming"
+]
+},
+{
+"title": "Program Financial Analyst",
+"company": "Curtiss-Wright",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=9b3d0c4d01b71427",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://curtisswright.wd1.myworkdayjobs.com/en-US/CW_External_Career_Site/job/Remote---USA/Program-Financial-Analyst_JR14092-1",
+"salary": "$98,900 - $131,800 USD per year",
+"skills": [
+"Excel",
+"Hardware setup",
+"SAP"
+],
+"req": "Provide in-depth analysis and recommendations to Program Management and senior leadership.\nSupport ad hoc analyses, including stop work notifications, contract terminations, or cost impact studies. What you Bring:  8+ years of experience as a Program Financial Analyst in the defense or aero\nA collaborative mindset and the confidence to present data-driven recommendations to leadership. Who We Are: Our Values Environmental, Social and Governance The Curtiss-Wright Defense Solutions facili"
+},
+{
+"title": "Power System Simulation Software Developer",
+"company": "PowerGEM",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=5d2e1bc0d06e8e5c",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://power-gem.co/careers/#open-roles",
+"skills": [
+"Python",
+"C++",
+"C",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design"
+],
+"req": "Collaborate with top industry experts and thought leaders  Succeed in a culture that encourages creativity and forward thinking  Enjoy competitive compensation while making an impact Research & Develo\nKey Attributes & Qualifications:  Bachelor’s, master’s or Ph.D. in electrical engineering  One to three years of experience as a power system operations/planning engineer or similar position (recent c\nExperience with an industry tool used for power system simulations, such as PowerGEM TARA, Siemens PSS/E and MUST, PSLF, DSA tools, PowerWorld or similar, is a plus."
+},
+{
+"title": "Finance Systems Analyst",
+"company": "Everbridge",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=97c5ef48715ec5d3",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.lever.co/everbridge/7ab7e176-6b77-4999-8f7e-4e79a3d7b3fd?lever-source=Indeed",
+"salary": "$84,400 - $112,500 USD per year",
+"skills": [
+"Jira",
 "Salesforce"
 ],
-"req": "Communication: Clearly communicate status, risks, and decisions to both technical and business audiences. Technical Skills:  Hands-on configuration experience in Salesforce Data Cloud (Data 360).\nHands-on configuration experience in Salesforce Marketing Cloud.\nAbility to document requirements, process flows, and acceptance criteria. Required Qualifications:  Experience: Prior experience as a Business Analyst or functional consultant on Salesforce projects, \nCommunication: Strong written and verbal communication skills. VXForward is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, co"
+"req": "At Everbridge, our mission is to help organizations protect people and maintain business continuity during critical events. Our Critical Event Management (CEM) Platform enables customers worldwide to \nWhat you'll bring:  3-6 years' experience in finance operations, accounting, revenue operations or finance systems, ideally at a SaaS company.\n2+ years' hands-on NetSuite experience as a business analyst, power user or administrator, with a solid understanding of NetSuite records, transactions, workflows and saved searches.\nProven experience gathering requirements from business stakeholders and translating them into clear specifications, user stories and acceptance criteria for technical teams such as administrators and \nExperience writing test scripts and running user acceptance testing.\nExperience with work tracking tools such as Smartsheet or Jira.\nCompliance with contractual or regulatory requirements specific to the position. We evaluate each applicant's criminal history individually, considering its nature, timing, and relevance to the specif"
 },
 {
-"title": "Technologie de l’information (TI) et technologie des communications",
-"company": "Gendarmerie Royale du Canada",
-"location": "Calgary, AB, CA",
+"title": "Data Analyst - Remote",
+"company": "Optum",
+"location": "Remote · United States",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=d0b7deca609dfadd",
+"link": "https://www.indeed.com/viewjob?jk=2c67cbf71a38ee50",
 "source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=2477917&toggleLanguage=fr",
-"skills": [
-"Vue",
-"CompTIA Network+",
-"CCNA"
-],
-"req": "Gendarmerie royale du Canada --------------------------------  Date limite : le 7 décembre 2026 - 23h59, heure du pacifique Postuler Numéro de référence RCM26J-020663-000607 Numéro du processus de sél"
-},
-{
-"title": "Performance & Data Analyst",
-"company": "University of Alberta",
-"location": "Edmonton, AB, CA (remote)",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=b0cdc842179558ef",
-"source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": 3,
-"apply": "https://iaejup.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/4622",
-"salary": "$500,000 a year",
+"apply": "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2394632&lang=en",
+"salary": "$60,200 - $107,400 USD per year",
 "skills": [
+"SQL",
+"ETL / data pipelines",
 "Tableau",
 "Excel",
-"Statistics"
+"SQL Server",
+"Oracle",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"System design"
 ],
-"req": "This competition is open to all applicants; however, internal applicants will be given priority consideration based on minimum qualifications, or a combination of experience, skills, and abilities, be\nMonitors key financial data, resolves accounting problems and applies internal controls. In consultation with the Strategic Performance and Analysis Officer, supports the development and administratio\nManages instructor contracts and tracking of Teaching Assistant and Graduate Research Assistant appointments.\nOversees scholarship, award and bursary selection and payment processes, manages international study tour budgets, and provides financial guidance to the Graduate Business Students Association.\nCoaches the Business Support Coordinator and advises office team members on financial policies and procedures. Data – 40%  Prepares data requests and reporting for the Master’s programs, and develops \nWorks with the career team and the CWIL office on the annual Career Services & Employer Alliance Report for graduate business students and programs, and Executive Education programs.\nCoordinates the donor scholarship process, advises students on scholarship eligibility, supports the Graduate Students Policy Committee, maintains the scholarship and bursary web pages, and prepares a\nDevelops business process maps for process improvement, and assists the Strategic Performance and Analysis Officer with projects as required.\nUndergraduate degree in accounting, supplemented with administrativ"
+"req": "Optum Insight is improving the flow of health data and information to create a more connected system. We remove friction and drive alignment between care providers and payers, and ultimately consumers"
 },
 {
-"title": "Receptionist",
+"title": "Copy of Software Developer – AI Coding Assistant Evaluation",
 "company": "",
-"location": "Binbrook, ON, CA",
+"location": "Ottawa, ON, CA (remote)",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=27ae62dc2b4fe096",
+"link": "https://ca.indeed.com/viewjob?jk=ee274f454a051da7",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/receptionist-27ae62dc2b4fe096",
-"salary": "$17.60-$22.00 per hour",
+"apply": "https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016724225-copy-of-software-developer-ai-coding-assistant-evaluation",
+"salary": "$100 per hour",
 "skills": [
-"Google Workspace"
+"REST APIs",
+"Machine learning",
+"Git",
+"Linux",
+"Windows",
+"macOS"
 ],
-"req": "Job Summary The Receptionist provides a welcoming, organized front desk experience and supports daily administrative operations. This role combines customer service, phone support, data entry, and cle"
+"req": "Company Description An enterprise client is seeking experienced software developers to participate in an AI training project focused on testing and evaluating AI coding assistants. The project aims to\nFollow project guidelines and ensure that no passwords, API keys, or other people's personal information are included in your sessions. Qualifications Requirements:  Experienced software developer wit\nAble to provide independent and honest feedback without using AI assistance to write evaluation responses. Nice to Haves:  Experience maintaining open-source software projects.\nExperience building personal tools, applications, libraries, or other software projects.\nExperience with software debugging, feature development, code refactoring, and documentation. Additional Information  Fully remote freelance opportunity.\nAI usage during the project will be covered, so candidates will not need to pay for an AI subscription or API usage. Project Eligibility and Ownership Requirements:  Candidates must bring a software p\nOpen-source projects must have an approved license. Projects with multiple maintainers may require additional confirmation.\nThe client's team must review and approve the project before work begins.\nSelected candidates must sign contributor terms before starting. Important Privacy and Participation Notes:  Transcripts from project sessions will be used to improve AI models. Once submitted, these \nCandidates must not include passwords, API keys, or other people's personal in"
 },
 {
-"title": "Office Administrator",
-"company": "Cakes Technology Inc.",
-"location": "Richmond Hill, ON, CA",
+"title": "Game Developer (Mobile/PC) – Publishing & In-App Purchases",
+"company": "",
+"location": "Remote · United States",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=4636951610ea5c93",
+"link": "https://www.indeed.com/viewjob?jk=4ae717159031040d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/game-developer-mobilepc-publishing-app-purchases-4ae717159031040d",
+"salary": "$50.00 per month",
+"skills": [
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "Information Technology (IT) and Communications Technology",
+"company": "Government of Canada",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=1ecb953082bc5b52",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-4636951610ea5c93",
-"salary": "$25.00-$30.00 per hour",
+"apply": "https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=2477917",
+"salary": "$85,854 to $105,080",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"CompTIA Network+",
+"CCNA",
+"ITIL"
+]
+},
+{
+"title": "Administrative Assistant",
+"company": "",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=584bc643a3097103",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-584bc643a3097103",
+"salary": "$22.77-$28.11 per hour",
 "skills": [
 "Google Workspace"
 ]
 },
 {
-"title": "Administrative Assistant",
-"company": "Better Bud Botanicals",
-"location": "Falkland, BC, CA",
+"title": "Day Spa Receptionist",
+"company": "Damara Day Spa",
+"location": "Windsor, ON, CA",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=99e794adbd880bfe",
+"link": "https://ca.indeed.com/viewjob?jk=ba734e8e883d64ff",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-99e794adbd880bfe",
-"salary": "$30.00 per hour",
+"apply": "http://ca.indeed.com/job/day-spa-receptionist-ba734e8e883d64ff",
+"salary": "$17.60-$27.66 per hour",
 "skills": [
 "Google Workspace"
 ],
-"req": "Job Overview The Administrative Assistant supports daily office operations by coordinating information, maintaining organized records, and providing courteous service to visitors and callers. This rol"
+"req": "Job Summary The position is at the Caesars Windsor Hotel and Casino The Day Spa Receptionist creates a welcoming first impression and keeps front desk operations organized. This role supports a smooth"
+},
+{
+"title": "Tutor Doctor - Educational Consultant",
+"company": "Tutor Doctor North & West Toronto",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=3362284f9dd54fbc",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/tutor-doctor-educational-consultant-3362284f9dd54fbc",
+"salary": "$20.00 per hour",
+"req": "Overview Tutor Doctor Etobicoke & Woodbridge provides personalized, one-on-one tutoring in-home and online. We work with elementary and high school students, post-secondary students, and adult learner\nCommunicate with students, families, and colleagues about progress, challenges, and next steps.\nUse computer skills to organize learning materials, track progress, and support clear, timely updates. Your impact: Help students access focused support that strengthens learning and gives families a \nConduct complimentary one-hour consultations with students and families to understand the student’s learning needs, goals, and availability.\nRecommend a tutoring program tailored to the student and follow up with the family to answer questions and guide them through enrollment.\nShare consultation notes, family needs, and agreed next steps with the office team so they can coordinate tutoring support. What you’ll bring  Previous sales experience.\nA warm, professional approach to working with students and families."
+},
+{
+"title": "Power BI Developer",
+"company": "Synergy Infotech",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=94e682facc6ffd75",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/power-bi-developer-94e682facc6ffd75",
+"salary": "$70 - $80 USD per hour",
+"start": "December 2026",
+"skills": [
+"SQL",
+"Power BI",
+"Tableau",
+"SQL Server",
+"Azure"
+]
 },
 {
 "title": "Process and Workflow Applications Developer",
@@ -241,317 +351,227 @@
 "req": "Company Description Ashburn Consulting, a Small Business based in the Washington, DC metropolitan area, specializes in providing network and network security solutions in complex environments to a sel\nWork side-by-side with County staff and an assigned project manager; provide project metrics, active knowledge transfer, business-process documentation, release documentation, and maintainable code. M\nAt least seven (7) years maintaining .NET web applications using MVC and Clean Architecture.\nAt least seven (7) years of Microsoft SQL Server and Oracle database administration, coding, integration, and reporting experience.\nAt least seven (7) years applying responsive-design principles and UI/UX best practices, including accessible interfaces meeting WCAG 2.1 AA.\nDemonstrated data mapping and migration experience involving disparate database systems and Microsoft SQL Server.\nExperience integrating applications with SSO and Microsoft Entra ID (Azure AD).\nExperience safely using AI development tools, such as Microsoft Copilot, within organizational policies.\nExperience creating and publishing .NET deployment packages through DEV, TEST, and PROD environments.\nExperience collaborating within a structured project environment under an assigned project manager."
 },
 {
-"title": "Power BI Developer",
-"company": "Synergy Infotech",
-"location": "Remote · United States",
-"posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=94e682facc6ffd75",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/power-bi-developer-94e682facc6ffd75",
-"salary": "$70 - $80 USD per hour",
-"start": "December 2026",
-"skills": [
-"SQL",
-"Power BI",
-"Tableau",
-"SQL Server",
-"Azure"
-]
-},
-{
-"title": "Tutor Doctor - Educational Consultant",
-"company": "Tutor Doctor North & West Toronto",
-"location": "Etobicoke, ON, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=3362284f9dd54fbc",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/tutor-doctor-educational-consultant-3362284f9dd54fbc",
-"salary": "$20.00 per hour",
-"req": "Overview Tutor Doctor Etobicoke & Woodbridge provides personalized, one-on-one tutoring in-home and online. We work with elementary and high school students, post-secondary students, and adult learner\nCommunicate with students, families, and colleagues about progress, challenges, and next steps.\nUse computer skills to organize learning materials, track progress, and support clear, timely updates. Your impact: Help students access focused support that strengthens learning and gives families a \nConduct complimentary one-hour consultations with students and families to understand the student’s learning needs, goals, and availability.\nRecommend a tutoring program tailored to the student and follow up with the family to answer questions and guide them through enrollment.\nShare consultation notes, family needs, and agreed next steps with the office team so they can coordinate tutoring support. What you’ll bring  Previous sales experience.\nA warm, professional approach to working with students and families."
-},
-{
-"title": "Day Spa Receptionist",
-"company": "Damara Day Spa",
-"location": "Windsor, ON, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=ba734e8e883d64ff",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/day-spa-receptionist-ba734e8e883d64ff",
-"salary": "$17.60-$27.66 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "Job Summary The position is at the Caesars Windsor Hotel and Casino The Day Spa Receptionist creates a welcoming first impression and keeps front desk operations organized. This role supports a smooth"
-},
-{
 "title": "Administrative Assistant",
-"company": "",
-"location": "Vancouver, BC, CA",
+"company": "Better Bud Botanicals",
+"location": "Falkland, BC, CA",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=584bc643a3097103",
+"link": "https://ca.indeed.com/viewjob?jk=99e794adbd880bfe",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-584bc643a3097103",
-"salary": "$22.77-$28.11 per hour",
+"apply": "http://ca.indeed.com/job/administrative-assistant-99e794adbd880bfe",
+"salary": "$30.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "Job Overview The Administrative Assistant supports daily office operations by coordinating information, maintaining organized records, and providing courteous service to visitors and callers. This rol"
+},
+{
+"title": "Office Administrator",
+"company": "Cakes Technology Inc.",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=4636951610ea5c93",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-4636951610ea5c93",
+"salary": "$25.00-$30.00 per hour",
 "skills": [
 "Google Workspace"
 ]
 },
 {
-"title": "Information Technology (IT) and Communications Technology",
-"company": "Government of Canada",
-"location": "Calgary, AB, CA (remote)",
+"title": "Receptionist",
+"company": "",
+"location": "Binbrook, ON, CA",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=1ecb953082bc5b52",
+"link": "https://ca.indeed.com/viewjob?jk=27ae62dc2b4fe096",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=2477917",
-"salary": "$85,854 to $105,080",
+"apply": "http://ca.indeed.com/job/receptionist-27ae62dc2b4fe096",
+"salary": "$17.60-$22.00 per hour",
 "skills": [
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"CompTIA Network+",
-"CCNA",
-"ITIL"
-]
-},
-{
-"title": "Game Developer (Mobile/PC) – Publishing & In-App Purchases",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=4ae717159031040d",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/game-developer-mobilepc-publishing-app-purchases-4ae717159031040d",
-"salary": "$50.00 per month",
-"skills": [
-"Mobile (iOS / Android)"
-]
-},
-{
-"title": "Copy of Software Developer – AI Coding Assistant Evaluation",
-"company": "",
-"location": "Ottawa, ON, CA (remote)",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=ee274f454a051da7",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016724225-copy-of-software-developer-ai-coding-assistant-evaluation",
-"salary": "$100 per hour",
-"skills": [
-"REST APIs",
-"Machine learning",
-"Git",
-"Linux",
-"Windows",
-"macOS"
+"Google Workspace"
 ],
-"req": "Company Description An enterprise client is seeking experienced software developers to participate in an AI training project focused on testing and evaluating AI coding assistants. The project aims to\nFollow project guidelines and ensure that no passwords, API keys, or other people's personal information are included in your sessions. Qualifications Requirements:  Experienced software developer wit\nAble to provide independent and honest feedback without using AI assistance to write evaluation responses. Nice to Haves:  Experience maintaining open-source software projects.\nExperience building personal tools, applications, libraries, or other software projects.\nExperience with software debugging, feature development, code refactoring, and documentation. Additional Information  Fully remote freelance opportunity.\nAI usage during the project will be covered, so candidates will not need to pay for an AI subscription or API usage. Project Eligibility and Ownership Requirements:  Candidates must bring a software p\nOpen-source projects must have an approved license. Projects with multiple maintainers may require additional confirmation.\nThe client's team must review and approve the project before work begins.\nSelected candidates must sign contributor terms before starting. Important Privacy and Participation Notes:  Transcripts from project sessions will be used to improve AI models. Once submitted, these \nCandidates must not include passwords, API keys, or other people's personal in"
+"req": "Job Summary The Receptionist provides a welcoming, organized front desk experience and supports daily administrative operations. This role combines customer service, phone support, data entry, and cle"
 },
 {
-"title": "Data Analyst - Remote",
-"company": "Optum",
-"location": "Remote · United States",
+"title": "Performance & Data Analyst",
+"company": "University of Alberta",
+"location": "Edmonton, AB, CA (remote)",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=2c67cbf71a38ee50",
+"link": "https://ca.indeed.com/viewjob?jk=b0cdc842179558ef",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": 3,
-"apply": "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2394632&lang=en",
-"salary": "$60,200 - $107,400 USD per year",
+"apply": "https://iaejup.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/4622",
+"salary": "$500,000 a year",
 "skills": [
-"SQL",
-"ETL / data pipelines",
 "Tableau",
 "Excel",
-"SQL Server",
-"Oracle",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"System design"
+"Statistics"
 ],
-"req": "Optum Insight is improving the flow of health data and information to create a more connected system. We remove friction and drive alignment between care providers and payers, and ultimately consumers"
+"req": "This competition is open to all applicants; however, internal applicants will be given priority consideration based on minimum qualifications, or a combination of experience, skills, and abilities, be\nMonitors key financial data, resolves accounting problems and applies internal controls. In consultation with the Strategic Performance and Analysis Officer, supports the development and administratio\nManages instructor contracts and tracking of Teaching Assistant and Graduate Research Assistant appointments.\nOversees scholarship, award and bursary selection and payment processes, manages international study tour budgets, and provides financial guidance to the Graduate Business Students Association.\nCoaches the Business Support Coordinator and advises office team members on financial policies and procedures. Data – 40%  Prepares data requests and reporting for the Master’s programs, and develops \nWorks with the career team and the CWIL office on the annual Career Services & Employer Alliance Report for graduate business students and programs, and Executive Education programs.\nCoordinates the donor scholarship process, advises students on scholarship eligibility, supports the Graduate Students Policy Committee, maintains the scholarship and bursary web pages, and prepares a\nDevelops business process maps for process improvement, and assists the Strategic Performance and Analysis Officer with projects as required.\nUndergraduate degree in accounting, supplemented with administrativ"
 },
 {
-"title": "Finance Systems Analyst",
-"company": "Everbridge",
+"title": "Technologie de l’information (TI) et technologie des communications",
+"company": "Gendarmerie Royale du Canada",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=d0b7deca609dfadd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=2477917&toggleLanguage=fr",
+"skills": [
+"Vue",
+"CompTIA Network+",
+"CCNA"
+],
+"req": "Gendarmerie royale du Canada --------------------------------  Date limite : le 7 décembre 2026 - 23h59, heure du pacifique Postuler Numéro de référence RCM26J-020663-000607 Numéro du processus de sél"
+},
+{
+"title": "Salesforce Business Analyst - Remote",
+"company": "",
 "location": "Remote · United States",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=97c5ef48715ec5d3",
+"link": "https://www.indeed.com/viewjob?jk=900581b572284c47",
 "source": "Indeed",
 "country": "US",
-"years": 3,
-"apply": "https://jobs.lever.co/everbridge/7ab7e176-6b77-4999-8f7e-4e79a3d7b3fd?lever-source=Indeed",
-"salary": "$84,400 - $112,500 USD per year",
+"years": null,
+"apply": "https://vxforward.careerplug.com/j/0373qrj",
+"salary": "$60 - $70 USD per hour",
 "skills": [
-"Jira",
 "Salesforce"
 ],
-"req": "At Everbridge, our mission is to help organizations protect people and maintain business continuity during critical events. Our Critical Event Management (CEM) Platform enables customers worldwide to \nWhat you'll bring:  3-6 years' experience in finance operations, accounting, revenue operations or finance systems, ideally at a SaaS company.\n2+ years' hands-on NetSuite experience as a business analyst, power user or administrator, with a solid understanding of NetSuite records, transactions, workflows and saved searches.\nProven experience gathering requirements from business stakeholders and translating them into clear specifications, user stories and acceptance criteria for technical teams such as administrators and \nExperience writing test scripts and running user acceptance testing.\nExperience with work tracking tools such as Smartsheet or Jira.\nCompliance with contractual or regulatory requirements specific to the position. We evaluate each applicant's criminal history individually, considering its nature, timing, and relevance to the specif"
+"req": "Communication: Clearly communicate status, risks, and decisions to both technical and business audiences. Technical Skills:  Hands-on configuration experience in Salesforce Data Cloud (Data 360).\nHands-on configuration experience in Salesforce Marketing Cloud.\nAbility to document requirements, process flows, and acceptance criteria. Required Qualifications:  Experience: Prior experience as a Business Analyst or functional consultant on Salesforce projects, \nCommunication: Strong written and verbal communication skills. VXForward is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, co"
 },
 {
-"title": "Power System Simulation Software Developer",
-"company": "PowerGEM",
-"location": "Remote · United States",
+"title": "Business Systems Analyst – FinTech / PropTech",
+"company": "AvranceCorp Development",
+"location": "Mississauga, ON, CA",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=5d2e1bc0d06e8e5c",
+"link": "https://ca.indeed.com/viewjob?jk=034690302a652cbe",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": 3,
-"apply": "https://power-gem.co/careers/#open-roles",
+"apply": "http://ca.indeed.com/job/business-systems-analyst-fintech-proptech-034690302a652cbe",
+"salary": "$70,000.00-$90,000.00 per year",
 "skills": [
-"Python",
-"C++",
-"C",
-"Testing (unit, automated)",
-"Data structures & algorithms",
-"System design"
+"SQL",
+"REST APIs",
+"Azure",
+"Agile / Scrum",
+"Jira",
+"SDLC",
+"Blockchain"
 ],
-"req": "Collaborate with top industry experts and thought leaders  Succeed in a culture that encourages creativity and forward thinking  Enjoy competitive compensation while making an impact Research & Develo\nKey Attributes & Qualifications:  Bachelor’s, master’s or Ph.D. in electrical engineering  One to three years of experience as a power system operations/planning engineer or similar position (recent c\nExperience with an industry tool used for power system simulations, such as PowerGEM TARA, Siemens PSS/E and MUST, PSLF, DSA tools, PowerWorld or similar, is a plus."
+"req": "Company: eGOLIA Group / TradeREA Location: 2810 Matheson Boulevard East, Unit 800, Mississauga, Ontario Engagement: Consulting contract with a full-time commitment Initial Probationary Period: Three m\nTranslate compliance-approved policies into system requirements for identity verification, investor qualification, access restrictions and audit trails.\nCoordinate priorities and dependencies with the CTO and Scrum Master/Project Coordinator. Required Qualifications  Bachelor’s degree in Business, Information Systems, Computer Science, Engineering, Fi\nAt least three years of experience as a Business Systems Analyst, Business Analyst, Product Analyst or in a comparable role.\nExperience working in Agile/Scrum development environments.\nExcellent written and verbal communication skills, including the ability to communicate with senior business stakeholders and technical teams.\nAvailability to work onsite Monday–Friday at our Mississauga head office. Preferred Qualifications The following are assets rather than mandatory requirements:  FinTech, PropTech, financial services, \nExperience working with third-party APIs and technology vendors."
 },
 {
-"title": "Program Financial Analyst",
-"company": "Curtiss-Wright",
+"title": "Associate Graduate Leadership Development Program - Summer 2027",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-11-09",
+"link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Graduate-Leadership-Development-Program---Summer--2027_2622684-1",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Desk Analyst",
+"company": "NIAGARA REGION",
+"location": "Thorold, ON, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=fb1bbc8587d88ff5",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.niagararegion.ca/psc/careers/EMPLOYEE/PSFT_HR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1002&JobOpeningId=46539&PostingSeq=1",
+"skills": [
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup",
+"ITIL"
+],
+"req": "Location ------------ Location: Thorold, ON Division ------------ I.T. Solutions Important Notices & Amendments ----------------------------------- This position currently falls within our hybrid mode\n1-3 years of recent and related experience supporting IT Technology in a mid to large scale Microsoft networked environment.\n1-3 years of recent and related experience supporting Office Automation (OA) and Personal Computer (PC) software packages;  A+, MCP, ITIL, HDI or other similar certification would be an asset;  Experi\nStrong PC Hardware skills, including configuration and peripherals installation;  Experience with troubleshooting, triaging and resolving desktop and hardware issues;  Working knowledge, and experienc"
+},
+{
+"title": "Software Verification & Test Engineer",
+"company": "Crown Innovations, Inc.",
 "location": "Remote · United States",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=9b3d0c4d01b71427",
+"link": "https://www.indeed.com/viewjob?jk=a42b35347f61585b",
 "source": "Indeed",
 "country": "US",
 "years": 8,
-"apply": "https://curtisswright.wd1.myworkdayjobs.com/en-US/CW_External_Career_Site/job/Remote---USA/Program-Financial-Analyst_JR14092-1",
-"salary": "$98,900 - $131,800 USD per year",
+"apply": "https://jobs.smartrecruiters.com/CrownInnovationsInc/744000160600988-software-verification-test-engineer",
+"salary": "$100,000 - $150,000 USD per year",
 "skills": [
-"Excel",
+"Python",
+"Java",
+"C++",
+"C",
+"Help desk / troubleshooting",
 "Hardware setup",
-"SAP"
+"Testing (unit, automated)",
+"Embedded systems"
 ],
-"req": "Provide in-depth analysis and recommendations to Program Management and senior leadership.\nSupport ad hoc analyses, including stop work notifications, contract terminations, or cost impact studies. What you Bring:  8+ years of experience as a Program Financial Analyst in the defense or aero\nA collaborative mindset and the confidence to present data-driven recommendations to leadership. Who We Are: Our Values Environmental, Social and Governance The Curtiss-Wright Defense Solutions facili"
+"req": "Company Description Software Verification & Test Engineer Remote | East Coast Hours | Up to 10% Travel | Full Time Position Overview Crown Innovations is seeking an experienced Aviation Software Verif\nSupport preparation and maintenance of verification evidence required for avionics certification.\nApply Java development experience to support software development, testing, automation, troubleshooting, or verification activities.\nSupport reporting program and technical status activities as required. Minimum Required Qualifications  Minimum eight years of professional software development, software verification, software testin\nMinimum five years of Java development experience.\nDirect professional experience using SCADE.\nDirect experience supporting DO-178C software development, verification, testing, or certification activities.\nDemonstrated experience developing and executing requirements-based software test cases and procedures.\nExperience performing functional, system, integration, or performance testing of avionics systems.\nExperience testing software in conjunction with avionics hardware.\nExperience supporting avionics certification and testing activities.\nExperience with navigation avionics, aircraft navigation systems, inertial navigation systems, or closely related aviation systems.\nExperience with FAA certification activities, aircraft safety analysis, or other safety critical aviation development processes.\nMust be a U.S. Citizen. Preferred Qualifications  Experience "
 },
 {
-"title": "UX/UI Game Dev (Unity) Internship",
-"company": "UNIVERSAL PHOENIX GROUP LLC",
+"title": "Solutions Engineer - DAYZER",
+"company": "PowerGEM",
 "location": "Remote · United States",
 "posted": "2026-11-09",
-"link": "https://www.indeed.com/viewjob?jk=272776831ae58ae8",
+"link": "https://www.indeed.com/viewjob?jk=bb33b71a4e726b81",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/uxui-game-dev-unity-internship-272776831ae58ae8",
-"salary": "$1.00 per year",
+"apply": "https://power-gem.co/careers/#open-roles",
 "skills": [
-"JavaScript",
-"PHP",
+"Python",
 "SQL",
-"Unity",
-"Linux",
 "Help desk / troubleshooting",
-"Object-oriented programming"
-]
+"System design"
+],
+"req": "Collaborate with top industry experts and thought leaders  Succeed in a culture that encourages creativity and forward thinking  Enjoy competitive compensation while making an impact Sales Solutions E\nRole Overview PowerGEM is looking for a Solutions Consultant to serve as the technical partner to our sales team throughout the DAYZER sales cycle. In this role, you will translate complex power marke\nRequirements  A bachelor's degree in Electrical Engineering, Power Systems, Economics, or a related technical field (or equivalent practical experience).\nA few years of experience in electricity markets, power systems analysis, energy trading, or technical sales/pre-sales – ideally some combination of the two.\nNice to Haves  Hands-on experience with PowerGEM software (DAYZER, PROBE, SERVM, TARA, or MCAST) or comparable tools (e.g., PLEXOS, PROMOD, GE MAPS).\nExperience working directly with an ISO/RTO, utility, IPP, or energy trading desk.\nPrior experience in a Sales Engineer, Solutions Consultant, or technical pre-sales role for enterprise or specialized software."
 },
 {
-"title": "Business Analyst and Project Support",
-"company": "Provincial Health Services Authority (PHSA)",
-"location": "Vancouver, BC, CA",
+"title": "AI Analyst",
+"company": "RapidAI Technologies",
+"location": "Remote · United States",
 "posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=e46dc155922e1e98",
+"link": "https://www.indeed.com/viewjob?jk=1c46fe6b37ccd00b",
 "source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://jobs.phsa.ca/job/business-analyst-and-project-support",
-"req": "Job Summary: In accordance with the Mission, Vision and Values, and strategic directions of PHSA safety, including both patient and employee safety, is a priority and a responsibility shared by everyo\nImplements or contributes to the implementation of effective processes to assess project risks, identify risk mitigation strategies and monitor risk throughout the project lifecycle. Supports the Mana\nProvides user support, advice and orientation. Develops content, as required, for training modules, delivers training, and provides and guidance to system users and department staff. Develops and main"
-},
-{
-"title": "Dental Software & Practice Onboarding Roles",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=b693fb6502d49b2e",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/dental-software-practice-onboarding-roles-b693fb6502d49b2e",
-"salary": "$58.15-$90.81 per hour",
-"skills": [
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "Remote Dental Billing and Coding / Insurance Specialist",
-"company": "",
-"location": "Ottawa, ON, CA (remote)",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=b27274daaa86b88f",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "http://ca.indeed.com/job/remote-dental-billing-and-coding-insurance-specialist-b27274daaa86b88f",
-"salary": "$35.60-$49.34 per hour"
-},
-{
-"title": "Security Consultant",
-"company": "Redwolf Security",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=956fa50510f6fe01",
-"source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/security-consultant-956fa50510f6fe01",
-"salary": "$100,000 to $150,000 CAD",
+"apply": "http://www.indeed.com/job/ai-analyst-1c46fe6b37ccd00b",
+"salary": "$37 - $45 USD per hour",
 "skills": [
-"Monitoring",
-"Networking (TCP/IP, DNS)",
-"Cybersecurity",
-"Incident response",
-"Penetration testing",
-"Firewalls",
-"Encryption / PKI",
-"Jira"
+"Python",
+"JavaScript",
+"SQL",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"System design",
+"Salesforce"
 ],
-"req": "We are so excited you are here! We are Red Wolf Security; a provider of the most comprehensive, safe and feature rich threat simulation platform available for enterprise. Our mission is to help organi\nCoordinate delivery work, maintain project clarity, sequence prerequisites, support readiness, and protect customer expectations. 2. Client and partner knowledge elicitation: The interviewer and knowl\nTrain customers on our platform and methodology, facilitate useful sessions, write clear material, and communicate at both technical and executive altitude. Technical skills and experience we value  D\nMulti-vendor reasoning: recognising the common security patterns that sit beneath different vendor terminology and product implementations. Required qualifications  Meaningful strength in at least thr\nIntellectual honesty about what you know and what you need to learn. Preferred qualifications  Security, networking, systems, or technical-delivery foundations, with an appetite to keep learning.\nExperience in one or more of the technical skill groups above."
+"req": "Document workflows, technical solutions, and implementation processes. Required Qualifications  Strong analytical and problem-solving skills.\nStrong communication skills and willingness to learn new technologies. Preferred Skills  Experience with n8n, Zapier, Make, or similar automation platforms.\nExperience building AI agents, chatbots, or virtual assistants.\nExperience with website development and integrations."
 },
 {
-"title": "Public Health Technologist, Translational Research in Microbiology",
-"company": "Provincial Health Services Authority (PHSA)",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=089de3ee8a07dd94",
-"source": "Indeed",
+"title": "Business Information Security Officer, Audit & Assurance",
+"company": "KPMG",
+"location": "Toronto, Canada; Vaughan, Canada; Vancouver, Canada",
+"posted": "2026-11-09T14:24:00+00:00",
+"link": "https://careers.kpmg.ca/jobs/34372?lang=en-us",
+"source": "KPMG careers",
 "country": "CA",
-"years": 1,
-"apply": "https://jobs.phsa.ca/job/public-health-technologist-translational-research-microbiology",
-"skills": [
-"Statistics",
-"Help desk / troubleshooting"
-],
-"req": "Job Summary: The Technologist, Molecular Services Program aids in developing and is responsible for performing Nucleic Acid testing using a variety of procedures for the detection and identification o"
-},
-{
-"title": "Physics Assistant, BC Cancer",
-"company": "Provincial Health Services Authority (PHSA)",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=57b1d60488878c50",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://jobs.phsa.ca/job/physics-assistant-bc-cancer",
-"skills": [
-"Statistics"
-],
-"req": "Job Summary: In accordance with the Mission, Vision and Values, and strategic directions of Provincial Health Services Authority patient safety is a priority and a responsibility shared by everyone at\nOne year of related experience in radiation therapy physics or an equivalent combination of education, training and experience acceptable to BCCA. Skills and Abilities  Physical ability to perform the"
+"years": 10
 },
 {
 "title": "Web Engineer, International Expansion",
@@ -21669,30 +21689,6 @@
 "System design"
 ],
 "req": "Internal Infrastructure builds the infrastructure and tools used to train, evaluate, and serve Cohere's foundation models. You will work with AI researchers and ML engineers on stability, scalability,\nWorked on ML training workflows, RL sandboxes, container networking (CNI), or checkpoint storage at scale. Direct GPU-cluster experience is a plus.\nIf this does not line up exactly with your experience, we still encourage you to apply.\nIf any of the above doesn’t line up exactly with your experience, we still encourage you to apply.\nWe may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applic"
-},
-{
-"title": "Software Engineer, GPU Infrastructure",
-"company": "Cohere",
-"location": "Canada",
-"posted": "2026-11-06T14:28:37.909+00:00",
-"link": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4",
-"source": "Cohere careers",
-"country": "CA",
-"years": null,
-"salary": "$75",
-"skills": [
-"Python",
-"Go",
-"Node.js",
-"Machine learning",
-"Kubernetes",
-"Linux",
-"Monitoring",
-"Help desk / troubleshooting",
-"Hardware setup",
-"System design"
-],
-"req": "Internal Infrastructure builds the infrastructure and tools used to train, evaluate, and serve Cohere's foundation models. You will work with AI researchers and ML engineers on stability, scalability,\nIf this does not line up exactly with your experience, we still encourage you to apply.\nIf any of the above doesn’t line up exactly with your experience, we still encourage you to apply.\nWe may use AI-enabled tools to screen and assess applicants against the criteria for this position. This helps our recruiters identify potentially qualified candidates, but it doesn't limit the applic"
 }
 ]
 }
