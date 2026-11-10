@@ -1,75 +1,35 @@
 {
-"updated": "2026-11-10T02:49:49+00:00",
+"updated": "2026-11-10T02:59:49+00:00",
 "jobs": [
 {
-"title": "Center Support Specialist",
-"company": "",
-"location": "Remote · United States",
+"title": "Helpdesk Coordinator & Dispatcher",
+"company": "BAASS Business Solutions",
+"location": "Thornhill, ON, CA",
 "posted": "2026-11-10",
-"link": "https://www.indeed.com/viewjob?jk=dc4ae6abb2ed2281",
+"link": "https://ca.indeed.com/viewjob?jk=4c1e9a7aa34b19ac",
 "source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/center-support-specialist-dc4ae6abb2ed2281",
-"salary": "$18 per hour",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/helpdesk-coordinator-dispatcher-4c1e9a7aa34b19ac",
+"salary": "$40,000.00 per year",
 "skills": [
-"Snowflake"
-],
-"req": "Coordinate with internal teams and approved technology partners to support center setup, scheduling workflows, and service needs.\nPerform other related duties as assigned. Required skills / abilities  Excellent written and verbal communication and active-listening skills.\nAgrees with and is willing to uphold Infinite Worth’s Statement of Faith, Statement of Principle, positional statements, and organizational policies. Education and experience  High school diploma or e\nPrevious experience in customer service, client relations, account support, onboarding, administration, or a related field preferred.\nExperience with pregnancy centers, nonprofit organizations, ministries, healthcare organizations, or other mission-driven organizations preferred.\nExperience working in a remote environment preferred. Physical / remote work requirements  Prolonged periods sitting at a desk and working on a computer."
+"Excel",
+"Help desk / troubleshooting"
+]
 },
 {
-"title": "Executive Assistant",
-"company": "Aquarian Industries international Ltd (oa Cypher Environmental)",
-"location": "Winnipeg, MB, CA",
+"title": "Customer Service Representative",
+"company": "IO Solutions Contact Center Inc.",
+"location": "London, ON, CA",
 "posted": "2026-11-10",
-"link": "https://ca.indeed.com/viewjob?jk=062409a059f8128b",
+"link": "https://ca.indeed.com/viewjob?jk=3e2acb3fa5e0b2b6",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/executive-assistant-062409a059f8128b",
-"salary": "$35,000.00 per year",
+"apply": "http://ca.indeed.com/job/customer-service-representative-3e2acb3fa5e0b2b6",
+"salary": "$19.77-$31.11 per hour",
 "skills": [
-"Excel"
-],
-"req": "Coordinate outgoing shipments, courier pickups, and deliveries as required.\nProvide administrative support to team members as required.\nAssist with organizational errands and day-to-day office tasks as required.\nCoordinate and organize internal team events, including office BBQs, celebrations, team lunches, and other company gatherings.\nDuties as assigned Qualifications  Certificate, diploma, or degree in business administration, office administration, or a related field is an asset; equivalent skills and experience will be considere\nPrevious experience in a receptionist, customer service, or administrative position is preferred."
-},
-{
-"title": "Business Operations Analyst - Customer Operations",
-"company": "NextLabs, Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-10",
-"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
-"salary": "$18.00 per hour",
-"skills": [
-"AWS",
-"System design",
-"SAP"
-],
-"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
-},
-{
-"title": "Specialist - Data Engineering",
-"company": "LTM Limited",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-10",
-"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
-"salary": "$79,851.00 to $113,900.00 per year",
-"skills": [
-"Scala",
-"Spark",
-"Hadoop",
-"ETL / data pipelines",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"System design"
+"Google Workspace"
 ]
 },
 {
@@ -106,19 +66,92 @@
 "req": "3Pillar is an AI transformation partner on a mission to help enterprises build the AI-native products and intelligent agents that will define the next era of business. With teams across North America,\nClient-facing experience and strong communication skills.\nIndependently drive project delivery within defined architecture, demonstrating autonomy and accountability in all stages from conceptualization to deployment. Minimum Qualifications:  Bachelor’s degr\nA minimum of 8+ years of experience/expertise in the following areas specified below: + Solid software development experience using Java. + Experience building applications using Spring, SpringBoot an\nExperience in Agile software development methodologies.\nExpertise in applying Object-Oriented Programming principles (abstraction, encapsulation).\nExperience in creating and implementing well-tested, scalable, and performant enterprise-level systems.\nExperience implementing Unit, Integration and End-to-End Testing.\nClient-facing experience and strong communication skills. Additional Experience Desired:  Struts, Backbone, Marionette  Architectural (Microservices, Serverless etc) and Design (Factory, Singleton, Ob"
 },
 {
-"title": "Customer Service Representative",
-"company": "IO Solutions Contact Center Inc.",
-"location": "London, ON, CA",
+"title": "Specialist - Data Engineering",
+"company": "LTM Limited",
+"location": "Mississauga, ON, CA",
 "posted": "2026-11-10",
-"link": "https://ca.indeed.com/viewjob?jk=3e2acb3fa5e0b2b6",
+"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
+"salary": "$79,851.00 to $113,900.00 per year",
+"skills": [
+"Scala",
+"Spark",
+"Hadoop",
+"ETL / data pipelines",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "Business Operations Analyst - Customer Operations",
+"company": "NextLabs, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
+"salary": "$18.00 per hour",
+"skills": [
+"AWS",
+"System design",
+"SAP"
+],
+"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
+},
+{
+"title": "Executive Assistant",
+"company": "Aquarian Industries international Ltd (oa Cypher Environmental)",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=062409a059f8128b",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/customer-service-representative-3e2acb3fa5e0b2b6",
-"salary": "$19.77-$31.11 per hour",
+"apply": "http://ca.indeed.com/job/executive-assistant-062409a059f8128b",
+"salary": "$35,000.00 per year",
 "skills": [
-"Google Workspace"
-]
+"Excel"
+],
+"req": "Coordinate outgoing shipments, courier pickups, and deliveries as required.\nProvide administrative support to team members as required.\nAssist with organizational errands and day-to-day office tasks as required.\nCoordinate and organize internal team events, including office BBQs, celebrations, team lunches, and other company gatherings.\nDuties as assigned Qualifications  Certificate, diploma, or degree in business administration, office administration, or a related field is an asset; equivalent skills and experience will be considere\nPrevious experience in a receptionist, customer service, or administrative position is preferred."
+},
+{
+"title": "Center Support Specialist",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=dc4ae6abb2ed2281",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/center-support-specialist-dc4ae6abb2ed2281",
+"salary": "$18 per hour",
+"skills": [
+"Snowflake"
+],
+"req": "Coordinate with internal teams and approved technology partners to support center setup, scheduling workflows, and service needs.\nPerform other related duties as assigned. Required skills / abilities  Excellent written and verbal communication and active-listening skills.\nAgrees with and is willing to uphold Infinite Worth’s Statement of Faith, Statement of Principle, positional statements, and organizational policies. Education and experience  High school diploma or e\nPrevious experience in customer service, client relations, account support, onboarding, administration, or a related field preferred.\nExperience with pregnancy centers, nonprofit organizations, ministries, healthcare organizations, or other mission-driven organizations preferred.\nExperience working in a remote environment preferred. Physical / remote work requirements  Prolonged periods sitting at a desk and working on a computer."
+},
+{
+"title": "RTL Design Engineer, Networking / NoC",
+"company": "OpenAI",
+"location": "Remote · United States",
+"posted": "2026-11-10T02:49:20.423+00:00",
+"link": "https://jobs.ashbyhq.com/openai/ead83ff6-7a58-43dd-b7da-b85e7ddd679c",
+"source": "OpenAI careers",
+"country": "US",
+"years": null,
+"skills": [
+"Verilog/VHDL",
+"SOC",
+"Hardware setup",
+"System design"
+],
+"req": "We're particularly interested in engineers with experience in Network-on-Chip (NoC), networking, interconnect architectures, or high-performance data movement, though the role encompasses broader RTL \nHave strong hands-on experience with ASIC RTL design and microarchitecture development using SystemVerilog or Verilog.\nHave experience designing and implementing complex digital hardware blocks, from architecture and specification through RTL development and verification.\nHave experience collaborating across architecture, software, verification, and physical design teams to develop optimized hardware solutions.\nHave experience with synthesis, timing closure, and physical implementation considerations.\nBring experience with Network-on-Chip (NoC), networking, interconnect fabrics, packet-based architectures, or high-bandwidth data movement systems.\nExperience with AI accelerators, high-performance computing, or hardware/software co-design is a plus.\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems an\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with th"
 },
 {
 "title": "AI Account Executive, Glass",
@@ -7998,6 +8031,206 @@
 "SDLC"
 ],
 "req": "Maintains system protocols by writing and updating procedures and tracking requirement changes  Provides references for QA and developers by writing and maintaining requirements and documentation of c\nSolid ability to interpret customer / business needs and translate them into application and operational requirements as well as effectively explain them to internal and external contacts or groups  S\nPractical experience with modelling tools like MS Visio  Practical experience with Analytical tools like MSQL and MS Power BI  Strong analytical, logical and business knowledge Working Environment and\nCompetitive Compensation  Comprehensive benefits program (i.e., Health Spending Account, Maternity and Parental Leave Top Up)  Hybrid working environment (2-3 days in office)  Extensive training progr"
+},
+{
+"title": "Social Research Policy Analyst",
+"company": "City of Calgary",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=f8773347838bebe3",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.calgary.ca/psc/hcm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST_FL&JobOpeningId=315531&PostingSeq=1&SiteId=1",
+"salary": "$44.01 - 58.82 per hour",
+"skills": [
+"Python",
+"R",
+"Power BI",
+"Tableau",
+"Excel",
+"Statistics",
+"Data visualization",
+"SAP"
+],
+"req": "At The City of Calgary, employees thrive, courageous ideas come to life, and public service opens possibilities. If you are motivated by public service, enjoy collaborating with others, share our valu\nProvide training and technical expertise on data collection, research design and analysis to City teams and community partners. Qualifications  A degree in a social sciences discipline or a related fi\nExperience working in and/or with Calgary's non-profit sector is considered a strong asset.\nExperience in creating dashboards using data visualization tools such as tableau and Power BI is considered an asset.\nKnowledge and/or experience conducting Value for Money (VfM), Social Return on Investment (SROI), or similar analyses is an asset.\nLocation: 315 10 Avenue SE  Audience: Internal/External  Apply By: November 18, 2026  Job ID: 315531"
+},
+{
+"title": "Full Stack Web Developer, IS",
+"company": "Mitsubishi Motor Sales of Canada Inc.",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=07d6811afe8e7491",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/pp1i255/CANDIDATEPORTAL/jobs/47",
+"skills": [
+"JavaScript",
+"TypeScript",
+"SQL",
+"HTML/CSS",
+"Angular",
+"Node.js",
+"Express",
+"Tailwind",
+"REST APIs",
+"MySQL",
+"AWS",
+"Google Cloud",
+"Terraform",
+"CI/CD",
+"Git",
+"Infrastructure as code",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"System design"
+],
+"req": "Mitsubishi Motor Sales of Canada, Inc. is an equal opportunity employer fostering an inclusive, accessible environment. We are committed to building an environment where all employees and customers fe\nDevelop and maintain backend services, business logic, and RESTful APIs, including integration with internal systems and third-party services.\nOther duties as assigned. TYPICAL EDUCATION & EXPERIENCE PROFILE  Minimum Information Technology Diploma OR, Any equivalent combination of experience, training and/or education.\nHands-on experience in web application and web service development using programming languages and technologies such as HTML5, CSS, JavaScript, and TypeScript, as well as modern frontend frameworks an\nExperience with web accessibility, performance, and end to end testing  Hands-on experience with server-side JavaScript and TypeScript development using runtime environments (e.g., Node.js), backend f\nHands-on experience with Git-based version control, including branching strategies, merging, conflict resolution, and repository management.\nExperience with collaborative software development workflows using platforms such as GitHub, including pull request management, peer code reviews, and adherence to team coding standards and best pract\nTeamwork, strong verbal and written communication skills and a dedication to purpose are must haves.\nExperience leveraging AI-powered coding tools (e.g., Claude Code, GitHub Copilot) to assist with code generation, debugging, refactor"
+},
+{
+"title": "AI & Cloud Services Professionals",
+"company": "Ericsson",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=fda9b9ac2fd5403f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.ericsson.com/careers/job/563121777585572?domain=ericsson.com",
+"salary": "$80,500 CAD",
+"skills": [
+"Python",
+"SQL",
+"Bash/Shell",
+"REST APIs",
+"LLMs / GenAI",
+"ETL / data pipelines",
+"PostgreSQL",
+"AWS",
+"Azure",
+"Kubernetes",
+"Ansible",
+"CI/CD",
+"Git",
+"Linux",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Testing (unit, automated)"
+],
+"req": "Join our Team ----------------- About this opportunity Join Ericsson in Canada as an AI & Cloud Integration Engineer. Apply your engineering experience to customer delivery across networks, cloud, sof\nWork with customer and internal teams to identify useful opportunities for automation and AI. Contribute to workflows such as log summaries, incident triage, or test ideas using approved tools and dat\nFollow security, privacy, safety, and responsible AI requirements. The skills you bring  At least three years of relevant experience in system integration, telecom or IT service delivery, deployment, \nA bachelor’s degree in engineering, computer science, telecommunications, or a related field—or equivalent practical experience.\nUnderstanding of IP networking and DNS; experience with Linux, a cloud platform such as AWS or Azure, and containers such as Kubernetes or OpenShift.\nProfessional experience writing or maintaining Python and/or Shell/Bash scripts; working knowledge of APIs, databases, SQL, Git, and JSON or YAML.\nExperience building LLM-enabled applications, tool-calling workflows, or AI agents. Practical use of an LLM or AI coding assistant, including checking outputs and understanding limitations.\nAbility to identify a focused automation or AI opportunity, explain benefits and risks, and validate results. Production AI ownership is not required.\nExperience testing and integrating systems, diagnosing issues, and collaborating with technical stakeholders. Good written and ver"
+},
+{
+"title": "Meter Technician I",
+"company": "Landis+Gyr",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=085d2386dc21eca8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.landisgyr.com/job/Kirkland-Meter-Technician-I-WA-98033/1455782533/",
+"salary": "$49,700 - $58,000 USD per year",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "At Landis+Gyr, we're helping shape the future of energy—making it more intelligent, resilient, and sustainable. As a global energy technology leader, we're accelerating the energy evolution through pu\nPerforms other duties or responsibilities as assigned or required.\nRepresents Company in a positive, professional manner when working with both internal and external customers. Key Responsibilities and Accountabilities: Responsibilities:  Investigate & troubleshoot e\nMust be flexible with work schedules, i.e., Saturday work.\nReport and correct all QHSE violations  Maintain vehicle safety by performing daily maintenance review  Participate in cross training with analysts, RF Technicians and Cross Dock Technicians Education\nBasic understanding of gas and electric theory and metering. Experience:  Basic understanding of gas and electric theory and metering. Preferred Qualifications:  Must be able to work on gas meters typ\nMust be able to work on electric meters at various heights.\nMust be able to work wearing safety equipment.\nMust be able to work on ladders and in inclement weather.\nMust be able to maintain accurate records.\nMust possess and maintain a valid driver’s license.\nDriving Status: Valid Class C - Driver's License. Driving record must meet requirements of Insurance carrier. Physical Requirements:  Typical field setting. Required to stand; walk; crouch; or handle \nMust be current with available OSHA/Safety Training provided by the Company."
+},
+{
+"title": "IT Business Analyst (Remote)",
+"company": "Koniag Government Services",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=3fe1938cd4698428",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/kgs/CANDIDATEPORTAL/jobs/16174",
+"salary": "$100,000 - $110,000 USD per year",
+"skills": [
+"Azure",
+"IAM",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Agile / Scrum",
+"ITIL"
+],
+"req": "Applications for this position will be accepted through 11/27/2026. Kadiak, LLC, a Koniag Government Services (KGS) company, is hiring an IT Business Analyst to support out client in Albuquerque, NM. \nConduct Operational Analysis on multiple systems and processes by capturing customer business requirements in order to develop alternatives analyses containing assessment matrices, gap analysis, cost \nDesired experience: Identity governance platforms such as SailPoint IdentityIQ, access certification campaigns, and Agile or Scrum delivery.\nPlan, conduct and direct the analysis of IT problems, and provides technical expertise in identifying, evaluating and recommending IT systems solutions to specific situations to improve the efficiency\nAnalyze, evaluate, and/or make recommendations for improvement in the efficiency of internal processes, administrative operations, organizations, or management.\nCustomer service skills and excellent communication skills (verbal, presentation, and written)  Ability to resolve difficult or challenging problems within the assistance of senior support or the use \nAbility to work independently within a team environment. Clearance Requirements: U. S. Citizen with ability to obtain a Public Trust Clearance. Our Equal Employment Opportunity Policy: The company is "
+},
+{
+"title": "Pattern Analyst",
+"company": "LexisNexis Risk Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=1b90bc89693e232a",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Washington-DC-18th/Pattern-Analyst_R117739",
+"salary": "$104,900 - $174,700 USD per year",
+"skills": [
+"Python"
+],
+"req": "About the Business LexisNexis Special Services Inc. (LNSSI) was founded to help government agencies create actionable intelligence and deliver data-driven decisions. We are committed to innovation and\nDevelop and maintain subject matter expertise in technical areas relevant to customer missions and apply that expertise to analysis, methodology development, briefings, training, and consultation.\nPrepare and deliver customer and command-level briefings, technical presentations, training, and analytical consultation as required.\nCollaborate with analysts, technical teams, operational personnel, and senior leadership to develop multidisciplinary solutions and support mission objectives.\nAs needed, support customer engagement and business development activities through capability demonstrations and development of customized solutions. Requirements Eligibility  Must be a U.S. citizen.\nMust possess a Top Secret security clearance with SCI eligibility. A new clearance investigation may be sponsored for highly qualified candidates.\nBachelor’s degree in a relevant discipline such as data science, criminal justice, intelligence analysis, geography, computer science, or a related field, or equivalent relevant experience.\nMinimum 3–5 years of professional experience in a government employee or contractor role performing analytical, investigative, intelligence, or data-driven mission support functions.\nAbility to obtain LexisNexis (formerly ZetX) Subject Matter Expert (SME) Certification i"
+},
+{
+"title": "COBOL Mainframe Developer",
+"company": "Kyndryl",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=03b5d4ccdcf1de47",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/NM-USA/COBOL-Mainframe-Developer_R-70978-1",
+"skills": [
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"SDLC"
+],
+"req": "Support effort estimation, planning, testing, implementation, and production validation activities. Kyndryl currently does not require employees to be fully vaccinated against COVID-19, however, if yo\n10–15 years of experience in mainframe application development and support, preferably within the healthcare industry.\nWorking hours must align with the customer's business hours, Monday through Friday, from 8:00 AM to 5:00 PM Mountain Time (MT), equivalent to 9:00 AM–6:00 PM Central Time (CT) and 10:00 AM–7:00 PM Eas\nExpertise in Job Control Language (JCL).\nStrong Production Support experience, including batch support, online support, incident resolution, break-fix analysis, and implementation of permanent fixes.\nExperience throughout the software development lifecycle, including requirements analysis, solution design, development, testing, implementation, and production support.\nExperience working directly with customer business stakeholders to understand requirements, evaluate solution options, provide recommendations, and translate business needs into technical solutions.\nPreferred Technical and Professional Experience  Experience in healthcare applications and claims processing.\nExperience in a Systems Analyst, Lead Developer, or similar customer-facing technical role.\nExperience facilitating requirements gathering sessions, solution design discussions, UAT activities, and implementation planning directly with customer business stakeholders.\nExperience estimating, coordinat"
+},
+{
+"title": "AIML Rapid Development Studio Internship",
+"company": "Fortrea",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=87527d18f8875314",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://fortrea.wd1.myworkdayjobs.com/en-US/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655",
+"salary": "$21/hr",
+"start": "Summer 2027",
+"skills": [
+"Python",
+"Java",
+"R",
+"scikit-learn",
+"TensorFlow",
+"PyTorch",
+"Machine learning",
+"ETL / data pipelines",
+"AWS",
+"Azure",
+"Google Cloud",
+"Data structures & algorithms"
+],
+"req": "Continuous Learning and Development: Engage in ongoing learning opportunities to expand knowledge in AI/ML. Attend workshops, webinars, and team discussions to stay updated on the latest industry adva\nExperience with programming languages commonly used in AI/ML, such as Python, R, or Java.\nPrevious project or internship experience in AI/ML is a plus but not required Qualifications (Minimum Required): Fortrea may consider relevant and equivalent experience in lieu of educational requirem"
+},
+{
+"title": "Technical Sales Representative - TN",
+"company": "Emerson",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=f51a5a6f173e1c79",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26013559?utm_medium=jobboard&utm_source=indeed",
+"req": "Identify and pursue new business opportunities—from initial lead identification through purchase order—to maximize the full product and service portfolio  Collaborate closely with internal partners, i\nMaintain accurate documentation of activities, forecasts, and account insights in CRM systems. Who You Are:You effectively communicate in various settings: one-on-one, small and large groups, or among\n1+ year of related technical sales experience  Valid Driver’s License  Self-motivated and able to work independently with minimal supervision  Willingness and ability to travel within territory as req"
 },
 {
 "title": "Business Information Security Officer, Audit & Assurance",
