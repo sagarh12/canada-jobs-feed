@@ -1,45 +1,6 @@
 {
-"updated": "2026-11-10T00:49:49+00:00",
+"updated": "2026-11-10T00:59:50+00:00",
 "jobs": [
-{
-"title": "Business Operations Analyst - Customer Operations",
-"company": "NextLabs, Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-10",
-"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
-"salary": "$18.00 per hour",
-"skills": [
-"AWS",
-"System design",
-"SAP"
-],
-"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
-},
-{
-"title": "Specialist - Data Engineering",
-"company": "LTM Limited",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-10",
-"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
-"salary": "$79,851.00 to $113,900.00 per year",
-"skills": [
-"Scala",
-"Spark",
-"Hadoop",
-"ETL / data pipelines",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"System design"
-]
-},
 {
 "title": "Java, Angular Engineer REQ_181",
 "company": "3Pillar Global",
@@ -72,6 +33,107 @@
 "System design"
 ],
 "req": "3Pillar is an AI transformation partner on a mission to help enterprises build the AI-native products and intelligent agents that will define the next era of business. With teams across North America,\nClient-facing experience and strong communication skills.\nIndependently drive project delivery within defined architecture, demonstrating autonomy and accountability in all stages from conceptualization to deployment. Minimum Qualifications:  Bachelor’s degr\nA minimum of 8+ years of experience/expertise in the following areas specified below: + Solid software development experience using Java. + Experience building applications using Spring, SpringBoot an\nExperience in Agile software development methodologies.\nExpertise in applying Object-Oriented Programming principles (abstraction, encapsulation).\nExperience in creating and implementing well-tested, scalable, and performant enterprise-level systems.\nExperience implementing Unit, Integration and End-to-End Testing.\nClient-facing experience and strong communication skills. Additional Experience Desired:  Struts, Backbone, Marionette  Architectural (Microservices, Serverless etc) and Design (Factory, Singleton, Ob"
+},
+{
+"title": "Specialist - Data Engineering",
+"company": "LTM Limited",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
+"salary": "$79,851.00 to $113,900.00 per year",
+"skills": [
+"Scala",
+"Spark",
+"Hadoop",
+"ETL / data pipelines",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "Business Operations Analyst - Customer Operations",
+"company": "NextLabs, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
+"salary": "$18.00 per hour",
+"skills": [
+"AWS",
+"System design",
+"SAP"
+],
+"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
+},
+{
+"title": "SOC Engineer",
+"company": "Replit",
+"location": "Remote · United States",
+"posted": "2026-11-10T01:00:08.752+00:00",
+"link": "https://jobs.ashbyhq.com/replit/563751ea-cb0b-412e-ae07-c5638b87f81a",
+"source": "Replit careers",
+"country": "US",
+"years": null,
+"quals": [
+"Building and evolving the security data lake, unifying cloud, identity, endpoint, and application telemetry; hands-on experience with SIEM, ",
+"Engineering reliable security infrastructure and automation using infrastructure-as-code to close visibility gaps and perform log-based inve",
+"Proven expertise in detection engineering end-to-end, specifically developing, testing, and tuning custom detection rules to maximize threat",
+"Strong understanding of software engineering fundamentals (code structure, build systems, dependencies, package ecosystems)."
+],
+"skills": [
+"Python",
+"Go",
+"Bash/Shell",
+"Machine learning",
+"ETL / data pipelines",
+"Google Cloud",
+"Kubernetes",
+"CI/CD",
+"Serverless",
+"SIEM",
+"SOC",
+"Vulnerability management",
+"Threat intelligence",
+"System design"
+],
+"req": "We are looking for a SOC Engineer to join our Security Operations team and help defend a fast-moving, cloud-native AI vibe-coding platform. In this role, your primary mandate will be building and evol\nThreat Awareness & Rapid Assessment: Continuously monitor emerging threats (0-days, bad actor activity, public exploitation campaigns, bug bounty reports, customer security issues) and rapidly assess \nRequired Skills & Experience\nBuilding and evolving the security data lake, unifying cloud, identity, endpoint, and application telemetry; hands-on experience with SIEM, Cloud Logging, and log-based investigation workflows.\nProven expertise in detection engineering end-to-end, specifically developing, testing, and tuning custom detection rules to maximize threat coverage and reduce noise across complex environments.\nBonus Qualifications\nExperience with threat intelligence, security research, or vulnerability analysis.\nExperience working with bug bounty programs or coordinated vulnerability disclosure workflows.\nExperience in fast-paced, cloud-native, or AI/ML-driven environments.\nTo achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this pr"
+},
+{
+"title": "Product Design Intern (USA)",
+"company": "Pinterest",
+"location": "Remote · United States",
+"posted": "2026-11-09T19:58:51-05:00",
+"link": "https://www.pinterestcareers.com/jobs/?gh_jid=8350814",
+"source": "Pinterest careers",
+"country": "US",
+"years": null
+},
+{
+"title": "Android Engineer, Growth",
+"company": "OpenAI",
+"location": "Remote · United States",
+"posted": "2026-11-10T00:56:19.893+00:00",
+"link": "https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c",
+"source": "OpenAI careers",
+"country": "US",
+"years": 4,
+"skills": [
+"Kotlin",
+"REST APIs",
+"LLMs / GenAI",
+"A/B testing",
+"Hardware setup",
+"Mobile (iOS / Android)"
+],
+"req": "The Growth team is responsible for helping millions of users discover the value of ChatGPT and seamlessly access our paid experiences. We build the mobile experiences that drive activation, conversion\nOur work sits at the intersection of product, design, engineering, and experimentation. We own critical user journeys including upgrade surfaces, purchase experiences, subscription management, and the\nAs an Android Engineer on Growth, you'll help shape how users experience and engage with ChatGPT's paid offerings on one of our most important platforms.\nWe're looking for an Android engineer who enjoys building polished consumer experiences and using data to improve them over time.\nYou'll develop the mobile surfaces that power subscription growth, including upsells, upgrade prompts, purchase flows, entitlement experiences, and other high-impact product initiatives. You'll collab\nDevelop subscription experiences including paywalls, upgrade prompts, purchase flows, and entitlement management.\nUse experimentation and user insights to continuously improve the paid user experience.\nHelp maintain a fast, reliable, and delightful mobile experience for millions of users.\n4+ years of professional software engineering experience, including meaningful Android experience.\nExperience integrating backend APIs and building robust client-side architectures.\nExperience using data and experimentation to inform decisions and iterate quickly.\nOpenAI is an AI research and deployment company dedicated "
 },
 {
 "title": "Forward Deployed Engineer",
@@ -5966,7 +6028,7 @@
 "req": "Training Goals & Graduation Requirements: Each week of training includes specific performance goals you must meet to advance, including sales targets in the final weeks. Meeting these goals is require\nSchedule Option 1: Mon, Fri, Sun: 1:00 PM–10:00 PM | Tue, Sat: 7:00 AM–4:00 PM | Days off: Wed–Thu  Schedule Option 2: Mon, Tue, Sat: 1:00 PM–10:00 PM | Fri, Sun: 7:00 AM–4:00 PM | Days off: Wed–Thu  \nReward for contribution: Pay rises with impact, not years. Outstanding results earn outsized rewards. We evaluate both what you achieve and how you achieve it: living our leadership principles and usi\nSupercharge with AI: Gain exclusive access to cutting-edge AI tools that boost your productivity, making you feel almost super-human (cape not included). Requirements:  Bachelor's degree preferred  3+"
 },
 {
-"title": "Data Integration Engineer-Federal Health IT",
+"title": "Data Integration Engineer — Federal Health IT",
 "company": "Rackner",
 "location": "Remote · United States",
 "posted": "2026-11-09",
@@ -5983,9 +6045,9 @@
 "ETL / data pipelines",
 "CI/CD",
 "Monitoring",
-"System design"
+"Help desk / troubleshooting"
 ],
-"req": "Data Integration Engineer-Federal Health IT ================================================ Location: Remote (U.S.-based) Clearance: Public Trust Rackner is seeking a Data Integration Engineer that w\nQualifications  Minimum of 4 years of experience in data engineering, data integration, or a related technical field.\nStrong technical expertise in API integrations and automation  Proficiency in Python, SQL, and REST APIs for data processing, integration, and automation.\nExperience implementing and maintaining Continuous Integration/Continuous Deployment (CI/CD) pipelines.\nPreferred Qualifications  Experience with Microsoft Power Platform and Dataverse.\nExperience integrating data from enterprise healthcare, business intelligence, or other complex data environments. About Rackner Rackner builds mission-critical systems for the U.S. government across "
+"req": "Document technical interfaces and integration dependencies within established architecture inventories, and collaborate with solution architects to support interface reviews and approvals. Qualificati\nExperience using CI/CD processes to support version control, testing, and delivery of data engineering changes.\nEligibility for a Tier 3 federal background investigation and ability to meet applicable personnel-vetting requirements. Preferred Qualifications  Experience with Microsoft Power Platform and Datavers\nIntegrating data within federal healthcare technology environments or comparable large-scale enterprise data platforms. About Rackner At Rackner, we develop and support technology solutions that help "
 },
 {
 "title": "Testing Infrastructure & DevOps Specialist",
@@ -6921,6 +6983,147 @@
 "System design"
 ],
 "req": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, "
+},
+{
+"title": "Business Analyst (IT)",
+"company": "EPCOR",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=93378e194f91a830",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://app.jobvite.com/CompanyJobs/Job.aspx?j=owY5AfwT&s=Indeed",
+"salary": "$56.15 per hour",
+"skills": [
+"Oracle",
+"Agile / Scrum",
+"SDLC"
+],
+"req": "Provide business analysis input and recommendations to end users and project teams across EPCOR. What’s required to be successful A degree or diploma in Business, Management Information Systems, Compu\n4+ years of experience in IT business analysis supporting enterprise application initiatives is required.\nExperience participating in at least one large-scale ERP, EAM, or enterprise business transformation implementation through requirements gathering, design, testing, deployment, and post-production sup\nExperience facilitating or actively participating in business process discovery, fit-gap analysis, requirements gathering, and solution design workshops.\nExperience analyzing and documenting functional requirements, business processes, information needs, business rules, decisions, integrations, and data flows.\nExperience supporting enterprise data migration activities, including data mapping, validation, reconciliation, and business sign-off.\nExperience supporting Integration System Testing (IST), User Acceptance Testing (UAT), and end-to-end business process testing.\nExperience supporting IBM Maximo or another Enterprise Asset Management (EAM) platform, with IBM Maximo strongly preferred.\nExperience working in Agile and/or iterative delivery environments.\nA strong work ethic and professional approach when working in a visible Information Services environment. Preferred Qualifications 3+ years of experience supporting Oracle Fusion Cloud applications.\nExperience supporting Orac"
+},
+{
+"title": "Analyst, Retail, North American Finance Operations",
+"company": "Nutrien",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=286ea8e72e07b34e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://career17.sapsf.com/career?company=nutrien&career_ns=job_listing&career_job_req_id=35317&lang=en_US&source=Indeed"
+},
+{
+"title": "Support Specialist",
+"company": "Quandri",
+"location": "Remote, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=5909bcd06683eeab",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.lever.co/quandri/d3a88e3b-e002-4d7b-bd40-61cbf8a2a6d6?lever-source=Indeed",
+"salary": "$60k - $80k CAD",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Who we are -------------- Our mission at Quandri is to transform insurance into a trusted and delightful experience using AI. We are building the AI operating system for North America’s best insurance\nCollaborate closely with multiple internal stakeholders, serving as a liaison to relay customer feedback and contribute suggestions for product enhancements or bug fixes.\nTake ownership of projects to help improve the support team, our overall customer service and cross-collaboration with internal stakeholders.\nThe right person for this role will have:  3+ years direct experience working in customer support  Strong understanding of AI and automation technologies  Based on the West Coast or ability to work st"
+},
+{
+"title": "Technical Support Specialist",
+"company": "Versapay",
+"location": "Remote, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=db1c3fdc9a9ceb08",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.lever.co/versapay/236973df-3f2f-4ea0-b36e-2954ff83f2c2?lever-source=Indeed",
+"salary": "$300",
+"skills": [
+"SQL",
+"REST APIs",
+"ETL / data pipelines",
+"Oracle",
+"Help desk / troubleshooting",
+"Jira",
+"Salesforce",
+"SAP"
+],
+"req": "Perform in-depth log analysis, error tracing, and root cause analysis using tools such as Jira, Salesforce, and internal monitoring platforms.\nAct as a technical SME during client escalation calls, providing expertise on system architecture, data flows, and configuration best practices.\nLiaise with ecosystem partners and third-party vendors to resolve cross-platform issues. Documentation & Knowledge Management: Create and maintain advanced troubleshooting guides, runbooks, and intern\nManage high-visibility or complex cases end-to-end, ensuring timely updates and expectation management for both customers and internal stakeholders.\nWhat you'll bring to the team: Technical Skills & Qualifications: Proven experience supporting ERP systems (e.g., SAP, Oracle, NetSuite, Microsoft Dynamics) or complex SaaS platforms.\nExperience with system upgrades, patch management, and regression testing."
+},
+{
+"title": "Program Developer - Bachelor of Social Work",
+"company": "Medicine Hat College",
+"location": "Medicine Hat, AB, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=abeb9214be847fce",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://www.mhc.ab.ca/about-mhc/careers/current-openings/126223-program-developer-social-work",
+"salary": "$65,000 - $70,000",
+"req": "Competition Number: 126223 Type: Contract Closing Date: OPEN Category: Contract Medicine Hat College invites applications for a full-time contract Program Developer to develop a new Bachelor of Social\nA little about the role: Based on labour market data, student demand, and community consultations, Medicine Hat College believes that a Bachelor of Social Work would meet the workforce needs of SE Alb\nResearch experience and experience in a postsecondary setting highly preferred.\n5 years of experience as a Registered Social Worker.\nProgram/course development experience is an asset.\nDemonstrated project management skills required, including strong communication, planning, organization, and time management."
+},
+{
+"title": "Junior Software Engineer",
+"company": "CSC Generation",
+"location": "Remote, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=75bc3148d4ce234b",
+"source": "Indeed",
+"country": "CA",
+"years": 0,
+"apply": "https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185?lever-source=Indeed",
+"skills": [
+"JavaScript",
+"TypeScript",
+"HTML/CSS",
+"React",
+"Next.js",
+"Node.js",
+"REST APIs"
+],
+"req": "Design Your Future With Us. Creativity lives here. We celebrate craftsmanship, design, and inspired living. Whether you are in marketing, tech, or logistics, your voice and vision matter. We showcase \nWork with senior engineers to break down requirements into small, shippable pieces and implement them end to end.\nRequired Qualifications  Experience with JavaScript or TypeScript through coursework, internships, personal projects, bootcamps, or 0–3 years of professional work.\nHands-on experience with React and component-based UI development, including state management and basic forms.\nPreferred Qualifications  Experience with a web framework such as Express, Next.js, or similar.\nExperience with e-commerce, design systems, or component libraries.\nTeam Environment: You will work alongside senior engineers who invest in your growth through code review, pairing, and real-time feedback — not abstract mentorship.\nAI-First Skill Building: Hands-on experience using AI-assisted development tools with the same expectations we have for any production code: reviewable, testable, and maintainable.\nDue to a high volume of fraudulent applications, you must share a valid LinkedIn profile URL in the application questions below to be considered. If you do not have a LinkedIn profile, you must provid"
+},
+{
+"title": "Support Specialist",
+"company": "Quandri",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=0b498cdfc9c811c9",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.lever.co/quandri/d3a88e3b-e002-4d7b-bd40-61cbf8a2a6d6?lever-source=Indeed",
+"salary": "$60k - $80k CAD",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Who we are -------------- Our mission at Quandri is to transform insurance into a trusted and delightful experience using AI. We are building the AI operating system for North America’s best insurance\nCollaborate closely with multiple internal stakeholders, serving as a liaison to relay customer feedback and contribute suggestions for product enhancements or bug fixes.\nTake ownership of projects to help improve the support team, our overall customer service and cross-collaboration with internal stakeholders.\nThe right person for this role will have:  3+ years direct experience working in customer support  Strong understanding of AI and automation technologies  Based on the West Coast or ability to work st"
+},
+{
+"title": "Technical Support Specialist",
+"company": "Versapay",
+"location": "Remote · United States",
+"posted": "2026-11-09",
+"link": "https://www.indeed.com/viewjob?jk=8779834a36db0a3a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.lever.co/versapay/764d379d-7cd8-4cf4-8066-377d99f1d220?lever-source=Indeed",
+"salary": "$70,000 - $75,000 USD per year",
+"skills": [
+"SQL",
+"REST APIs",
+"ETL / data pipelines",
+"Oracle",
+"Help desk / troubleshooting",
+"Jira",
+"Salesforce",
+"SAP"
+],
+"req": "Perform in-depth log analysis, error tracing, and root cause analysis using tools such as Jira, Salesforce, and internal monitoring platforms.\nAct as a technical SME during client escalation calls, providing expertise on system architecture, data flows, and configuration best practices.\nLiaise with ecosystem partners and third-party vendors to resolve cross-platform issues. Documentation & Knowledge Management: Create and maintain advanced troubleshooting guides, runbooks, and intern\nManage high-visibility or complex cases end-to-end, ensuring timely updates and expectation management for both customers and internal stakeholders.\nWhat you'll bring to the team: Technical Skills & Qualifications: Proven experience supporting ERP systems (e.g., SAP, Oracle, NetSuite, Microsoft Dynamics) or complex SaaS platforms.\nExperience with system upgrades, patch management, and regression testing."
 },
 {
 "title": "Business Information Security Officer, Audit & Assurance",
