@@ -1,45 +1,6 @@
 {
-"updated": "2026-11-10T01:29:45+00:00",
+"updated": "2026-11-10T01:39:51+00:00",
 "jobs": [
-{
-"title": "Business Operations Analyst - Customer Operations",
-"company": "NextLabs, Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-10",
-"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
-"salary": "$18.00 per hour",
-"skills": [
-"AWS",
-"System design",
-"SAP"
-],
-"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
-},
-{
-"title": "Specialist - Data Engineering",
-"company": "LTM Limited",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-10",
-"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
-"salary": "$79,851.00 to $113,900.00 per year",
-"skills": [
-"Scala",
-"Spark",
-"Hadoop",
-"ETL / data pipelines",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"System design"
-]
-},
 {
 "title": "Java, Angular Engineer REQ_181",
 "company": "3Pillar Global",
@@ -72,6 +33,45 @@
 "System design"
 ],
 "req": "3Pillar is an AI transformation partner on a mission to help enterprises build the AI-native products and intelligent agents that will define the next era of business. With teams across North America,\nClient-facing experience and strong communication skills.\nIndependently drive project delivery within defined architecture, demonstrating autonomy and accountability in all stages from conceptualization to deployment. Minimum Qualifications:  Bachelor’s degr\nA minimum of 8+ years of experience/expertise in the following areas specified below: + Solid software development experience using Java. + Experience building applications using Spring, SpringBoot an\nExperience in Agile software development methodologies.\nExpertise in applying Object-Oriented Programming principles (abstraction, encapsulation).\nExperience in creating and implementing well-tested, scalable, and performant enterprise-level systems.\nExperience implementing Unit, Integration and End-to-End Testing.\nClient-facing experience and strong communication skills. Additional Experience Desired:  Struts, Backbone, Marionette  Architectural (Microservices, Serverless etc) and Design (Factory, Singleton, Ob"
+},
+{
+"title": "Specialist - Data Engineering",
+"company": "LTM Limited",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
+"salary": "$79,851.00 to $113,900.00 per year",
+"skills": [
+"Scala",
+"Spark",
+"Hadoop",
+"ETL / data pipelines",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "Business Operations Analyst - Customer Operations",
+"company": "NextLabs, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
+"salary": "$18.00 per hour",
+"skills": [
+"AWS",
+"System design",
+"SAP"
+],
+"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
 },
 {
 "title": "Recruiter, Data Center Infrastructure",
