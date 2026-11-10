@@ -1,6 +1,45 @@
 {
-"updated": "2026-11-10T00:59:50+00:00",
+"updated": "2026-11-10T01:09:45+00:00",
 "jobs": [
+{
+"title": "Business Operations Analyst - Customer Operations",
+"company": "NextLabs, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
+"salary": "$18.00 per hour",
+"skills": [
+"AWS",
+"System design",
+"SAP"
+],
+"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
+},
+{
+"title": "Specialist - Data Engineering",
+"company": "LTM Limited",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
+"salary": "$79,851.00 to $113,900.00 per year",
+"skills": [
+"Scala",
+"Spark",
+"Hadoop",
+"ETL / data pipelines",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+]
+},
 {
 "title": "Java, Angular Engineer REQ_181",
 "company": "3Pillar Global",
@@ -35,45 +74,6 @@
 "req": "3Pillar is an AI transformation partner on a mission to help enterprises build the AI-native products and intelligent agents that will define the next era of business. With teams across North America,\nClient-facing experience and strong communication skills.\nIndependently drive project delivery within defined architecture, demonstrating autonomy and accountability in all stages from conceptualization to deployment. Minimum Qualifications:  Bachelor’s degr\nA minimum of 8+ years of experience/expertise in the following areas specified below: + Solid software development experience using Java. + Experience building applications using Spring, SpringBoot an\nExperience in Agile software development methodologies.\nExpertise in applying Object-Oriented Programming principles (abstraction, encapsulation).\nExperience in creating and implementing well-tested, scalable, and performant enterprise-level systems.\nExperience implementing Unit, Integration and End-to-End Testing.\nClient-facing experience and strong communication skills. Additional Experience Desired:  Struts, Backbone, Marionette  Architectural (Microservices, Serverless etc) and Design (Factory, Singleton, Ob"
 },
 {
-"title": "Specialist - Data Engineering",
-"company": "LTM Limited",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-10",
-"link": "https://ca.indeed.com/viewjob?jk=0504e726c57a74b5",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://ltm.ripplehire.com/candidate/?token=GnjA23AjaMwrZAfgDpg5&lang=en&source=INDEED&ref=INDEED#detail/job/905388",
-"salary": "$79,851.00 to $113,900.00 per year",
-"skills": [
-"Scala",
-"Spark",
-"Hadoop",
-"ETL / data pipelines",
-"Help desk / troubleshooting",
-"Agile / Scrum",
-"System design"
-]
-},
-{
-"title": "Business Operations Analyst - Customer Operations",
-"company": "NextLabs, Inc.",
-"location": "Remote · United States",
-"posted": "2026-11-10",
-"link": "https://www.indeed.com/viewjob?jk=19fd5aded23131bd",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/business-operations-analyst-customer-operations-19fd5aded23131bd",
-"salary": "$18.00 per hour",
-"skills": [
-"AWS",
-"System design",
-"SAP"
-],
-"req": "Serve as a point of operational continuity—ensuring that even in fast-moving, high-pressure situations, customers experience a smooth, professional, and consistent process. Experience and Qualificatio"
-},
-{
 "title": "SOC Engineer",
 "company": "Replit",
 "location": "Remote · United States",
@@ -104,7 +104,7 @@
 "Threat intelligence",
 "System design"
 ],
-"req": "We are looking for a SOC Engineer to join our Security Operations team and help defend a fast-moving, cloud-native AI vibe-coding platform. In this role, your primary mandate will be building and evol\nThreat Awareness & Rapid Assessment: Continuously monitor emerging threats (0-days, bad actor activity, public exploitation campaigns, bug bounty reports, customer security issues) and rapidly assess \nRequired Skills & Experience\nBuilding and evolving the security data lake, unifying cloud, identity, endpoint, and application telemetry; hands-on experience with SIEM, Cloud Logging, and log-based investigation workflows.\nProven expertise in detection engineering end-to-end, specifically developing, testing, and tuning custom detection rules to maximize threat coverage and reduce noise across complex environments.\nBonus Qualifications\nExperience with threat intelligence, security research, or vulnerability analysis.\nExperience working with bug bounty programs or coordinated vulnerability disclosure workflows.\nExperience in fast-paced, cloud-native, or AI/ML-driven environments.\nTo achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this pr"
+"req": "We are looking for a SOC Engineer to join our Security Operations team and help defend a fast-moving, cloud-native AI vibe-coding platform. In this role, your primary mandate will be building and evol\nThreat Awareness & Rapid Assessment: Continuously monitor emerging threats (0-days, bad actor activity, public exploitation campaigns, bug bounty reports, customer security issues) and rapidly assess \nRequired Skills & Experience:\nBuilding and evolving the security data lake, unifying cloud, identity, endpoint, and application telemetry; hands-on experience with SIEM, Cloud Logging, and log-based investigation workflows.\nProven expertise in detection engineering end-to-end, specifically developing, testing, and tuning custom detection rules to maximize threat coverage and reduce noise across complex environments.\nBonus Qualifications:\nExperience with threat intelligence, security research, or vulnerability analysis.\nExperience working with bug bounty programs or coordinated vulnerability disclosure workflows.\nExperience in fast-paced, cloud-native, or AI/ML-driven environments.\nTo achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this pr"
 },
 {
 "title": "Product Design Intern (USA)",
