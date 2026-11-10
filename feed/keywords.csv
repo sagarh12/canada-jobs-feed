@@ -1,44 +1,44 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,45%,2449,974,2449,2026-11-10
-2,SQL,Language,24%,1313,514,1313,2026-11-10
-3,REST APIs,Framework,24%,1298,488,1298,2026-11-10
-4,Python,Language,22%,1230,478,1230,2026-11-10
-5,Excel,Data & AI,21%,1166,477,1166,2026-11-10
-6,Hardware setup,IT support,19%,1057,427,1057,2026-11-10
-7,System design,Practice,19%,1017,376,1017,2026-11-10
-8,Microsoft 365,IT support,16%,876,359,876,2026-11-10
-9,Azure,Cloud & DevOps,16%,865,325,865,2026-11-10
-10,Agile / Scrum,Practice,15%,836,303,836,2026-11-10
+1,Help desk / troubleshooting,IT support,45%,2452,977,2452,2026-11-10
+2,SQL,Language,24%,1317,518,1317,2026-11-10
+3,REST APIs,Framework,24%,1300,490,1300,2026-11-10
+4,Python,Language,22%,1231,479,1231,2026-11-10
+5,Excel,Data & AI,21%,1169,480,1169,2026-11-10
+6,Hardware setup,IT support,19%,1058,428,1058,2026-11-10
+7,System design,Practice,19%,1020,379,1020,2026-11-10
+8,Microsoft 365,IT support,16%,877,360,877,2026-11-10
+9,Azure,Cloud & DevOps,16%,866,326,866,2026-11-10
+10,Agile / Scrum,Practice,15%,838,305,838,2026-11-10
 11,Git,Cloud & DevOps,13%,725,272,725,2026-11-10
-12,CI/CD,Cloud & DevOps,13%,715,276,715,2026-11-10
+12,CI/CD,Cloud & DevOps,13%,716,277,716,2026-11-10
 13,AWS,Cloud & DevOps,13%,696,252,696,2026-11-10
 14,Windows,IT support,13%,695,271,695,2026-11-10
-15,Cybersecurity,Security,11%,612,216,612,2026-11-10
+15,Cybersecurity,Security,11%,613,217,613,2026-11-10
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,605,229,605,2026-11-10
 17,IAM,Security,11%,596,236,596,2026-11-10
-18,"Ticketing (ServiceNow, Jira)",IT support,11%,595,243,595,2026-11-10
-19,Power BI,Data & AI,10%,548,211,548,2026-11-10
-20,JavaScript,Language,10%,545,196,545,2026-11-10
-21,"Testing (unit, automated)",Practice,9%,517,209,517,2026-11-10
-22,LLMs / GenAI,Data & AI,9%,500,177,500,2026-11-10
-23,Statistics,Data & AI,9%,498,184,498,2026-11-10
-24,Java,Language,8%,465,172,465,2026-11-10
+18,"Ticketing (ServiceNow, Jira)",IT support,11%,596,244,596,2026-11-10
+19,Power BI,Data & AI,10%,550,213,550,2026-11-10
+20,JavaScript,Language,10%,546,197,546,2026-11-10
+21,"Testing (unit, automated)",Practice,9%,518,210,518,2026-11-10
+22,LLMs / GenAI,Data & AI,9%,501,178,501,2026-11-10
+23,Statistics,Data & AI,9%,499,185,499,2026-11-10
+24,Java,Language,8%,466,173,466,2026-11-10
 25,Linux,Cloud & DevOps,8%,457,168,457,2026-11-10
 26,C,Language,8%,419,158,419,2026-11-10
-27,ETL / data pipelines,Data & AI,8%,416,149,416,2026-11-10
-28,Jira,Practice,7%,394,156,394,2026-11-10
+27,ETL / data pipelines,Data & AI,8%,418,151,418,2026-11-10
+28,Jira,Practice,7%,396,158,396,2026-11-10
 29,Machine learning,Data & AI,7%,393,165,393,2026-11-10
-30,HTML/CSS,Language,7%,378,134,378,2026-11-10
+30,HTML/CSS,Language,7%,379,135,379,2026-11-10
 31,Docker,Cloud & DevOps,6%,344,133,344,2026-11-10
 32,React,Framework,6%,342,127,342,2026-11-10
 33,Monitoring,Cloud & DevOps,6%,332,128,332,2026-11-10
 34,Kubernetes,Cloud & DevOps,6%,328,109,328,2026-11-10
 35,TypeScript,Language,6%,308,118,308,2026-11-10
-36,SQL Server,Database,6%,302,99,302,2026-11-10
-37,Vulnerability management,Security,6%,302,125,302,2026-11-10
-38,Oracle,Database,5%,298,100,298,2026-11-10
-39,Salesforce,Practice,5%,297,126,297,2026-11-10
-40,SDLC,Practice,5%,279,104,279,2026-11-10
+36,SQL Server,Database,6%,303,100,303,2026-11-10
+37,Vulnerability management,Security,5%,302,125,302,2026-11-10
+38,Oracle,Database,5%,299,101,299,2026-11-10
+39,Salesforce,Practice,5%,298,127,298,2026-11-10
+40,SDLC,Practice,5%,280,105,280,2026-11-10
 41,Data structures & algorithms,Practice,5%,274,103,274,2026-11-10
 42,Google Cloud,Cloud & DevOps,5%,274,102,274,2026-11-10
 43,PowerShell,Language,5%,263,103,263,2026-11-10
@@ -50,26 +50,26 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 49,C++,Language,4%,225,86,225,2026-11-10
 50,Incident response,Security,4%,224,69,224,2026-11-10
 51,SOC,Security,4%,221,76,221,2026-11-10
-52,Tableau,Data & AI,4%,220,82,220,2026-11-10
+52,Tableau,Data & AI,4%,221,83,221,2026-11-10
 53,PostgreSQL,Database,4%,213,67,213,2026-11-10
 54,Terraform,Cloud & DevOps,4%,208,80,208,2026-11-10
 55,SAP,Practice,4%,203,88,203,2026-11-10
 56,Data visualization,Data & AI,4%,201,76,201,2026-11-10
 57,Mobile (iOS / Android),Practice,4%,201,71,201,2026-11-10
 58,NIST / ISO 27001,Security,4%,195,69,195,2026-11-10
-59,Infrastructure as code,Cloud & DevOps,3%,190,81,190,2026-11-10
-60,Google Workspace,IT support,3%,189,89,189,2026-11-10
+59,Google Workspace,IT support,3%,190,90,190,2026-11-10
+60,Infrastructure as code,Cloud & DevOps,3%,190,81,190,2026-11-10
 61,Microservices,Cloud & DevOps,3%,187,74,187,2026-11-10
 62,Node.js,Framework,3%,178,66,178,2026-11-10
 63,macOS,IT support,3%,178,56,178,2026-11-10
 64,VMware / virtualization,IT support,3%,176,68,176,2026-11-10
-65,Object-oriented programming,Practice,3%,166,60,166,2026-11-10
-66,Encryption / PKI,Security,3%,165,45,165,2026-11-10
+65,Encryption / PKI,Security,3%,166,46,166,2026-11-10
+66,Object-oriented programming,Practice,3%,166,60,166,2026-11-10
 67,Jenkins,Cloud & DevOps,3%,159,62,159,2026-11-10
 68,Databricks,Data & AI,3%,156,55,156,2026-11-10
 69,CompTIA A+,Certification,3%,152,66,152,2026-11-10
 70,Spark,Data & AI,3%,149,68,149,2026-11-10
-71,Angular,Framework,3%,138,46,138,2026-11-10
+71,Angular,Framework,3%,139,47,139,2026-11-10
 72,MySQL,Database,2%,134,44,134,2026-11-10
 73,EDR,Security,2%,133,47,133,2026-11-10
 74,Go,Language,2%,122,40,122,2026-11-10
@@ -80,7 +80,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 79,GitHub Actions,Cloud & DevOps,2%,113,31,113,2026-11-10
 80,GitLab,Cloud & DevOps,2%,110,40,110,2026-11-10
 81,RAG,Data & AI,2%,108,44,108,2026-11-10
-82,R,Language,2%,104,40,104,2026-11-10
+82,R,Language,2%,105,41,105,2026-11-10
 83,CompTIA Network+,Certification,2%,101,30,101,2026-11-10
 84,Ansible,Cloud & DevOps,2%,99,39,99,2026-11-10
 85,Cloud security,Security,2%,96,29,96,2026-11-10
@@ -98,15 +98,15 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 97,Next.js,Framework,1%,56,22,56,2026-11-10
 98,Vue,Framework,1%,55,18,55,2026-11-10
 99,CCNA,Certification,1%,53,24,53,2026-11-10
-100,AWS certification,Certification,1%,51,19,51,2026-11-10
-101,Airflow,Data & AI,1%,51,17,51,2026-11-10
-102,BigQuery,Database,1%,51,18,51,2026-11-10
+100,BigQuery,Database,1%,52,19,52,2026-11-10
+101,AWS certification,Certification,1%,51,19,51,2026-11-10
+102,Airflow,Data & AI,1%,51,17,51,2026-11-10
 103,GraphQL,Framework,1%,51,28,51,2026-11-10
 104,Vector databases,Database,1%,51,17,51,2026-11-10
 105,Penetration testing,Security,1%,49,18,49,2026-11-10
 106,Elasticsearch,Database,1%,47,19,47,2026-11-10
-107,Azure certification,Certification,1%,46,18,46,2026-11-10
-108,Looker,Data & AI,1%,46,10,46,2026-11-10
+107,Looker,Data & AI,1%,47,11,47,2026-11-10
+108,Azure certification,Certification,1%,46,18,46,2026-11-10
 109,Ruby,Language,1%,46,15,46,2026-11-10
 110,Swift,Language,1%,46,20,46,2026-11-10
 111,NLP,Data & AI,1%,45,10,45,2026-11-10
@@ -118,18 +118,18 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 117,Pandas,Data & AI,1%,39,14,39,2026-11-10
 118,FastAPI,Framework,1%,36,13,36,2026-11-10
 119,DynamoDB,Database,1%,35,11,35,2026-11-10
-120,Computer vision,Data & AI,1%,34,12,34,2026-11-10
-121,Kotlin,Language,1%,34,8,34,2026-11-10
-122,LangChain,Data & AI,1%,34,13,34,2026-11-10
-123,Rust,Language,1%,34,7,34,2026-11-10
-124,A/B testing,Data & AI,1%,33,10,33,2026-11-10
+120,A/B testing,Data & AI,1%,34,11,34,2026-11-10
+121,Computer vision,Data & AI,1%,34,12,34,2026-11-10
+122,Kotlin,Language,1%,34,8,34,2026-11-10
+123,LangChain,Data & AI,1%,34,13,34,2026-11-10
+124,Rust,Language,1%,34,7,34,2026-11-10
 125,MATLAB,Language,1%,33,17,33,2026-11-10
 126,Deep learning,Data & AI,1%,31,18,31,2026-11-10
 127,Django,Framework,1%,31,10,31,2026-11-10
 128,Scala,Language,1%,31,13,31,2026-11-10
 129,React Native,Framework,1%,30,15,30,2026-11-10
 130,Ruby on Rails,Framework,1%,30,10,30,2026-11-10
-131,jQuery,Framework,1%,29,9,29,2026-11-10
+131,jQuery,Framework,1%,30,10,30,2026-11-10
 132,Hadoop,Data & AI,1%,28,10,28,2026-11-10
 133,TensorFlow,Data & AI,1%,28,14,28,2026-11-10
 134,Flask,Framework,0%,24,9,24,2026-11-10
@@ -154,4 +154,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 153,C#,Language,0%,3,0,3,2026-11-10
 154,Solidity,Language,0%,1,0,1,2026-11-10
 
-,Based on 5485 postings in the last 30 days (5485 all time)
+,Based on 5492 postings in the last 30 days (5492 all time)
