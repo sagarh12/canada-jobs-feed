@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-10T19:51:43+00:00",
+"updated": "2026-11-10T19:59:51+00:00",
 "jobs": [
+{
+"title": "Security Analyst - Governance, Risk, and Compliance",
+"company": "LaunchDarkly",
+"location": "Remote · United States",
+"posted": "2026-11-10T14:52:51-05:00",
+"link": "https://job-boards.greenhouse.io/launchdarkly/jobs/8039312003",
+"source": "LaunchDarkly careers",
+"country": "US",
+"years": null
+},
 {
 "title": "Compliance Analyst",
 "company": "Wave",
@@ -2984,7 +2994,7 @@
 "link": "https://ca.indeed.com/viewjob?jk=5e92fccb889aba35",
 "source": "Indeed",
 "country": "CA",
-"years": null,
+"years": 2,
 "apply": "http://ca.indeed.com/job/data-engineer-enterprise-data-engineering-data-science-and-informatica-5e92fccb889aba35",
 "skills": [
 "Python",
@@ -3253,6 +3263,206 @@
 "source": "Manulife careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Platform Developer",
+"company": "Canadian Bank Note Company, Limited",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=e112dd9a6dce93e9",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000160958968-platform-developer",
+"skills": [
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Linux",
+"Monitoring",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"System design",
+"Azure certification"
+],
+"req": "Company Description Canadian Bank Note Company (CBN) is a leader and trusted provider of secure document and adjacent enterprise-level system solutions across the following domains: border security, c\nEvaluate cloud-native and platform-native services while balancing portability, operational complexity, and total cost of ownership. Technical Environment  Cloud: Azure, AWS  On-prem: Red Hat OpenShif"
+},
+{
+"title": "Business Analyst, Medical Education Technology",
+"company": "Simon Fraser University",
+"location": "Surrey, BC, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=e73daeac3aaf80b4",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=SIMOFRAS&cws=37&rid=7462",
+"salary": "$85,993 to $102,588"
+},
+{
+"title": "Business Systems Support Analyst",
+"company": "Volant Products",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=cf2c86dd3b5554f1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "http://ca.indeed.com/job/business-systems-support-analyst-cf2c86dd3b5554f1",
+"skills": [
+"SQL",
+"Help desk / troubleshooting"
+],
+"req": "Who we are: At Volant, we believe in doing the right things for the right reasons and continuously strive to improve the health, safety, and environmental contributions that our products and services \nApproximately 2+ years of related experience in systems analysis, business analysis, technical support, IT support, or supporting enterprise business applications.\nExperience supporting ERP, PLM, or other enterprise business applications is an asset.\nExperience with Infor SyteLine / CloudSuite Industrial (CSI), Infor OS, Infor LTR, Aras PLM, Infor FactoryTrack, or Infor CPQ is considered an asset.\nManufacturing industry experience is considered an asset, but is not required.\nStrong interpersonal skills with the ability to work independently and collaboratively with users, technical teams, and external vendors. What we offer you:  A culture that values you, your collaborat"
+},
+{
+"title": "Fraud Prevention Analyst",
+"company": "TravelBrands Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=5c7d711ccc783b94",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.ultipro.ca/HIS5000HISCA/JobBoard/5f6e5a2c-4f6c-4684-8482-089766024627/OpportunityDetail?opportunityId=85f49433-8583-4527-908c-7e8e571257ed&postingId=8830340c-00ed-4338-b7d9-d3928341b132",
+"salary": "$44,000-$47,000 CAD",
+"skills": [
+"NIST / ISO 27001",
+"Ticketing (ServiceNow, Jira)"
+],
+"req": "Assess bookings against established fraud indicators, including last-minute departures, high-value itineraries, mismatches between traveler and payment information, unusual booking patterns, and suspi\nBalance fraud prevention measures with operational efficiency and customer experience to minimize unnecessary booking declines and delays. Fraud Case Investigation  Conduct thorough investigations int\nValidate the legitimacy of bookings by contacting customers, travel agents, payment partners, or internal stakeholders, where appropriate.\nDocument investigation findings, supporting evidence, decisions, and actions taken accurately and consistently in Accertify and other internal systems.\nEnsure that investigations are completed within required timelines and that case records are maintained in accordance with company policies. Payment Fraud and Chargeback Management  Review and investi\nIdentify weaknesses in existing processes and recommend improvements to strengthen transaction security and internal controls.\nHandle customer, payment, and booking information confidentially and in accordance with applicable privacy requirements and company policies. Specialized Knowledge, Skills, and Attributes Required to \nExperience managing fraud prevention technologies, analytics platforms, and rules-based monitoring systems.\nExperience working with global travel suppliers, online travel agencies, or payment partners is considered a strong asset. Working Conditions  Shifts are scheduled betwee"
+},
+{
+"title": "Bookkeeper/Administrative Assistant",
+"company": "Antrim Industrial",
+"location": "Leduc, AB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=afbf3296bf3da6d6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/bookkeeperadministrative-assistant-afbf3296bf3da6d6",
+"salary": "$30.00-$35.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Financial Analyst (contract)",
+"company": "Microsoft",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=c071ed7573a21492",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://us.microsoft.talentnet.community/jobs/93e660fb-95ce-4cd8-ab23-c5ba584f0b63",
+"salary": "$62 - $70 USD per hour",
+"skills": [
+"Excel"
+],
+"req": "Medical, dental & vision  Hospital plans  401(k) Retirement Plan – Pre-tax and Roth post-tax contributions available  Life Insurance (Company paid Basic Life and AD&D as well as voluntary Life & AD&D \nWe reserve the right to pay above or below the posted wage based on factors unrelated to protected classifications. Individual compensation offered for this position within this range will depend on m"
+},
+{
+"title": "Security Architecture Analyst",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=eb365f4ceb853d9d",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=38307&hr_id=3524",
+"salary": "$78/hour",
+"skills": [
+"REST APIs",
+"IAM"
+],
+"req": "Contribute to metrics and reporting that demonstrate review demand, recurring risks, pattern adoption, and program improvement. Required Qualifications:  Strong written communication, research, organi\nTechnical judgment  Applies established guidance consistently and recognizes when escalation or deeper expertise is required.\nContinuous learning  Researches emerging technologies and converts new information into useful program intelligence. Equal Opportunity Employer We are an equal opportunity employer. All aspects of emp"
+},
+{
+"title": "Endpoint Management Analyst",
+"company": "Teck Resources Limited",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=1f4b9ef9d5405431",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://jobs.teck.com/job/Vancouver-Endpoint-Management-Analyst-Brit/1449500800/?feedId=223000&utm_source=Indeed&utm_campaign=Teck_Indeed",
+"salary": "$95,000 - $118,000 per year",
+"skills": [
+"Bash/Shell",
+"PowerShell",
+"REST APIs",
+"Power BI",
+"Azure",
+"Vulnerability management",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Azure certification"
+],
+"req": "Location: Vancouver, BC, Canada Employment Type: Regular Full Time Workplace Type: Hybrid Recruiter: Sam Roda About our Vancouver Office Located in the heart of downtown Vancouver, between the Pacific\nProvide technical expertise in troubleshooting endpoint-related issues, including application deployments, device registration, and compliance enforcement.\nStay current with evolving endpoint technologies, Microsoft ecosystem changes, and best practices in modern device management. Qualifications ------------------  Bachelor’s degree in Information Techn\n10+ years of experience in IT with at least 3 years focused on endpoint management.\nDeep technical expertise with:  Microsoft Intune (Endpoint Manager) – device enrollment, configuration profiles, compliance policies, app management, Autopilot, and Windows 365.\nFamiliarity with Windows 11 and macOS operating systems, group policies, configuration profiles, restrictions and modern management principles. Preferred / Nice to Have:  Experience implementing or ma\nExperience working with APIs for automation or system integration.\nExperience with reporting and analytics tools (e.g., Power BI, MECM reports, Intune reporting)."
+},
+{
+"title": "Front Desk Executive",
+"company": "Fengate Property Management",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=96b5824209dc8958",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-executive-96b5824209dc8958",
+"salary": "$18.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Software Engineer, Cybersecurity Benchmarks",
+"company": "Epoch AI",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=1399c1119d8586f5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.lever.co/epoch-ai/bd6856b7-c6bb-4793-acfa-9870671959ee",
+"salary": "$150,000 - $350,000 USD per year",
+"skills": [
+"Machine learning",
+"Cybersecurity"
+],
+"req": "About The Role We are looking for a Research Engineer to help us build trustworthy, public evaluations of AI cybersecurity capabilities as part of our AI Benchmarking Hub. You will work closely with t"
+},
+{
+"title": "Northeast - Construction Intern",
+"company": "The Whiting-Turner Contracting Company",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=e3614987057b0a68",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.silkroad.com/WhitingTurner/Careers/jobs/4543?embedded=true",
+"salary": "$18 - $26 USD per hour",
+"skills": [
+"Excel",
+"Microsoft 365"
+],
+"req": "Category ------------ Construction Operations Job Location ---------------- 285 Nicoll St Suite 201, New Haven, Connecticut, United States Additional Locations ------------------------  2 Manhattanvil\nThe Whiting-Turner Contracting Company is an Equal Opportunity Employer, including the disabled and veterans. What It Takes Open to undergraduate students interested in gaining hands-on practical expe\nAssignments include office and job site; relocation to a remote sites may be required.\nTransportation is required."
 },
 {
 "title": "Data Engineer",
@@ -4813,35 +5023,6 @@
 "Salesforce"
 ],
 "req": "Document workflows, technical solutions, and implementation processes. Required Qualifications  Strong analytical and problem-solving skills.\nStrong communication skills and willingness to learn new technologies. Preferred Skills  Experience with n8n, Zapier, Make, or similar automation platforms.\nExperience building AI agents, chatbots, or virtual assistants.\nExperience with website development and integrations."
-},
-{
-"title": "Platform Developer",
-"company": "Canadian Bank Note Company, Limited",
-"location": "Ottawa, ON, CA",
-"posted": "2026-11-09",
-"link": "https://ca.indeed.com/viewjob?jk=e112dd9a6dce93e9",
-"source": "Indeed",
-"country": "CA",
-"years": 7,
-"apply": "https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000160621208-platform-developer",
-"skills": [
-"AWS",
-"Azure",
-"Docker",
-"Kubernetes",
-"Terraform",
-"CI/CD",
-"GitHub Actions",
-"Git",
-"Linux",
-"Monitoring",
-"Vulnerability management",
-"Help desk / troubleshooting",
-"Testing (unit, automated)",
-"System design",
-"Azure certification"
-],
-"req": "Company Description Canadian Bank Note Company (CBN) is a leader and trusted provider of secure document and adjacent enterprise-level system solutions across the following domains: border security, c\nEvaluate cloud-native and platform-native services while balancing portability, operational complexity, and total cost of ownership. Technical Environment  Cloud: Azure, AWS  On-prem: Red Hat OpenShif"
 },
 {
 "title": "CNC Programmer/Setter/Operator",
@@ -14175,6 +14356,26 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-09",
 "link": "https://www.linkedin.com/jobs/view/4488877760",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Intern (8-month fixed term)",
+"company": "Tricon Homes",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4489103807",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Systems Administrator / Operations Support Specialist",
+"company": "Joblinxsapp",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4487955336",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
