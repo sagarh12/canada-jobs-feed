@@ -1,56 +1,6 @@
 {
-"updated": "2026-11-11T01:29:50+00:00",
+"updated": "2026-11-11T01:39:48+00:00",
 "jobs": [
-{
-"title": "Administrative Assistant",
-"company": "Time Education Inc.",
-"location": "Richmond, BC, CA",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=3c42e217f78e3c82",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/administrative-assistant-3c42e217f78e3c82",
-"salary": "$18.00-$25.00 per hour",
-"req": "Founded in 1995. Time Education Inc. provides top-quality tutoring services for all academic levels from Elementary to College and University. We also provide consultation services on academic and car"
-},
-{
-"title": "Data and Business Analyst",
-"company": "CMP Group Ltd.",
-"location": "Delta, BC, CA",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=28c25bb30c1b456d",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://ats.rippling.com/cmp-group-ltd/jobs/fa3a1d4b-6a68-443b-879f-89e430fc7f2a?jobSite=Indeed",
-"salary": "$75,000 to $90,000 per year",
-"skills": [
-"SQL",
-"Excel",
-"Data structures & algorithms"
-],
-"req": "Prepares, compiles, and organizes documentation and information required for customer price sheets.\nObtains and validates missing or incomplete information required to establish customer pricing.\nUtilizes internal tools and third-party services to maintain the integrity, usability, and availability of product, customer, and sales data.\nProvides training, documentation, and ongoing support to users as required.\nWorks collaboratively with internal stakeholders and system vendors to resolve issues and improve system functionality Safety:  Promotes safe work practices as outlined in the Worksafe B.C. regulation"
-},
-{
-"title": "Scoping and Estimating Analyst I, Energy",
-"company": "Welty Enterprises",
-"location": "Remote · United States",
-"posted": "2026-11-11",
-"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
-"salary": "$500",
-"skills": [
-"Power BI",
-"Excel",
-"Microsoft 365",
-"SAP"
-],
-"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
-},
 {
 "title": "Computer Science Teacher",
 "company": "Zhuge Academy",
@@ -72,6 +22,56 @@
 "Object-oriented programming"
 ],
 "req": "Zhuge Academy is looking for a dynamic and knowledgeable Computer Science & Programming teacher to join our team. We specialize in high-level academic enrichment and are seeking an educator who can in\nContest Preparation: Guide students through competitive programming challenges, including the CCC (Canadian Computing Competition) and USACO.\nAssessment: Evaluate student code for efficiency, readability, and logic; provide constructive feedback that encourages \"clean code\" habits. Required Skills & Qualifications  Technical Proficiency: St\nEducational Background: Degree in Computer Science, Software Engineering, or a related STEM field.\nInstructional Experience: Prior experience in tutoring or classroom teaching, with the ability to explain abstract logic in simple, relatable terms."
+},
+{
+"title": "Scoping and Estimating Analyst I, Energy",
+"company": "Welty Enterprises",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
+"salary": "$500",
+"skills": [
+"Power BI",
+"Excel",
+"Microsoft 365",
+"SAP"
+],
+"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
+},
+{
+"title": "Data and Business Analyst",
+"company": "CMP Group Ltd.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=28c25bb30c1b456d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ats.rippling.com/cmp-group-ltd/jobs/fa3a1d4b-6a68-443b-879f-89e430fc7f2a?jobSite=Indeed",
+"salary": "$75,000 to $90,000 per year",
+"skills": [
+"SQL",
+"Excel",
+"Data structures & algorithms"
+],
+"req": "Prepares, compiles, and organizes documentation and information required for customer price sheets.\nObtains and validates missing or incomplete information required to establish customer pricing.\nUtilizes internal tools and third-party services to maintain the integrity, usability, and availability of product, customer, and sales data.\nProvides training, documentation, and ongoing support to users as required.\nWorks collaboratively with internal stakeholders and system vendors to resolve issues and improve system functionality Safety:  Promotes safe work practices as outlined in the Worksafe B.C. regulation"
+},
+{
+"title": "Administrative Assistant",
+"company": "Time Education Inc.",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=3c42e217f78e3c82",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/administrative-assistant-3c42e217f78e3c82",
+"salary": "$18.00-$25.00 per hour",
+"req": "Founded in 1995. Time Education Inc. provides top-quality tutoring services for all academic levels from Elementary to College and University. We also provide consultation services on academic and car"
 },
 {
 "title": "Information Security Analyst Co-op (Winter 2027)",
