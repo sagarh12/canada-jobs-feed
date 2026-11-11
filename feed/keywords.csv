@@ -1,10 +1,10 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,2595,923,2595,2026-11-11
-2,SQL,Language,24%,1389,478,1389,2026-11-11
-3,REST APIs,Framework,24%,1371,450,1371,2026-11-11
-4,Python,Language,22%,1306,459,1306,2026-11-11
-5,Excel,Data & AI,21%,1229,443,1229,2026-11-11
-6,Hardware setup,IT support,19%,1119,425,1119,2026-11-11
+2,SQL,Language,24%,1390,479,1390,2026-11-11
+3,REST APIs,Framework,23%,1371,450,1371,2026-11-11
+4,Python,Language,22%,1307,460,1307,2026-11-11
+5,Excel,Data & AI,21%,1230,444,1230,2026-11-11
+6,Hardware setup,IT support,19%,1120,426,1120,2026-11-11
 7,System design,Practice,18%,1073,347,1073,2026-11-11
 8,Microsoft 365,IT support,16%,924,345,924,2026-11-11
 9,Azure,Cloud & DevOps,16%,907,300,907,2026-11-11
@@ -55,7 +55,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 54,SAP,Practice,4%,220,93,220,2026-11-11
 55,Data visualization,Data & AI,4%,219,83,219,2026-11-11
 56,Terraform,Cloud & DevOps,4%,219,77,219,2026-11-11
-57,Mobile (iOS / Android),Practice,4%,212,73,212,2026-11-11
+57,Mobile (iOS / Android),Practice,4%,213,74,213,2026-11-11
 58,Google Workspace,IT support,4%,211,97,211,2026-11-11
 59,NIST / ISO 27001,Security,4%,208,67,208,2026-11-11
 60,Infrastructure as code,Cloud & DevOps,3%,199,71,199,2026-11-11
@@ -79,9 +79,9 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 78,Selenium / Cypress,Practice,2%,119,37,119,2026-11-11
 79,GitLab,Cloud & DevOps,2%,117,37,117,2026-11-11
 80,GitHub Actions,Cloud & DevOps,2%,114,25,114,2026-11-11
-81,RAG,Data & AI,2%,112,38,112,2026-11-11
-82,Ansible,Cloud & DevOps,2%,111,44,111,2026-11-11
-83,R,Language,2%,111,43,111,2026-11-11
+81,R,Language,2%,112,44,112,2026-11-11
+82,RAG,Data & AI,2%,112,38,112,2026-11-11
+83,Ansible,Cloud & DevOps,2%,111,44,111,2026-11-11
 84,CompTIA Network+,Certification,2%,110,35,110,2026-11-11
 85,Cloud security,Security,2%,104,30,104,2026-11-11
 86,Kafka,Data & AI,2%,98,25,98,2026-11-11
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-11
 155,Solidity,Language,0%,1,0,1,2026-11-11
 
-,Based on 5834 postings in the last 30 days (5834 all time)
+,Based on 5837 postings in the last 30 days (5837 all time)
