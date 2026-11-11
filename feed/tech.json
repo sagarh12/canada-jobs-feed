@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T23:19:50+00:00",
+"updated": "2026-11-11T23:29:49+00:00",
 "jobs": [
 {
 "title": "Digital Account Executive - Public Sector",
@@ -3344,7 +3344,7 @@
 "req": "COMPANY PROFILE Omega Hospice Care LLC, is a provider of end-of-life care services based in the DFW area. Dedicated to delivering compassionare and holistic care, Omega Hospice Care LLC ensures every \nProvides effective communication to patient/family, team members, and other health care professionals and maintains confidentiality. POSITION SKILLS AND QUALIFICATION  High School Graduate (College Pr\nOne (1) year general office experience."
 },
 {
-"title": "Recruiting - 4232 - Benefits Analyst",
+"title": "Benefits Analyst",
 "company": "Caravel Autism Health",
 "location": "Remote · United States",
 "posted": "2026-11-11",
@@ -3744,6 +3744,162 @@
 "skills": [
 "Microsoft 365"
 ]
+},
+{
+"title": "Software Engineer",
+"company": "Svitla Systems",
+"location": "Engineer, BC, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=7534164117461a01",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://svitla.com/career/job/software-engineer-1794417277",
+"skills": [
+"Java",
+"REST APIs",
+"CI/CD",
+"Monitoring",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Vacancy details Argentina|Costa Rica|MexicoArgentina|Costa Rica|Mexico RemoteRemote Recruiter Nataliia Semendiak n.semendiak@svitla.com Role overview ----------------- Svitla Systems Inc. is looking f\nJava Backend software engineering experience.\nHands-on API/integration experience.\nProduction troubleshooting and incident support experience.\nExperience with production monitoring, alert triage, and service/platform health.\nExperience diagnosing and resolving API/integration failures.\nMuleSoft (strongly desired) Salesforce Service Cloud integration experience.\nEnterprise integration / middleware experience.\nMessage-based or asynchronous integration experience.\nData processing / data transformation experience.\nCI/CD and DevOps experience Monitoring / observability tools. Responsibilities --------------------  Own backend Java services and platform-level engineering for the Case object ecosystem, including s\nCompetitive compensation based on skills and experience."
+},
+{
+"title": "QA Engineer - Playwright with Python, Git & AI",
+"company": "PDDN INC",
+"location": "Remote, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=e6b6dfc885387823",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/qa-engineer-playwright-python-git-ai-e6b6dfc885387823",
+"salary": "$50.00-$55.00 per hour",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"Docker",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"Git",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest",
+"System design"
+]
+},
+{
+"title": "CLDRSRC10430 - Cross Platform Mobile Developer - Toronto",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=f163303a46ac148f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://candidateportal.ceipal.com/job-details/50H8t_h2PvLIKQBSQU5hIA3t8A2kgVYHwR7vmXFIUZ4#.job_boards.Indeed",
+"skills": [
+"JavaScript",
+"C",
+"SQL",
+"HTML/CSS",
+"Angular",
+".NET",
+"Flutter",
+"jQuery",
+"REST APIs",
+"SQL Server",
+"Azure",
+"CI/CD",
+"Git",
+"Encryption / PKI",
+"Windows",
+"Agile / Scrum",
+"Object-oriented programming",
+"System design",
+"SDLC",
+"Postman"
+],
+"req": "Mandatory Experience:  5+ years of experience with Cross-Platform Mobile App Development using technologies such as Ionic Framework, Cordova plugins, Google Flutter framework or others  5+ years of ex\nExperience with creating system requirements from business requirements and designing new solutions and functionalities which meet business/client needs.\nKnowledge of user interface (UI) and user experience (UX) design principles.\nExperience with version control systems (e.g., Git).\nExperience with identifying and coordinating the resolution of technical problems and incidents, conducting research, and developing recommendations.\nExperience in post-implementation support  Experience analyzing business requirements to determine viable options for solution development and ensure implementation addresses key issues, business stra"
+},
+{
+"title": "Engineer 2, Software - .NET",
+"company": "Enterprise Mobility",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=220e698925595d7a",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.enterprisemobility.com/en/careers/job.html/573201/st-louis/engineer-2-software-net",
+"skills": [
+"Python",
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"PowerShell",
+"HTML/CSS",
+"VBA",
+"React",
+"Angular",
+".NET",
+"jQuery",
+"Excel",
+"SQL Server",
+"AWS",
+"Azure",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Object-oriented programming"
+],
+"req": "Overview As we continue to build our team in support of our vision to the be the world’s best and most trusted mobility company, Enterprise Fleet Management, an affiliate of Enterprise Mobility is exc\nMust have 3+ years of enterprise applications development experience  Experience with the following technologies: C, LINQ, Entity Framework, ADO.Net, ASP.Net, SPA, JSON, IIS, SQL Server, SSIS, VB Scri\nUnderstanding of SOA is preferred  Experience with the Atlassian Toolset"
+},
+{
+"title": "Solutions Engineer Intern",
+"company": "Numa",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=fa04d005df17fbc7",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/bq60x81i9us",
+"salary": "$50",
+"start": "December 1, 2026",
+"skills": [
+"LLMs / GenAI",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "The Role We're looking for a Support Engineer Intern to help deliver reliable, responsive technical support for our dealership customers. In this hands-on role, you'll own assigned support tickets fro\nWhat You'll Do  Own tickets end to end. Pick up assigned tickets in HubSpot, follow the documented procedure, update the requester through approved templates, and close each ticket with clear internal"
+},
+{
+"title": "GenAI Engineer, Associate",
+"company": "Huron Consulting Group",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=511cf138467c09ce",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/GenAI-Engineer--Associate_JR-0015456",
+"salary": "$85,000 - $129,800 USD per year",
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"AWS",
+"Microsoft 365",
+"Agile / Scrum"
+],
+"req": "Huron is redefining what a global consulting organization can be. Advancing new ideas every day to build even stronger clients, individuals and communities. We’re helping our clients find new ways to \nSupport junior analysts and contribute to team knowledge sharing. Required Qualifications ===========================  Bachelor's degree in Technology, Business, Communications, or related field.\n2–4 years of experience in technology support, AI implementation, or related roles.\nHands-on experience with AWS generative AI tooling, such as Amazon Bedrock, AgentCore, and related services.\nExperience using agentic coding tools, such as Claude Code, Codex, OpenCode, or similar.\nExperience designing and implementing agentic AI workflows.\nExperience with model evaluation and model tuning techniques.\nExperience with Microsoft Office 365 and documentation/version control tools.\nAbility to work independently and manage multiple priorities. Preferred Qualifications ============================  Experience with the Anthropic, OpenAI, and Google Gemini platforms."
 },
 {
 "title": "Analyst, Corporate Finance",
@@ -9929,7 +10085,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604845228?etd=MUVP6CXQ22IN4K32S64EDI27ELRB2O5ID7AL2ANU5LP2VXYZXLCCF23KKYXN72CCA3YMEEWCOQDDKD72JEEGAMZX7VCH4RQXWJXSAGNVT6WEVSW3PFWQ%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604845228?etd=MUVP6CXQ22IN4K32S64EDI27ELRB2O5ID7AL2ANU5LP2VXYZXLCCF23KKYXN72CCA3YMEEWCOQDDKD72JEEGAMZX7VCH4RQXWJXSAGOUVKBLB6PQJL4A%3d%3d%3d%3d",
 "salary": "$50,000.00 - $56,000.00",
 "skills": [
 "Azure",
@@ -14623,6 +14779,166 @@
 "location": "United Counties of Stormont, Ontario, Canada",
 "posted": "2026-11-10",
 "link": "https://www.linkedin.com/jobs/view/4414023971",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support Engineer",
+"company": "Monarch",
+"location": "",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489656232",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineering Specialist",
+"company": "Nasdaq",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489637982",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Platform Developer",
+"company": "Tech Manitoba",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487496583",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Development Co-op Student (Temporary)",
+"company": "GoodMorning",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489659045",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP iXp Intern – Concur Travel Core & AI Software Developer",
+"company": "SAP",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487857215",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Research Assistant (SRI) - Evaluative Clinical Sciences - Temporary Full-Time 2026-19284 (2026-19284)",
+"company": "Sunnybrook",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489618500",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital UAT, Menu and Pricing Coordinator",
+"company": "KFC",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487826912",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA & Automation Engineer",
+"company": "Questrade Financial Group",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487498881",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Technologist/Technician (Electronics)",
+"company": "Mirion Technologies",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4481216138",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Student Intern",
+"company": "GSK",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487850130",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op/Intern, DevOps - Winter 2027",
+"company": "Hootsuite",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489612706",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Graduate Sales Development Representative",
+"company": "Canonical",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489173978",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Associate",
+"company": "Cronometer",
+"location": "Revelstoke, British Columbia, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4488637471",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Civil Technologist",
+"company": "Tetra Tech",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489633892",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Laptop Imaging and Configuration - Elections Manitoba",
+"company": "Compugen Inc",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489651836",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Epic Go-Live Consultant",
+"company": "Nordic Global",
+"location": "",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487499589",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
