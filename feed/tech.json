@@ -1,55 +1,69 @@
 {
-"updated": "2026-11-11T01:49:49+00:00",
+"updated": "2026-11-11T01:59:48+00:00",
 "jobs": [
 {
-"title": "Administrative Assistant",
-"company": "Time Education Inc.",
-"location": "Richmond, BC, CA",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=3c42e217f78e3c82",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/administrative-assistant-3c42e217f78e3c82",
-"salary": "$18.00-$25.00 per hour",
-"req": "Founded in 1995. Time Education Inc. provides top-quality tutoring services for all academic levels from Elementary to College and University. We also provide consultation services on academic and car"
-},
-{
-"title": "Data and Business Analyst",
-"company": "CMP Group Ltd.",
-"location": "Delta, BC, CA",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=28c25bb30c1b456d",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://ats.rippling.com/cmp-group-ltd/jobs/fa3a1d4b-6a68-443b-879f-89e430fc7f2a?jobSite=Indeed",
-"salary": "$75,000 to $90,000 per year",
-"skills": [
-"SQL",
-"Excel",
-"Data structures & algorithms"
-],
-"req": "Prepares, compiles, and organizes documentation and information required for customer price sheets.\nObtains and validates missing or incomplete information required to establish customer pricing.\nUtilizes internal tools and third-party services to maintain the integrity, usability, and availability of product, customer, and sales data.\nProvides training, documentation, and ongoing support to users as required.\nWorks collaboratively with internal stakeholders and system vendors to resolve issues and improve system functionality Safety:  Promotes safe work practices as outlined in the Worksafe B.C. regulation"
-},
-{
-"title": "Scoping and Estimating Analyst I, Energy",
-"company": "Welty Enterprises",
+"title": "Certified Teachers and Tutors, Online, All Subjects (Step Up Programs)",
+"company": "Younger Legacy Academy",
 "location": "Remote · United States",
 "posted": "2026-11-11",
-"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
+"link": "https://www.indeed.com/viewjob?jk=0a5e76f496e6db19",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/certified-teachers-and-tutors-online-all-subjects-step-programs-0a5e76f496e6db19",
+"salary": "$25 - $35 USD per hour",
+"req": "Are you willing to complete a background check before working with students?"
+},
+{
+"title": "QA & Customer Success Specialist (AI Support Training)",
+"company": "StudioBinder Inc",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=df0e9c7c3a0be000",
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
-"salary": "$500",
+"apply": "http://www.indeed.com/job/qa-customer-success-specialist-ai-support-training-df0e9c7c3a0be000",
+"salary": "$20 - $25 USD per hour",
 "skills": [
-"Power BI",
-"Excel",
-"Microsoft 365",
-"SAP"
+"SQL",
+"GitLab",
+"Git",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress"
 ],
-"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
+"req": "READ THIS FIRST: Our Core Values Are a Requirement We are very selective. You must genuinely recognize yourself in all three of our core values and hold yourself to them. If they do not describe how y\nExpedient Mastery: Pursue competence quickly through established knowledge and proven methods. Study and replicate great work to accelerate learning and avoid unnecessary reinvention. Location require\nWrite and maintain the snippets and internal articles Fin relies on, with structured troubleshooting steps and plain, accurate wording.\nWrite and improve public help center articles and internal documentation.\n2+ years of hands-on QA, bug testing, or technical support for a software product, with real experience writing bug reports that developers act on.\nExperience with an issue tracker such as GitLab, Jira, GitHub Issues, or Linear.\nExperience with customer support or customer success in a SaaS product, including onboarding or troubleshooting customers directly.\nExperience improving or training an AI support agent or chatbot (Intercom Fin, Zendesk AI, Ada, or similar), or a clear, specific example of how you would approach it.\nA professional video call setup (working webcam, headset, quiet space, reliable internet). You will be on customer calls.\nReliable, self-directed, and comfortable with ambiguity. You do not wait to be told what to test. Bonus Points  Hands-on experience with Intercom (inbox, articles, Fin, workflows).\nExperience with film, TV, video, or creative production "
+},
+{
+"title": "IT Customer Service/Sales Representative",
+"company": "Supreme Security",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=96e328685246f9f5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-customer-servicesales-representative-96e328685246f9f5",
+"salary": "$60,000.00-$80,000.00 per year",
+"req": "About Us Supreme Security is a locally based Alberta security integrator with over 35 years of experience, specializing in alarm, access control, and surveillance solutions. We provide reliable, affor\nCollaborate with internal teams to ensure seamless service delivery and resolution of client issues.\nDo you have a diploma or degree in IT certificate or diploma (or equivalent experience)  Have you worked with Security Alarm systems and/or Surveillance/ CCTV Cameras or any related field before? Expe"
+},
+{
+"title": "Personal Assistant",
+"company": "hjkl",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=afc22769fd02620b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/personal-assistant-afc22769fd02620b",
+"salary": "$18.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
 },
 {
 "title": "Computer Science Teacher",
@@ -72,6 +86,56 @@
 "Object-oriented programming"
 ],
 "req": "Zhuge Academy is looking for a dynamic and knowledgeable Computer Science & Programming teacher to join our team. We specialize in high-level academic enrichment and are seeking an educator who can in\nContest Preparation: Guide students through competitive programming challenges, including the CCC (Canadian Computing Competition) and USACO.\nAssessment: Evaluate student code for efficiency, readability, and logic; provide constructive feedback that encourages \"clean code\" habits. Required Skills & Qualifications  Technical Proficiency: St\nEducational Background: Degree in Computer Science, Software Engineering, or a related STEM field.\nInstructional Experience: Prior experience in tutoring or classroom teaching, with the ability to explain abstract logic in simple, relatable terms."
+},
+{
+"title": "Scoping and Estimating Analyst I, Energy",
+"company": "Welty Enterprises",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
+"salary": "$500",
+"skills": [
+"Power BI",
+"Excel",
+"Microsoft 365",
+"SAP"
+],
+"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
+},
+{
+"title": "Data and Business Analyst",
+"company": "CMP Group Ltd.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=28c25bb30c1b456d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ats.rippling.com/cmp-group-ltd/jobs/fa3a1d4b-6a68-443b-879f-89e430fc7f2a?jobSite=Indeed",
+"salary": "$75,000 to $90,000 per year",
+"skills": [
+"SQL",
+"Excel",
+"Data structures & algorithms"
+],
+"req": "Prepares, compiles, and organizes documentation and information required for customer price sheets.\nObtains and validates missing or incomplete information required to establish customer pricing.\nUtilizes internal tools and third-party services to maintain the integrity, usability, and availability of product, customer, and sales data.\nProvides training, documentation, and ongoing support to users as required.\nWorks collaboratively with internal stakeholders and system vendors to resolve issues and improve system functionality Safety:  Promotes safe work practices as outlined in the Worksafe B.C. regulation"
+},
+{
+"title": "Administrative Assistant",
+"company": "Time Education Inc.",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=3c42e217f78e3c82",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/administrative-assistant-3c42e217f78e3c82",
+"salary": "$18.00-$25.00 per hour",
+"req": "Founded in 1995. Time Education Inc. provides top-quality tutoring services for all academic levels from Elementary to College and University. We also provide consultation services on academic and car"
 },
 {
 "title": "Information Security Analyst Co-op (Winter 2027)",
@@ -1448,7 +1512,7 @@
 "link": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Ottawa-Ontario-Canada/Field-Technical-Support-Representative_3170483-1",
 "source": "HP careers",
 "country": "CA",
-"years": null
+"years": 2
 },
 {
 "title": "Cyber Security Analyst - Temporary (December 2026 - September 2027)",
@@ -3651,7 +3715,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25539&siteid=5313#jobDetails=5239052_5313__pageNo_18__cleanup_ctrl+stripdesc__jobs_found_44",
+"apply": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25539&siteid=5313#jobDetails=5239052_5313__pageNo_19__cleanup_ctrl+stripdesc__jobs_found_18",
 "skills": [
 "Networking (TCP/IP, DNS)",
 "Cybersecurity",
@@ -7062,6 +7126,147 @@
 "Blockchain"
 ],
 "req": "Web3 Core Engineer Remote  About Brave Brave is on a mission to protect the human right to privacy online. We’ve built a free web browser that blocks creepy ads and trackers by default, a private sear\nSummary Brave is looking for an experienced Senior Software Engineer with a focus on blockchain integrations with Brave. You'll work on our Brave Wallet. This is a high profile and impactful, hands-on\nRequirements  5+ years experience with application development.\nStrong C++ development skills required.\nExperience with software development via distributed development teams."
+},
+{
+"title": "Multicultural Growth Analyst",
+"company": "Sysco",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=da1b97e34db89cfa",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.sysco.ca/en/job/mississauga/multicultural-growth-analyst/48750/103132340704",
+"salary": "$57,100 to $95,000",
+"skills": [
+"Power BI",
+"Excel"
+],
+"req": "Build expertise in multicultural communities, cuisines, customer preferences, and emerging market trends to support informed business recommendations.\nChampion an inclusive culture while supporting food safety, environmental, health, and safety standards across the organization. Qualifications Experience  2 to 5 years of experience in business analy\nExperience working with CRM platforms, reporting tools, and business analytics solutions is preferred. Education  Post-secondary education in Business, Marketing, Commerce, Economics, Analytics, or a \nDemonstrated experience analyzing sales, customer, product, pricing, and profitability data.\nAbility to manage multiple priorities in a fast-paced environment while maintaining a high degree of accuracy and attention to detail."
+},
+{
+"title": "Civil Engineering Student-Summer 2027",
+"company": "Gulf Operators",
+"location": "Saint John, NB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=96ce6d5abf7f3b3c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/13303",
+"salary": "$1000",
+"req": "Currently enrolled in a Bachelor of Science in Civil Engineering program.\nWhat You’ll Get:  Hands-on experience in field operations.\nReady to Construct Your Career? If you are a full-time Civil Engineering student and looking for a rewarding career in civil construction and enjoy hands-on work, apply today to join the Gulf Operator"
+},
+{
+"title": "EDI Specialist",
+"company": "FGF Brands",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=07f43cfebec7fab0",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careersen-fgfbrands.icims.com/jobs/29646/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"Excel",
+"Help desk / troubleshooting",
+"SAP"
+],
+"req": "Job Description: EDI Specialist We’re a naan traditional company… Summary Reporting to the IT Enterprise Application Manager, you will be responsible for the analysis, configuration, implementation, d\nAssure all required EDI documentation is performed and completed.\nManage and Create BP profile and define partner profile for EDI new trade partner with business and master data team.\nLearn new tools and processes whenever is required.\nRequired to perform other duties as assigned or needed. Required Experience  BSc. in Information Systems; Applied Sciences or Software Engineering  3-5 years’ experience in Business systems analysis o\nFamiliar with EDI transaction set process flow  Strong understanding of B2B and Supply Chain processes  Experience with Data Entry, Data Processing and Data Cleaning  Experience with Data Administrati\nCreative, problem solver who can multi-task and work in a fast-paced environment  Resourceful with a strong sense of urgency  Can work and support with other Team Members  Excellent Communication Skil"
+},
+{
+"title": "Data Analyst Associate",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=bad90108dc781291",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.gdit.com/careers/job/5b9ee8407/data-analyst-associate/",
+"salary": "$63,312 - $85,658 USD per year",
+"skills": [
+"Python",
+"R",
+"SQL",
+"NLP",
+"ETL / data pipelines",
+"Tableau",
+"Statistics",
+"Data visualization"
+],
+"req": "Clearance Level None Category Data Science and Data Engineering Location Remote, Working from the USA Key Skills For Success Data Analytics Python Software Development SQL Database Queries  REQ:RQ2320\nSupport ad-hoc data reporting as needed. Qualifications:  Bachelor’s degree in a related field, with 1+ years of relevant experience.\nExperience working with immigrants, refugees, and underserved populations is preferred. Top candidates will have specialty skills in one or more of the following areas:  Statistical analysis and model\nAbout Our Work We are GDIT. A global technology and professional services company that delivers technology solutions and mission services to every major agency across the U.S. government, defense and "
+},
+{
+"title": "Analyst-Device Intake & Governance",
+"company": "Ford Motor Company",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=2993481d0830199a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.careers.ford.com/en/job/united-states/analyst-device-intake-and-governance/48560/103134511136",
+"salary": "$99,100 - $166,200 USD per year",
+"skills": [
+"Python",
+"Networking (TCP/IP, DNS)",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira"
+]
+},
+{
+"title": "Sales Operations Analyst",
+"company": "U.S. Green Building Council",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=c59ca83ac6e44820",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8d661a1d-66d3-4337-be21-bf05f238bb42&ccId=19000101_000001&jobId=577266&source=IN&lang=en_US",
+"salary": "$75,000 - $95,000 USD per year",
+"skills": [
+"SQL",
+"Power BI",
+"Tableau",
+"Excel",
+"Statistics",
+"Data visualization",
+"Networking (TCP/IP, DNS)",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"System design",
+"Salesforce"
+],
+"req": "Data quality, governance, and commercial attribution: monitor and improve data accuracy across salesforce accounts, contacts, opportunities, account hierarchies, required fields, customer and partner \nIssue resolution, recommendations, and escalation: recommend improvements to commercial metrics, salesforce workflows, reporting processes, and system release readiness based on evidence. Escalate unr\nDemonstrated experience developing reports and dashboards, improving data quality, conducting user acceptance testing, and supporting business-process adoption.\nExperience independently producing sales or business performance analysis and communicating findings to nontechnical stakeholders.\nWorking experience with Salesforce reporting and commercial workflows, including accounts, contacts, leads, opportunities, required fields, and process handoffs.\nExperience gathering and documenting business requirements, mapping processes, defining acceptance criteria, conducting user acceptance testing, and tracking defects or issues.\nExperience supporting sales operations, commercial reporting, or business analysis for teams operating across multiple regions or business units.\nExperience supporting commercial reporting or sales operations in a global or multinational organization.\nExperience developing reporting dashboards, improving CRM data quality, or supporting process automation initiatives. Education Bachelor's degree in business administration, finance, economics, busine\nAdvanced degre"
+},
+{
+"title": "Data Integration & Automation Engineer",
+"company": "Citrin Cooperman Advisors LLC",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=c37336322d1bee75",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/2BAE53DB5E74E324EB03FD486E912AAF/jobs/371700?source=Indeed",
+"salary": "$150,000 - $185,000 USD per year",
+"skills": [
+"C",
+"SQL",
+".NET",
+"REST APIs",
+"Azure",
+"CI/CD",
+"Git",
+"IAM",
+"Help desk / troubleshooting",
+"SAP",
+"Azure certification"
+],
+"req": "Citrin Cooperman offers a dynamic work environment, fostering professional growth and collaboration. We’re continuously seeking talented individuals who bring a problem-solving mindset, fresh perspect\nStandards, Version Control & CI/CD: Set and follow design and coding standards for integration and automation work. Manage solutions in Git and Azure DevOps, use automated deployments across environme\nPreferred Certifications: + Microsoft Certified: Power Platform Solution Architect Expert (PL-600) + Microsoft Certified: Power Platform Developer Associate (PL-400) + Microsoft Certified: Azure Devel\nHands-on experience integrating ERP systems (such as Dynamics 365, SAP, or similar) with cloud platforms, including at least one data migration project from start to finish.\nWorking experience with Microsoft Fabric, Azure Data Factory, or Azure Synapse Analytics, along with strong SQL skills.\nDevelopment experience in C / .NET and REST APIs, including Dataverse plugins or custom connectors.\nExperience working directly with business stakeholders: gathering requirements, presenting design options, and managing scope.\nPreferred: experience with data governance and security for AI and Copilot solutions, including Model Context Protocol (MCP) servers."
 },
 {
 "title": "Data Engineer",
@@ -18931,6 +19136,16 @@
 "years": null
 },
 {
+"title": "Business System Specialist",
+"company": "Ryder System, Inc.",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4487961649",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Business Information Security Officer, Audit & Assurance",
 "company": "KPMG",
 "location": "Toronto, Canada; Vaughan, Canada; Vancouver, Canada",
@@ -21332,26 +21547,6 @@
 "posted": "2026-11-08T08:00:00+00:00",
 "link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Specialist%2C-Talent-Acquisition-%28Early-Talent%29-ON-M5H-0A9/1429255400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Deloitte careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Technical Business Analyst- Global Payments Engineering",
-"company": "Scotiabank",
-"location": "Scarborough, ON, CA, M1L4S2",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Scarborough-Technical-Business-Analyst-Global-Payments-Engineering-ON-M1L4S2/603490717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Engineer, Manufacturing (Weekend Shift)",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-11-08T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Engineer%2C-Manufacturing-%28Weekend-Shift%29-ON-L5S-1W1/1366501533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
 "country": "CA",
 "years": 3
 }
