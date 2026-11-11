@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-11T21:49:52+00:00",
+"updated": "2026-11-11T21:59:50+00:00",
 "jobs": [
+{
+"title": "Digital Account Executive - Public Sector",
+"company": "Microsoft",
+"location": "Calgary, AB, CA; Vancouver, BC, CA; Edmonton, AB, CA; Toronto, ON, CA",
+"posted": "2026-11-11T21:41:36+00:00",
+"link": "https://apply.careers.microsoft.com/careers/job/1970393557055389",
+"source": "Microsoft careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Software Engineer",
 "company": "PointClickCare",
@@ -1861,25 +1871,41 @@
 ]
 },
 {
-"title": "Technology Infrastructure Engineer",
+"title": "Technology Infrastructure Engineer - Security & Monitoring (SSL, DataDog, Trellix, xMatters)",
 "company": "VectorVue",
 "location": "Kitchener-Waterloo, ON, CA (remote)",
 "posted": "2026-11-11",
 "link": "https://ca.indeed.com/viewjob?jk=fc9884353ae5900b",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/technology-infrastructure-engineer-fc9884353ae5900b",
-"salary": "$100,000.00-$120,000.00 per year",
+"years": 1,
+"apply": "http://ca.indeed.com/job/technology-infrastructure-engineer-security-monitoring-ssl-datadog-trellix-xmatters-fc9884353ae5900b",
+"salary": "$50.00-$70.00 per hour",
 "skills": [
-"Kubernetes",
+"Python",
+"Java",
+"JavaScript",
+"SQL",
+"PowerShell",
+"Node.js",
+"LLMs / GenAI",
+"PostgreSQL",
+"SQL Server",
+"Oracle",
+"MongoDB",
 "Ansible",
-"Linux",
-"IAM",
+"Git",
+"Monitoring",
+"Nginx",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Incident response",
+"Vulnerability management",
+"Encryption / PKI",
 "Windows",
-"Hardware setup",
+"Help desk / troubleshooting",
 "VMware / virtualization",
-"ITIL"
+"SAP"
 ],
 "req": "This is an onsite Linux Server Administrator Consultant role. The successful candidate must be able to work onsite 4 days/week (with option to work remotely one day per week). Must have Experience: Kn"
 },
@@ -3226,6 +3252,153 @@
 "CCNA"
 ],
 "req": "If you’re looking for a special place to build or grow your career, you’ve found it. Whether you’re an experienced professional, a recent college graduate or somewhere in between, IDEX is a place wher\nOrganize and contribute to high-quality documentation for the IT department and our end-user ServiceNow knowledgebase  Assist with various IT infrastructure improvement projects and assume the lead ro\nModerate walking, standing, stooping, bending, kneeling, and reaching required.\nRequired to maintain a clean and safe work area.\nMust follow established safety procedures.\nResponsible for correcting unsafe conditions when possible and reporting hazards to management or the Safety Committee immediately POSITION REQUIREMENTS:  Associate or Bachelor’s degree in Computer Sc"
+},
+{
+"title": "Workforce Capacity Planning Analyst",
+"company": "Sun Life",
+"location": "2 Locations, Canada",
+"posted": "2026-11-11",
+"link": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Workforce-Capacity-Planning-Analyst_JR00129702",
+"source": "Sun Life careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Support & Solutions Specialist",
+"company": "LOC Medical",
+"location": "Cambridge, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=d7721ea79bb920cd",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-support-solutions-specialist-d7721ea79bb920cd",
+"salary": "$60,000.00-$70,000.00 per year",
+"skills": [
+"Firewalls",
+"Microsoft 365",
+"Hardware setup",
+"VMware / virtualization"
+],
+"req": "Oversee the monitoring and support for servers, firewalls, switches, and other deployed equipment as required.\nSupport the create of new deployment accounts, systems and hardware related to above IT Support responsibilities. Requirements & Preferred Experience:  Experience supporting active field deployed devi\nExperience overseeing or supporting the testing and approval of new software, hardware, or updates is a requirement.\nExperience working with an MDM solution is a requirement, experience working with SOTI will be considered an asset.\nExperience working to support national call center for escalations will be considered an asset.\nAre you comfortable providing occasional after-hours and on-call technical support when required? Work Location: In person"
+},
+{
+"title": "Site Systems Administrator",
+"company": "Skeena Resources",
+"location": "Kitimat-Stikine A, BC, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=924b2f10a0566511",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://recruiting.ultipro.ca/SKE5000SKEE/JobBoard/35a47425-9107-4514-9f5c-461efe3eca8d/OpportunityDetail?opportunityId=89cc8a14-5b1f-46eb-8664-1e2b3822cfdf&postingId=abc2d9f8-a445-4abc-bd66-c2e3cf091d7e",
+"salary": "$90,000",
+"skills": [
+"PowerShell",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Incident response",
+"Vulnerability management",
+"IAM",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"VMware / virtualization"
+],
+"req": "Skeena Gold + Silver Limited is a Canadian mining company with a portfolio of exploration and development projects located in northwest British Columbia, Canada. Our current focus is on the revitaliza\nValidate backup coverage and support recovery planning, testing and restoration activities. Network Administration  Administer site network infrastructure, including firewalls, switches, wireless netw\nServe as the senior technical escalation point for site server, network, infrastructure and complex endpoint issues.\nPerform all work in accordance with Skeena safety requirements and applicable site procedures. Additional Responsibilities  All other duties as reasonably assigned The Ideal Candidate Education / Qual\nMust possess a valid Class 5 Driver’s Licence Experience / Skills Must Haves:  Five or more years of progressively responsible, hands-on experience administering enterprise servers, networks, virtuali\nDemonstrated experience troubleshooting complex infrastructure issues through root cause and verified resolution.\nExperience with infrastructure monitoring, backup, restore, disaster recovery and configuration documentation.\nExperience with Fortinet, Ubiquiti UniFi, VMware, Proxmox, Veeam, Auvik, NinjaOne, Microsoft Intune or equivalent platforms.\nExperience with industrial wireless, point-to-point/multipoint, mesh networks, structured cabling, CCTV, access control, Starlink and remote-site communications."
+},
+{
+"title": "FULL-TIME SERVICE DESK TECHNICIAN – Information Systems Department",
+"company": "Middlesex Hospital Alliance",
+"location": "CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=df7d2ee6b7ccd882",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://mhalliance.on.ca/opportunity/126-2026/",
+"salary": "$32.090 – $38.317",
+"skills": [
+"Cybersecurity",
+"IAM",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Participate in technology projects and continuous improvement initiatives. Qualifications:  Must provide vaccination records or proof of immunity against measles, mumps rubella and varicella (chicken \nDemonstrated excellent attendance Additional Assets Experience supporting or working with one or more of the following:  Microsoft 365, Teams, and SharePoint Online  Endpoint management solutions (e.g"
+},
+{
+"title": "Administrative Assistant",
+"company": "Omega Hospice Care",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=f57b7ab3a7a19069",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://omegahospicecare.bamboohr.com/careers/37?source=indeed&src=indeed&postedDate=2026-11-11",
+"skills": [
+"Excel"
+],
+"req": "COMPANY PROFILE Omega Hospice Care LLC, is a provider of end-of-life care services based in the DFW area. Dedicated to delivering compassionare and holistic care, Omega Hospice Care LLC ensures every \nProvides effective communication to patient/family, team members, and other health care professionals and maintains confidentiality. POSITION SKILLS AND QUALIFICATION  High School Graduate (College Pr\nOne (1) year general office experience."
+},
+{
+"title": "Recruiting - 4232 - Benefits Analyst",
+"company": "Caravel Autism Health",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=be9bb5eaf1ff1894",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://us-3.fountain.com/apply/caravel-autism-health/opening/recruiting-4232-benefits-analyst?utm_source=indeed",
+"skills": [
+"Excel"
+],
+"req": "Participate in special projects such as plan redesign, benchmarking studies, and process improvements. Qualifications  Bachelor’s degree in Human Resources, Business, Finance, or related field (or equ\n2–5 years of experience in benefits administration, HR analytics, or total rewards.\nTechnical proficiency – experience with HRIS systems and benefits administration software  Knowledge of benefits regulations (ACA, ERISA, HIPAA, FMLA, COBRA).\nExcellent customer service skills and strong written communication skills to explain benefits to employees and liaise with vendors  Ability to manage multiple priorities with accuracy and attention to\nExperience working with brokers or benefits consultants. Competencies  Analytical thinking  Confidentiality and discretion  Vendor and stakeholder management  Process improvement mindset  Strong organ"
+},
+{
+"title": "Executive Assistant",
+"company": "RCORP101 Ltd",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=aff3172969d66f69",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/executive-assistant-aff3172969d66f69",
+"salary": "$50,000.00-$60,000.00 per year",
+"skills": [
+"Google Workspace"
+],
+"req": "Job Summary The Executive Assistant provides organized administrative support, coordinates schedules and communications, and helps keep office operations running smoothly. This role combines calendar "
+},
+{
+"title": "Software Engineer, Project, AI Platforms",
+"company": "Rockwell Automation",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=8246b41a78b99021",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Software-Engineer--Project--AI-Platforms_R26-7926-1",
+"salary": "$139,680 - $176,600 USD per year",
+"skills": [
+"Python",
+"C++",
+"C",
+"REST APIs",
+"LLMs / GenAI",
+"Azure",
+"CI/CD",
+"Git",
+"Monitoring",
+"Agile / Scrum",
+"System design"
+],
+"req": "Improve the team's own AI-assisted development loop and share what works across engineering teams. The Essentials - You Will Have:  Bachelor's Degree or Equivalent Years of Relevant Work Experience Th\nexperience building and shipping production software in Python, C, or C++ - Experience designing services or APIs that other engineering teams build on  Hands-on experience using AI coding tools and L"
 },
 {
 "title": "Analyst, Corporate Finance",
@@ -8176,7 +8349,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jobs-ca.technomedia.com/yorkuniversity/?_4x1F8B08000000000000FF6D8FBB0E83200045FF86D10022C2C0A0621BE7C6D9A860835520A849FDFB9A4637F7731FC73B5F2901810B4A078140DF4E930EDB6694C01CF19410D8E01451962469836AC21B88308560F9E8FDA9ADDCED2D975C980BAB90E5AB0077951435718DC8C9FAE07ABD2CD5AA67E18F5C3B45A3EBBC5B5663DFD1883004C1B5CA6E73775CBD5BC56793B166ADEB4ADE2B5CD7BEBD70C3A083517F1B11C790964CC22C8BCB07CE650A73260BC9584119C972FE03C8FF43CB2B010000&offerid=14967",
+"apply": "https://jobs-ca.technomedia.com/yorkuniversity/?_4x1F8B08000000000000FF6D8FBB0E82301486DFA6A339A7506A870EDAA26136CC04693545689B0289BEBDC4CBC6F24FDF7F8B2156460209C9D8249174ED30D8B42CCE482A386206B4A11C05204283752E1A405A00991EF675B65EBFFC26C7FE5848B3D4E54591CDC8BCC9EA55BE6C4CA1B3D354CD769471F5B5C3AE0FD718A6D9F9FBAE470A2485D6F865BCAE53B75AE92FC97937D775A5B72FFCA73D3B196E379B9CF9BC918A2BB62F391C73549902A1183B08518893A68C2AD06FAADD60E72B010000&offerid=14967",
 "skills": [
 "SQL",
 "Tableau",
@@ -13827,6 +14000,66 @@
 "location": "London, Ontario, Canada",
 "posted": "2026-11-10",
 "link": "https://www.linkedin.com/jobs/view/4487811964",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Fund Analyst",
+"company": "Peakhill Capital",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4488613694",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Financial Analyst",
+"company": "Valard Construction",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487838029",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data and Artificial Intelligence Winter Student",
+"company": "Meridian Credit Union",
+"location": "St. Catharines, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487832386",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Multicultural Growth Analyst",
+"company": "Sysco Canada Inc.",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4488627089",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, Portfolio Performance",
+"company": "Canada Development Investment Corporation (CDEV)",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4478476489",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Onboarding & Success Specialist",
+"company": "Bevado",
+"location": "",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4487804218",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
