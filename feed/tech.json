@@ -1,6 +1,56 @@
 {
-"updated": "2026-11-11T01:19:51+00:00",
+"updated": "2026-11-11T01:29:50+00:00",
 "jobs": [
+{
+"title": "Administrative Assistant",
+"company": "Time Education Inc.",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=3c42e217f78e3c82",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/administrative-assistant-3c42e217f78e3c82",
+"salary": "$18.00-$25.00 per hour",
+"req": "Founded in 1995. Time Education Inc. provides top-quality tutoring services for all academic levels from Elementary to College and University. We also provide consultation services on academic and car"
+},
+{
+"title": "Data and Business Analyst",
+"company": "CMP Group Ltd.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=28c25bb30c1b456d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ats.rippling.com/cmp-group-ltd/jobs/fa3a1d4b-6a68-443b-879f-89e430fc7f2a?jobSite=Indeed",
+"salary": "$75,000 to $90,000 per year",
+"skills": [
+"SQL",
+"Excel",
+"Data structures & algorithms"
+],
+"req": "Prepares, compiles, and organizes documentation and information required for customer price sheets.\nObtains and validates missing or incomplete information required to establish customer pricing.\nUtilizes internal tools and third-party services to maintain the integrity, usability, and availability of product, customer, and sales data.\nProvides training, documentation, and ongoing support to users as required.\nWorks collaboratively with internal stakeholders and system vendors to resolve issues and improve system functionality Safety:  Promotes safe work practices as outlined in the Worksafe B.C. regulation"
+},
+{
+"title": "Scoping and Estimating Analyst I, Energy",
+"company": "Welty Enterprises",
+"location": "Remote · United States",
+"posted": "2026-11-11",
+"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
+"salary": "$500",
+"skills": [
+"Power BI",
+"Excel",
+"Microsoft 365",
+"SAP"
+],
+"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
+},
 {
 "title": "Computer Science Teacher",
 "company": "Zhuge Academy",
@@ -22,25 +72,6 @@
 "Object-oriented programming"
 ],
 "req": "Zhuge Academy is looking for a dynamic and knowledgeable Computer Science & Programming teacher to join our team. We specialize in high-level academic enrichment and are seeking an educator who can in\nContest Preparation: Guide students through competitive programming challenges, including the CCC (Canadian Computing Competition) and USACO.\nAssessment: Evaluate student code for efficiency, readability, and logic; provide constructive feedback that encourages \"clean code\" habits. Required Skills & Qualifications  Technical Proficiency: St\nEducational Background: Degree in Computer Science, Software Engineering, or a related STEM field.\nInstructional Experience: Prior experience in tutoring or classroom teaching, with the ability to explain abstract logic in simple, relatable terms."
-},
-{
-"title": "Scoping and Estimating Analyst I, Energy",
-"company": "Welty Enterprises",
-"location": "Remote · United States",
-"posted": "2026-11-11",
-"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
-"salary": "$500",
-"skills": [
-"Power BI",
-"Excel",
-"Microsoft 365",
-"SAP"
-],
-"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
 },
 {
 "title": "Information Security Analyst Co-op (Winter 2027)",
@@ -6131,7 +6162,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604845228?etd=MUVP6CXQ22IN4K32S64EDI27ELRB2O5ID7AL2ANU5LP2VXYZXLCCF23KKYXN72CCA3YMEEWCOQDDKD72JEEGAMZX7VCH4RQXWJXSAGI7VZILJ7DNAQKA%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604845228?etd=MUVP6CXQ22IN4K32S64EDI27ELRB2O5ID7AL2ANU5LP2VXYZXLCCF23KKYXN72CCA3YMEEWCOQDDKD72JEEGAMZX7VCH4RQXWJXSAGMQ2H37SAUYW2SA%3d%3d%3d%3d",
 "salary": "$50,000.00 - $56,000.00",
 "skills": [
 "Azure",
@@ -6811,6 +6842,226 @@
 "SDLC"
 ],
 "req": "Contribute to release package readiness by ensuring required test evidence, defect status, validation results, and known limitations are accurate, complete, and available for review.\nWork effectively in Agile or iterative delivery cycles, supporting sprint testing, build verification, regression windows, release validation, and warranty or sustainment transition activities. KNOWLE\nExperience developing and executing test cases, test scripts, test data, expected results, defect reports, and test evidence for complex software systems.\nExperience supporting functional, integration, regression, end-to-end, UAT, release validation, and post-release validation testing.\nExperience testing healthcare, pharmacy, EHR, electronic prescribing, transaction-processing, or other regulated enterprise applications is strongly preferred.\nExperience maintaining traceability between requirements, test cases, test execution results, defects, and release-readiness evidence.\nStrong analytical, problem-solving, documentation, communication, and cross-team coordination skills. KNOWLEDGE AND SKILLS DESIRED:  Experience supporting VA, Federal healthcare, PBM, pharmacy, or oth\nDirect experience with NCPDP SCRIPT Standard testing, electronic prescription workflows, pharmacy transaction processing, or clearinghouse/network connectivity is beneficial but not required.\nExperience supporting IOC, UAT, SQA, ATO/security validation, accessibility testing, limited-interruption deployment validation, or producti"
+},
+{
+"title": "Analyst, Natural Gas Trading & Marketing",
+"company": "TC Energy",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=3d553e500ec053c0",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Analyst--Natural-Gas-Trading---Marketing_JR-11296",
+"skills": [
+"Python",
+"SQL",
+"VBA",
+"Excel",
+"Statistics",
+"Data visualization"
+],
+"req": "At TC Energy, we are proud to connect the world to the energy it needs. Guided by our values of safety in every step, personal accountability, one team and active learning, we deliver the critical ene\nContribute to a high-performance, collaborative team culture focused on continuous learning and commercial excellence. Minimum Qualifications  Bachelor's degree in Engineering, Economics, Finance, Mat\n2-5 years of experience in natural gas market analysis, energy trading, utilities, commodities, consulting, or related commercial roles.\nExperience working with large datasets, market intelligence, and analytical models.\nExperience with Python and/or SQL for data analysis and reporting  Strong communication skills with the ability to translate analysis into actionable commercial insights. Preferred Qualifications  Kno\nExperience supporting trading, optimization, portfolio management, or commercial strategy activities.\nExperience developing automated reporting, forecasting, or decision-support tools.\nPython, VBA, SQL, and advanced data visualization experience. Why Join Us? Career Opportunity  This role provides direct exposure to one of North America's most dynamic commodity markets and offers a \nYou will work alongside experienced industry professionals, contribute to meaningful commercial decisions, and help maximize the value of a diverse portfolio of natural gas transportation and storage \nIf you thrive in a fast-paced environment, enjoy solving complex market problems, and are"
+},
+{
+"title": "BES Continuous Improvement Jr. Analyst",
+"company": "Ledcor",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=a3e6e4c23535e2e1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://jobs.ledcor.com/jobs/18469235-bes-continuous-improvement-jr-analyst",
+"salary": "$51,200.00 - $70,400.00",
+"skills": [
+"Power BI",
+"Excel"
+]
+},
+{
+"title": "Business Intelligence Specialist (Contract - 6 months)",
+"company": "Conexus Nuclear Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=95a4ef37e1964288",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a21c65e-7149-4013-b283-a770a77d7661&ccId=9200970729477_3&jobId=589977&jwId=9200970729477_1&source=IN&lang=en_CA",
+"skills": [
+"Python",
+"SQL",
+"PowerShell",
+"VBA",
+"REST APIs",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Excel",
+"Data visualization",
+"MySQL",
+"SQL Server",
+"Monitoring",
+"Windows",
+"Hardware setup",
+"Data structures & algorithms"
+],
+"req": "Role Business Intelligence Specialist Assignment IT Development Line of Business Information Technology Direct Supervisor Director, Information Technology Next Level Manager President & CEO Scope (Pur\nStay current with the latest trends and updates in Microsoft Access and Power BI technologies. Requirements Education & Experience  Bachelor’s degree in computer science, Information Technology, or re\nProven experience with Microsoft Access database development, including tables, queries, forms, and reports.\nProven experience with SQL and experience administrating MS SQL/MySQL/Maria Servers is a plus.\nExperience with data modeling and data warehousing principles.\nData quality, profiling and reconciliation control Profiles and cleanses legacy data before it is trusted: duplicates, orphaned records, inconsistent codes, null and date/number format drift, precisio"
+},
+{
+"title": "DevOps Analyst Intern",
+"company": "Hitachi Energy",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=79135079e27e1a52",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/DevOps-Analyst-Intern_R0145523",
+"salary": "$23-$30 CAD",
+"skills": [
+"Python",
+"PowerShell",
+"Power BI",
+"AWS",
+"Docker",
+"Kubernetes",
+"Terraform",
+"Ansible",
+"CI/CD",
+"Jenkins",
+"Git",
+"Infrastructure as code",
+"Monitoring",
+"Cybersecurity",
+"IAM",
+"Cloud security",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "Infrastructure as Code (IaC): Develop and maintain infrastructure as code using Terraform and Ansible  Team Collaboration: Collaborate with development and operations teams to ensure high availability\nExperience with or knowledge of Microsoft Power BI, including dashboard creation, data modeling, and visualization best practices.\nThe ability to work 40 hours a week in a hybrid environment for the duration of the internship is essential. At least 2 days a week in the office. Preferred Requirements It would be preferable if the "
+},
+{
+"title": "Signalling Design Intern (Winter 2027)",
+"company": "Hitachi Energy",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=16b6ba6e2de825af",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Burnaby-British-Columbia-Canada/Signalling-Design-Intern--Winter-2027-_R0146876",
+"salary": "$23-$30 CAD",
+"skills": [
+"Hardware setup",
+"System design"
+],
+"req": "We are currently hiring a Systems Design Intern for a summer term position, at our Hitachi Rail office in Burnaby. Hitachi Rail provides signaling systems for metros and light rail systems. Our soluti\nKey Requirements  The successful candidate should be working towards a bachelor’s or master’s degree from an accredited university or college in Systems, Electrical/Computer Engineering, or Computer S\nCompletion of the second or third year of your undergraduate degree, or currently pursuing a master’s degree  Good technical writing skills, excellent communication, and analytical skills; excellent c"
+},
+{
+"title": "Specialist Cloud Security",
+"company": "CPKC",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=79e571bd51969b62",
+"source": "Indeed",
+"country": "CA",
+"years": 6,
+"apply": "https://careers.cpr.ca/job/Calgary-Specialist-Cloud-Security-AB-T2G-3J5/607927617/?feedId=421860&utm_source=Indeed&utm_campaign=CPKC_Indeed",
+"skills": [
+"REST APIs",
+"AWS",
+"Azure",
+"Terraform",
+"Infrastructure as code",
+"Cybersecurity",
+"Incident response",
+"IAM",
+"Cloud security",
+"Encryption / PKI",
+"System design"
+],
+"req": "Join CPKC, North America’s first transnational railroad connecting U.S., Canada, and Mexico, where your career drives progress and safety is paramount. We connect communities, fuel economic growth, an\nReq ID: 106679  Department: Information Services & Network Service Centre (NSC)  Job Type: Full-Time  Position Type: Non-Union  Location: Calgary, Alberta  Country: Canada  % of Travel: 0-10%   of Pos"
+},
+{
+"title": "Data Analyst - EA Sports FC",
+"company": "Game Companies",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4489673421",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Coordinator - Remote (SE Region)",
+"company": "Stellar Industrial Supply",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=28271a3ec22c76bb",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/5BF32D8B3555ABD1261F22DBE813A3F9/jobs/582111?source=Indeed",
+"salary": "$60,000 - $79,500 USD per year",
+"skills": [
+"SQL",
+"Excel",
+"Help desk / troubleshooting"
+],
+"req": "Please Note: This position is open to candidates currently residing in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, or East Texas. \nGather information from customer sites and internal stakeholders to support successful implementation and ongoing optimization of Solutions programs.\nCoordinate project activities across Sales, Operations, Customer Experience, Information Technology, and other business functions. Solutions Systems & Data Management  Prepare, organize, and maintain \nBuild, execute, and distribute reports and data exports for customers and internal stakeholders.\nApproximately 25% travel may be required to support customer site visits, walkthroughs, training, and implementation activities. Education:  High school diploma or equivalent required.\nAssociate's or Bachelor's degree in Information Technology, Business, Supply Chain, Operations, or a related field preferred. Experience:  Experience coordinating projects, business processes, or tech\nExperience working with ERP systems, inventory management systems, or other business software required.\nExperience with industrial vending platforms, such as AutoCrib, CribMaster, SupplyPro, or similar systems, preferred.\nSQL experience preferred. Knowledge, Skills & Abilities:  Proficiency in Microsoft Office applications, particularly Excel.\nExperience using advanced Excel functions such as PivotTables, VLOOKUP/XLOOKUP, formulas, and conditional formatting pr"
+},
+{
+"title": "WordPress Quality Assurance Analyst",
+"company": "Archarithms Inc",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=6b90b779bb6ce3be",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ac19c2c-cd24-4fd1-8ab6-b1d93b864c78&ccId=19000101_000001&jobId=545029&source=IN&lang=en_US",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"REST APIs",
+"Machine learning",
+"Azure",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"SDLC",
+"Postman"
+],
+"req": "WE ARE ARCARITHM, and we are changing the world! If you are ready to grow your career and change the world with us, then join the Arcarithm team! At Arcarithm, we cultivate and foster an environment o\nConduct performance and load testing to support optimal user experience.\nParticipate in Agile ceremonies including sprint planning, refinement, review, and retrospectives. Required Qualifications  Bachelor's degree in Information Technology, Computer Science, Digital Media\n3+ years of quality assurance or software testing experience.\n2+ years of experience testing WordPress websites or content management systems.\nExperience creating and executing structured test plans and test cases.\nExperience using issue tracking and defect management tools such as Jira, Azure DevOps, or similar platforms.\nDemonstrated attention to detail and commitment to quality. Preferred Qualifications  Experience with enterprise WordPress environments.\nExperience testing REST APIs and third-party integrations.\nExperience with WordPress hosting environments, deployment processes, and version control systems.\nExperience supporting government, federal, or highly regulated environments. Technical Skills Required  WordPress Administration  Functional and Regression Testing  Cross-Browser Testing  Mobile and R"
+},
+{
+"title": "Web3 Core Engineer New",
+"company": "Brave Software",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=7a2052f3355bb26d",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://job-boards.greenhouse.io/brave/jobs/8374405",
+"quals": [
+"Strong C++ development skills required.",
+"Some JavaScript / TypeScript development skills are a plus.",
+"History of open source contributions.",
+"Good understanding of blockchain protocols (Bitcoin, Ethereum, Solana, etc.) and the DeFi ecosystem are a plus."
+],
+"skills": [
+"JavaScript",
+"TypeScript",
+"C++",
+"Blockchain"
+],
+"req": "Web3 Core Engineer Remote  About Brave Brave is on a mission to protect the human right to privacy online. We’ve built a free web browser that blocks creepy ads and trackers by default, a private sear\nSummary Brave is looking for an experienced Senior Software Engineer with a focus on blockchain integrations with Brave. You'll work on our Brave Wallet. This is a high profile and impactful, hands-on\nRequirements  5+ years experience with application development.\nStrong C++ development skills required.\nExperience with software development via distributed development teams."
 },
 {
 "title": "Data Engineer",
@@ -11276,7 +11527,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604840834?etd=MUVP6CXQ22IN5CNKH6X6S7CNNQ2KLZD5FMYZSBASGH4WOPHYJYAY2JVHTD6GEK4MGMRG3ENA2MHV3AR4XMEANFKZKXR4TBO76O5MSNJFNKKSCUNJJMPA%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604840834?etd=MUVP6CXQ22IN5CNKH6X6S7CNNQ2KLZD5FMYZSBASGH4WOPHYJYAY2JVHTD6GEK4MGMRG3ENA2MHV3AR4XMEANFKZKXR4TBO76O5MSNLGNFKXR7ENPKZQ%3d%3d%3d%3d",
 "salary": "$17.95 - $21.09",
 "req": "Join our holiday team! We're hiring immediately for our busiest and most exciting time of the year! Whether you're looking to build new skills, gain experience, or be part of a great team, we'd love t"
 },
@@ -18615,6 +18866,66 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-09",
 "link": "https://www.linkedin.com/jobs/view/4487973598",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Service Management Analyst",
+"company": "Hydro One",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4487941422",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Care Specialist",
+"company": "Elective",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4457493813",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Funding Analyst (BDO GrantMatch)",
+"company": "BDO Canada",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4480810440",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Analyst",
+"company": "FYidoctors",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4454135487",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Ecommerce Brand Advocate",
+"company": "The Home Depot Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4460025289",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "OTBI Developer",
+"company": "Newport Williams",
+"location": "Vaughan, Ontario, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4487145925",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
