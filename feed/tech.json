@@ -1,18 +1,105 @@
 {
-"updated": "2026-11-11T02:19:52+00:00",
+"updated": "2026-11-11T02:29:51+00:00",
 "jobs": [
 {
-"title": "Certified Teachers and Tutors, Online, All Subjects (Step Up Programs)",
-"company": "Younger Legacy Academy",
+"title": "Administrative Assistant",
+"company": "Time Education Inc.",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=3c42e217f78e3c82",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/administrative-assistant-3c42e217f78e3c82",
+"salary": "$18.00-$25.00 per hour",
+"req": "Founded in 1995. Time Education Inc. provides top-quality tutoring services for all academic levels from Elementary to College and University. We also provide consultation services on academic and car"
+},
+{
+"title": "Data and Business Analyst",
+"company": "CMP Group Ltd.",
+"location": "Delta, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=28c25bb30c1b456d",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://ats.rippling.com/cmp-group-ltd/jobs/fa3a1d4b-6a68-443b-879f-89e430fc7f2a?jobSite=Indeed",
+"salary": "$75,000 to $90,000 per year",
+"skills": [
+"SQL",
+"Excel",
+"Data structures & algorithms"
+],
+"req": "Prepares, compiles, and organizes documentation and information required for customer price sheets.\nObtains and validates missing or incomplete information required to establish customer pricing.\nUtilizes internal tools and third-party services to maintain the integrity, usability, and availability of product, customer, and sales data.\nProvides training, documentation, and ongoing support to users as required.\nWorks collaboratively with internal stakeholders and system vendors to resolve issues and improve system functionality Safety:  Promotes safe work practices as outlined in the Worksafe B.C. regulation"
+},
+{
+"title": "Scoping and Estimating Analyst I, Energy",
+"company": "Welty Enterprises",
 "location": "Remote · United States",
 "posted": "2026-11-11",
-"link": "https://www.indeed.com/viewjob?jk=0a5e76f496e6db19",
+"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
 "source": "Indeed",
 "country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
+"salary": "$500",
+"skills": [
+"Power BI",
+"Excel",
+"Microsoft 365",
+"SAP"
+],
+"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
+},
+{
+"title": "Computer Science Teacher",
+"company": "Zhuge Academy",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=a71753dc6700a90a",
+"source": "Indeed",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/certified-teachers-and-tutors-online-all-subjects-step-programs-0a5e76f496e6db19",
-"salary": "$25 - $35 USD per hour",
-"req": "Are you willing to complete a background check before working with students?"
+"apply": "http://ca.indeed.com/job/computer-science-teacher-a71753dc6700a90a",
+"salary": "$25.00-$40.00 per hour",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C++",
+"Git",
+"Data structures & algorithms",
+"Object-oriented programming"
+],
+"req": "Zhuge Academy is looking for a dynamic and knowledgeable Computer Science & Programming teacher to join our team. We specialize in high-level academic enrichment and are seeking an educator who can in\nContest Preparation: Guide students through competitive programming challenges, including the CCC (Canadian Computing Competition) and USACO.\nAssessment: Evaluate student code for efficiency, readability, and logic; provide constructive feedback that encourages \"clean code\" habits. Required Skills & Qualifications  Technical Proficiency: St\nEducational Background: Degree in Computer Science, Software Engineering, or a related STEM field.\nInstructional Experience: Prior experience in tutoring or classroom teaching, with the ability to explain abstract logic in simple, relatable terms."
+},
+{
+"title": "Personal Assistant",
+"company": "hjkl",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=afc22769fd02620b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/personal-assistant-afc22769fd02620b",
+"salary": "$18.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "IT Customer Service/Sales Representative",
+"company": "Supreme Security",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-11",
+"link": "https://ca.indeed.com/viewjob?jk=96e328685246f9f5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-customer-servicesales-representative-96e328685246f9f5",
+"salary": "$60,000.00-$80,000.00 per year",
+"req": "About Us Supreme Security is a locally based Alberta security integrator with over 35 years of experience, specializing in alarm, access control, and surveillance solutions. We provide reliable, affor\nCollaborate with internal teams to ensure seamless service delivery and resolution of client issues.\nDo you have a diploma or degree in IT certificate or diploma (or equivalent experience)  Have you worked with Security Alarm systems and/or Surveillance/ CCTV Cameras or any related field before? Expe"
 },
 {
 "title": "QA & Customer Success Specialist (AI Support Training)",
@@ -38,104 +125,17 @@
 "req": "READ THIS FIRST: Our Core Values Are a Requirement We are very selective. You must genuinely recognize yourself in all three of our core values and hold yourself to them. If they do not describe how y\nExpedient Mastery: Pursue competence quickly through established knowledge and proven methods. Study and replicate great work to accelerate learning and avoid unnecessary reinvention. Location require\nWrite and maintain the snippets and internal articles Fin relies on, with structured troubleshooting steps and plain, accurate wording.\nWrite and improve public help center articles and internal documentation.\n2+ years of hands-on QA, bug testing, or technical support for a software product, with real experience writing bug reports that developers act on.\nExperience with an issue tracker such as GitLab, Jira, GitHub Issues, or Linear.\nExperience with customer support or customer success in a SaaS product, including onboarding or troubleshooting customers directly.\nExperience improving or training an AI support agent or chatbot (Intercom Fin, Zendesk AI, Ada, or similar), or a clear, specific example of how you would approach it.\nA professional video call setup (working webcam, headset, quiet space, reliable internet). You will be on customer calls.\nReliable, self-directed, and comfortable with ambiguity. You do not wait to be told what to test. Bonus Points  Hands-on experience with Intercom (inbox, articles, Fin, workflows).\nExperience with film, TV, video, or creative production "
 },
 {
-"title": "IT Customer Service/Sales Representative",
-"company": "Supreme Security",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=96e328685246f9f5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/it-customer-servicesales-representative-96e328685246f9f5",
-"salary": "$60,000.00-$80,000.00 per year",
-"req": "About Us Supreme Security is a locally based Alberta security integrator with over 35 years of experience, specializing in alarm, access control, and surveillance solutions. We provide reliable, affor\nCollaborate with internal teams to ensure seamless service delivery and resolution of client issues.\nDo you have a diploma or degree in IT certificate or diploma (or equivalent experience)  Have you worked with Security Alarm systems and/or Surveillance/ CCTV Cameras or any related field before? Expe"
-},
-{
-"title": "Personal Assistant",
-"company": "hjkl",
-"location": "Mississauga, ON, CA (remote)",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=afc22769fd02620b",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/personal-assistant-afc22769fd02620b",
-"salary": "$18.00-$24.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Computer Science Teacher",
-"company": "Zhuge Academy",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=a71753dc6700a90a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/computer-science-teacher-a71753dc6700a90a",
-"salary": "$25.00-$40.00 per hour",
-"skills": [
-"Python",
-"Java",
-"JavaScript",
-"C++",
-"Git",
-"Data structures & algorithms",
-"Object-oriented programming"
-],
-"req": "Zhuge Academy is looking for a dynamic and knowledgeable Computer Science & Programming teacher to join our team. We specialize in high-level academic enrichment and are seeking an educator who can in\nContest Preparation: Guide students through competitive programming challenges, including the CCC (Canadian Computing Competition) and USACO.\nAssessment: Evaluate student code for efficiency, readability, and logic; provide constructive feedback that encourages \"clean code\" habits. Required Skills & Qualifications  Technical Proficiency: St\nEducational Background: Degree in Computer Science, Software Engineering, or a related STEM field.\nInstructional Experience: Prior experience in tutoring or classroom teaching, with the ability to explain abstract logic in simple, relatable terms."
-},
-{
-"title": "Scoping and Estimating Analyst I, Energy",
-"company": "Welty Enterprises",
+"title": "Certified Teachers and Tutors, Online, All Subjects (Step Up Programs)",
+"company": "Younger Legacy Academy",
 "location": "Remote · United States",
 "posted": "2026-11-11",
-"link": "https://www.indeed.com/viewjob?jk=2c7e7b6aeb2c641a",
+"link": "https://www.indeed.com/viewjob?jk=0a5e76f496e6db19",
 "source": "Indeed",
 "country": "US",
-"years": 2,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6f741ead-693c-4f61-b0cc-d14276a5631b&ccId=19000101_000003&jobId=624681",
-"salary": "$500",
-"skills": [
-"Power BI",
-"Excel",
-"Microsoft 365",
-"SAP"
-],
-"req": "Experience with management tools such as Excel, and SAP.\nExcellent interpersonal skills, strong written and verbal communication skills  Strong analytical and problem-solving skills are required.\nValid driver’s license required.\nAbility to build relationships and collaborate within a team, both internally and externally.\nMust be able to work independently with minimal supervision Education  Bachelor of Science degree in Business, Engineering, Finance, Construction Management or related field. Consideration given to no\nSAP Certification (Preferred) Work Environment  Must be able to lift up to 10 pounds.\nWorking Hours 8am-5pm Eastern Time  Remote work environment that is quiet for meetings  Must meet internet speed requirements  Travel 2-3 times yearly for Welty and Client meetings Disclaimers This ro"
-},
-{
-"title": "Data and Business Analyst",
-"company": "CMP Group Ltd.",
-"location": "Delta, BC, CA",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=28c25bb30c1b456d",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://ats.rippling.com/cmp-group-ltd/jobs/fa3a1d4b-6a68-443b-879f-89e430fc7f2a?jobSite=Indeed",
-"salary": "$75,000 to $90,000 per year",
-"skills": [
-"SQL",
-"Excel",
-"Data structures & algorithms"
-],
-"req": "Prepares, compiles, and organizes documentation and information required for customer price sheets.\nObtains and validates missing or incomplete information required to establish customer pricing.\nUtilizes internal tools and third-party services to maintain the integrity, usability, and availability of product, customer, and sales data.\nProvides training, documentation, and ongoing support to users as required.\nWorks collaboratively with internal stakeholders and system vendors to resolve issues and improve system functionality Safety:  Promotes safe work practices as outlined in the Worksafe B.C. regulation"
-},
-{
-"title": "Administrative Assistant",
-"company": "Time Education Inc.",
-"location": "Richmond, BC, CA",
-"posted": "2026-11-11",
-"link": "https://ca.indeed.com/viewjob?jk=3c42e217f78e3c82",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/administrative-assistant-3c42e217f78e3c82",
-"salary": "$18.00-$25.00 per hour",
-"req": "Founded in 1995. Time Education Inc. provides top-quality tutoring services for all academic levels from Elementary to College and University. We also provide consultation services on academic and car"
+"years": null,
+"apply": "http://www.indeed.com/job/certified-teachers-and-tutors-online-all-subjects-step-programs-0a5e76f496e6db19",
+"salary": "$25 - $35 USD per hour",
+"req": "Are you willing to complete a background check before working with students?"
 },
 {
 "title": "Information Security Analyst Co-op (Winter 2027)",
@@ -6226,7 +6226,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604845228?etd=MUVP6CXQ22IN4K32S64EDI27ELRB2O5ID7AL2ANU5LP2VXYZXLCCF23KKYXN72CCA3YMEEWCOQDDKD72JEEGAMZX7VCH4RQXWJXSAGMQ2H37SAUYW2SA%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604845228?etd=MUVP6CXQ22IN4K32S64EDI27ELRB2O5ID7AL2ANU5LP2VXYZXLCCF23KKYXN72CCA3YMEEWCOQDDKD72JEEGAMZX7VCH4RQXWJXSAGIORQYOO6JS6GCQ%3d%3d%3d%3d",
 "salary": "$50,000.00 - $56,000.00",
 "skills": [
 "Azure",
@@ -7267,6 +7267,119 @@
 "Azure certification"
 ],
 "req": "Citrin Cooperman offers a dynamic work environment, fostering professional growth and collaboration. We’re continuously seeking talented individuals who bring a problem-solving mindset, fresh perspect\nStandards, Version Control & CI/CD: Set and follow design and coding standards for integration and automation work. Manage solutions in Git and Azure DevOps, use automated deployments across environme\nPreferred Certifications: + Microsoft Certified: Power Platform Solution Architect Expert (PL-600) + Microsoft Certified: Power Platform Developer Associate (PL-400) + Microsoft Certified: Azure Devel\nHands-on experience integrating ERP systems (such as Dynamics 365, SAP, or similar) with cloud platforms, including at least one data migration project from start to finish.\nWorking experience with Microsoft Fabric, Azure Data Factory, or Azure Synapse Analytics, along with strong SQL skills.\nDevelopment experience in C / .NET and REST APIs, including Dataverse plugins or custom connectors.\nExperience working directly with business stakeholders: gathering requirements, presenting design options, and managing scope.\nPreferred: experience with data governance and security for AI and Copilot solutions, including Model Context Protocol (MCP) servers."
+},
+{
+"title": "Calgary Police Service - Management Systems Analyst",
+"company": "City of Calgary",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=89f5b171570834b0",
+"source": "Indeed",
+"country": "CA",
+"years": 8,
+"apply": "https://recruiting.calgary.ca/psc/hcm/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST_FL&JobOpeningId=315647&PostingSeq=1&SiteId=1",
+"salary": "$48.54 - 64.88 per hour",
+"skills": [
+"Agile / Scrum"
+],
+"req": "If you are committed to public service, enjoy collaborating with others, share our values and have a desire to learn and grow, join The City of Calgary. City employees deliver the services, run the pr\nCoordinate projects and operational improvements that support sustainable public safety technology platforms. Qualifications  A degree in Computer Science or a related technical discipline such as Mat\nWorking knowledge of Agile project delivery principles, practices, and methodologies is required.\nDemonstrated experience gathering and translating requirements into technology solutions, as well as coordinating technology initiatives including system enhancements, projects and implementations.\nExperience working within complex multi-agency, multi-jurisdictional, or governance-driven environments where priorities must be coordinated across multiple business groups is considered an asset.\nExperience working in a complex Finance or Accounting environment is preferred.\nSuccess in this position requires: emotional intelligence; creating and sustaining safe, respectful and inclusive workplaces; promoting supportive, balanced and professional accountability; building a"
+},
+{
+"title": "Financial Analyst I",
+"company": "Municipality of Chatham-Kent",
+"location": "Chatham-Kent, ON, CA (remote)",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=bb89aac4eb44dd50",
+"source": "Indeed",
+"country": "CA",
+"years": 6,
+"apply": "https://recruiting.ultipro.ca/COR5101COMCH/JobBoard/99e5515b-9ffb-4d3b-a84e-95f953a5c0f2/OpportunityDetail?opportunityId=0feb7645-c078-4691-8f5e-3345a3c04bfc&postingId=b2dade6a-dcb6-4f9b-999e-5280dcd225b1",
+"salary": "$90,848 to $102,694",
+"skills": [
+"Excel",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "IT Support Technician",
+"company": "Caron Transportation Systems",
+"location": "Sherwood Park, AB, CA",
+"posted": "2026-11-10",
+"link": "https://ca.indeed.com/viewjob?jk=05f4570975d74d73",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://carontransport.hrmdirect.com/employment/view.php?req=3861722&jbsrc=1014&location=e0378178-f796-a9ad-f931-48d683c8ffb4",
+"start": "immediately",
+"skills": [
+"Statistics",
+"VMware / virtualization"
+],
+"req": "We are recognized by our customers and employees as the leaders in safety and environmental responsibility while providing the highest level of service in the industry. Backed by being one of Canada's"
+},
+{
+"title": "Appian Business Analyst",
+"company": "Blue Rose Consulting Group, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=f15de44707f42db2",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://blueroseconsultinggroup.hrmdirect.com/employment/view.php?req=3861294&jbsrc=1014&location=43b70e88-b2ac-fcc6-efe2-6639e11f6788",
+"skills": [
+"Agile / Scrum"
+],
+"req": "Appian Business Analyst =========================== About Blue Rose Consulting Group ------------------------------------ Blue Rose Consulting Group is a mission-driven federal contractor dedicated to\nSupport collaboration across functional and technical teams. Minimum Qualifications --------------------------  7–10 years of Agile Backlog Management experience.\n7–10 years of Functional Requirements Analysis experience.\n7–10 years of Client Communication experience.\nMust hold an Active Secret Security Clearance. Why Join Blue Rose? ----------------------- At Blue Rose, you’ll have the opportunity to work at the intersection of business requirements, technology, a"
+},
+{
+"title": "Software Engineer",
+"company": "Security Benefit",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=5dcd36d82a3c6cbc",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.dayforcehcm.com/en-US/hcmportal/CANDIDATEPORTAL/jobs/3116",
+"salary": "$75",
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"Snowflake",
+"DynamoDB",
+"AWS",
+"CI/CD",
+"Git",
+"Serverless",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+],
+"req": "Build the internal Experience Center portal that our specialists use, including case workflows, agent assist, supervisor views, and admin tooling.\nMonitor, troubleshoot, and continually improve the systems you ship. What We’re Looking For:  2 to 4 years of experience as a software engineer building web applications, APIs, or internal business so\nHands-on experience shipping production applications on AWS using serverless components.\nWorking experience with Snowflake or a comparable cloud data warehouse.\nExperience working in an Agile delivery model."
+},
+{
+"title": "Technical Support Technician - Tech Apps",
+"company": "TruBridge",
+"location": "Remote · United States",
+"posted": "2026-11-10",
+"link": "https://www.indeed.com/viewjob?jk=beb2c0a81d4e8f4c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://cpsi.wd1.myworkdayjobs.com/en-US/CPSI/job/Remote---US/Technical-Support-Technican---Tech-Apps_JR102541",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"CompTIA A+",
+"CompTIA Network+",
+"CompTIA Security+"
+],
+"req": "Provides technical support to the organization's customers on proprietary applications and hardware (e.g., PCs, servers, and related infrastructure) via phone, email, and other support channels. Answe\nContinue developing technical independence and ownership of assigned work. Minimum Requirements Education / Experience / Certification Requirements  Bachelor's Degree in a technical field of study or \nEducational or practical experience with Linux or Windows Servers, Networking, Desktop Support, or related technologies.\nMust be detail-oriented and able to follow issues through to resolution.\nMust be able to work both independently and as a member of a team.\nOccasional travel (25% or less). Preferred Qualifications:  Previous customer service, help desk, call center, retail technology, or customer-facing support experience."
 },
 {
 "title": "Data Engineer",
@@ -11732,7 +11845,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604840834?etd=MUVP6CXQ22IN5CNKH6X6S7CNNQ2KLZD5FMYZSBASGH4WOPHYJYAY2JVHTD6GEK4MGMRG3ENA2MHV3AR4XMEANFKZKXR4TBO76O5MSNLGNFKXR7ENPKZQ%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604840834?etd=MUVP6CXQ22IN5CNKH6X6S7CNNQ2KLZD5FMYZSBASGH4WOPHYJYAY2JVHTD6GEK4MGMRG3ENA2MHV3AR4XMEANFKZKXR4TBO76O5MSNNNSPISBP3VGN7A%3d%3d%3d%3d",
 "salary": "$17.95 - $21.09",
 "req": "Join our holiday team! We're hiring immediately for our busiest and most exciting time of the year! Whether you're looking to build new skills, gain experience, or be part of a great team, we'd love t"
 },
@@ -11859,7 +11972,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-0728&BRID=1347575&sbdid=936",
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-0728&BRID=1347577&sbdid=936",
 "salary": "$40",
 "skills": [
 "Windows",
@@ -19146,6 +19259,31 @@
 "years": null
 },
 {
+"title": "Individualized Study Tutor - CRJS 360 (PERM)",
+"company": "Athabasca University",
+"location": "Athabasca, AB, CA (remote)",
+"posted": "2026-11-09",
+"link": "https://ca.indeed.com/viewjob?jk=cd3c0dbd2fde6587",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://athabascau.acquiretm.com/job_details_clean.aspx?ID=3322&source=indeed",
+"salary": "$265.81",
+"skills": [
+"Agile / Scrum"
+]
+},
+{
+"title": "OT Infrastructure Engineer",
+"company": "ENMAX",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-09",
+"link": "https://www.linkedin.com/jobs/view/4487958495",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Business Information Security Officer, Audit & Assurance",
 "company": "KPMG",
 "location": "Toronto, Canada; Vaughan, Canada; Vancouver, Canada",
@@ -21467,7 +21605,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634920&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2634920%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D8b549b05-dc7c-11f1-afd1-e545ac096045%26rx_job%3D2634920%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261111T000414Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634920&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2634920%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D8b549b05-dc7c-11f1-afd1-e545ac096045%26rx_job%3D2634920%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261111T020422Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$62,000 - $124,500 USD per year",
 "skills": [
 "Microsoft 365",
@@ -21534,7 +21672,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2637395&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2637395%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D9f6058c9-dd23-11f1-98be-617b56dc858a%26rx_job%3D2637395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261111T000414Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2637395&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fglobal%2Fen%2Fjob%2F2637395%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D9f6058c9-dd23-11f1-98be-617b56dc858a%26rx_job%3D2637395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261111T020422Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$25 - $34 USD per hour",
 "skills": [
 "Help desk / troubleshooting"
