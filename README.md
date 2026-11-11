@@ -147,3 +147,19 @@ python -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python -m unittest test_years
 .venv/bin/python feed.py
 ```
+
+## License and data use
+
+The **code** is under the [MIT License](LICENSE): use it, change it and build on it, keeping the copyright notice.
+
+The **job listings** in `feed/` are not covered by that license. They belong to the employers and job boards
+they come from, and each listing links back to its original posting. If you show them on your own site:
+
+- Show the title, company, location and date, and link to the original posting for the full description and to apply.
+- Don't present listings as your own or remove the link to the source.
+- Respect the source sites' own terms.
+
+**Building on the feed:** read `https://raw.githubusercontent.com/sagarh12/canada-jobs-feed/main/feed/tech.json`
+on a schedule (it updates about every 10 minutes) and serve your own copy, rather than fetching it on every page view.
+The JSON format is kept stable because other tools depend on it; fork the repo if you need different fields.
+A credit link back to this repository is appreciated.
