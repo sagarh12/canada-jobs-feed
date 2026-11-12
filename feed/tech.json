@@ -1,35 +1,62 @@
 {
-"updated": "2026-11-12T03:39:48+00:00",
+"updated": "2026-11-12T03:49:46+00:00",
 "jobs": [
 {
-"title": "Security Systems Engineer",
-"company": "Tripwire Security Inc",
-"location": "Ottawa, ON, CA (remote)",
+"title": "Junior Design Engineer",
+"company": "Bask Health",
+"location": "Remote · United States",
 "posted": "2026-11-12",
-"link": "https://ca.indeed.com/viewjob?jk=3218d502b87a8e44",
+"link": "https://www.indeed.com/viewjob?jk=96c6abd85e2bcc70",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://apply.workable.com/j/35A704D43B",
+"skills": [
+"JavaScript",
+"TypeScript",
+"HTML/CSS",
+"React",
+"Next.js",
+"Tailwind",
+"REST APIs",
+"Git",
+"Help desk / troubleshooting",
+"Selenium / Cypress",
+"Figma"
+],
+"req": "About Bask Health --------------------- Bask Health is a software platform that enables entrepreneurs, doctors, and healthcare businesses to launch, manage, and grow direct-to-consumer telehealth busi\nBuild reusable UI components for merchant-facing and internal applications.\nContribute to merchant dashboards, platform configuration interfaces, and patient experiences.\nParticipate in code reviews and apply feedback from experienced engineers.\nCollaborate with product managers and designers to understand user experience requirements.\nGradually take ownership of small frontend features from implementation through testing and deployment. Requirements  Foundational experience with frontend development through employment, internships,\nBasic experience with React or a comparable frontend framework.\nInterest in user interface design and user experience.\nComfort working in a remote, collaborative engineering environment. Nice to Have ----------------  Previous internship or junior experience in frontend development or design engineering.\nExperience with React, Next.js, and TypeScript.\nExperience working from Figma designs.\nExperience building responsive dashboards or SaaS interfaces.\nExperience with basic animations and CSS transitions.\nExperience creating reusable UI components.\nExperience building forms and interactive application interfaces.\nBasic experience integrating frontend components with APIs.\nExperience with frontend testing tools such as Playwright or Cypress.\nExperience "
+},
+{
+"title": "vCAD Administrator",
+"company": "Versaterm",
+"location": "Saint John, NB, CA (remote)",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=89d39e9def4598b3",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/bk9dy8me8us",
+"skills": [
+"Help desk / troubleshooting",
+"Embedded systems"
+],
+"req": "The Company Versaterm is a PE-backed, high-growth SaaS company building a fully integrated platform across the entire public safety ecosystem — dispatch, law enforcement, forensics, courts, and beyond\nServe as subject matter expert on CAD and MDT street and map displays, and maintain documentation of New Brunswick GIS updates. Support, Troubleshooting and Training  Provide end-user application assi\nMentor and coach Customer and RPA staff on CAD/MDT administration, and establish best practices for configuration, change control, and documentation. Relationship Management and Reporting  Act as the \nDo not respond to requests for personally identifiable information (PII). The Customer and RPAs approve and handle those requests. What You Bring  A minimum of 5-7 years of experience in public safety\nHands-on experience configuring and administering CAD, including units, status codes, incident types, response plans, and user security.\nExperience with test, training, and production environments, release promotion, and acceptance testing.\nExperience mentoring or coaching others and implementing best practices in system administration."
+},
+{
+"title": "Executive Assistant",
+"company": "",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=31f77041e83b282c",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/security-systems-engineer-3218d502b87a8e44",
-"salary": "$56 - $72",
+"apply": "http://ca.indeed.com/job/executive-assistant-31f77041e83b282c",
+"salary": "$60,000.00-$70,000.00 per year",
 "skills": [
-"Python",
-"Bash/Shell",
-"PowerShell",
-"Docker",
-"Linux",
-"Cybersecurity",
-"SOC",
-"Vulnerability management",
-"Penetration testing",
-"Firewalls",
-"Windows",
-"Help desk / troubleshooting",
-"Hardware setup",
-"VMware / virtualization",
-"Embedded systems"
+"Google Workspace"
 ],
-"req": "Hardware interfaces and embedded systems. The successful candidate should be able to identify weaknesses, evaluate existing configurations, develop appropriate testing procedures and recommend practic\nInformation visualization and reporting. Candidates do not need to possess every qualification listed above. We are interested in demonstrated ability, technical curiosity and the capacity to work acr\nProfessional restraint when dealing with sensitive information and security vulnerabilities. We value someone who can recognize the limits of their own knowledge, research what they do not know and br"
+"req": "Reckless Pictures, is an independent Canadian production company that produces projects both domestically and worldwide. With decades of combined experience and hundreds of projects produced, the comp\nKeeping Executive Producers’ IDMB and social media platforms up-to-date, as required. Production  When in production, coordinating with the production team to ensure the producers' needs are met (i.e.\nOrganizing production-related gifts for crew and network executives and delivering gifts on set as required.\nOverseeing the purchase of branded merchandise and gifts as required.\nHow many (If any) years of Film & TV industry experience do you have?\nHow many (If any) years of administrative assistant experience do you have?"
 },
 {
 "title": "Jr. Data Analyst",
@@ -59,61 +86,34 @@
 "req": "Ready to accelerate your career? Cardata is where driven people make an outsized impact. We're a small but mighty team transforming how businesses manage vehicle reimbursement — replacing outdated pro\nWork with customers and internal stakeholders to understand the problem behind each request and shape reports that answer the right questions."
 },
 {
-"title": "Executive Assistant",
-"company": "",
-"location": "Burnaby, BC, CA",
+"title": "Security Systems Engineer",
+"company": "Tripwire Security Inc",
+"location": "Ottawa, ON, CA (remote)",
 "posted": "2026-11-12",
-"link": "https://ca.indeed.com/viewjob?jk=31f77041e83b282c",
+"link": "https://ca.indeed.com/viewjob?jk=3218d502b87a8e44",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/executive-assistant-31f77041e83b282c",
-"salary": "$60,000.00-$70,000.00 per year",
+"apply": "http://ca.indeed.com/job/security-systems-engineer-3218d502b87a8e44",
+"salary": "$56 - $72",
 "skills": [
-"Google Workspace"
-],
-"req": "Reckless Pictures, is an independent Canadian production company that produces projects both domestically and worldwide. With decades of combined experience and hundreds of projects produced, the comp\nKeeping Executive Producers’ IDMB and social media platforms up-to-date, as required. Production  When in production, coordinating with the production team to ensure the producers' needs are met (i.e.\nOrganizing production-related gifts for crew and network executives and delivering gifts on set as required.\nOverseeing the purchase of branded merchandise and gifts as required.\nHow many (If any) years of Film & TV industry experience do you have?\nHow many (If any) years of administrative assistant experience do you have?"
-},
-{
-"title": "vCAD Administrator",
-"company": "Versaterm",
-"location": "Saint John, NB, CA (remote)",
-"posted": "2026-11-12",
-"link": "https://ca.indeed.com/viewjob?jk=89d39e9def4598b3",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/bk9dy8me8us",
-"skills": [
+"Python",
+"Bash/Shell",
+"PowerShell",
+"Docker",
+"Linux",
+"Cybersecurity",
+"SOC",
+"Vulnerability management",
+"Penetration testing",
+"Firewalls",
+"Windows",
 "Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
 "Embedded systems"
 ],
-"req": "The Company Versaterm is a PE-backed, high-growth SaaS company building a fully integrated platform across the entire public safety ecosystem — dispatch, law enforcement, forensics, courts, and beyond\nServe as subject matter expert on CAD and MDT street and map displays, and maintain documentation of New Brunswick GIS updates. Support, Troubleshooting and Training  Provide end-user application assi\nMentor and coach Customer and RPA staff on CAD/MDT administration, and establish best practices for configuration, change control, and documentation. Relationship Management and Reporting  Act as the \nDo not respond to requests for personally identifiable information (PII). The Customer and RPAs approve and handle those requests. What You Bring  A minimum of 5-7 years of experience in public safety\nHands-on experience configuring and administering CAD, including units, status codes, incident types, response plans, and user security.\nExperience with test, training, and production environments, release promotion, and acceptance testing.\nExperience mentoring or coaching others and implementing best practices in system administration."
-},
-{
-"title": "Junior Design Engineer",
-"company": "Bask Health",
-"location": "Remote · United States",
-"posted": "2026-11-12",
-"link": "https://www.indeed.com/viewjob?jk=96c6abd85e2bcc70",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://apply.workable.com/j/35A704D43B",
-"skills": [
-"JavaScript",
-"TypeScript",
-"HTML/CSS",
-"React",
-"Next.js",
-"Tailwind",
-"REST APIs",
-"Git",
-"Help desk / troubleshooting",
-"Selenium / Cypress",
-"Figma"
-],
-"req": "About Bask Health --------------------- Bask Health is a software platform that enables entrepreneurs, doctors, and healthcare businesses to launch, manage, and grow direct-to-consumer telehealth busi\nBuild reusable UI components for merchant-facing and internal applications.\nContribute to merchant dashboards, platform configuration interfaces, and patient experiences.\nParticipate in code reviews and apply feedback from experienced engineers.\nCollaborate with product managers and designers to understand user experience requirements.\nGradually take ownership of small frontend features from implementation through testing and deployment. Requirements  Foundational experience with frontend development through employment, internships,\nBasic experience with React or a comparable frontend framework.\nInterest in user interface design and user experience.\nComfort working in a remote, collaborative engineering environment. Nice to Have ----------------  Previous internship or junior experience in frontend development or design engineering.\nExperience with React, Next.js, and TypeScript.\nExperience working from Figma designs.\nExperience building responsive dashboards or SaaS interfaces.\nExperience with basic animations and CSS transitions.\nExperience creating reusable UI components.\nExperience building forms and interactive application interfaces.\nBasic experience integrating frontend components with APIs.\nExperience with frontend testing tools such as Playwright or Cypress.\nExperience "
+"req": "Hardware interfaces and embedded systems. The successful candidate should be able to identify weaknesses, evaluate existing configurations, develop appropriate testing procedures and recommend practic\nInformation visualization and reporting. Candidates do not need to possess every qualification listed above. We are interested in demonstrated ability, technical curiosity and the capacity to work acr\nProfessional restraint when dealing with sensitive information and security vulnerabilities. We value someone who can recognize the limits of their own knowledge, research what they do not know and br"
 },
 {
 "title": "AI Platform Software Engineer",
