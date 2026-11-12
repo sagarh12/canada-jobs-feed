@@ -2,7 +2,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 1,Help desk / troubleshooting,IT support,44%,2763,917,2763,2026-11-12
 2,SQL,Language,24%,1477,485,1477,2026-11-12
 3,REST APIs,Framework,23%,1456,467,1456,2026-11-12
-4,Python,Language,22%,1388,472,1388,2026-11-12
+4,Python,Language,22%,1389,473,1389,2026-11-12
 5,Excel,Data & AI,21%,1319,449,1319,2026-11-12
 6,Hardware setup,IT support,19%,1189,411,1189,2026-11-12
 7,System design,Practice,18%,1151,373,1151,2026-11-12
@@ -17,8 +17,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,701,237,701,2026-11-12
 17,IAM,Security,11%,680,234,680,2026-11-12
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,675,216,675,2026-11-12
-19,Power BI,Data & AI,10%,614,200,614,2026-11-12
-20,JavaScript,Language,10%,613,188,613,2026-11-12
+19,JavaScript,Language,10%,614,189,614,2026-11-12
+20,Power BI,Data & AI,10%,614,200,614,2026-11-12
 21,"Testing (unit, automated)",Practice,9%,577,200,577,2026-11-12
 22,Statistics,Data & AI,9%,570,199,570,2026-11-12
 23,LLMs / GenAI,Data & AI,9%,567,186,567,2026-11-12
@@ -33,7 +33,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 32,React,Framework,6%,376,115,376,2026-11-12
 33,Monitoring,Cloud & DevOps,6%,375,130,375,2026-11-12
 34,Kubernetes,Cloud & DevOps,6%,370,114,370,2026-11-12
-35,TypeScript,Language,6%,350,126,350,2026-11-12
+35,TypeScript,Language,6%,351,127,351,2026-11-12
 36,Vulnerability management,Security,6%,350,126,350,2026-11-12
 37,SQL Server,Database,5%,339,95,339,2026-11-12
 38,Oracle,Database,5%,336,98,336,2026-11-12
@@ -121,8 +121,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 120,FastAPI,Framework,1%,38,12,38,2026-11-12
 121,Deep learning,Data & AI,1%,37,15,37,2026-11-12
 122,Kotlin,Language,1%,37,9,37,2026-11-12
-123,Rust,Language,1%,37,8,37,2026-11-12
-124,LangChain,Data & AI,1%,36,10,36,2026-11-12
+123,LangChain,Data & AI,1%,37,11,37,2026-11-12
+124,Rust,Language,1%,37,8,37,2026-11-12
 125,Ruby on Rails,Framework,1%,36,13,36,2026-11-12
 126,jQuery,Framework,1%,36,10,36,2026-11-12
 127,Computer vision,Data & AI,1%,35,7,35,2026-11-12
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-12
 155,Solidity,Language,0%,1,0,1,2026-11-12
 
-,Based on 6225 postings in the last 30 days (6225 all time)
+,Based on 6226 postings in the last 30 days (6226 all time)
