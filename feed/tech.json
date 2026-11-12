@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T22:49:49+00:00",
+"updated": "2026-11-12T22:59:54+00:00",
 "jobs": [
 {
 "title": "Sales Commissions Analyst",
@@ -4209,6 +4209,214 @@
 "req": "Ensure compliance with corporate IT policies, cybersecurity standards, and service level agreements (SLAs). What You Bring Required Qualifications  Associate's degree in Information Technology, Comput\n4-6 years of experience in a Help Desk, Service Desk, Desktop Support, or Technical Support role.\nExperience supporting Microsoft Windows environments.\nExperience administering Microsoft 365 portal and Microsoft Applications.\nExperience with any ticketing systems for tracking, documentation and end-user communications.\nAbility to prioritize multiple support requests in a fast-paced environment. Preferred Qualifications  CompTIA A+, Network+, or Security+ certifications.\nExperience with Microsoft Entra ID (Azure AD).\nExperience supporting cloud-based environments. What We Offer Bristol Bay Services, LLC offers a competitive benefits package to include: paid holidays, paid time off including sick and vacation leave"
 },
 {
+"title": "Data Engineer",
+"company": "CareRx",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=2a843ef2418b89f6",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.dayforcehcm.com/en-CA/carerx/CareRxCareerSite/jobs/930",
+"salary": "$120,000 to 130,000",
+"skills": [
+"SQL",
+"Machine learning",
+"ETL / data pipelines",
+"Power BI",
+"Azure",
+"Git",
+"Ticketing (ServiceNow, Jira)"
+],
+"req": "About CareRx Corporation At CareRx, we are shaping the future of senior care through pharmacy services that make a real difference. As Canada’s trusted leader in specialty pharmacy services for long-t\nMaintains clear documentation and works with architecture, source system owners, and report developers. What You Will Bring to The Team:  Bachelor’s degree in Computer Science, Information Systems, En\nMinimum of 4 years of data engineering experience.\nExperience with Microsoft Fabric core (OneLake, Warehouse, Mirroring).\nHands-on experience with at least one enterprise data integration platform (e.g. Microsoft Fabric or Azure Data Factory, Informatica, Qlik, or similar).\nExperience designing a warehouse or lakehouse layer model (raw, curated, reporting).\nExperience with Git or other version control.\nExperience working within an established enterprise data architecture.\nComfort learning new tools quickly. Preferred  Experience in a healthcare, pharmacy, and awareness of health privacy obligations.\nFamiliarity with enterprise data governance concepts (data classification, canonical/master data, data quality frameworks)  Experience with Power BI  Experience with monitoring and incident tools (e.g\nExperience with AI/ML solutions."
+},
+{
+"title": "DevOps Engineer",
+"company": "Capgemini",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=be0129ecb36bd3ec",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://www.capgemini.com/jobs/595427-en_US_SAPBTP/",
+"salary": "$90,000-$95,652",
+"skills": [
+"Python",
+"Bash/Shell",
+"REST APIs",
+"LLMs / GenAI",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Linux",
+"macOS",
+"Help desk / troubleshooting",
+"Mobile (iOS / Android)"
+],
+"req": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues ar\nMaintain operational documentation, runbooks, deployment procedures, and troubleshooting guides. Required Skills  7+ years of experience in DevOps, Cloud Engineering, Site Reliability Engineering (SRE\nStrong experience in Mobile DevOps or Cloud DevOps, including CI/CD pipeline development, implementation, and troubleshooting.\nHands-on experience with GitHub Actions or comparable CI/CD tools.\nExperience with Docker and container orchestration platforms such as Kubernetes or OpenShift.\nExperience supporting cloud infrastructure and DevOps services.\nExperience with monitoring, logging, alerting, incident management, problem management, and root-cause analysis.\nAbility to troubleshoot application, infrastructure, network, performance, and integration issues. Preferred Qualifications:  Direct Mobile DevOps experience supporting Android and iOS CI/CD pipelines\nExperience with macOS-based build runners/agents and mobile application build environments.\nExperience managing build dependencies, artifacts, credentials, secrets, and environment configurations.\nExperience developing reusable GitHub Actions and workflow templates."
+},
+{
+"title": "Technology Support Technician - Tier I",
+"company": "TRUDELL MEDICAL LIMITED",
+"location": "St. John's, NL, CA (remote)",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=477bd4d34713c3e8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/tml/CANDIDATEPORTALTML/jobs/1810",
+"skills": [
+"Azure",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Encryption / PKI",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"Azure certification",
+"CompTIA A+"
+],
+"req": "Must be available to come into St. John's, Newfoundland office 5 days per week. Your success in this role will be grounded in your values as a person who always acts with integrity and who treats ever\nActive engagement and ongoing support for department projects, ensuring project documentation and communication is accurate and up to date. Administration  Assist with determining the ongoing support \nEnsure all documentation is complete and up to date by capturing knowledge solutions for internal use and customer self-service training."
+},
+{
+"title": "Survey Technician",
+"company": "Harco Developments Inc.",
+"location": "De Winton, AB, CA (remote)",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=d27ae6d3aea9d001",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/survey-technician-d27ae6d3aea9d001",
+"salary": "$37.40 - $39.00 / hour",
+"start": "SPRING 2027",
+"skills": [
+"Hardware setup"
+],
+"req": "Measuring and setting out required distances for street and avenue tree planting in accordance with municipal (City) standards and bylaws ."
+},
+{
+"title": "AWS Devops Engineer",
+"company": "Capgemini",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=747b79cac399ddc2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.capgemini.com/jobs/593124-en_US_SAPBTP/",
+"skills": [
+"Python",
+"Node.js",
+"LLMs / GenAI",
+"AWS",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Linux",
+"Monitoring",
+"Vulnerability management",
+"IAM",
+"Help desk / troubleshooting",
+"System design"
+]
+},
+{
+"title": "Medical Radiography Technology Program (MRAD) Instructor",
+"company": "College of New Caledonia",
+"location": "Prince George, BC, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=2493665aea2c665e",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://cnc.peopleadmin.ca/postings/10949",
+"salary": "$73,879 - $87,659",
+"req": "Faculty Appointment Types Full Time-Limited Term Sessional Non-NRSL Job Summary The College of New Caledonia has a sessional full time faculty appointment in the Medical Radiography Technology Program"
+},
+{
+"title": "Java Developer - Digitech - Remote",
+"company": "Sarnova HC, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-12",
+"link": "https://www.indeed.com/viewjob?jk=2911fd42204fab95",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://jobs.dayforcehcm.com/en-US/sarnova/CANDIDATEPORTAL/jobs/1923",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"HTML/CSS",
+"React",
+"Angular",
+"Vue",
+"Spring Boot",
+"REST APIs",
+"Kafka",
+"CI/CD",
+"Git",
+"Microservices",
+"Networking (TCP/IP, DNS)",
+"Testing (unit, automated)",
+"Jest / PyTest",
+"System design"
+],
+"req": "User Experience and Accessibility: Partner with product and UX teams to improve usability and workflow efficiency; implement WCAG 2.2 AA-aligned interfaces, semantic HTML, keyboard navigation, and res\nSecurity & Compliance: Apply secure coding standards and ensure compliance with internal policies and industry regulations.\nDocumentation: Maintain technical documentation and contribute to knowledge-sharing within the team. Required Qualifications:  Bachelor’s degree in Computer Science or related field.\n3+ years of experience in Java development.\nDemonstrated experience building production front-end applications with JavaScript and TypeScript using at least one modern framework such as React, Angular, or Vue.\nExperience with build tools (Maven, Gradle) and version control (Git).\nUnderstanding of design patterns and software architecture principles. Preferred Qualifications:  Experience with microservices architecture.."
+},
+{
+"title": "CNC Programmer / Operator – Thermwood 3-Axis CNC",
+"company": "",
+"location": "Vaughan, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=3eb66d62086ba818",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-programmer-operator-thermwood-3-axis-cnc-3eb66d62086ba818",
+"salary": "$30.00-$45.00 per hour",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "CNC Programmer / Operator – Thermwood 3-Axis CNC Location: Greater Toronto Area, Ontario Job Type: Part-Time to Full-Time Opportunity About Us We are a new and growing custom woodworking company speci\nHelp establish and improve CNC production workflows as the company grows. Required Qualifications & Experience  Proven experience programming and operating a 3-axis Thermwood CNC machine.\nExperience working with plywood, MDF, solid wood, veneers, and other woodworking materials.\nAbility to work independently and take initiative. What We Are Looking For The ideal candidate is someone who:  Has practical, hands-on Thermwood CNC experience.\nExposure to unique, high-end residential and commercial woodworking projects.\nCompetitive compensation based on experience and qualifications."
+},
+{
+"title": "Business Channel & Product - Merchant Business Development Officer",
+"company": "NBH Bank",
+"location": "Remote · United States",
+"posted": "2026-11-12",
+"link": "https://www.indeed.com/viewjob?jk=f03f2f592a15da85",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.dayforcehcm.com/en-US/nbhbank/NBHBank/jobs/34208",
+"salary": "$80,000 - $95,000 USD per year",
+"skills": [
+"Excel"
+],
+"req": "This position is Remote Eligible in the following states MO, KS, UT, CO, WY, NM or TX. It starts with our culture ... Common sense has never been common. If it were, the world would be a different pla\nMust be able to travel – estimated 15% of the time. Benefits: In addition to your financial compensation, we also offer a generous benefits package that includes insurance, 401k, an associate stock pu"
+},
+{
+"title": "Full time ECE IT Teacher Abbotsford Delair Rd",
+"company": "Taylin Child Care Inc.",
+"location": "Abbotsford, BC, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=a6c2a246efa5d354",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gethired.com/job/full-time-ece-it-teacher-abbotsford-delair-rd-1?rcid=inply",
+"req": "MUST HAVE ECE IT license - only candidates with this certification are qualified Taylin Child Care is seeking a passionate and dedicated Early Childhood Educator (ECEIT) to join our team- This positio"
+},
+{
 "title": "US-Solutions Analyst (Financial)",
 "company": "PointClickCare",
 "location": "Remote · United States",
@@ -7952,7 +8160,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/X9g_-GqUe6NW2WQNB5zQ5jPUHBHv7-yt69DcBWXu_BA#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/d_HoHVQ7LBL66jDWXTNJ_QYu4v6m9ydgJhc9gnsJGug#.job_boards.Indeed",
 "skills": [
 "Java",
 "SQL",
@@ -11214,7 +11422,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3724&rx_jobId=2606930&rx_url=https%3A%2F%2Fapplyjobs.utmb.edu%2Fjobs%2Fhealthcare-data-analyst-biochemistry-molecular-biology-galveston-37188%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D502805%26rx_id%3D38e71486-ddaa-11f1-8e40-9de8e2f675f5%26rx_job%3D2606930%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261112T200408Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3724&rx_jobId=2606930&rx_url=https%3A%2F%2Fapplyjobs.utmb.edu%2Fjobs%2Fhealthcare-data-analyst-biochemistry-molecular-biology-galveston-37188%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D502805%26rx_id%3D38e71486-ddaa-11f1-8e40-9de8e2f675f5%26rx_job%3D2606930%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261112T220429Z%26rx_vp%3Dcpc",
 "skills": [
 "Python",
 "R",
@@ -11788,6 +11996,136 @@
 "location": "",
 "posted": "2026-11-11",
 "link": "https://www.linkedin.com/jobs/view/4490043365",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Revenue Operations Associate",
+"company": "Zen Educate",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4489018468",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Renewable Energy Engineer (Entry-Level)",
+"company": "Renewable Careers",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4489992243",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Wireless Sales Consultant",
+"company": "Staples Canada",
+"location": "Moncton, New Brunswick, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4481763987",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Corporate Accountant",
+"company": "Kassen Recruitment",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4487847872",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Warehouse & Operations Coordinator",
+"company": "Marketing Impact Limited",
+"location": "Concord, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4488682206",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Developer",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4489054131",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "Spait Infotech",
+"location": "",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4489039822",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Associate, Pricing & Clients",
+"company": "RevWhisper",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4489007563",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity Consultant II - CAN",
+"company": "GLI Secure",
+"location": "",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4481739407",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Engineer",
+"company": "Kinaxis",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4481765114",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Zscaler Cloud Security Engineer",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4488266321",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Summer 2027 Internship - Finance, Accounting and Economics",
+"company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4482003144",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Intern (Summer)",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-11",
+"link": "https://www.linkedin.com/jobs/view/4490042596",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -19931,7 +20269,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/y-4qdyMY28CQzCHghvj5NLwNy9mfXGu1aRwDAuRn-D8#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/Bg-z7AHvwfJvUx_4xEg88uhwLMwHc0CTxjX9KyFdXWQ#.job_boards.Indeed",
 "skills": [
 "Python",
 "SQL",
@@ -23884,6 +24222,16 @@
 "years": null
 },
 {
+"title": "Junior I&C Engineer (EIT)/Technologist",
+"company": "Tetra Tech",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-10",
+"link": "https://www.linkedin.com/jobs/view/4485243730",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Data Engineer",
 "company": "Lyft",
 "location": "Toronto, Canada",
@@ -24247,27 +24595,6 @@
 "SDLC"
 ],
 "req": "Forward Deployed Engineers at Sentry help our largest customers get real value from Sentry, from integrating the SDK to making sure the right alerts and issues reach the right people at the right time\nQUALIFICATIONS\n3+ years of experience, with some mixture being Software Engineering and Solutions Engineering/Implementation and at least 1+ year being a FDE\nHands-on experience working with programming languages and frameworks including JavaScript, Python, Node.js, Java, PHP, .NET, Ruby, React, React Native, Mobile Native (iOS and/or Android), etc\nBonus: experience with observability, APM, or error monitoring tools, including migrating customers from another vendor, or helping build a forward deployed or customer engineering function\nSentry is committed to providing equal employment opportunities to its employees and candidates for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, "
-},
-{
-"title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
-"company": "OpenAI",
-"location": "Remote · United States",
-"posted": "2026-11-09T22:58:12.042+00:00",
-"link": "https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47",
-"source": "OpenAI careers",
-"country": "US",
-"years": 7,
-"skills": [
-"Python",
-"TypeScript",
-"SQL",
-"REST APIs",
-"Spark",
-"Kafka",
-"ETL / data pipelines",
-"Hardware setup"
-],
-"req": "7+ years of experience as a software engineer\nDevelop across the stack: UIs, services, pipelines, and anything else required to solve the problems we face.\nHave experience building and operating large-scale data pipelines or search/retrieval systems\nHave prior experience working on engineering for high-severity harms\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems an\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with th"
 }
 ]
 }
