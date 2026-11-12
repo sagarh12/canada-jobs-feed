@@ -1,34 +1,34 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,2792,946,2792,2026-11-12
+1,Help desk / troubleshooting,IT support,44%,2797,951,2797,2026-11-12
 2,SQL,Language,24%,1489,497,1489,2026-11-12
 3,REST APIs,Framework,23%,1473,484,1473,2026-11-12
 4,Python,Language,22%,1406,490,1406,2026-11-12
-5,Excel,Data & AI,21%,1328,458,1328,2026-11-12
-6,Hardware setup,IT support,19%,1196,418,1196,2026-11-12
+5,Excel,Data & AI,21%,1331,461,1331,2026-11-12
+6,Hardware setup,IT support,19%,1198,420,1198,2026-11-12
 7,System design,Practice,18%,1159,381,1159,2026-11-12
-8,Microsoft 365,IT support,16%,993,346,993,2026-11-12
-9,Azure,Cloud & DevOps,16%,988,328,988,2026-11-12
+8,Microsoft 365,IT support,16%,996,349,996,2026-11-12
+9,Azure,Cloud & DevOps,16%,990,330,990,2026-11-12
 10,Agile / Scrum,Practice,15%,945,310,945,2026-11-12
 11,Git,Cloud & DevOps,13%,830,275,830,2026-11-12
 12,CI/CD,Cloud & DevOps,13%,801,259,801,2026-11-12
-13,Windows,IT support,13%,797,284,797,2026-11-12
+13,Windows,IT support,13%,800,287,800,2026-11-12
 14,AWS,Cloud & DevOps,13%,796,263,796,2026-11-12
-15,Cybersecurity,Security,11%,720,252,720,2026-11-12
-16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,706,242,706,2026-11-12
-17,IAM,Security,11%,687,241,687,2026-11-12
-18,"Ticketing (ServiceNow, Jira)",IT support,11%,681,222,681,2026-11-12
+15,Cybersecurity,Security,11%,722,254,722,2026-11-12
+16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,710,246,710,2026-11-12
+17,IAM,Security,11%,689,243,689,2026-11-12
+18,"Ticketing (ServiceNow, Jira)",IT support,11%,682,223,682,2026-11-12
 19,JavaScript,Language,10%,619,194,619,2026-11-12
-20,Power BI,Data & AI,10%,617,203,617,2026-11-12
-21,"Testing (unit, automated)",Practice,9%,583,206,583,2026-11-12
-22,Statistics,Data & AI,9%,573,202,573,2026-11-12
+20,Power BI,Data & AI,10%,618,204,618,2026-11-12
+21,"Testing (unit, automated)",Practice,9%,584,207,584,2026-11-12
+22,Statistics,Data & AI,9%,574,203,574,2026-11-12
 23,LLMs / GenAI,Data & AI,9%,572,191,572,2026-11-12
-24,Linux,Cloud & DevOps,9%,551,201,551,2026-11-12
-25,Java,Language,9%,534,175,534,2026-11-12
-26,C,Language,8%,477,158,477,2026-11-12
+24,Linux,Cloud & DevOps,9%,552,202,552,2026-11-12
+25,Java,Language,8%,534,175,534,2026-11-12
+26,C,Language,8%,478,159,478,2026-11-12
 27,ETL / data pipelines,Data & AI,7%,470,150,470,2026-11-12
 28,Jira,Practice,7%,448,158,448,2026-11-12
 29,Machine learning,Data & AI,7%,437,154,437,2026-11-12
-30,HTML/CSS,Language,7%,420,116,420,2026-11-12
+30,HTML/CSS,Language,7%,421,117,421,2026-11-12
 31,Docker,Cloud & DevOps,6%,396,142,396,2026-11-12
 32,Monitoring,Cloud & DevOps,6%,380,135,380,2026-11-12
 33,React,Framework,6%,377,116,377,2026-11-12
@@ -39,7 +39,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 38,Oracle,Database,5%,340,102,340,2026-11-12
 39,Google Cloud,Cloud & DevOps,5%,330,122,330,2026-11-12
 40,Salesforce,Practice,5%,330,104,330,2026-11-12
-41,SDLC,Practice,5%,317,114,317,2026-11-12
+41,SDLC,Practice,5%,318,115,318,2026-11-12
 42,PowerShell,Language,5%,311,117,311,2026-11-12
 43,Data structures & algorithms,Practice,5%,307,100,307,2026-11-12
 44,Bash/Shell,Language,5%,295,110,295,2026-11-12
@@ -47,7 +47,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 46,Firewalls,Security,5%,292,101,292,2026-11-12
 47,Embedded systems,Practice,4%,267,92,267,2026-11-12
 48,ITIL,Certification,4%,258,72,258,2026-11-12
-49,C++,Language,4%,256,90,256,2026-11-12
+49,C++,Language,4%,257,91,257,2026-11-12
 50,Incident response,Security,4%,252,68,252,2026-11-12
 51,SOC,Security,4%,251,76,251,2026-11-12
 52,Tableau,Data & AI,4%,250,89,250,2026-11-12
@@ -59,7 +59,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 58,Mobile (iOS / Android),Practice,4%,225,71,225,2026-11-12
 59,NIST / ISO 27001,Security,4%,221,71,221,2026-11-12
 60,Infrastructure as code,Cloud & DevOps,3%,218,83,218,2026-11-12
-61,VMware / virtualization,IT support,3%,209,75,209,2026-11-12
+61,VMware / virtualization,IT support,3%,210,76,210,2026-11-12
 62,Node.js,Framework,3%,205,68,205,2026-11-12
 63,macOS,IT support,3%,205,63,205,2026-11-12
 64,Microservices,Cloud & DevOps,3%,203,58,203,2026-11-12
@@ -67,14 +67,14 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 66,Object-oriented programming,Practice,3%,186,62,186,2026-11-12
 67,Databricks,Data & AI,3%,171,53,171,2026-11-12
 68,Jenkins,Cloud & DevOps,3%,171,49,171,2026-11-12
-69,CompTIA A+,Certification,3%,167,53,167,2026-11-12
+69,CompTIA A+,Certification,3%,168,54,168,2026-11-12
 70,Spark,Data & AI,3%,166,58,166,2026-11-12
 71,Angular,Framework,2%,157,46,157,2026-11-12
 72,MySQL,Database,2%,153,45,153,2026-11-12
 73,EDR,Security,2%,151,48,151,2026-11-12
 74,Snowflake,Data & AI,2%,147,48,147,2026-11-12
-75,Go,Language,2%,141,43,141,2026-11-12
-76,CompTIA Security+,Certification,2%,140,40,140,2026-11-12
+75,CompTIA Security+,Certification,2%,141,41,141,2026-11-12
+76,Go,Language,2%,141,43,141,2026-11-12
 77,SIEM,Security,2%,131,40,131,2026-11-12
 78,Selenium / Cypress,Practice,2%,129,46,129,2026-11-12
 79,Ansible,Cloud & DevOps,2%,127,54,127,2026-11-12
@@ -82,7 +82,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 81,R,Language,2%,123,51,123,2026-11-12
 82,GitHub Actions,Cloud & DevOps,2%,119,27,119,2026-11-12
 83,RAG,Data & AI,2%,119,39,119,2026-11-12
-84,CompTIA Network+,Certification,2%,117,35,117,2026-11-12
+84,CompTIA Network+,Certification,2%,118,36,118,2026-11-12
 85,Cloud security,Security,2%,110,34,110,2026-11-12
 86,NoSQL,Database,2%,102,37,102,2026-11-12
 87,PHP,Language,2%,101,35,101,2026-11-12
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-12
 155,Solidity,Language,0%,1,0,1,2026-11-12
 
-,Based on 6281 postings in the last 30 days (6281 all time)
+,Based on 6290 postings in the last 30 days (6290 all time)
