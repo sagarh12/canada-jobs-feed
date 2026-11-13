@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T02:39:48+00:00",
+"updated": "2026-11-13T02:49:51+00:00",
 "jobs": [
 {
 "title": "Raven Company Playtester – Q & A",
@@ -26349,23 +26349,6 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 5
-},
-{
-"title": "RTL Design Engineer, Networking / NoC",
-"company": "OpenAI",
-"location": "Remote · United States",
-"posted": "2026-11-10T02:49:20.423+00:00",
-"link": "https://jobs.ashbyhq.com/openai/ead83ff6-7a58-43dd-b7da-b85e7ddd679c",
-"source": "OpenAI careers",
-"country": "US",
-"years": null,
-"skills": [
-"Verilog/VHDL",
-"SOC",
-"Hardware setup",
-"System design"
-],
-"req": "We're particularly interested in engineers with experience in Network-on-Chip (NoC), networking, interconnect architectures, or high-performance data movement, though the role encompasses broader RTL \nHave strong hands-on experience with ASIC RTL design and microarchitecture development using SystemVerilog or Verilog.\nHave experience designing and implementing complex digital hardware blocks, from architecture and specification through RTL development and verification.\nHave experience collaborating across architecture, software, verification, and physical design teams to develop optimized hardware solutions.\nHave experience with synthesis, timing closure, and physical implementation considerations.\nBring experience with Network-on-Chip (NoC), networking, interconnect fabrics, packet-based architectures, or high-bandwidth data movement systems.\nExperience with AI accelerators, high-performance computing, or hardware/software co-design is a plus.\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems an\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with th"
 }
 ]
 }
