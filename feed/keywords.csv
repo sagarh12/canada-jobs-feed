@@ -1,8 +1,8 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,2839,828,2839,2026-11-13
-2,SQL,Language,24%,1519,441,1519,2026-11-13
+2,SQL,Language,24%,1520,442,1520,2026-11-13
 3,REST APIs,Framework,23%,1503,430,1503,2026-11-13
-4,Python,Language,22%,1432,436,1432,2026-11-13
+4,Python,Language,22%,1433,437,1433,2026-11-13
 5,Excel,Data & AI,21%,1346,389,1346,2026-11-13
 6,Hardware setup,IT support,19%,1218,352,1218,2026-11-13
 7,System design,Practice,18%,1175,336,1175,2026-11-13
@@ -10,7 +10,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 9,Azure,Cloud & DevOps,16%,1005,286,1005,2026-11-13
 10,Agile / Scrum,Practice,15%,959,276,959,2026-11-13
 11,Git,Cloud & DevOps,13%,846,246,846,2026-11-13
-12,CI/CD,Cloud & DevOps,13%,821,228,821,2026-11-13
+12,CI/CD,Cloud & DevOps,13%,822,229,822,2026-11-13
 13,Windows,IT support,13%,813,241,813,2026-11-13
 14,AWS,Cloud & DevOps,13%,806,229,806,2026-11-13
 15,Cybersecurity,Security,11%,735,222,735,2026-11-13
@@ -24,8 +24,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 23,Statistics,Data & AI,9%,583,173,583,2026-11-13
 24,Linux,Cloud & DevOps,9%,562,182,562,2026-11-13
 25,Java,Language,9%,546,164,546,2026-11-13
-26,C,Language,8%,481,135,481,2026-11-13
-27,ETL / data pipelines,Data & AI,8%,480,137,480,2026-11-13
+26,C,Language,8%,482,136,482,2026-11-13
+27,ETL / data pipelines,Data & AI,8%,481,138,481,2026-11-13
 28,Jira,Practice,7%,452,128,452,2026-11-13
 29,Machine learning,Data & AI,7%,447,132,447,2026-11-13
 30,HTML/CSS,Language,7%,429,112,429,2026-11-13
@@ -74,7 +74,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 73,EDR,Security,2%,152,36,152,2026-11-13
 74,Snowflake,Data & AI,2%,150,46,150,2026-11-13
 75,CompTIA Security+,Certification,2%,146,39,146,2026-11-13
-76,Go,Language,2%,143,42,143,2026-11-13
+76,Go,Language,2%,144,43,144,2026-11-13
 77,SIEM,Security,2%,132,30,132,2026-11-13
 78,Selenium / Cypress,Practice,2%,131,37,131,2026-11-13
 79,GitLab,Cloud & DevOps,2%,128,35,128,2026-11-13
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-13
 155,Solidity,Language,0%,1,0,1,2026-11-13
 
-,Based on 6398 postings in the last 30 days (6398 all time)
+,Based on 6399 postings in the last 30 days (6399 all time)
