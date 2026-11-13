@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T20:20:08+00:00",
+"updated": "2026-11-13T20:29:48+00:00",
 "jobs": [
 {
 "title": "Lab Technician, AI Systems",
@@ -3192,6 +3192,165 @@
 "source": "Oak Valley Health careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Group Underwriter, Best Practice Intermediate Analyst",
+"company": "Medavie",
+"location": "ON, CA (remote)",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=e68e847852d9f686",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://medaviehs.wd10.myworkdayjobs.com/en-US/Medavie_External/job/Ontario-Canada/Group-Underwriter--Best-Practice-Intermediate-Analyst_R-269740",
+"skills": [
+"VBA",
+"Power BI",
+"Excel",
+"Statistics",
+"Help desk / troubleshooting"
+],
+"req": "Position Type: Permanent If you’re looking for a fulfilling career that can make a real difference in your life, and the lives of others, you’ve come to the right place. As a national health solutions\nProvide support and guidance to users of underwriting/actuarial systems and tools. Required Qualifications:  Education: College diploma or post-secondary degree in Business Administration, Finance, Ma\nExperience: minimum 3 years of experience in Group Underwriting, Group Insurance, Actuarial, Business Analysis, or Project Management within the insurance industry.\nCertifications: GBA, CEBS, or other related industry certifications would be considered an asset. Knowledge and Skills:  Technical Knowledge: Strong understanding of Group Insurance products, underwri\nRemote-First ; we have flexible work arrangements and emphasis on work-life balance  Comprehensive health, vision and dental plan that is 100% employer paid effective on your first day  100% employer-"
+},
+{
+"title": "Support Analyst",
+"company": "Health Data Coalition",
+"location": "Victoria, BC, CA (remote)",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=d02691f5b88c2fb6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/support-analyst-d02691f5b88c2fb6",
+"salary": "$55,000-$70,000",
+"quals": [
+"Experience with software testing is desirable.",
+"Knowledge of Privacy principles and practices is desirable.",
+"Previous experience working in the health sector and working directly with physicians is desirable.",
+"Exposure to BC’s health care environment and patient and provider confidentiality, security and privacy context requirements are considered "
+],
+"skills": [
+"ETL / data pipelines",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Do you want to help build a better primary care experience in BC? The HDC is looking for someone who bridges the business and technical domains, working closely with internal and external team members\nWork to validate the quality of the data after all data loads (quarterly and new clinics)  Assist with ensuring the validation process is continuously improved. Internal Business IT System Support  Be\nLead training for new systems as required.\nParticipate in security monitoring and internal audits on business systems.\nParticipate in the building and maintaining of internal operating metrics. Experience, Education and Competencies Please ensure that your cover letter and application clearly show how you meet the fol\nExperience with system administration of SaaS applications (O365, SharePoint, Atlassian, CRM systems, Help Desk ticketing systems is desirable.\nExperience with software testing is desirable.\nPrevious experience working in the health sector and working directly with physicians is desirable.\nExposure to BC’s health care environment and patient and provider confidentiality, security and privacy context requirements are considered an asset. Teamwork  Working cooperatively with others to com"
+},
+{
+"title": "Data Analyst - Fraud Strategy (Remote)",
+"company": "United Airlines",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=d5971ec8438d4680",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.united.com/us/en/job/UAIUADUSWHQ00027057EXTERNALENUSTALEO/Data-Analyst-Fraud-Strategy-Remote?utm_source=indeed&utm_medium=phenom-feeds",
+"salary": "$89,965 - $117,212 USD per year",
+"skills": [
+"Swift",
+"SQL",
+"LLMs / GenAI",
+"Power BI",
+"Tableau",
+"Looker",
+"Statistics",
+"Data visualization",
+"Cybersecurity",
+"Vulnerability management"
+]
+},
+{
+"title": "Customer Reliability Engineer",
+"company": "Bask Health",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=0be38740b40a4965",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://apply.workable.com/j/135E104321",
+"skills": [
+"JavaScript",
+"SQL",
+"HTML/CSS",
+"REST APIs",
+"Monitoring",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Postman"
+],
+"req": "About Bask Health --------------------- Bask Health is a software platform that enables entrepreneurs, doctors, and healthcare businesses to launch, manage, and grow direct-to-consumer telehealth busi\nTake ownership of assigned investigations through resolution or appropriate handoff. Requirements  3+ years of experience in technical support engineering, customer engineering, application support, p\nDemonstrated experience investigating complex technical issues affecting SaaS applications.\nExperience troubleshooting customer-facing software workflows.\nExperience analyzing application logs, error messages, and diagnostic information.\nExperience reproducing software defects and documenting investigation steps.\nExperience working with software engineering teams to resolve technical problems.\nExperience identifying recurring issues and recommending preventive improvements.\nExperience using technical support or ticketing systems.\nExperience maintaining accurate troubleshooting and incident documentation.\nAvailability to collaborate during required U.S. Eastern Time working hours.\nStrong ownership mentality and commitment to improving customer-facing reliability. Nice to Have ----------------  Experience supporting e-commerce SaaS or merchant-facing software.\nExperience working with Shopify, BigCommerce, or other storefront platforms.\nExperience troubleshooting checkout and payment-related software issues.\nExperience using Postman or similar API testing tools.\nExperience troubleshoo"
+},
+{
+"title": "Data Engineer (Remote)",
+"company": "CareFirst BlueCross BlueShield",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=41eff09a35ad9015",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://carefirstcareers.ttcportals.com/jobs/18458858-data-engineer-remote?tm_job=22509-1A&tm_event=view&tm_company=2380",
+"salary": "$80,136 - $159,159 USD per year",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"ETL / data pipelines",
+"Snowflake",
+"NoSQL",
+"Azure",
+"CI/CD",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Data structures & algorithms"
+],
+"req": "Resp & Qualifications PURPOSE: The Data Engineer is responsible for developing, maintaining, and supporting cloud-based data solutions that enable Risk Adjustment operations, regulatory reporting, and\nDefines Data Integration best practices for the data management environment. SUPERVISORY RESPONSIBILITY: This position has no direct reports, however, may informally lead teams in a matrix environment"
+},
+{
+"title": "Supply Chain Analyst",
+"company": "Analog Devices",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=05551cc5fd58d032",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Supply-Chain-Analyst_R265900-1",
+"salary": "$79,108 - $108,795 USD per year",
+"skills": [
+"SQL",
+"Power BI",
+"Tableau",
+"Data structures & algorithms"
+],
+"req": "Actual wage offered may vary depending on work location , experience, education, training, external market data, internal pay equity, or other bona fide factors.\nThis position qualifies for a discretionary performance-based bonus which is based on personal and company factors."
+},
+{
+"title": "Contact Center Technology Analyst",
+"company": "Great Wolf Lodge",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=1c5279cf408e1e2f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://olivia.paradox.ai/co/GreatWolfLodge4/Job?job_id=P1-1004997-1&posting_type=1&source=indeed",
+"salary": "$75,000 - $80,000 USD per year",
+"skills": [
+"REST APIs",
+"ETL / data pipelines",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"NIST / ISO 27001",
+"Windows",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Job Overview Job Title: Contact Center Technology Analyst Employment Type: Full-Time Location: Chicago, IL - Madison, WI - Remote Reports To: Mgr, Customer & User Experience The Impact You’ll Make: As\nMonitor production AI changes for accuracy, reliability, guest experience, and unintended impacts; document issues and collaborate on remediation.\nCoordinate releases with authorized deployment owners; do not bypass required approvals or assume unrestricted production access.\nComplete documented post-release smoke tests and monitoring, verify routing and AI handoffs, track incidents during hypercare, and formally close changes only after outcomes are validated. Agent Enabl\nStay informed about CCaaS, WFM, quality analytics, conversational AI, and automation trends; propose improvements based on measurable operational value. Required Qualifications & Skills:  Experience s\nFamiliarity with conversational AI, chatbots, or automated customer service workflows, or demonstrated ability to learn and support these technologies. Preferred Experience  Hands-on experience with F\nExperience with Verint Workforce Management, Quality Management, Speech Analytics, or related modules.\nExperience with conversational AI agent platforms such as Sierra, including journey design, testing, analytics, and human handoffs.\nExperience with Salesforce Service Cloud, API integrations, webhooks, CRM workflows, or contact center data pipelines."
 },
 {
 "title": "Software Asset Management (SAM) Analyst",
@@ -9525,7 +9684,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619055&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18477297-business-resilience-analyst-associate%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3De9319ecd-ded7-11f1-9dbf-89dfb46fb755%26rx_job%3D2619055%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261113T180403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619055",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619055&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18477297-business-resilience-analyst-associate%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3De9319ecd-ded7-11f1-9dbf-89dfb46fb755%26rx_job%3D2619055%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261113T200412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619055",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Incident response",
@@ -11855,6 +12014,37 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Geospatial Engineer – Cloud & DevOps",
+"company": "Dewberry",
+"location": "Remote · United States",
+"posted": "2026-11-12",
+"link": "https://www.indeed.com/viewjob?jk=5802832665f32100",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers-dewberry.icims.com/jobs/16686/job",
+"skills": [
+"Python",
+"REST APIs",
+"ETL / data pipelines",
+"PostgreSQL",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Git",
+"Infrastructure as code",
+"Vulnerability management",
+"IAM",
+"Encryption / PKI",
+"Testing (unit, automated)",
+"System design"
+],
+"req": "Dewberry is seeking a Geospatial Engineer with experience in cloud-based workflows, software development, and DevOps to join our Resilience Solutions team. This position will support the development o\nBachelor’s degree in Geography, Geographic Information Systems, Computer Science, Engineering, Data Science, Environmental Science, or a related field, or equivalent relevant experience.\nThree or more years of relevant professional experience in geospatial development, data engineering, software development, cloud computing, or a related area.\nExperience with common geospatial technologies such as QGIS, GDAL, GeoPandas, Rasterio, PostGIS, or similar tools.\nExperience working with geospatial raster and vector data and spatial databases.\nWorking experience with AWS and/or Azure cloud services.\nExperience with Git and modern collaborative software-development practices.\nExperience developing repeatable data-processing or analytical workflows.\nStrong technical communication and documentation skills. Preferred Qualifications ============================  Experience with Docker and containerized geospatial processing.\nExperience with Terraform, AWS Cloud Development Kit (CDK), AWS CloudFormation, or other infrastructure-as-code technologies.\nExperience developing or maintaining CI/CD pipelines.\nExperience with cloud storage, compute, and orchestration technologies such as Amazon S3, Amazon ECS or Fargate, AWS Batch, AWS Lambda, Azure Blob Storage, Azure Functions, or Kubernetes.\nExper"
 },
 {
 "title": "US-Solutions Analyst (Financial)",
