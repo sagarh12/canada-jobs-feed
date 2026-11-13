@@ -1,6 +1,37 @@
 {
-"updated": "2026-11-12T23:59:50+00:00",
+"updated": "2026-11-13T00:09:54+00:00",
 "jobs": [
+{
+"title": "Growth GTM Engineer, Revenue Operations",
+"company": "Perplexity",
+"location": "Remote · United States",
+"posted": "2026-11-13T00:06:50.239+00:00",
+"link": "https://jobs.ashbyhq.com/Perplexity/e916f0c8-5a31-4bb6-b4e3-7c4a64b95fda",
+"source": "Perplexity careers",
+"country": "US",
+"years": 4,
+"quals": [
+"4+ years in GTM engineering, RevOps or Marketing Ops engineering, growth engineering, or data engineering in a B2B SaaS environment, includi",
+"Commercial instinct. You start from a revenue problem, like \"inbound enterprise leads wait too long for a first touch,\" and work back to the",
+"Strong SQL and experience building data models in a warehouse (Snowflake, dbt or similar). You pull your own data.",
+"Production code in Python or TypeScript. You've shipped internal tools, integrations or agents that real users depend on."
+],
+"skills": [
+"Python",
+"TypeScript",
+"SQL",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"dbt",
+"ETL / data pipelines",
+"Snowflake",
+"Statistics",
+"Networking (TCP/IP, DNS)",
+"Salesforce"
+],
+"req": "You'll build the scoring models that combine firmographic and technographic fit with demonstrated intent and product behavior. You'll own the routing that sends each lead back to Marketing for nurture\nClose the feedback loop. Instrument the funnel from lead creation to MQL, meeting, opportunity and closed-won. Find where leads stall, which sources and signals predict pipeline, and whether our quali\nHelp build custom internal apps for prospect engagement. Ship the tools reps use every day, such as account and prospect research briefs, signal-triggered alerts in Slack and Salesforce, prioritized c\nQUALIFICATIONS\n4+ years in GTM engineering, RevOps or Marketing Ops engineering, growth engineering, or data engineering in a B2B SaaS environment, including at least 2 years building enrichment, scoring or routing \nStrong SQL and experience building data models in a warehouse (Snowflake, dbt or similar). You pull your own data.\nProduction code in Python or TypeScript. You've shipped internal tools, integrations or agents that real users depend on.\nDeep working knowledge of the Salesforce data model (leads, contacts, accounts, opportunities, campaigns, ownership), and experience automating within it and integrating with it.\nHands-on experience with enrichment and intent providers and orchestration tools, such as Clay, ZoomInfo, Apollo, Clearbit, 6sense, Demandbase or Common Room.\nExperience in a hybrid PLG and sales-led motion: product-qualified leads, mapping users to accounts, and s"
+},
 {
 "title": "Power Generation Design Engineer, Electrical & Mechanical",
 "company": "OpenAI",
