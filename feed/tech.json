@@ -1,6 +1,27 @@
 {
-"updated": "2026-11-13T21:49:55+00:00",
+"updated": "2026-11-13T21:59:50+00:00",
 "jobs": [
+{
+"title": "Software Engineer, Fullstack, Spend Controls",
+"company": "Ramp",
+"location": "Remote · United States",
+"posted": "2026-11-13T21:52:14.463+00:00",
+"link": "https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
+"source": "Ramp careers",
+"country": "US",
+"years": null,
+"salary": "$275",
+"quals": [
+"Experience building and shipping production features across frontend interfaces and backend services",
+"The ability to own a feature end to end, break down the work, design key components, and follow through on delivery",
+"Sound judgment about data correctness, reliability, and keeping complex product behavior understandable",
+"A customer-focused approach to building software, with attention to usability and practical tradeoffs"
+],
+"skills": [
+"Embedded systems"
+],
+"req": "The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nWe’re looking for a fullstack engineer to build and improve these experiences, from the interfaces admins use to configure controls to the backend logic that makes them work reliably. You’ll build and\nExperience building and shipping production features across frontend interfaces and backend services\nExperience testing and debugging software, including investigating issues in production\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
+},
 {
 "title": "Full Stack Software Engineer, Consumer Health",
 "company": "OpenAI",
@@ -1269,7 +1290,7 @@
 "Hardware setup",
 "ITIL"
 ],
-"req": "Collaborating closely with internal IT functions and third-party suppliers to ensure successful outcomes.\nAs a member of the IT Service Desk team, you will be responsible for delivering a high-quality service to the business. This includes ensuring that incidents and service requests are addressed quickly\nExperienced with Windows 10/11 and telephony technologies (VoIP, SIP).\nDriven, detail-oriented, and skilled in managing customer expectations. Additional Qualifications:  Understanding of ITIL principles (ITIL v3) and experience in continuous service improvement."
+"req": "Collaborating closely with internal IT functions and third-party suppliers to ensure successful outcomes.\nThis includes ensuring that incidents and service requests are addressed quickly and efficiently, in line with the agreed SLAs, while keeping the customer updated throughout the process. What you’ll b\nExperienced with Windows 10/11 and telephony technologies (VoIP, SIP).\nDriven, detail-oriented, and skilled in managing customer expectations. Additional Qualifications:  Understanding of ITIL principles (ITIL v3) and experience in continuous service improvement."
 },
 {
 "title": "Analyst, information technology (IT)",
@@ -4396,6 +4417,250 @@
 "years": null
 },
 {
+"title": "Data engineer",
+"company": "CATSA",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-13",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50724006",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "Business Analyst - BizApps - New Grad (January 2027)",
+"company": "BDO",
+"location": "Toronto - Bay St",
+"posted": "2026-11-13",
+"link": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---BizApps_JR7066",
+"source": "BDO careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "IAM Analyst",
+"company": "EAST COAST CREDIT UNION",
+"location": "Dartmouth, NS, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=d27e3cafc55efb16",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.ultipro.ca/EAS5000ESTC/JobBoard/184bad9e-1835-4436-9461-74f4f7cdb0ce/OpportunityDetail?opportunityId=435dcd47-5bdb-4061-a869-6903da6e9e19&postingId=d921632e-1a80-4c8d-9ac0-439c8bf150c0",
+"salary": "$67,795.23 – 79,759.41",
+"skills": [
+"Cybersecurity",
+"IAM",
+"NIST / ISO 27001",
+"CISSP"
+],
+"req": "Identity & Access Management (IAM) Analyst Flexible Location, NS Are you ready for a new career journey at Nova Scotia's largest credit union? Join our dedicated team at East Coast Credit Union, where\nConduct access reviews, support audits, and provide reporting to meet regulatory and internal compliance requirements.\nContribute to cybersecurity policy development, governance practices, and control implementation. You have…  Successfully completed a bachelor's degree in Cybersecurity, Computer Science, Information \nAt least three years of experience managing IAM platforms, SSO/MFA, RBAC/PAM, and identity lifecycle processes, ideally in corporate or financial services environments.\nExperienced with IAM protocols, directory services, Single Sign-On (SSO), Multi-Factor Authentication (MFA), and identity governance platforms. Please note that all offers of employment are conditiona"
+},
+{
+"title": "Tier 1 Customer Experience - 6 Month Term",
+"company": "MOBY",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=a2f5f9f1a71a5abc",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=44fb625a-3949-43ed-be4c-7ab1d0457946&ccId=19000101_000001&jobId=26725&source=IN&lang=en_CA",
+"start": "December 15, 2026",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Company: Moby (a division of Western Fibre Communications Corp.) Department: Customer Experience Industry: Telecommunications Target Start Date: December 15, 2026, starts as temporary role potential t"
+},
+{
+"title": "Technical Services Specialist (L2)",
+"company": "MAD Elevator Inc",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=716fe862d4ccf8fb",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4aaeb051-a2b2-45d4-8d95-18f9a98abb4e&ccId=9200599022919_2&jobId=552893&source=IN&lang=en_CA",
+"salary": "$73,500.00",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Think back—was there ever an elevator ride that made you go, “Whoa, this is nice”? Maybe it was an elegant glass lift or a minimalist stainless-steel rocket. It might have shaped your first impression\nAbility to work autonomously  Strong communication skills, both verbal and written  Ability to take initiative and multitask in an extremely fast paced work environment  Clear Background Checks – Crim\nWhen required, liaise with other departments to obtain answers to urgent or complex problems.\nWork with internal staff to educate and train for continuous improvement.\nDemonstrate consistent professionalism, reliability, and accountability when supporting customers and internal stakeholders."
+},
+{
+"title": "Shaft Technician",
+"company": "DMC Mining Services",
+"location": "Greater Sudbury, ON, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=d90b8ba798b74395",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=DMCMINING&cws=37&rid=1200",
+"salary": "$28/hr",
+"req": "Elevate your career with one of North America's leading underground mining contractors. DMC Mining Services has set the standard in the mining industry, providing top-notch services from shaft sinking\nInvolvement is required throughout the construction phase – from early phase works to post-commissioning. Construction  Measure, record, and report mining advance on a shiftly basis.\nMust be available to work overtime hours, as the Project requires. Qualifications:  Formal higher education qualification (minimum of post-secondary diploma) within an Engineering discipline (or simil\n(Desirable) Examples of further learning and development (post) education. Experience  At least 3 years of experience working in the mining industry in a Technician or Survey-based (or similar) role.\nOn-site experience in a construction / operational role.\nShaft sinking experience working to complete concrete pours, services installation, and transfer of benchmarks during station development.\n(Desirable) Experience using laser scanning equipment and processing.\n(Desirable) Experience in EPC project. Skills  Ability to work closely with the construction team and interface with the Project Engineering team.\nAutoCAD skills and experience with drawing generation / survey data import.\n(Desirable) Experience using 3D point cloud software (Leica Cyclone, 3D-Reshaper). Additional Information:  We are hiring to fill an existing vacancy.\nCompensation and benefits offered may vary depending on multiple individual"
+},
+{
+"title": "Instructor, Criminology (CRM 131), Dual Credit",
+"company": "North Island College",
+"location": "Courtenay, BC, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=9208b7406dfacdce",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.nic.bc.ca/postings/8239",
+"salary": "$70,437- $112,872"
+},
+{
+"title": "Instructor, Psychology (PSY 130), Dual Credit",
+"company": "North Island College",
+"location": "Courtenay, BC, CA",
+"posted": "2026-11-13",
+"link": "https://ca.indeed.com/viewjob?jk=28a28293830d4186",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.nic.bc.ca/postings/8238",
+"salary": "$70,437- $112,872"
+},
+{
+"title": "Business Analyst - Medicaid Systems",
+"company": "Briljent",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=b401f0e754945cdb",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://apply.workable.com/j/A91805D5C2",
+"skills": [
+"SQL",
+"REST APIs",
+"Agile / Scrum",
+"Jira",
+"SDLC"
+],
+"req": "We are seeking a Business Analyst to support the implementation of a Medicaid Provider Management System. The successful candidate will work with business stakeholders, subject matter experts (SMEs), \nParticipate in solution reviews and design discussions. Requirements  2-5 years of Business Analyst experience on software implementation or system enhancement projects.\nExperience supporting healthcare, Medicaid, or government technology projects.\nExperience gathering and documenting business requirements.\nExperience creating process flows, use cases, or user stories.\nExperience supporting testing and User Acceptance Testing (UAT). Preferred Qualifications  Experience working in Agile and/or Waterfall environments."
+},
+{
+"title": "Security Operation Center (SOC) Analyst II",
+"company": "TARGETED SOLUTIONS",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=49b30055629a1536",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://tsllcva.bamboohr.com/careers/822?source=indeed&src=indeed&postedDate=2026-11-13",
+"skills": [
+"SQL",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"IAM",
+"Firewalls",
+"Threat intelligence",
+"Windows",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"SAP"
+],
+"req": "REQ: 26-J-0264 Security Operation Center (SOC) Analyst II SOC Analyst’s primary function is to provide comprehensive Computer Network Defense and Response support through 24×7×365 monitoring and analy\nExperience in analyzing NetFlow data and packet capture (PCAP).\nTechnical experience in the information security field utilizing a mix of security technology such as: Intrusion Detection & Prevention Systems (IDS/IPS), Firewalls & Log Analysis. SIEM, Network Behav"
+},
+{
+"title": "Internal Tools Engineer",
+"company": "Nutrient",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=b5ebb09eaf41dfb2",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://ats.rippling.com/nutrient/jobs/88a0121c-ea9d-473f-be03-bb756f9234f0?jobSite=Indeed",
+"skills": [
+"Python",
+"Go",
+"Ruby",
+"SQL",
+"Bash/Shell",
+"Node.js",
+"Ruby on Rails",
+"REST APIs",
+"LLMs / GenAI",
+"PostgreSQL",
+"AWS",
+"Docker",
+"Terraform",
+"Monitoring",
+"SOC",
+"Vulnerability management",
+"NIST / ISO 27001",
+"Ticketing (ServiceNow, Jira)",
+"Salesforce"
+],
+"req": "About Nutrient ================== At Nutrient, we're revolutionizing how the world works with documents. Our tools transform static files into intelligent, secure workflows, empowering businesses to i\nWork as part of a small internal tools team: review each other’s code, share ownership of systems, and keep each other unblocked.\nStrong backend web development experience in a production framework (Ruby on Rails, Node, Python, Go or similar), plus shell scripting.\nExperience with managing and deploying backend services, including familiarity with containerization technologies and cloud platforms (Docker, Terraform, AWS).\nHands-on experience building with LLMs in production: tool use and function calling, MCP, context engineering, and using evals and transcript review to find and fix real problems. Nice to have:  Exper\nExperience with SOC 2 or other security compliance work. Who Thrives Here… ===================== At Nutrient, we’re not just hiring for skills. We’re hiring for mindset. The people who thrive here are\nStrong growth trajectory: having more than doubled revenue over the past three years, backed by Insight Partners. Nutrient believes in equal opportunity. We employ people from many cultures and countr"
+},
+{
+"title": "Merchant Support Associate, Entry Level",
+"company": "Bask Health",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=903cfce3ab8db730",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://apply.workable.com/j/E64FD888C6",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "About Bask Health --------------------- Bask Health is a software platform that enables entrepreneurs, doctors, and healthcare businesses to launch, manage, and grow direct-to-consumer telehealth busi\nContribute to internal FAQs and troubleshooting resources.\nTake ownership of assigned tasks and continue developing customer support skills. Requirements  Entry-level to 1 year of relevant experience in customer support, customer service, retail, e-commerce, \nWillingness to learn customer support ticketing systems and internal tools.\nAvailability to collaborate during required U.S. Eastern Time working hours.\nStrong initiative, reliability, and willingness to learn. Nice to Have ----------------  Experience in a customer support or customer service role.\nExperience supporting customers through email or live chat.\nExperience working for an e-commerce business.\nPersonal experience operating a Shopify store, TikTok Shop, Amazon business, or another online store.\nExperience assisting customers with online orders or checkout questions.\nExperience using Zendesk, Intercom, Freshdesk, or similar support tools.\nExperience maintaining customer records or support tickets.\nExperience working in retail or hospitality.\nInternship experience in customer support, business operations, or e-commerce.\nExperience creating FAQs or customer support documentation.\nExperience troubleshooting basic account access or software navigation issues.\nExperience collaborating with remote teams.\nExperience suppo"
+},
+{
+"title": "Systems Engineer – Cloud DevOps Tech Support",
+"company": "Objective Area Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=b86f47c53a8c6c92",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://objectivearea.isolvedhire.com/jobs/1637692-49560.html",
+"salary": "$100,000 - $120,000 USD per year",
+"skills": [
+"REST APIs",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Microservices",
+"Help desk / troubleshooting",
+"System design",
+"SDLC"
+],
+"req": "Company Overview At OAS, we're not just growing; we're soaring! As a dynamic management consulting firm, we specialize in powering the aviation industry forward. Our expertise? Crafting tailored strat"
+},
+{
+"title": "Supervisory Facility Operations Specialist",
+"company": "U.S. National Park Service",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=b702b944161780cf",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.usajobs.gov:443/job/892706000",
+"salary": "$75,055 - $97,577 USD per year",
+"skills": [
+"Mobile (iOS / Android)"
+],
+"req": "Summary ----------- You will serve as a Supervisory Facility Operations Specialist for Sequoia and Kings Canyon National Parks, in the Division of Maintenance & Construction. Learn more about this age\nClarification from the agency This announcement is open to U.S. Citizens or Nationals; and Career transition eligibles (CTAP, ICTAP, RPL). Duties ---------- Some of the major duties you will perform i\nImplements Facility Management Software Systems for cost effective management of assets. Performs and maintains asset inventories and condition assessments for the purpose of maintenance cost for annu\nServes as the facility management expert in support of park unit management initiatives. Actively involved in decisions affecting overall park management policy and operations and contributes to the d\nIncumbent will be responsible for managing Sequoia and Kings Canyon National Parks' stock. This will include responsibilities for infrastructure including buildings, corrals, and fences; stock (both m\nSelectee will be required to participate in the Direct Deposit Electronics Funds Transfer Program.\nAbility to obtain within 180 days of appointment and maintain a Commercial Driver's License Class A  You will be required to operate a government (or private) motor vehicle as part of your official du\nYou will be required to wear a uniform and comply with the National Park Service uniform standards. A uniform allowance will be provided. This probationary period is an extension of the appointme"
+},
+{
 "title": "Software Asset Management (SAM) Analyst",
 "company": "Deloitte",
 "location": "Toronto, ON, CA, M5H 0A9",
@@ -4555,6 +4820,16 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "Business Systems Analyst",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA, M1K 5L1",
+"posted": "2026-11-13T00:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Business-Systems-Analyst-ON-M1K-5L1/608033717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Power Generation Design Engineer, Electrical & Mechanical",
@@ -13149,6 +13424,88 @@
 "location": "Greater Toronto Area, Canada",
 "posted": "2026-11-12",
 "link": "https://www.linkedin.com/jobs/view/4483647594",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Instructor, Chemistry (CHE 111 Lab)",
+"company": "North Island College",
+"location": "Courtenay, BC, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=ba2fa146694035ef",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.nic.bc.ca/postings/8237",
+"salary": "$70,437- $112,872"
+},
+{
+"title": "Security Operations Center Analyst II",
+"company": "Global Resource Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-12",
+"link": "https://www.indeed.com/viewjob?jk=44f70ce5825c93ff",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0dbfe3c3-ab4c-44f0-9dcc-2243b84fe004&ccId=106732240_3255&jobId=582061&source=IN&lang=en_US",
+"salary": "$128,000 - $134,000 USD per year",
+"skills": [
+"SQL",
+"Excel",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"IAM",
+"Firewalls",
+"Threat intelligence",
+"Windows",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"SAP"
+],
+"req": "Must have strong analytical and technical skills in computer network defense operations, ability to lead efforts in Incident Handling (Detection, Analysis, Triage), Hunting (anomalous pattern detectio\nMust be knowledgeable and have hands-on experience with a Security Information and Event Monitoring(SIEM) platforms and/or log management systems that perform log collection, analysis, correlation, an\nBachelor’s Degree in Computer Science, Information Technology or equivalent experience.\nPrior performance in roles such as ISSO or ISSM  Must meet position and certification requirements outlined in DoD Directives 8570.01-Mfor Information Assurance Technician Level 2 within 6 months of t\nExperience in analyzing NetFlow data and packet capture (PCAP).\nTechnical experience in the information security field utilizing a mix of security technology such as: Intrusion Detection & Prevention Systems (IDS/IPS), Firewalls & Log Analysis. SIEM, Network Behav\nMust have the ability to work in a dynamic environment and effectively interact with numerous DOD, military/civilian personnel and industry partners  Working knowledge of Microsoft Office (Word, Power"
+},
+{
+"title": "CLDRSRC10443 - Dynamics CRM & Sharepoint Specialist/Consultant - Toronto - Hybrid",
+"company": "Cloud Resourcing",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-12",
+"link": "https://ca.indeed.com/viewjob?jk=11e8bed49d49477e",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://candidateportal.ceipal.com/job-details/yiCtSi2h9zg6JEFfO-pwrDtqGsjaJitKZAE4Rz1yX-4#.job_boards.Indeed",
+"skills": [
+"SQL",
+"SQL Server",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting"
+],
+"req": "Mandatory Expereince:  Experience five years or more:  Experience with leading IT projects (new implementation, upgrades) from technical and overall delivery perspective.\nExperience with creating project artifacts (project plan, schedule, etc.).\nExperience with leading technical teams (development, infrastructure, etc.).\nExperience with creating technical project artifacts (approach, environment strategy, RICE, etc.).\nExperience with MS CRM (implementation, development, administration, upgrade). Direct Experience with Complex Solutions that include Dynamics/SharePoint Integrations including:  Direct experience lead\nDirect experience leading SharePoint 2013 to SharePoint Subscription Edition upgrades through supported intermediate stages.\nCustomization and Integration(s) between Dynamics /SharePoint:  Experience modernizing SQL Server, SSRS, Windows Server, and Dynamics-SharePoint integrations supporting complex enterprise applications\nExperience working in public-sector, justice, healthcare, or other highly regulated environments.\nRelevant Microsoft certifications in Dynamics, SharePoint, infrastructure, security, or solution architecture. Required Skills & Experience Proven experience creating technical project artifacts, incl"
+},
+{
+"title": "Financial Analyst, Snacks",
+"company": "General Mills",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-12",
+"link": "https://www.linkedin.com/jobs/view/4489293650",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Retail Development Specialist (12-Month Contract)",
+"company": "Shiseido",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-12",
+"link": "https://www.linkedin.com/jobs/view/4489264336",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
