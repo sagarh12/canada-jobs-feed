@@ -1,12 +1,12 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,2949,749,2949,2026-11-14
+1,Help desk / troubleshooting,IT support,44%,2950,750,2950,2026-11-14
 2,SQL,Language,24%,1602,423,1602,2026-11-14
 3,REST APIs,Framework,24%,1574,412,1574,2026-11-14
-4,Python,Language,23%,1503,404,1503,2026-11-14
-5,Excel,Data & AI,21%,1403,360,1403,2026-11-14
-6,Hardware setup,IT support,19%,1267,307,1267,2026-11-14
-7,System design,Practice,19%,1231,310,1231,2026-11-14
-8,Microsoft 365,IT support,16%,1061,277,1061,2026-11-14
+4,Python,Language,23%,1504,405,1504,2026-11-14
+5,Excel,Data & AI,21%,1404,361,1404,2026-11-14
+6,Hardware setup,IT support,19%,1268,308,1268,2026-11-14
+7,System design,Practice,18%,1231,310,1231,2026-11-14
+8,Microsoft 365,IT support,16%,1063,279,1063,2026-11-14
 9,Azure,Cloud & DevOps,16%,1052,280,1052,2026-11-14
 10,Agile / Scrum,Practice,15%,999,247,999,2026-11-14
 11,Git,Cloud & DevOps,13%,886,231,886,2026-11-14
@@ -18,16 +18,16 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 17,IAM,Security,11%,729,197,729,2026-11-14
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,724,194,724,2026-11-14
 19,JavaScript,Language,10%,669,173,669,2026-11-14
-20,Power BI,Data & AI,10%,660,174,660,2026-11-14
+20,Power BI,Data & AI,10%,661,175,661,2026-11-14
 21,"Testing (unit, automated)",Practice,9%,616,170,616,2026-11-14
-22,LLMs / GenAI,Data & AI,9%,609,159,609,2026-11-14
-23,Statistics,Data & AI,9%,607,159,607,2026-11-14
+22,LLMs / GenAI,Data & AI,9%,610,160,610,2026-11-14
+23,Statistics,Data & AI,9%,608,160,608,2026-11-14
 24,Linux,Cloud & DevOps,9%,593,176,593,2026-11-14
 25,Java,Language,9%,570,156,570,2026-11-14
 26,C,Language,8%,506,135,506,2026-11-14
 27,ETL / data pipelines,Data & AI,8%,506,132,506,2026-11-14
 28,Jira,Practice,7%,476,122,476,2026-11-14
-29,Machine learning,Data & AI,7%,465,117,465,2026-11-14
+29,Machine learning,Data & AI,7%,466,118,466,2026-11-14
 30,HTML/CSS,Language,7%,455,107,455,2026-11-14
 31,Docker,Cloud & DevOps,6%,426,117,426,2026-11-14
 32,Monitoring,Cloud & DevOps,6%,415,121,415,2026-11-14
@@ -40,7 +40,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 39,Salesforce,Practice,5%,351,88,351,2026-11-14
 40,Google Cloud,Cloud & DevOps,5%,350,99,350,2026-11-14
 41,SDLC,Practice,5%,340,96,340,2026-11-14
-42,Data structures & algorithms,Practice,5%,323,77,323,2026-11-14
+42,Data structures & algorithms,Practice,5%,324,78,324,2026-11-14
 43,PowerShell,Language,5%,322,88,322,2026-11-14
 44,Firewalls,Security,5%,315,91,315,2026-11-14
 45,.NET,Framework,5%,309,90,309,2026-11-14
@@ -80,8 +80,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 79,Selenium / Cypress,Practice,2%,132,29,132,2026-11-14
 80,GitLab,Cloud & DevOps,2%,131,33,131,2026-11-14
 81,GitHub Actions,Cloud & DevOps,2%,129,27,129,2026-11-14
-82,RAG,Data & AI,2%,129,31,129,2026-11-14
-83,R,Language,2%,128,38,128,2026-11-14
+82,R,Language,2%,129,39,129,2026-11-14
+83,RAG,Data & AI,2%,129,31,129,2026-11-14
 84,CompTIA Network+,Certification,2%,123,29,123,2026-11-14
 85,Cloud security,Security,2%,115,25,115,2026-11-14
 86,Kafka,Data & AI,2%,111,26,111,2026-11-14
@@ -111,7 +111,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 110,Swift,Language,1%,57,15,57,2026-11-14
 111,Looker,Data & AI,1%,55,14,55,2026-11-14
 112,NLP,Data & AI,1%,54,11,54,2026-11-14
-113,PyTorch,Data & AI,1%,53,12,53,2026-11-14
+113,PyTorch,Data & AI,1%,54,13,54,2026-11-14
 114,dbt,Data & AI,1%,50,9,50,2026-11-14
 115,Pandas,Data & AI,1%,48,12,48,2026-11-14
 116,Unity,Framework,1%,48,14,48,2026-11-14
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-14
 155,Solidity,Language,0%,1,0,1,2026-11-14
 
-,Based on 6654 postings in the last 30 days (6654 all time)
+,Based on 6658 postings in the last 30 days (6658 all time)
