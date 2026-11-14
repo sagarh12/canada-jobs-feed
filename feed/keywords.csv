@@ -3,7 +3,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 2,SQL,Language,24%,1621,442,1621,2026-11-14
 3,REST APIs,Framework,24%,1588,426,1588,2026-11-14
 4,Python,Language,23%,1516,417,1516,2026-11-14
-5,Excel,Data & AI,21%,1417,374,1417,2026-11-14
+5,Excel,Data & AI,21%,1418,375,1418,2026-11-14
 6,Hardware setup,IT support,19%,1274,314,1274,2026-11-14
 7,System design,Practice,18%,1241,320,1241,2026-11-14
 8,Microsoft 365,IT support,16%,1072,288,1072,2026-11-14
@@ -13,7 +13,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 12,CI/CD,Cloud & DevOps,13%,866,227,866,2026-11-14
 13,AWS,Cloud & DevOps,13%,852,237,852,2026-11-14
 14,Windows,IT support,13%,850,228,850,2026-11-14
-15,Cybersecurity,Security,11%,769,216,769,2026-11-14
+15,Cybersecurity,Security,11%,770,217,770,2026-11-14
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,759,214,759,2026-11-14
 17,IAM,Security,11%,731,199,731,2026-11-14
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,728,198,728,2026-11-14
@@ -27,7 +27,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 26,ETL / data pipelines,Data & AI,8%,513,139,513,2026-11-14
 27,C,Language,8%,510,139,510,2026-11-14
 28,Jira,Practice,7%,478,124,478,2026-11-14
-29,Machine learning,Data & AI,7%,468,120,468,2026-11-14
+29,Machine learning,Data & AI,7%,469,121,469,2026-11-14
 30,HTML/CSS,Language,7%,459,111,459,2026-11-14
 31,Docker,Cloud & DevOps,6%,429,120,429,2026-11-14
 32,Monitoring,Cloud & DevOps,6%,417,123,417,2026-11-14
@@ -36,8 +36,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 35,TypeScript,Language,6%,389,118,389,2026-11-14
 36,Vulnerability management,Security,6%,381,113,381,2026-11-14
 37,SQL Server,Database,5%,364,87,364,2026-11-14
-38,Oracle,Database,5%,362,89,362,2026-11-14
-39,Salesforce,Practice,5%,356,93,356,2026-11-14
+38,Oracle,Database,5%,363,90,363,2026-11-14
+39,Salesforce,Practice,5%,357,94,357,2026-11-14
 40,Google Cloud,Cloud & DevOps,5%,352,101,352,2026-11-14
 41,SDLC,Practice,5%,343,99,343,2026-11-14
 42,Data structures & algorithms,Practice,5%,327,81,327,2026-11-14
@@ -110,7 +110,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 109,AWS certification,Certification,1%,57,10,57,2026-11-14
 110,Looker,Data & AI,1%,57,16,57,2026-11-14
 111,Swift,Language,1%,57,15,57,2026-11-14
-112,NLP,Data & AI,1%,54,11,54,2026-11-14
+112,NLP,Data & AI,1%,55,12,55,2026-11-14
 113,PyTorch,Data & AI,1%,54,13,54,2026-11-14
 114,dbt,Data & AI,1%,50,9,50,2026-11-14
 115,Pandas,Data & AI,1%,49,13,49,2026-11-14
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-14
 155,Solidity,Language,0%,1,0,1,2026-11-14
 
-,Based on 6721 postings in the last 30 days (6721 all time)
+,Based on 6722 postings in the last 30 days (6722 all time)
