@@ -90,11 +90,13 @@ CAREER_RSS = {
     "jobs.utoronto.ca": "University of Toronto", "careers.halton.ca": "Halton Region",
     "jobs.scotiabank.com": "Scotiabank", "careers.deloitte.ca": "Deloitte",
     "careers.ieso.ca": "IESO", "jobs.transalta.com": "TransAlta", "jobs.toronto.ca": "City of Toronto",
+    # from Sagar's job-alert emails (Nov 2026): checked here every run, ahead of their weekly emails
+    "careers.cmhc-schl.gc.ca": "CMHC", "careers.auroramj.com": "Aurora Cannabis",
 }
-TECH_ONLY_RSS = {"careers.ieso.ca", "jobs.transalta.com", "jobs.toronto.ca"}
+TECH_ONLY_RSS = {"careers.ieso.ca", "jobs.transalta.com", "jobs.toronto.ca", "careers.auroramj.com", "careers.pcl.com"}
 # Global employers on SuccessFactors: their RSS can't filter by country, so they're
 # searched by Canadian city names instead (the keyword matches the job's location).
-GLOBAL_RSS = {"careers.ey.com": "EY", "careers.sap.com": "SAP"}
+GLOBAL_RSS = {"careers.ey.com": "EY", "careers.sap.com": "SAP", "careers.celestica.com": "Celestica", "careers.pcl.com": "PCL Construction"}
 CITY_KEYWORDS = ["Canada", "Toronto", "Vancouver", "Calgary", "Ottawa", "Edmonton", "Waterloo", "Halifax", "Winnipeg"]
 
 # Employer boards on Workday: (name, host, site[, TECH_ONLY]). Each is read newest first.
@@ -537,8 +539,10 @@ def employer_jobs(jobs, tech_only=False, keep_us=False):
     """Employer boards list every job: keep tech (or, unless tech_only, early-career) titles in Canada
     (and, with keep_us, fully remote US jobs)."""
     titles = TECH_ROLE if tech_only else TECH_OR_EARLY
-    return [j for j in jobs if titles.search(j["title"]) and (not j["location"] or CANADA.search(j["location"])
-                                                              or (keep_us and j.get("country") == "US"))]
+    us = re.compile(r",\s*(US|USA)\s*$")  # SuccessFactors writes California as "San Jose, CA, US"
+    return [j for j in jobs if titles.search(j["title"]) and (
+        not j["location"] or (CANADA.search(j["location"]) and not us.search(j["location"]))
+        or (keep_us and j.get("country") == "US"))]
 
 
 WD_HEADERS = {"User-Agent": UA["User-Agent"], "Content-Type": "application/json", "Accept": "application/json"}
