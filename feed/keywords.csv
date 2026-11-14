@@ -22,7 +22,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 21,"Testing (unit, automated)",Practice,9%,619,173,619,2026-11-14
 22,LLMs / GenAI,Data & AI,9%,614,164,614,2026-11-14
 23,Statistics,Data & AI,9%,612,164,612,2026-11-14
-24,Linux,Cloud & DevOps,9%,595,178,595,2026-11-14
+24,Linux,Cloud & DevOps,9%,596,179,596,2026-11-14
 25,Java,Language,9%,573,159,573,2026-11-14
 26,ETL / data pipelines,Data & AI,8%,512,138,512,2026-11-14
 27,C,Language,8%,509,138,509,2026-11-14
@@ -49,13 +49,13 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 48,SOC,Security,4%,277,76,277,2026-11-14
 49,ITIL,Certification,4%,276,68,276,2026-11-14
 50,Incident response,Security,4%,274,67,274,2026-11-14
-51,C++,Language,4%,270,71,270,2026-11-14
+51,C++,Language,4%,271,72,271,2026-11-14
 52,Tableau,Data & AI,4%,270,77,270,2026-11-14
 53,Data visualization,Data & AI,4%,261,82,261,2026-11-14
 54,SAP,Practice,4%,256,72,256,2026-11-14
 55,Terraform,Cloud & DevOps,4%,254,76,254,2026-11-14
 56,PostgreSQL,Database,4%,253,57,253,2026-11-14
-57,Google Workspace,IT support,4%,244,91,244,2026-11-14
+57,Google Workspace,IT support,4%,246,93,246,2026-11-14
 58,NIST / ISO 27001,Security,4%,242,68,242,2026-11-14
 59,Mobile (iOS / Android),Practice,4%,240,57,240,2026-11-14
 60,Infrastructure as code,Cloud & DevOps,3%,232,70,232,2026-11-14
@@ -121,8 +121,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 120,Ruby on Rails,Framework,1%,43,19,43,2026-11-14
 121,Deep learning,Data & AI,1%,41,11,41,2026-11-14
 122,FastAPI,Framework,1%,41,8,41,2026-11-14
-123,DynamoDB,Database,1%,40,7,40,2026-11-14
-124,Rust,Language,1%,40,9,40,2026-11-14
+123,Rust,Language,1%,41,10,41,2026-11-14
+124,DynamoDB,Database,1%,40,7,40,2026-11-14
 125,A/B testing,Data & AI,1%,39,10,39,2026-11-14
 126,LangChain,Data & AI,1%,39,9,39,2026-11-14
 127,jQuery,Framework,1%,38,10,38,2026-11-14
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-14
 155,Solidity,Language,0%,1,0,1,2026-11-14
 
-,Based on 6710 postings in the last 30 days (6710 all time)
+,Based on 6713 postings in the last 30 days (6713 all time)
