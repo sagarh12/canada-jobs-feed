@@ -1,6 +1,37 @@
 {
-"updated": "2026-11-15T01:19:52+00:00",
+"updated": "2026-11-15T01:29:46+00:00",
 "jobs": [
+{
+"title": "Software Engineer & Data Professional – Talent Network",
+"company": "refer",
+"location": "Remote · United States",
+"posted": "2026-11-15",
+"link": "https://www.indeed.com/viewjob?jk=027e81dc62cef23c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-engineer-data-professional-talent-network-027e81dc62cef23c",
+"salary": "$90,000 - $180,000 USD per year",
+"skills": [
+"Machine learning"
+],
+"req": "Technology Talent Network | REFER Location: United States (San Francisco or New York) About REFER REFER is a tool designed to connect talented professionals with leading technology companies in the Un\nHave professional experience in technology or a related field."
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Falls Lodge & Suites",
+"location": "Niagara Falls, ON, CA",
+"posted": "2026-11-15",
+"link": "https://ca.indeed.com/viewjob?jk=d4f0050018984d72",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-d4f0050018984d72",
+"salary": "$17.60-$17.65 per hour",
+"skills": [
+"Google Workspace"
+]
+},
 {
 "title": "Computer Science Teacher",
 "company": "ForBest Academy",
@@ -10950,16 +10981,6 @@
 },
 {
 "title": "Information technology (IT) analyst",
-"company": "ADECCO",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-13",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50724554",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Information technology (IT) analyst",
 "company": "Dixon Hall",
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-13",
@@ -11629,6 +11650,47 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Software Engineer, AI Solutions",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=cd8e7e4ae55bfa16",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://recruiting2.ultipro.com/CAR1054CGMA/JobBoard/49be3260-4e42-4260-b93e-6c36c2807ea9/OpportunityDetail?opportunityId=d60bb66a-717a-4905-8775-a985106b268b&postingId=34234bb3-32b4-4a0a-ad18-6d9efeb1e22e",
+"salary": "$120,800 - $133,300 USD per year",
+"skills": [
+"Python",
+"TypeScript",
+"C",
+"SQL",
+"Angular",
+"FastAPI",
+".NET",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"PostgreSQL",
+"BigQuery",
+"Azure",
+"Google Cloud",
+"Docker",
+"Terraform",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Serverless",
+"Monitoring",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design",
+"SDLC"
+],
+"req": "Design data models and build integrations with internal and third-party systems using APIs, webhooks, and event-driven messaging, ensuring reliable data flows.\nApply secure-by-design practices, including authentication and authorization, secrets management, least-privilege access for agents and their tools, protection of resident and team member data, and mi\nContribute to architecture and technical design discussions alongside senior engineers, documenting decisions and trade-offs.\nParticipate in Cardinal U training as required. QUALIFICATIONS  Bachelor's degree in Computer Science, Software Engineering, or a related technical field, or an equivalent combination of education and\nThree (3) to five (5) years of professional software engineering experience, including designing, building, and supporting applications in production.\nProficiency in Python and TypeScript, with experience building RESTful APIs (FastAPI preferred) and front-end applications with a modern framework (Angular preferred).\nExperience building and shipping LLM-powered applications or AI agents, including tool calling, RAG, and prompt and context engineering, using Google ADK, LangGraph, or similar frameworks.\nExperience with automated testing, Git-based workflows, code review, and CI/CD pipelines (GitHub Actions preferred).\nHands-on experience deploying and operating applications on a major cloud platform (GCP preferred), including containers (Docker) and serverless services.\nStrong SQL skills and experience"
 },
 {
 "title": "Software Asset Management (SAM) Analyst",
@@ -21413,6 +21475,28 @@
 "System design"
 ],
 "req": "Own troubleshooting, and fixing integration support issues in Production and during Implementation  Optimize, refactor, enhance, debug, and troubleshoot existing code  Perform root cause analysis, and\nTransfer knowledge within the department and to other technical teams. Requirements: Competencies:  Strong communication skills  Strong organizational skills and ability to manage multiple simultaneou\nOccasional travel to conferences, team meetings, etc. Equal Employment Opportunity Statement: Our company is committed to equal employment opportunity. We will not discriminate against employees or ap"
+},
+{
+"title": "Product Engineer",
+"company": "Reacher",
+"location": "Remote · United States",
+"posted": "2026-11-12",
+"link": "https://www.indeed.com/viewjob?jk=c32e7f4f30d7b469",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/reacher/3dbad8a2-0e6d-4568-9f6c-b14555dfa1a6?utm_source=oVOK1vOgE7",
+"skills": [
+"Python",
+"TypeScript",
+"React",
+"React Native",
+"Django",
+"FastAPI",
+"LLMs / GenAI",
+"Selenium / Cypress"
+],
+"req": "Location: Remote (US or Canada). Employment Type: Full-time About the role ------------------ We're hiring a Product Engineer who can go from a customer call to a shipped feature without an engineerin"
 },
 {
 "title": "US-Solutions Analyst (Financial)",
