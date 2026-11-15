@@ -6,7 +6,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 5,Excel,Data & AI,21%,1420,331,1420,2026-11-15
 6,Hardware setup,IT support,19%,1275,291,1275,2026-11-15
 7,System design,Practice,18%,1244,295,1244,2026-11-15
-8,Microsoft 365,IT support,16%,1073,267,1073,2026-11-15
+8,Microsoft 365,IT support,16%,1074,268,1074,2026-11-15
 9,Azure,Cloud & DevOps,16%,1063,262,1063,2026-11-15
 10,Agile / Scrum,Practice,15%,1011,233,1011,2026-11-15
 11,Git,Cloud & DevOps,13%,895,218,895,2026-11-15
@@ -14,7 +14,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 13,AWS,Cloud & DevOps,13%,857,224,857,2026-11-15
 14,Windows,IT support,13%,850,211,850,2026-11-15
 15,Cybersecurity,Security,11%,770,205,770,2026-11-15
-16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,761,194,761,2026-11-15
+16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,762,195,762,2026-11-15
 17,IAM,Security,11%,732,182,732,2026-11-15
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,729,185,729,2026-11-15
 19,JavaScript,Language,10%,676,166,676,2026-11-15
@@ -22,7 +22,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 21,"Testing (unit, automated)",Practice,9%,622,152,622,2026-11-15
 22,LLMs / GenAI,Data & AI,9%,617,145,617,2026-11-15
 23,Statistics,Data & AI,9%,615,152,615,2026-11-15
-24,Linux,Cloud & DevOps,9%,599,172,599,2026-11-15
+24,Linux,Cloud & DevOps,9%,600,173,600,2026-11-15
 25,Java,Language,9%,576,140,576,2026-11-15
 26,ETL / data pipelines,Data & AI,8%,517,125,517,2026-11-15
 27,C,Language,8%,511,127,511,2026-11-15
@@ -60,8 +60,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 59,Mobile (iOS / Android),Practice,4%,241,53,241,2026-11-15
 60,Infrastructure as code,Cloud & DevOps,3%,232,59,232,2026-11-15
 61,Node.js,Framework,3%,226,65,226,2026-11-15
-62,VMware / virtualization,IT support,3%,224,66,224,2026-11-15
-63,macOS,IT support,3%,218,51,218,2026-11-15
+62,VMware / virtualization,IT support,3%,225,67,225,2026-11-15
+63,macOS,IT support,3%,219,52,219,2026-11-15
 64,Microservices,Cloud & DevOps,3%,215,43,215,2026-11-15
 65,Encryption / PKI,Security,3%,201,47,201,2026-11-15
 66,Object-oriented programming,Practice,3%,198,48,198,2026-11-15
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,1,1,1,2026-11-15
 155,Solidity,Language,0%,1,0,1,2026-11-15
 
-,Based on 6739 postings in the last 30 days (6739 all time)
+,Based on 6740 postings in the last 30 days (6740 all time)
