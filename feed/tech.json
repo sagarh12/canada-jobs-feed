@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-15T20:49:45+00:00",
+"updated": "2026-11-15T20:59:43+00:00",
 "jobs": [
 {
 "title": "Static Application Security Tester/Penetration Tester",
@@ -653,6 +653,36 @@
 "Jira",
 "Salesforce"
 ]
+},
+{
+"title": "ECE/IT",
+"company": "LITTLE CHAMPS ACADEMY",
+"location": "Kelowna, BC, CA",
+"posted": "2026-11-15",
+"link": "https://ca.indeed.com/viewjob?jk=a49b285206b8ce5a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/eceit-a49b285206b8ce5a",
+"salary": "$26.00-$29.00 per hour",
+"req": "Work collaboratively with other educators to support daily classroom activities. Qualifications and Requirements  Valid BC Early Childhood Educator (ECE) Certificate or Infant Toddler Educator (IT) Ce\nExperience working with infants, toddlers, or preschool-aged children is an asset."
+},
+{
+"title": "Media Search Analyst - English (United States)",
+"company": "TELUS Digital",
+"location": "Remote · United States",
+"posted": "2026-11-15",
+"link": "https://www.indeed.com/viewjob?jk=3d80b9ed025b0148",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.telusdigital.com/en/jobs/18119785-media-search-analyst-english-united-states?tm_job=ReqEG-762&tm_event=view&tm_company=94967",
+"skills": [
+"LLMs / GenAI",
+"macOS",
+"Data structures & algorithms"
+],
+"req": "Parse complex media intent queries across streaming platforms, music catalogs, and application ecosystems understanding that the same search term carries different meaning across regions and age group"
 },
 {
 "title": "Financial Systems Analyst",
@@ -3784,6 +3814,133 @@
 "location": "Vaughan, Ontario, Canada",
 "posted": "2026-11-14",
 "link": "https://www.linkedin.com/jobs/view/4491006664",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Platform Software Security Engineer, Air Defense",
+"company": "Anduril",
+"location": "Remote · United States",
+"posted": "2026-11-14",
+"link": "https://www.indeed.com/viewjob?jk=b586cdee28506c1f",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://grnh.se/p6bkft997us",
+"salary": "$167,000 - $222,000 USD per year",
+"skills": [
+"C++",
+"C",
+"Rust",
+"Computer vision",
+"Linux",
+"SOC",
+"Vulnerability management",
+"Firewalls",
+"Encryption / PKI",
+"Hardware setup",
+"Data structures & algorithms",
+"Embedded systems"
+],
+"req": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model\nPartner with our product security organization to turn security requirements into shippable implementations, act as the team's security liaison, and support program-specific accreditation and exportab\nHands-on experience implementing a secure boot chain: code signing, chain of trust, UEFI Secure Boot or an equivalent vendor secure boot implementation.\nStrong Linux internals knowledge, particularly in patching, boot flow, kernel and initrd, systemd, privilege boundaries, and filesystem and device access control.\nExperience building or modifying embedded Linux system images—Yocto, Buildroot, or NixOS. Comfort working at the layer where OS configuration meets hardware bring-up.\nPractical hardening and vulnerability-management experience on real systems: attack-surface reduction, CVE triage on a deployed fleet, and live patching strategies that don't break the product.\nAbility to explain a security decision to engineers who need to implement it, and to a program stakeholder who needs to accept the residual risk.\nUS person status required. Active US Secret clearance, or a previously granted Secret clearance eligible for reactivation. PREFERRED QUALIFICATIONS  Experience with NVIDIA Jetson secure boot specifica\nExperience with NixOS or Nix for building system images. Adjacent depth in"
+},
+{
+"title": "Winter 2027: Product Design Co-op, Intuit Design System (8 months)",
+"company": "Intuit",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4491087633",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electrical Engineering Student",
+"company": "ERCO Worldwide",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4483158792",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Specialist",
+"company": "MyVeloFit",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4490205102",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Domain Consultant - IAM/IGA Solutions",
+"company": "Palo Alto Networks",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4463467849",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Coordinator – Civil – Major Projects - EHTH",
+"company": "Bird Construction",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4474380306",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Claim Center BSAs",
+"company": "Maplesoft Group, an SEB Company",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4483126628",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Resident",
+"company": "Ford Motor Company",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4482895958",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Testing Technician",
+"company": "Sibelco Group",
+"location": "St.-Paul, New Brunswick, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4464808209",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Validation Engineering Specialist II",
+"company": "Thermo Fisher Scientific",
+"location": "Whitby, Ontario, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4485807861",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Procedure Specialist – Electrophysiology (Victoria, British Columbia)",
+"company": "Abbott",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-14",
+"link": "https://www.linkedin.com/jobs/view/4487560819",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -16409,6 +16566,68 @@
 "years": null
 },
 {
+"title": "iOS Developer",
+"company": "Yochana",
+"location": "Ontario, Canada",
+"posted": "2026-11-13",
+"link": "https://www.linkedin.com/jobs/view/4489823550",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce LWC Developer",
+"company": "Cognizant",
+"location": "Remote · United States",
+"posted": "2026-11-13",
+"link": "https://www.indeed.com/viewjob?jk=a5dbd27b3f79fb2f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071361631/salesforce-lwc-developer/",
+"salary": "$58,000 - $80,000 USD per year",
+"skills": [
+"REST APIs",
+"CI/CD",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"Salesforce"
+],
+"req": "Work model We strive to provide flexibility wherever possible. Based on this role’s business requirements, this is a remote position open to qualified applicants in the United States. Regardless of yo\nExperience with Apex classes, triggers, SOQL/SOSL queries, asynchronous Apex, and reusable Lightning components.\nExperience developing Salesforce integrations using REST, SOAP, Bulk, and Salesforce APIs.\nExperience designing solutions according to Salesforce best practices for security, scalability, governor limits, bulkification, performance, and maintainability.\nThese will help you stand out  Experience developing event-driven and asynchronous Salesforce solutions using Platform Events, Queueable, Batch, and Schedulable Apex.\nExperience supporting data migration and large-volume data processing using Salesforce tools and APIs.\nExperience with Salesforce DX, Git-based source control, and CI/CD practices.\nExperience with code reviews, testing, troubleshooting, defect resolution, deployment, and production support."
+},
+{
+"title": "Systems & IT Engineer",
+"company": "Insight Global",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-13",
+"link": "https://www.linkedin.com/jobs/view/4489807929",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Retail Field Intern - Agronomy Assistant",
+"company": "Nutrien",
+"location": "Altona, Manitoba, Canada",
+"posted": "2026-11-13",
+"link": "https://www.linkedin.com/jobs/view/4488980972",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Governance and Information Protection Specialist (Contract)",
+"company": "Teck Resources Limited",
+"location": "Greater Vancouver, British Columbia, Canada",
+"posted": "2026-11-13",
+"link": "https://www.linkedin.com/jobs/view/4477311899",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Asset Management (SAM) Analyst",
 "company": "Deloitte",
 "location": "Toronto, ON, CA, M5H 0A9",
@@ -16639,62 +16858,6 @@
 "source": "LaunchDarkly careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Security Engineer, Corporate Security",
-"company": "1Password",
-"location": "Canada",
-"posted": "2026-11-12T20:58:07.937+00:00",
-"link": "https://jobs.ashbyhq.com/1password/13200311-77c5-49ed-a3ce-8460d5c72d91",
-"source": "1Password careers",
-"country": "CA",
-"years": 3,
-"salary": "$500",
-"quals": [
-"Bring 3+ years of combined experience in information technology or security engineering, along with a track record of building and shipping ",
-"Write strong, maintainable code in Python, Bash, Go, or a similar language, and use application programming interfaces (APIs), webhooks, con",
-"Apply hands-on knowledge across areas such as identity and access—including single sign-on (SSO), Security Assertion Markup Language/OpenID ",
-"Build with AI as well as use it: work comfortably in an integrated development environment (IDE), understand the Model Context Protocol (MCP"
-],
-"skills": [
-"Python",
-"SQL",
-"Bash/Shell",
-"REST APIs",
-"Machine learning",
-"NLP",
-"Oracle",
-"AWS",
-"CI/CD",
-"Cybersecurity",
-"SOC",
-"Incident response",
-"Vulnerability management",
-"IAM"
-],
-"req": "At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic\n1Password helps people use technology safely. As a Security Engineer on the Corporate Security team, you’ll build and automate practical controls across identity, devices, internal tools, Software as \nBring 3+ years of combined experience in information technology or security engineering, along with a track record of building and shipping your own solutions.\nBring curiosity, ownership, and a growth mindset to a remote-first environment, with an interest in broadening your scope over time and giving actionable feedback when using security products internal\nBuild and automate controls across identity and access, endpoint and device security, internal tools, SaaS, and AI and agentic usage.\nAt 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.\nYou’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is not for everyone https://blog.1password.com/in\n1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individu\nRemote work is a part of our DNA. G"
-},
-{
-"title": "Software Engineer, Identity & Access Management",
-"company": "Snowflake",
-"location": "Remote · United States",
-"posted": "2026-11-12T20:54:32.604+00:00",
-"link": "https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536",
-"source": "Snowflake careers",
-"country": "US",
-"years": null,
-"skills": [
-"Java",
-"C++",
-"C#",
-"REST APIs",
-"Snowflake",
-"IAM",
-"Cloud security",
-"Data structures & algorithms",
-"System design"
-],
-"req": "Our systems are foundational to customer trust, security, reliability, and performance. The team is highly collaborative, with opportunities to learn from and partner with experienced engineers across\nExperience designing, building, testing, and supporting distributed software systems in production.\nExperience working with databases, APIs, or cloud services.\nA bachelor's degree in Computer Science, a related technical field, or equivalent practical experience.\nExperience building identity, security, authentication, or authorization services.\nExperience with database systems, query engines, or database internals.\nExperience operating highly available, scalable cloud services.\nGraduate-level study in Computer Science or a related technical field.\nThe team values collaboration, mentorship, thoughtful technical decisions, and continuous growth. You will have opportunities to work alongside experienced engineers, take ownership of meaningful proj"
 }
 ]
 }
