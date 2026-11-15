@@ -1,22 +1,22 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,3001,735,3001,2026-11-15
+1,Help desk / troubleshooting,IT support,44%,3002,736,3002,2026-11-15
 2,SQL,Language,24%,1640,415,1640,2026-11-15
 3,REST APIs,Framework,24%,1605,397,1605,2026-11-15
 4,Python,Language,23%,1536,387,1536,2026-11-15
 5,Excel,Data & AI,21%,1427,338,1427,2026-11-15
-6,Hardware setup,IT support,19%,1282,298,1282,2026-11-15
+6,Hardware setup,IT support,19%,1283,299,1283,2026-11-15
 7,System design,Practice,18%,1253,304,1253,2026-11-15
-8,Microsoft 365,IT support,16%,1080,274,1080,2026-11-15
+8,Microsoft 365,IT support,16%,1081,275,1081,2026-11-15
 9,Azure,Cloud & DevOps,16%,1074,273,1074,2026-11-15
 10,Agile / Scrum,Practice,15%,1020,242,1020,2026-11-15
 11,Git,Cloud & DevOps,13%,907,230,907,2026-11-15
 12,CI/CD,Cloud & DevOps,13%,877,212,877,2026-11-15
 13,AWS,Cloud & DevOps,13%,863,230,863,2026-11-15
-14,Windows,IT support,13%,851,212,851,2026-11-15
+14,Windows,IT support,13%,852,213,852,2026-11-15
 15,Cybersecurity,Security,11%,772,207,772,2026-11-15
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,765,198,765,2026-11-15
-17,"Ticketing (ServiceNow, Jira)",IT support,11%,740,196,740,2026-11-15
-18,IAM,Security,11%,733,183,733,2026-11-15
+17,"Ticketing (ServiceNow, Jira)",IT support,11%,741,197,741,2026-11-15
+18,IAM,Security,11%,734,184,734,2026-11-15
 19,JavaScript,Language,10%,683,173,683,2026-11-15
 20,Power BI,Data & AI,10%,678,172,678,2026-11-15
 21,"Testing (unit, automated)",Practice,9%,629,159,629,2026-11-15
@@ -47,8 +47,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 46,Bash/Shell,Language,5%,311,89,311,2026-11-15
 47,Embedded systems,Practice,4%,283,67,283,2026-11-15
 48,SOC,Security,4%,278,73,278,2026-11-15
-49,Incident response,Security,4%,277,67,277,2026-11-15
-50,ITIL,Certification,4%,276,62,276,2026-11-15
+49,ITIL,Certification,4%,277,63,277,2026-11-15
+50,Incident response,Security,4%,277,67,277,2026-11-15
 51,Tableau,Data & AI,4%,274,74,274,2026-11-15
 52,C++,Language,4%,272,63,272,2026-11-15
 53,Data visualization,Data & AI,4%,264,72,264,2026-11-15
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-15
 155,Keras,Data & AI,0%,1,1,1,2026-11-15
 
-,Based on 6788 postings in the last 30 days (6788 all time)
+,Based on 6789 postings in the last 30 days (6789 all time)
