@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-16T19:19:44+00:00",
+"updated": "2026-11-16T19:29:45+00:00",
 "jobs": [
+{
+"title": "Software Engineer, Identity",
+"company": "StackAdapt",
+"location": "Canada",
+"posted": "2026-11-16T14:28:49-05:00",
+"link": "https://job-boards.greenhouse.io/stackadapt/jobs/4509035009",
+"source": "StackAdapt careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Integration Reliability Engineer, Technical Operations",
 "company": "Stripe",
@@ -10688,42 +10698,6 @@
 "source": "Microsoft careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Software Engineer (Backend, Infrastructure Focus)",
-"company": "Kira",
-"location": "Remote · United States",
-"posted": "2026-11-13T19:28:45.382+00:00",
-"link": "https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824",
-"source": "Kira careers",
-"country": "US",
-"years": 3,
-"salary": "$165,000 - $195,000,",
-"quals": [
-"Bachelor's or Master's degree in Computer Science, or equivalent technical experience",
-"Roughly 3–6 years of professional software engineering experience. We will consider standout candidates outside this range",
-"Strong backend experience in at least one modern language (for example Kotlin, Python, Go, Rust, Scala, Elixir, or Haskell). Kotlin is a nic",
-"Hands-on experience scaling a system through real growth, such as taking users or requests from tens or hundreds of thousands to millions, n"
-],
-"skills": [
-"Python",
-"TypeScript",
-"Go",
-"Rust",
-"Kotlin",
-"Scala",
-"React",
-"REST APIs",
-"LLMs / GenAI",
-"MySQL",
-"AWS",
-"CI/CD",
-"Monitoring",
-"Incident response",
-"Testing (unit, automated)",
-"System design"
-],
-"req": "As a Software Engineer at Kira, you will build and own backend services that power critical product workflows, and you will grow quickly while doing it. This role is for an engineer who has already se\nThis is a product-minded backend role with meaningful work in performance, reliability, and infrastructure. You’ll partner with product and design to ship complete features, contribute across the stac\nShip impactful, end-to-end features that improve student and teacher experiences\nContribute to design discussions and code reviews, and grow through mentorship from senior engineers\nBachelor's or Master's degree in Computer Science, or equivalent technical experience\nRoughly 3–6 years of professional software engineering experience. We will consider standout candidates outside this range\nStrong backend experience in at least one modern language (for example Kotlin, Python, Go, Rust, Scala, Elixir, or Haskell). Kotlin is a nice-to-have, not a requirement, and we expect you to ramp up o\nHands-on experience scaling a system through real growth, such as taking users or requests from tens or hundreds of thousands to millions, not only operating mature large-company services\nExperience designing APIs and event-driven systems (queues, messaging), with a practical approach to scalable architecture\nExperience with relational databases (for example MySQL) and operating production systems on cloud infrastructure (ideally AWS)\nA mix of larger-company and startup experience is a plus, along wit"
 }
 ]
 }
