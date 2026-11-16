@@ -1,6 +1,37 @@
 {
-"updated": "2026-11-16T21:29:49+00:00",
+"updated": "2026-11-16T21:39:44+00:00",
 "jobs": [
+{
+"title": "Data Analyst, Revenue & Margin",
+"company": "Trulioo",
+"location": "Vancouver, BC; Canada",
+"posted": "2026-11-16T21:29:16.231+00:00",
+"link": "https://jobs.ashbyhq.com/trulioo/775fe1fa-c4a9-455b-9b3b-5bde05b8328e",
+"source": "Trulioo careers",
+"country": "CA",
+"years": null,
+"salary": "$1,000",
+"quals": [
+"Bachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Engineering, or Finance, or equivalent experien",
+"5 years in a data analyst, analytics engineer, or similar technical analytics role.",
+"Strong cross-functional communication, translating between engineering and product concepts and financial ones for both Data Science and Fin",
+"Exceptional attention to detail, since your work feeds vendor payments, revenue reporting, and customer invoicing."
+],
+"skills": [
+"Python",
+"SQL",
+"Airflow",
+"dbt",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Looker",
+"Statistics",
+"Git",
+"Help desk / troubleshooting"
+],
+"req": "But Trulioo is more than a tech company. We are a united force of dedicated experts committed to establishing trust online - and we’re proud to be recognized as a BC Top Employer for the second consec\nReporting to the Senior Director, Data Science, the Data Analyst - Revenue & Margin will be responsible for owning the analytics infrastructure that turns raw transaction data into cost, revenue, and \nOwn and maintain the internally built COGS tracker, including the front-end portal for vendor contract terms and the backend database that stores them.\nBachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Engineering, or Finance, or equivalent experience.\n5 years in a data analyst, analytics engineer, or similar technical analytics role.\nExperience with the following tools/technology: Redshift (or an equivalent cloud data warehouse), Airflow (or an equivalent orchestration tool), SQL, and Python.\nFluency using AI as a routine part of your own work, with a repeatable process and a clear check on the output, plus experience building or introducing shared agents or tooling that other teams rely o\nExperience with usage-based, consumption, or transaction-based billing models.\nExperience with a BI/dashboarding tool (Looker, Tableau, Power BI, or similar).\nPrior experience translating contracts, quotes, or pricing agreements into code logic.\nAt Trulioo, we strive to create an interview experience that is transparent, engaging, and respectful of your"
+},
 {
 "title": "Software Engineer (L2)",
 "company": "Twilio",
@@ -3347,7 +3378,7 @@
 "years": null,
 "apply": "http://www.indeed.com/job/accelerated-pmhnp-clinical-fellowship-remote-ny-fl-mt-4f97499280d86905",
 "salary": "$105 - $145 USD per hour",
-"req": "Accelerated PMHNP Clinical Fellowship: finish in as little as 12 months. Fully remote (NY, FL, MT). A practice-based fellowship for psychiatric nurse practitioners, led by Ryan Sultán, MD. You see ins"
+"req": "Accelerated PMHNP Clinical Fellowship: finish in as little as 12 months. Fully remote (NY, FL, MT). A practice-based fellowship for psychiatric nurse practitioners, directed by Ryan Sultán, MD. You se"
 },
 {
 "title": "Computer User Support Specialist - Journeyman",
@@ -4608,6 +4639,347 @@
 "CISSP"
 ],
 "req": "Share insights from technical research, industry developments, and security training to strengthen team knowledge and readiness. You Have At Least (Required Qualifications):  A bachelor’s degree in Cy\nA minimum of 5 years of hands-on experience supporting enterprise security tools and Microsoft security environments.\nExperience investigating security incidents, responding to threats, and supporting malware containment and remediation activities.\nExperience working with authentication systems, endpoint protection platforms, and enterprise access management tools.\nExperience using SIEM platforms, log analysis tools, and threat hunting methodologies.\nA working knowledge of Active Directory, Azure Active Directory, directory synchronization, and identity security controls. We Hope You Also Have (Preferred Qualifications):  A master’s degree in Cybe\nExperience supporting security operations within manufacturing or other complex operational technology environments.\nExperience with Microsoft Rights Management Services, Azure cloud security, and advanced Microsoft security tooling.\nExperience coordinating with managed security service providers or co-sourced SOC environments. At Leprino, we believe in equal employment opportunity and make employment decisions based on each indiv"
+},
+{
+"title": "Reporting & Data Analyst (SQL / Python / Power BI)",
+"company": "Collection nc",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=3f4010b9c8d39432",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/reporting-data-analyst-sql-python-power-bi-3f4010b9c8d39432",
+"salary": "$55,000 – $60,000",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Power BI",
+"Excel",
+"Statistics",
+"SQL Server",
+"Git"
+],
+"req": "Support business intelligence and analytics initiatives across the organization. REQUIRED QUALIFICATIONS  Diploma, Bachelor's Degree, or equivalent practical experience in Data Analytics, Computer Sci\n1–3 years of relevant experience in reporting, analytics, business intelligence, or data analysis. Internship, co-op, freelance, consulting, and project experience will be considered.\nExperience with Microsoft Excel.\nStrong written and verbal communication. SELF-TAUGHT CANDIDATES ARE WELCOME Your skills don't have to come from a traditional career path. We encourage candidates with demonstrated experience through "
+},
+{
+"title": "Data Integration Analyst",
+"company": "Berkshire Hathaway Group, Reinsurance Division",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=ad661530f559f5a2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/data-integration-analyst-ad661530f559f5a2",
+"salary": "$80,000 - $95,000",
+"skills": [
+"Python",
+"SQL",
+"PowerShell",
+"REST APIs",
+"ETL / data pipelines",
+"Power BI",
+"Statistics",
+"Azure"
+]
+},
+{
+"title": "Interconnect Systems Engineer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-16",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Interconnect-Systems-Engineer---New-Grad_R031831",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "SME Product Engineer",
+"company": "Ciena",
+"location": "2 Locations, Canada",
+"posted": "2026-11-16",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/SME-Product-Engineer_R031961-1",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Software Engineer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-16",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Support Analyst - 12 month fixed term",
+"company": "KOOTENAY SAVINGS CREDIT",
+"location": "Trail, BC, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=4e44bb3c40879c21",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=74f1bedd-ea4b-4452-9b53-d1a2c5847a5d&ccId=19000101_000001&jobId=587413&source=IN&lang=en_CA",
+"salary": "$42.37/hour",
+"skills": [
+"SQL",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "LOCATION: Preference is for onsite work in Trail, BC however remote work in the Kootenay region may be considered for the right candidate. Kootenay Savings Credit Union is seeking a highly motivated a\nUnder the approval of the manager, works both internally and with other departments in the development of new systems or potential new products or upgrades.\nAdministers and maintains security and integrity of assigned systems, monitors operational effectiveness, and provides required reports and proposes solutions, either informally or formally. Systems m\nParticipates in the IT Helpdesk, 24-hour On Call, and IT release rotation schedules by:  + monitoring automated system job logs, gateways and servers to ensure that procedures complete successfully; i\nWorks collaboratively with the Enterprise Data Architect, Network Analyst, and Senior Systems Analysts on areas where system infrastructure are integrated, such as workstation and server interfaces.\nOn a relief basis, provides back up to the Enterprise Data Architect, Network Analyst, and Client Support Analyst for related functions as required.\nProvides first and second level support to the IT Helpdesk in the resolution of hardware, software and application problems. QUALIFICATIONS  Minimum of 3 years of enterprise IT support experience demo"
+},
+{
+"title": "Office Administrator/Receptionist",
+"company": "Wollin & Hazlewood Professional Corporation",
+"location": "Kingston, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=d2d0a0dde7da4c96",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administratorreceptionist-d2d0a0dde7da4c96",
+"salary": "$35,500.00-$38,000.00 per year",
+"req": "Job Overview The Office Administrator/Receptionist supports daily office operations by coordinating front desk service, administrative tasks, and accurate information handling. This role welcomes clie"
+},
+{
+"title": "Competency, Training & Technical Documentation Developer",
+"company": "Lifting Solutions Inc.",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=63fa67574e05ede6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=16aead2b-8b41-4e1a-89e0-04d4f51b44da&ccId=19000101_000001&jobId=552922&source=IN&lang=en_CA",
+"skills": [
+"Microsoft 365"
+],
+"req": "Lifting Solutions Inc. | Location: Various | Salaried position About the role ------------------ Develop clear technical documents and training resources; maintain competency systems for Oman Field Se\nValidate operational information; coordinate expert reviews and approvals. Separate document development, technical approval and authorized assessor sign-off; escalate unresolved issues.\nControl revisions, libraries and reviews; protect files, publish approved Field Service documents to SharePoint, withdraw superseded versions and retain required archives.\nAgree request priorities/deadlines with the manager by safety risk, operational impact and resources; escalate conflicts/delays. Improve workflows, training, systems and reporting. What you bring ----\nExpert Microsoft 365 proficiency, including Word styles, templates and multi-page formatting; proficiency with Adobe Acrobat or comparable PDF editing software.\nValid Class 5 driver’s licence. Preferred: Two to five years in technical writing, competency management, learning administration, document control or related work; competency/LMS experience; familiar"
+},
+{
+"title": "Software Engineer, Applied AI",
+"company": "Evismart",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=418fa6f7cd596568",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/adq804m19us",
+"salary": "$40",
+"skills": [
+"Python",
+"PyTorch",
+"Machine learning",
+"Computer vision",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Infrastructure as code",
+"Monitoring",
+"Hardware setup"
+],
+"req": "What you bring  To scale our products in the cloud: 3+ years as a software engineer running production services in the cloud (ideally Azure), where you owned uptime, not just the code. You've scaled a\nTo deploy models: hands-on experience putting machine learning models into production with a serving framework (such as Triton, TorchServe, Ray Serve or SageMaker), ideally on GPUs."
+},
+{
+"title": "CNC Programmer / Tool & Die Maker",
+"company": "hireCNC",
+"location": "St. Catharines, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=80313fdf25a71042",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/cnc-programmer-tool-die-maker-80313fdf25a71042",
+"salary": "$30.00–$40.00/hour"
+},
+{
+"title": "Angular Developer - Design Systems",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=e91dc70b5bec0a14",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.citi.com/job/mississauga/angular-developer-design-systems/287/103387953040",
+"salary": "$94,300.00 - $141,500.00",
+"skills": [
+"TypeScript",
+"HTML/CSS",
+"Angular",
+"Docker",
+"CI/CD",
+"Jenkins",
+"Git",
+"Testing (unit, automated)",
+"Selenium / Cypress"
+]
+},
+{
+"title": "Analyst, Cyber Security Awareness",
+"company": "Bank of Canada",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=c82c06f05d97b96b",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.bankofcanada.ca/job/Ottawa-%28Downtown%29-Analyst%2C-Cyber-Security-Awareness-ON/608069717/",
+"salary": "$96,077 to $113,032",
+"skills": [
+"Power BI",
+"Excel",
+"Data visualization",
+"Cybersecurity",
+"Agile / Scrum",
+"Embedded systems"
+],
+"req": "Position Type: Term Position Length: until December 31st, 2028 (extension / permanent p Location: Ottawa (Downtown), ON, CA Remote Work: Hybrid Model Closing Date: December 3rd, 2026 23:59 EST Equity,\ndelivering routine phishing, spear phishing and vishing exercises, reporting on results, and providing recommendations for improvement  developing and providing routine and ad-hoc cyber security train"
+},
+{
+"title": "Data Scientist – Advanced Analytics & Healthcare Research",
+"company": "Biovid",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=0919d34a23ddcfa5",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://biovid.bamboohr.com/careers/73?source=indeed&src=indeed&postedDate=2026-11-16",
+"skills": [
+"Python",
+"SQL",
+"Machine learning",
+"Excel",
+"Statistics",
+"AWS",
+"Data structures & algorithms",
+"System design"
+],
+"req": "Collaborate with cross-functional teams to translate research objectives into appropriate analytical approaches. WHO YOU ARE  Advanced degree (Master's or PhD) in Statistics, Mathematics, Applied Math\n5+ years of experience in Advanced Analytics, statistical modeling, Data Science, or quantitative market research. Strong candidates with less experience and a solid quantitative background will also \nExperience with or exposure to advanced analytical methodologies such as segmentation, conjoint analysis, demand modeling, and forecasting.\nGood communication and collaboration skills, with the ability to explain analytical results to research and business teams. Nice to Have  Familiarity with SQL and cloud-based analytical environments s\nExperience developing analytical simulators, automated reporting tools, or scalable modeling solutions."
+},
+{
+"title": "Cloud and Database Engineer",
+"company": "Accenture Federal Services",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=da16d5a37b827b9f",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://grnh.se/zj0iqikw6us",
+"salary": "$120,400 - $234,700 USD per year",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Kafka",
+"Elasticsearch",
+"AWS",
+"Docker",
+"Kubernetes",
+"Terraform",
+"Ansible",
+"CI/CD",
+"Infrastructure as code",
+"Monitoring",
+"Cloud security",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"AWS certification"
+],
+"req": "At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people. Our 13,000+ people are united in a shared purp\nCollaborate with internal and external stakeholders to understand business requirements and translate them into scalable cloud solutions.\nEnsure compliance with security standards and manage cloud environments in accordance with security requirements. Required Qualifications:  3 years of experience as a Cloud Engineer, DevOps Engineer, \nHands-on experience with SQL database administration, including query optimization, database design, and troubleshooting.\nExpertise in configuring, deploying, and managing RabbitMQ for distributed messaging.\nExperience with Infrastructure as Code (IaC) tools such as Terraform, CloudFormation, or Ansible.\nKnowledge of containerization and orchestration tools like Docker and Kubernetes. Preferred Qualifications:  AWS certifications, such as AWS Certified DevOps Engineer.\nExperience with other message queue systems (e.g., Kafka, ActiveMQ).\nExperience working in agile development environments.\nExcellent problem-solving skills and the ability to work independently or as part of a team. Clearance:  An active Top Secret with SCI eligibility is required What We BelieveAs a company wholly dedica"
+},
+{
+"title": "Testing Engineer (Facets, Claims and membership, QEA, SQL)",
+"company": "COMPEST SOLUTIONS INDIA PRIVATE LIMITED",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=7f18f1a5b161d133",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "http://www.indeed.com/job/testing-engineer-facets-claims-and-membership-qea-sql-7f18f1a5b161d133",
+"salary": "$45 - $50 USD per hour",
+"skills": [
+"SQL",
+"Jira"
+],
+"req": "Testing Engineer Location: Remote Only on W2 Any Visa will work JD: Top Skills: 1. Claims and membership experience 2.QEA 3. SQL Queries/ Devops Summary: Write test cases and upload them, execute them"
+},
+{
+"title": "IT HELPDESK SUPPORT TECHNICIAN",
+"company": "Apis Services Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=2720785e8b445a52",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbfbdc9a-a7f6-4833-9211-9b7695508c8f&ccId=9200648080204_3&jobId=667913&jwId=9200648080204_1&source=IN&lang=en_US",
+"salary": "$45,000 per year",
+"skills": [
+"REST APIs",
+"Azure",
+"Networking (TCP/IP, DNS)",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Contribute to internal documentation and knowledge-base resources.\nLook for recurring issues and opportunities to improve the end-user support experience.\n✅ What We're Looking For  Required Qualifications  1–3 years of experience in helpdesk, service desk, desktop support, technical support, or a similar IT support role.\nExperience supporting Microsoft 365 and common business applications.\nReliable internet connection and an appropriate remote workspace.\nPreferred Qualifications  Experience supporting Microsoft 365 and Azure AD environments.\nExperience with ConnectWise, ServiceNow, Zendesk, or similar platforms.\nPrevious experience working in an MSP, centralized helpdesk, or multi-site support environment.\nExperience providing remote technical support to users in multiple locations.\nExperience troubleshooting printers, mobile devices, VPNs, software installations, and user-access issues.\nWhy APIS Services? At APIS Services, Inc., our IT team plays an important role in keeping employees connected, productive, and supported across our organization. We offer:  Professional growth and dev\nImportant Information The statements above are intended to describe the general nature and level of work being performed and are not intended to be an exhaustive list of responsibilities, duties, or s"
+},
+{
+"title": "IT STATEWIDE SYSTEMS SUPPORT ENGINEER 1,2 (EUC ZL)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=c743208348ff62b5",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5550617/it-statewide-systems-support-engineer-1-2-euc-zl",
+"salary": "$5,105 - $9,190 USD per month",
+"skills": [
+".NET",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Documents solutions for issue and problem resolution for future knowledge base needs. Responsible for creation of project documentation, end user messaging information and end user training guides. Ac\nInformation to support your eligibility for this job title must be included in the application (i.e., relevant, detailed experience/education). For further information about this vacancy, contact: Dan\nAdditional holidays may be proclaimed by the Governor State employees earn sick and annual leave which can be accumulated and saved for future use. Your accrual rate increases as your years of service"
+},
+{
+"title": "Technical Support Engineer",
+"company": "Experlogix",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=71bc13f384943613",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://experlogix.bamboohr.com/careers/401?source=indeed&src=indeed&postedDate=2026-11-16",
+"skills": [
+"JavaScript",
+"SQL",
+"HTML/CSS",
+"SQL Server",
+"Azure",
+"Windows",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Do you enjoy digging into challenging technical problems and finding creative solutions? If you're passionate about technology and enjoy learning how complex software systems work, we'd love to hear f\nDevelop and maintain technical expertise in Experlogix products, Microsoft technologies, ERP systems, CRM platforms, and SQL Server.\nIdentify recurring issues and provide feedback that improves product quality, support processes, and the customer experience.\nParticipate in ongoing technical training and knowledge-sharing sessions to continually expand your technical skill set. Skills & Qualifications  2+ years of experience in technical support, applicati\nRequired: Strong hands-on experience installing, configuring, administering, and troubleshooting web server environments such as Microsoft IIS or Windows Server.\nRequired: Strong hands-on experience with Windows Operating Systems.\nExperience supporting enterprise software solutions such as Microsoft Dynamics, Salesforce, NetSuite, or other ERP and CRM platforms is preferred.\nExperience configuring virtual machines and remote desktop connections.\nCertifications related to Microsoft SQL Server, Microsoft Dynamics, Salesforce, Azure, or CPQ technologies are a plus but not required. Find Your Passion at Experlogix At Experlogix, we strive to crea"
 },
 {
 "title": "Hamilton & Oakville Offices - Opportunities in Audit - Co-op/Intern Fall 2027 - Wilfrid Laurier University",
@@ -6942,6 +7314,83 @@
 "location": "Dartmouth, Nova Scotia, Canada",
 "posted": "2026-11-15",
 "link": "https://www.linkedin.com/jobs/view/4408852886",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Banking Technology",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-15",
+"link": "https://ca.indeed.com/viewjob?jk=f7ed380a0c683b2f",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.manulife.com/global/en/job/JR26110161/Software-Engineer-Banking-Technology",
+"salary": "$86,100.00 CAD",
+"skills": [
+"Java",
+"TypeScript",
+"SQL",
+"HTML/CSS",
+"React",
+"Node.js",
+"Spring Boot",
+"REST APIs",
+"Azure",
+"Kubernetes",
+"Jenkins",
+"Git",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)"
+],
+"req": "Assisting with required documentation e.g. deployment, maintenance, support, and business needs.\nBuilding interpersonal relationships by working closely with the Engineering Manager, Product Partner, Quality Engineers, and Analysts in a globally distributed environment. Required Qualifications:  "
+},
+{
+"title": "Winter Co-op 2027 - Standards Assurance and Risk Monitoring",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-15",
+"link": "https://ca.indeed.com/viewjob?jk=239e8aaa3130a142",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.manulife.com/global/en/job/JR26071466/Winter-Co-op-2027-Standards-Assurance-and-Risk-Monitoring",
+"salary": "$48,800.00 CAD",
+"skills": [
+"HTML/CSS",
+"Excel",
+"Cybersecurity",
+"NIST / ISO 27001"
+],
+"req": "At Manulife John Hancock, we believe in investing in the future – starting with you. Our Standards Assurance and Risk Monitoring co-op is your launchpad to success, offering the support, structure, an\nIdentify actionable insights and opportunities to strengthen controls and improve risk management processes. Required Qualifications:  Currently enrolled in an undergraduate program in IT, Cybersecuri\nAbility to work collaboratively, take initiative, and demonstrate a willingness to learn. Preferred Qualifications:  Familiarity with risk management and information security frameworks, such as NIST \nYou’ll gain hands-on experience assessing Information Risk Management controls, conducting walkthroughs, reviewing evidence, performing data analysis, and documenting control testing and findings."
+},
+{
+"title": "Summer Intern/Co-op 2027 – Canadian Operations Management (8 Months)",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-15",
+"link": "https://ca.indeed.com/viewjob?jk=f660833bc681c14c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.manulife.com/global/en/job/JR26100178/Summer-Intern-Co-op-2027-Canadian-Operations-Management-8-Months",
+"salary": "$44,850 - $58,500",
+"skills": [
+"HTML/CSS",
+"Excel",
+"Microsoft 365"
+],
+"req": "Please note there are specific application instructions required to be considered for this role At Manulife John Hancock, we believe in investing in the future – starting with you. Our Canadian Operat"
+},
+{
+"title": "Quality Systems Auditor-1",
+"company": "Magna International",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-11-15",
+"link": "https://www.linkedin.com/jobs/view/4438284117",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
