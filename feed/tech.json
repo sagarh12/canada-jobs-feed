@@ -1,6 +1,23 @@
 {
-"updated": "2026-11-16T01:49:48+00:00",
+"updated": "2026-11-16T01:59:48+00:00",
 "jobs": [
+{
+"title": "Fixed Income Analyst",
+"company": "STOBOX",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=da2e018430197a6b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/fixed-income-analyst-da2e018430197a6b",
+"salary": "$150,000 - $175,000 USD per year",
+"skills": [
+"SQL",
+"Excel"
+],
+"req": "Job Overview Stobox is seeking an experienced Fixed Income Analyst to research bonds and other fixed income securities, monitor market trends, and analyze portfolio performance. The ideal candidate ha\nWork with internal teams and assist with client inquiries related to investments and market activity. Skills  Knowledge of fixed income financial markets, financial concepts, financial management, and\nExperience in the securities industry is preferred; familiarity with securities law, regulatory reporting, and financial regulations is valuable.\nProficiency with Microsoft Office, especially Excel data analysis; SQL and financial software experience are useful."
+},
 {
 "title": "Graphic & Web Designer / Developer",
 "company": "3SIXTY Marketing Solutions",
@@ -15,6 +32,16 @@
 "skills": [
 "HTML/CSS"
 ]
+},
+{
+"title": "Business System Analyst, Payments",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-16T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Business-System-Analyst%2C-Payments-ON/604606817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Full Stack Software Engineer, Travel",
@@ -855,6 +882,16 @@
 "Salesforce"
 ],
 "req": "Other locations that have existing independent Greenpeace National/Regional organisations might be considered on a case by case basis, depending on the hosting capacity availability and compliance, ho\nLeading data community initiatives through case studies, training, coaching, and mentoring colleagues, as well as responding to end-user support tickets. What we’re looking for: We are seeking a colla\nExperience building and maintaining dbt projects in production (models, tests, incremental loads, documentation), with strong SQL.\nExperience with cloud data warehouses and data engineering solutions preferably BigQuery or Google Cloud Platform.\nExperience in Python software development focused on data engineering and APIs  Experience with dashboard and reporting tools, such as Hex, Tableau and Google Data Studio.\nExperience with fundraising or CRM data (e.g. Raiser’s Edge, Salesforce)  Ability to communicate effectively with non-technical audiences.\nFlexible approach to working with colleagues across multiple time zones and open to international travel.\nSupport for and belief in the core aims and values of Greenpeace. What you can expect: You’ll be encouraged to develop both personally and professionally, taking advantage of the wide range of learnin"
+},
+{
+"title": "Web developer",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-15",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50732185",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
 "title": "Financial Systems Analyst",
@@ -17890,46 +17927,6 @@
 "source": "KPMG careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Software Engineer I, Data Platforms",
-"company": "Abnormal Security",
-"location": "Remote · United States",
-"posted": "2026-11-12T21:06:01-05:00",
-"link": "https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003",
-"source": "Abnormal Security careers",
-"country": "US",
-"years": null
-},
-{
-"title": "Developer",
-"company": "Scotiabank",
-"location": "Scarborough, ON, CA, M1L4S2",
-"posted": "2026-11-13T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Scarborough-Developer-ON-M1L4S2/606157917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Technician, Flight Services Engineering",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-11-13T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Technician%2C-Flight-Services-Engineering-ON-L5S-1W1/1437730933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "AI Security Engineer",
-"company": "Celestica",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-13T02:00:00+00:00",
-"link": "https://careers.celestica.com/job/Toronto-AI-Security-Engineer-ON/1387460133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Celestica careers",
-"country": "CA",
-"years": 10
 }
 ]
 }
