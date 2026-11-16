@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-16T18:29:48+00:00",
+"updated": "2026-11-16T18:39:45+00:00",
 "jobs": [
 {
 "title": "Digital AI Workforce Specialist",
@@ -2227,6 +2227,274 @@
 "req": "About the Role: Ensisinfo Inc is looking for a talented Mainframe Developer to join our team remotely from Phoenix, AZ. This is an exciting opportunity to work on critical enterprise systems with a fo"
 },
 {
+"title": "Academic Assistant - CIND110(DM0) Data Org for Data Analysts | Sat | Jan 16-Apr 24 | 9:30am-12:30pm",
+"company": "Toronto Metropolitan University",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=3b26947b46f756a2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.torontomu.ca/psc/hrcgprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=399199&PostingSeq=1",
+"salary": "$51.17 per hour",
+"skills": [
+"Python",
+"ETL / data pipelines",
+"Power BI",
+"Data visualization",
+"NoSQL",
+"Azure"
+],
+"req": "About Toronto Metropolitan ------------------------------ Toronto Metropolitan University is Canada's leader in innovative, career-focused education and a university clearly on the move. It is a disti\nHands-on experience with Microsoft Azure virtual machines or labs."
+},
+{
+"title": "Academic Assistant - CIND830(DJ0) Python Programming Data Science | Mon | Jan 11-Apr 19 | 6:30-9:30pm",
+"company": "Toronto Metropolitan University",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=2e4eea622cf21b5f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.torontomu.ca/psc/hrcgprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=399204&PostingSeq=1",
+"salary": "$51.17 per hour",
+"skills": [
+"Python",
+"Azure",
+"Data structures & algorithms",
+"Object-oriented programming"
+],
+"req": "About Toronto Metropolitan ------------------------------ Toronto Metropolitan University is Canada's leader in innovative, career-focused education and a university clearly on the move. It is a disti\nMinimum overall standing: B+ (or equivalent).\nExperience designing and implementing non-trivial Python programs (e.g., multi-module projects or small applications).\nHands-on experience with Microsoft Azure virtual machines or labs."
+},
+{
+"title": "Full-Stack Software Engineer — Backend & Cloud Focus",
+"company": "Covet",
+"location": "Remote, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=7214c1fa60ea60ee",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ats.rippling.com/covetcareers/jobs/04cbc31d-7705-4caf-9e33-c84230f55a71?jobSite=Indeed",
+"skills": [
+"React",
+"React Native",
+"Node.js",
+"Flutter",
+"REST APIs",
+"AWS",
+"Google Cloud",
+"CI/CD",
+"Git",
+"Serverless",
+"Monitoring",
+"System design"
+],
+"req": "About CoVet At CoVet, we're building AI-powered tools that help veterinary professionals spend less time on paperwork and more time caring for animals. Veterinary teams are stretched thin. Long hours,\nUse AI tools thoughtfully to accelerate development, improve documentation, explore solutions, and support maintainable system design. What We’re Looking For  5+ years of professional software develop\nStrong backend development experience, preferably with Node.js or similar technologies.\nExperience with serverless architectures such as Cloud Functions, AWS Lambda, or similar.\nExperience with cloud-based application development, particularly serverless services and managed databases.\nStrong experience with database design, data modeling, indexing strategies, and performance optimization.\nExperience designing, building, and maintaining reliable, scalable backend systems in production.\nGood judgment when using AI tools to design, implement, document, and improve technical solutions. Preferred Qualifications  Strong production experience with Node.js and Google Cloud Platform, partic\nExperience with Flutter or other modern frontend and cross-platform mobile frameworks.\nExperience designing and scaling backend architectures for high-traffic production applications.\nExperience building or scaling production systems in a startup environment.\nExperience building and maintaining complex third-party integrations and APIs at scale."
+},
+{
+"title": "ServiceNow ITOM Developer",
+"company": "Bonafide Info Systems Inc.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=5b2d6a820ae13b51",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/servicenow-itom-developer-5b2d6a820ae13b51",
+"salary": "$90,000.00-$110,000.00 per year",
+"skills": [
+"JavaScript",
+"REST APIs",
+"Monitoring",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Hydrometallurgy Engineer Trainee",
+"company": "Hatch",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=8586e4adc29c8c30",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career4.successfactors.com/career?company=hatchassocP&career_ns=job_listing&career_job_req_id=102688&lang=en_US&source=Indeed",
+"salary": "$81,000.00 - $84,000.00",
+"skills": [
+"Excel"
+],
+"req": "Flexible work environment  Long term career development  Think globally, work locally Don't meet every single requirement? You don't need to. At Hatch, we are building a diverse, inclusive workplace t"
+},
+{
+"title": "Engineer I, Systems Reliability Engineering",
+"company": "Levi Strauss",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=9997a8bf4abe63a7",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://levistraussandco.wd5.myworkdayjobs.com/External/job/Rexdale-Distribution-Center-Etobicoke-ON-CAN/Engineer-I--Systems-Reliability-Engineering_R-0158465-1",
+"skills": [
+"SQL",
+"REST APIs",
+"Snowflake",
+"Power BI",
+"Tableau",
+"SQL Server",
+"Oracle",
+"Azure",
+"Linux",
+"Monitoring",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"SAP"
+],
+"req": "Calling all originals: At Levi Strauss & Co., you can be yourself — and be part of something bigger. We're a company of people who like to forge our own path and leave the world better than we found i\nSupport release readiness, deployment validation, change reviews, and post-implementation monitoring while leveraging approved AI tools to improve troubleshooting and operational efficiency. About You\nExperience troubleshooting applications, integrations, databases, and operational processes in a production environment.\nExperience with Manhattan WMS, Manhattan Active WMS, Manhattan TMS, Centiro TMS, Manhattan LMS, UKG WFM, MuleSoft, Talend, SAP AFS, SAP S/4HANA, ServiceNow, Microsoft Power BI, Tableau, Manhattan SCI,\nExperience with application observability, log analysis, API management, Linux fundamentals, cloud platforms such as Microsoft Azure, warehouse automation, WCS integrations, and high-volume distributi\nHands-on experience working within incident, problem, change, and release management processes.\nExperience supporting warehouse, transportation, supply chain, or enterprise platforms, with the ability to independently resolve recurring issues and recommend operational improvements. Applicants mu"
+},
+{
+"title": "Software Solutions Specialist",
+"company": "EllisDon Corporation",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=030ae7742b17f204",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://ellisdon.wd3.myworkdayjobs.com/en-US/Ellis-Don/job/Mississauga-ON/Software-Solutions-Specialist_R2026-01930",
+"salary": "$60,000 - $75,000",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"System design"
+],
+"req": "Connect with us LinkedIn, Instagram , Facebook , Twitter . Thinking about a change? We recognize that the construction industry is changing at a rapid pace and we continually strive to be at the foref\nYou possess a post-secondary degree/diploma in computer science, Information Systems, Business Technology Management, or a related field.\nYou have a minimum of 1+ years of construction industry experience, preferably with technology consulting and execution.\nProficiency in Microsoft Office is required; experience with ServiceNow is a plus."
+},
+{
+"title": "Academic Assistant - CMTH642(DJ0) Data Analytics: Adv. Methods | Tues | Jan 19-Apr 20 | 6:30-9:30pm",
+"company": "Toronto Metropolitan University",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=dbeba71fcdd015d5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.torontomu.ca/psc/hrcgprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=399206&PostingSeq=1",
+"salary": "$51.17 per hour",
+"skills": [
+"Python",
+"R",
+"Tableau",
+"Statistics",
+"Data visualization",
+"Azure"
+],
+"req": "About Toronto Metropolitan ------------------------------ Toronto Metropolitan University is Canada's leader in innovative, career-focused education and a university clearly on the move. It is a disti\nEvidence of applied projects focused on with statistical and analytics tools, and Python programming  Hands-on experience with Microsoft Azure virtual machines or labs."
+},
+{
+"title": "Academic Assistant - CIND719(DK0T) Big Data Analytics Tools | Sat | Jan 16-Apr 24 |1:00-4:00pm",
+"company": "Toronto Metropolitan University",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=1766611ae0e34ad7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.torontomu.ca/psc/hrcgprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=399203&PostingSeq=1",
+"salary": "$51.17 per hour",
+"skills": [
+"Python",
+"SQL",
+"Machine learning",
+"Spark",
+"Hadoop",
+"MongoDB",
+"Azure",
+"VMware / virtualization"
+],
+"req": "About Toronto Metropolitan ------------------------------ Toronto Metropolitan University is Canada's leader in innovative, career-focused education and a university clearly on the move. It is a disti\nEvidence of applied projects focused on analytics and machine learning tools, database tools such as SQL, MongoDB and big data tools  Hands-on experience with Microsoft Azure virtual machines or labs."
+},
+{
+"title": "Social Support Worker (Full-Time)",
+"company": "Anglican Diocese of Ottawa",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=e38803b12af11b26",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/t85incsyn/CANDIDATEPORTAL/jobs/763",
+"salary": "$24.97",
+"req": "Mission Statement Belong Ottawa, a Community Ministry of the Anglican Diocese of Ottawa, offers support to homeless and vulnerably housed people to ensure health and well-being, nourishment, and socia\nOpenness – We aspire to offer an open, inclusive and empowering community experience for those who come to our door, where each person feels accepted, safe, and respected and all are received, without\nCollaboration – We are committed to working collaboratively, welcoming new relationships and partnerships that increase our reach and our impact, respecting other’s diverse expertise and experience.\nEmpathy – We seek to act out of a deep understanding and appreciation of our participants’ experience and daily realities.\nAdvise and mentor academic students, as directed by the Sr. Social Support Workers and Program Manager.\nMake referrals to other agencies and community resources as required.\nSupport the Program Manager in the administration and operational responsibilities of the organization as required. Job Requirements and Qualifications  Post-secondary education in the social sciences\nExperience and passion for working with high-risk populations and people who use drugs considered assets  Experience supporting people living with homelessness, mental health and addiction challenges \nExperience working with people from marginalized communities and diverse populations.\nExperience working with people who have experienced homelessness."
+},
+{
+"title": "Enterprise Account Executive",
+"company": "Apryse",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=e29b19383ab7ce2f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.lever.co/apryse/3508d503-9ba3-4b75-b5a6-c83ea6196d71?lever-source=Indeed",
+"skills": [
+"REST APIs",
+"Windows",
+"macOS",
+"Hardware setup",
+"Salesforce"
+],
+"req": "The Role We're growing our sales team, and we're looking to bring on an Account Executive with a focus on enterprise sales. You will be at the forefront of our efforts to expand our growing business i\nRequirements  3-7 years’ experience selling complex B2B software product(s).\nOngoing support for learning development so you can master your craft.\nDiverse and inclusive workplace where we all learn from each other. Company Description As the industry-leading provider of document software development (SDK) technology powering everything from trad"
+},
+{
+"title": "Information Processing Specialist I",
+"company": "Baldwinsville Central School District",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=2205fb1b715616e2",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://schenectady.recruitfront.com/JobPosting.aspx?JID=86317",
+"salary": "$37,437 - $41,582 USD per year",
+"skills": [
+"Statistics",
+"Hardware setup"
+]
+},
+{
+"title": "Office Assistant",
+"company": "",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-16",
+"link": "https://ca.indeed.com/viewjob?jk=d12c52efe83fbcd7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-assistant-d12c52efe83fbcd7",
+"salary": "$18.25-$30.24 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Field Service Advisor - Small Engines",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-16",
+"link": "https://www.indeed.com/viewjob?jk=9a5be01dd84f2468",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://recruiting2.ultipro.com/KAW1000/JobBoard/f2ca734a-88d6-e1ac-3045-794fdba792fc/OpportunityDetail?opportunityId=f4bdc078-2708-4d30-aa29-fa5e8ed66dff&postingId=706e87fc-bc71-49f6-95dd-af401cecbe38",
+"skills": [
+"Excel"
+],
+"req": "Receive and report feedback to improve products and services. This position requires 50% providing telephone technical support and 50% overnight travel. Education and Experience:  High school diploma \nMinimum 3+ years’ related experience. Small engine knowledge a plus.\nExperience with Microsoft Office with emphasis on Word, Excel and Powerpoint.\nMedical, dental, and vision plans  Life insurance  Flexible Spending Account  401K  Generous Time Off  Flexible schedules  Educational Assistance  Ongoing training and development  Team Member Product"
+},
+{
 "title": "Hamilton & Oakville Offices - Opportunities in Audit - Co-op/Intern Fall 2027 - Wilfrid Laurier University",
 "company": "KPMG",
 "location": "Hamilton, Canada; Oakville, Canada",
@@ -4369,6 +4637,66 @@
 "location": "Mississauga, Ontario, Canada",
 "posted": "2026-11-15",
 "link": "https://www.linkedin.com/jobs/view/4490230623",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Experience Specialist - French Bilingual",
+"company": "Quince",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-15",
+"link": "https://www.linkedin.com/jobs/view/4465169482",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Lenovo Accelerated Sales Rotational Program Associate [LASR] Canada Full-time",
+"company": "Lenovo",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-15",
+"link": "https://www.linkedin.com/jobs/view/4465116480",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Client Service Analyst I-TH",
+"company": "TELUS Health",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-15",
+"link": "https://www.linkedin.com/jobs/view/4456390583",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Information Security",
+"company": "IMAX",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-15",
+"link": "https://www.linkedin.com/jobs/view/4473396643",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Operations Analyst - Cybersecurity - Dieppe, New Brunswick",
+"company": "EY",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-15",
+"link": "https://www.linkedin.com/jobs/view/4473832003",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technology Operations Analyst - Cybersecurity - Dieppe, New Brunswick",
+"company": "EY",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-15",
+"link": "https://www.linkedin.com/jobs/view/4473821428",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -9456,16 +9784,6 @@
 "posted": "2026-11-13T19:07:59+00:00",
 "link": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
 "source": "Microsoft careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Solutions Engineer",
-"company": "Toast",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-13T13:43:27-05:00",
-"link": "https://careers.toasttab.com/jobs?gh_jid=8385632",
-"source": "Toast careers",
 "country": "CA",
 "years": null
 }
