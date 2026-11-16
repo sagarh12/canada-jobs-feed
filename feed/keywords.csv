@@ -13,7 +13,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 12,CI/CD,Cloud & DevOps,13%,885,216,885,2026-11-16
 13,AWS,Cloud & DevOps,13%,866,224,866,2026-11-16
 14,Windows,IT support,13%,854,209,854,2026-11-16
-15,Cybersecurity,Security,11%,774,203,774,2026-11-16
+15,Cybersecurity,Security,11%,775,204,775,2026-11-16
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,767,194,767,2026-11-16
 17,"Ticketing (ServiceNow, Jira)",IT support,11%,743,193,743,2026-11-16
 18,IAM,Security,11%,735,178,735,2026-11-16
@@ -34,7 +34,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 33,React,Framework,6%,415,93,415,2026-11-16
 34,Kubernetes,Cloud & DevOps,6%,407,95,407,2026-11-16
 35,TypeScript,Language,6%,397,104,397,2026-11-16
-36,Vulnerability management,Security,6%,384,101,384,2026-11-16
+36,Vulnerability management,Security,6%,385,102,385,2026-11-16
 37,SQL Server,Database,5%,370,86,370,2026-11-16
 38,Oracle,Database,5%,365,84,365,2026-11-16
 39,Salesforce,Practice,5%,364,88,364,2026-11-16
@@ -46,24 +46,24 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 45,Firewalls,Security,5%,316,81,316,2026-11-16
 46,Bash/Shell,Language,5%,313,89,313,2026-11-16
 47,Embedded systems,Practice,4%,284,67,284,2026-11-16
-48,SOC,Security,4%,279,74,279,2026-11-16
-49,ITIL,Certification,4%,278,63,278,2026-11-16
-50,Incident response,Security,4%,278,65,278,2026-11-16
+48,Incident response,Security,4%,279,66,279,2026-11-16
+49,SOC,Security,4%,279,74,279,2026-11-16
+50,ITIL,Certification,4%,278,63,278,2026-11-16
 51,Tableau,Data & AI,4%,276,74,276,2026-11-16
 52,C++,Language,4%,274,62,274,2026-11-16
 53,Data visualization,Data & AI,4%,265,73,265,2026-11-16
 54,PostgreSQL,Database,4%,259,55,259,2026-11-16
 55,Terraform,Cloud & DevOps,4%,259,70,259,2026-11-16
-56,Google Workspace,IT support,4%,257,85,257,2026-11-16
+56,Google Workspace,IT support,4%,258,86,258,2026-11-16
 57,SAP,Practice,4%,256,67,256,2026-11-16
-58,Mobile (iOS / Android),Practice,4%,243,54,243,2026-11-16
-59,NIST / ISO 27001,Security,4%,243,56,243,2026-11-16
+58,NIST / ISO 27001,Security,4%,244,57,244,2026-11-16
+59,Mobile (iOS / Android),Practice,4%,243,54,243,2026-11-16
 60,Infrastructure as code,Cloud & DevOps,3%,235,61,235,2026-11-16
 61,Node.js,Framework,3%,230,67,230,2026-11-16
 62,VMware / virtualization,IT support,3%,225,65,225,2026-11-16
 63,macOS,IT support,3%,222,55,222,2026-11-16
 64,Microservices,Cloud & DevOps,3%,217,42,217,2026-11-16
-65,Encryption / PKI,Security,3%,203,46,203,2026-11-16
+65,Encryption / PKI,Security,3%,204,47,204,2026-11-16
 66,Object-oriented programming,Practice,3%,200,48,200,2026-11-16
 67,Databricks,Data & AI,3%,191,44,191,2026-11-16
 68,Jenkins,Cloud & DevOps,3%,187,37,187,2026-11-16
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-16
 155,Keras,Data & AI,0%,1,1,1,2026-11-16
 
-,Based on 6822 postings in the last 30 days (6822 all time)
+,Based on 6824 postings in the last 30 days (6824 all time)
