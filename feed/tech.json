@@ -1,6 +1,37 @@
 {
-"updated": "2026-11-17T21:59:56+00:00",
+"updated": "2026-11-17T22:10:00+00:00",
 "jobs": [
+{
+"title": "IT Systems Engineer",
+"company": "Temporal",
+"location": "Remote · United States",
+"posted": "2026-11-17T22:09:18.309+00:00",
+"link": "https://jobs.ashbyhq.com/temporal/372eafe1-5e1d-414b-8e71-56c8b30a78dc",
+"source": "Temporal careers",
+"country": "US",
+"years": 8,
+"quals": [
+"8+ years of experience in IT, systems engineering, or a similar role, with a track record of owning platforms rather than only operating the",
+"Deep expertise in at least one of: identity and access management (Okta, Entra ID), device management (MDM for macOS and Windows), or endpoi",
+"Strong scripting and automation skills (for example Python, TypeScript, Bash, or PowerShell), including working with APIs and integrating Sa",
+"Experience leading cross-functional projects to completion, including scoping, stakeholder alignment, and rollout"
+],
+"skills": [
+"Python",
+"TypeScript",
+"Bash/Shell",
+"PowerShell",
+"REST APIs",
+"LLMs / GenAI",
+"Terraform",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Windows",
+"macOS"
+],
+"req": "Design and build automation and internal tooling that eliminates manual work: onboarding and offboarding workflows, access lifecycle management, device enrollment and posture enforcement, and self-ser\nOwn technology for our San Francisco office end to end, including network and internet connectivity, Wi-Fi, A/V, and equipment, and coordinate with ISPs and vendors\n8+ years of experience in IT, systems engineering, or a similar role, with a track record of owning platforms rather than only operating them\nDeep expertise in at least one of: identity and access management (Okta, Entra ID), device management (MDM for macOS and Windows), or endpoint security and zero trust tooling\nStrong scripting and automation skills (for example Python, TypeScript, Bash, or PowerShell), including working with APIs and integrating SaaS systems, and hands-on experience using AI coding assistan\nExperience leading cross-functional projects to completion, including scoping, stakeholder alignment, and rollout\nHands-on experience with enterprise networking (switching, Wi-Fi, firewalls, ISP circuits) and with conference room and video conferencing systems\nComfort supporting senior executives: polished, discreet, and calm under pressure, with the ability to build trust quickly\nExperience with identity governance and access lifecycle automation (for example Okta Identity Governance, group rules, access certifications)\nExperience with zero trust networking (for example Cloudflare Zero Trust) and endpoint de"
+},
 {
 "title": "Full Stack Software Engineer, Dots for Companies",
 "company": "OpenAI",
@@ -501,7 +532,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192582&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192582%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D97c793c6-e21d-11f1-ab5f-29fe8fd450c8%26rx_job%3DR-0000192582%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T200406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192582&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192582%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D97c793c6-e21d-11f1-ab5f-29fe8fd450c8%26rx_job%3DR-0000192582%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T220406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Ticketing (ServiceNow, Jira)",
 "Help desk / troubleshooting",
@@ -4727,6 +4758,208 @@
 "source": "Salesforce careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Strategic Pricing Analyst - Term",
+"company": "The North West Company",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=35f7159380626a81",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.northwest.ca/careers/100898-North-West-Company-Corporate/jobs/16874013-Strategic-Pricing-Analyst--Term/",
+"skills": [
+"SQL",
+"Excel"
+],
+"req": "Desired Skills & Experience: Bachelor’s degree in Commerce, Data Science, Economics, or a College Business Administration diploma combined with 2+ years of relevant experience  Experience in analytica"
+},
+{
+"title": "Service Desk Technician",
+"company": "ROYAL COLLEGE OF DENTAL SURGEONS OF ONTARIO",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=98cc057ead0cff85",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.dayforcehcm.com/en-US/rcdso/CANDIDATEPORTAL/jobs/769",
+"salary": "$60,339 to $67,949.56",
+"skills": [
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"ITIL"
+],
+"req": "The Royal College of Dental Surgeons of Ontario (RCDSO) is a leader in health care regulation. As the governing body for more than 12,000 dentists in Ontario, our mission is to act in the public inter\nExperience with desktop and server operating systems, including Windows 11, Server 2016+, Mac OS 11+, etc."
+},
+{
+"title": "Technical Support Elite Specialist",
+"company": "Motorola Solutions",
+"location": "BC, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=df90df776ec3ae27",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/British-Columbia-Remote-Work/Technical-Support-Elite-Specialist_R70352",
+"salary": "$60,000-$70,000",
+"skills": [
+"PowerShell",
+"Unity",
+"Networking (TCP/IP, DNS)",
+"Firewalls",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"CCNA"
+],
+"req": "Company Overview -------------------- At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep peopl\nMaintain accurate, detailed records of customer interactions and resolutions while advocating for product enhancements that elevate the customer experience.\nParticipate in an occasional weekend on-call rotation (Friday to Sunday) and flexible shifts to support continuous customer operations. Basic Requirements (Must-Haves)  High School Diploma.\nProven foundational experience in access control systems and IT technical support environments.\nIP Networking expertise (including TCP/IP , UDP , RTP , IGMP , multicasting, routers, firewalls, and wireless technologies) to diagnose connectivity issues.\nDell iDRAC and HP iLO navigation skills to access and manage remote server operating systems. Preferred Qualifications (Nice-to-Haves)  Bachelor’s Degree or Diploma/Certificate in Computer Science, En\nSolid experience working in a technical support contact center environment utilizing the Knowledge-Centered Service (KCS) methodology.\nPrior internal Motorola Solutions experience and familiarity with system integrations."
+},
+{
+"title": "Quality Engineer - Automation and Manual Tester",
+"company": "InEight",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=f720ea863b9c9cda",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://career4.successfactors.com/career?career_ns=job_listing&company=InEight&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=11362&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/New_York&_s.crb=qldMz8D8aYL5NjbjQtJx%2b09wAReYCYwn4aXs2fkA4KI%3d",
+"skills": [
+"SQL",
+"REST APIs",
+"Azure",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Postman"
+]
+},
+{
+"title": "IT Intern (Boston)",
+"company": "Focus Technology Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=5bacef7c93d9e6c9",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://focustsi.isolvedhire.com/jobs/1907259-165208.html",
+"skills": [
+"Azure",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"CompTIA Network+"
+],
+"req": "Are you passionate about technology and eager to gain hands-on experience in the IT industry? We're looking for a motivated and enthusiastic IT Intern to join our team! This is a great opportunity to "
+},
+{
+"title": "Compliance & Monitoring Analyst",
+"company": "BDO",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=2e2fb97f3c263a3b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/14795",
+"salary": "$62,000 - $70,000 USD per year",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Functional Analyst I (Remote)",
+"company": "CareFirst BlueCross BlueShield",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=8b1584aa7c4f7aeb",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://carefirstcareers.ttcportals.com/jobs/18466406-functional-analyst-i-remote?tm_job=22770-1A&tm_event=view&tm_company=2380",
+"salary": "$47,448 - $94,237 USD per year",
+"req": "Resp & Qualifications PURPOSE: Provides Operations Support by obtaining facts; analyzing problems; designing solutions; developing testing methods; conducting and documenting tests; providing operatin\nImproves operations analysis job knowledge by attending training sessions; reading technical publications. QUALIFICATIONS: Education Level: Bachelor's Degree in Business Administration OR in lieu of a"
+},
+{
+"title": "Data Analyst-Training",
+"company": "TriWest Healthcare Alliance",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=0d5b5075aedf6831",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://recruiter.triwest.com/psc/hrprdcg/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=31588&PostingSeq=1",
+"salary": "$73,000 - $77,000 USD per year",
+"skills": [
+"SQL",
+"Databricks",
+"Power BI",
+"Excel",
+"Azure",
+"Agile / Scrum",
+"Jira"
+]
+},
+{
+"title": "IT, Application Support Analyst",
+"company": "Castle Biosciences, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=9acd147ce41cdac7",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.applicantpro.com/openings/castlebiosciences/jobs/4279682-463098",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Jira"
+]
+},
+{
+"title": "Business Systems Analyst",
+"company": "TotalMed",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=f98550cc8360b605",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://recruiting.ultipro.com/TRA1015TNAA/JobBoard/2c7b9b40-f63f-4f66-9e04-20b2476fb5a4/OpportunityDetail?opportunityId=b8796be8-f258-460b-b498-fbfbecbd4cca&postingId=acd20714-c1bb-4625-9b13-68840d595945",
+"salary": "$75,000 – $85,000k per year",
+"skills": [
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Confers with technical experts on proposed solutions to confirm work effort and schedule.\nWe Lead with Care: We put people first. We build meaningful relationships. We improve lives through empathy, respect, and service. Other duties as assigned What we're looking for  Bachelor’s degree in\n2+ years application support and systems experience.\n1+ years’ experience with Salesforce product suite (Salescloud, communities) preferred  Motivated learner with a high aptitude for problem-solving, IT and software configuration  Strong critical think"
+},
+{
+"title": "Clinical Support Speciali",
+"company": "MedBridge Healthcare LLC",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=f98ab3546c9d6b76",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1bdc08d4-2284-4f8c-bd55-0d62ff1a8bfd&ccId=19000101_000001&jobId=563466&source=IN&lang=en_US",
+"salary": "$30 - $35 USD per hour",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Clinical Support Specialist (Sleep Medicine) - Remote ========================================================== Schedule: Wednesday-Friday, 7:00 PM-7:00 AM EST + Monthly Saturday Rotation Employment "
 },
 {
 "title": "Enterprise Solution Engineer - South East",
@@ -14513,7 +14746,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619171&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18488049-tier-1-soc-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Da2fca8d5-e260-11f1-b391-b9c81195fa2a%26rx_job%3D2619171%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T200403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619171",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619171&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18488049-tier-1-soc-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Da2fca8d5-e260-11f1-b391-b9c81195fa2a%26rx_job%3D2619171%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619171",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "LLMs / GenAI",
@@ -15621,6 +15854,96 @@
 "location": "Edmonton, Alberta, Canada",
 "posted": "2026-11-16",
 "link": "https://www.linkedin.com/jobs/view/4490931526",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "(Canada) Deal Desk Analyst",
+"company": "PointClickCare",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490902222",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "2027 Graduate Program - Human Resources",
+"company": "Bell",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4467401510",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Associate / Entry-Level IT",
+"company": "HCLTech",
+"location": "",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490937523",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Service Rep – Remote (Bilingual: French/ English)",
+"company": "Concentrix",
+"location": "(remote)",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4491508695",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "BrainRidge Consulting",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4491501904",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AWS Engineer",
+"company": "SMARTFOX",
+"location": "",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490946250",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Container (Kubernetes) Security Engineer",
+"company": "Diverse Lynx",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490944068",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Tech Support",
+"company": "Insight Global",
+"location": "Whitby, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490932691",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Service Representative (On-Site)",
+"company": "Concentrix",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4491521174",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18215,7 +18538,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695222-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695222-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D815c7f5e-e21e-11f1-a936-43109fe30734%26rx_job%3D200695222-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T200407Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695222-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695222-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D815c7f5e-e21e-11f1-a936-43109fe30734%26rx_job%3D200695222-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T220408Z%26rx_vp%3Dcpc",
 "salary": "$119,100",
 "skills": [
 "Swift",
