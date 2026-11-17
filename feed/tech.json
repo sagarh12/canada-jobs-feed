@@ -1,6 +1,48 @@
 {
-"updated": "2026-11-17T18:59:55+00:00",
+"updated": "2026-11-17T19:09:47+00:00",
 "jobs": [
+{
+"title": "Product Security Engineer",
+"company": "Hex",
+"location": "Remote · United States",
+"posted": "2026-11-17T18:59:56.248+00:00",
+"link": "https://jobs.ashbyhq.com/hex/ec7b16d7-3385-4675-9b75-86f38616a09b",
+"source": "Hex careers",
+"country": "US",
+"years": 5,
+"salary": "$100",
+"quals": [
+"Significant experience in product or application security, typically 5+ years, or equivalent experience delivering security improvements in ",
+"Strong application security fundamentals, including authentication, authorization, tenant isolation, injection vulnerabilities, and web and ",
+"Hands-on software engineering ability. You’re comfortable reading unfamiliar code, writing tools and tests, and contributing production fixe",
+"Practical experience using AI coding tools or agents in engineering or security work. You can explain workflows you’ve built, how you verifi"
+],
+"skills": [
+"Python",
+"JavaScript",
+"TypeScript",
+"React",
+"GraphQL",
+"REST APIs",
+"LLMs / GenAI",
+"Snowflake",
+"PostgreSQL",
+"Redis",
+"AWS",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"SIEM",
+"Vulnerability management",
+"Penetration testing",
+"IAM",
+"Cloud security",
+"Figma",
+"SDLC",
+"AWS certification"
+],
+"req": "We’re looking for a Senior Product Security Engineer to help Hex ship secure products at the pace we’re building. You’ll partner closely with product and engineering teams to expand security coverage \nSignificant experience in product or application security, typically 5+ years, or equivalent experience delivering security improvements in production software.\nHands-on software engineering ability. You’re comfortable reading unfamiliar code, writing tools and tests, and contributing production fixes. Experience with TypeScript, JavaScript, or Python is espe\nPractical experience using AI coding tools or agents in engineering or security work. You can explain workflows you’ve built, how you verified their results, and where they failed.\nExperience integrating security into developer workflows and delivery pipelines, with attention to finding quality, developer effort, and adoption.\nExperience securing LLM applications, agent workflows, or systems that execute user-provided code.\nExperience with multi-tenant SaaS, data platforms, developer tools, or complex authorization models.\nExperience building security analysis tooling, evaluating AI-assisted vulnerability discovery, or turning penetration test and vulnerability disclosure findings into lasting engineering improvements.\n5+ years of experience in cloud security engineering, with extensive expertise in AWS.\nExpert-level knowledge and hands-on experience with Terraform."
+},
 {
 "title": "Software Engineer, Backend, AI Ventures",
 "company": "Ramp",
@@ -2153,7 +2195,7 @@
 "Testing (unit, automated)",
 "Salesforce"
 ],
-"req": "You Have  5+ years of experience in systems engineering, data engineering, or hands-on business-systems development.\nHands-on engineering experience with sales commission systems, including implementing calculation logic, crediting rules, adjustments, and payment workflows.\nExpert-level SQL, including owning design, development, and documentation, and the ability to navigate new datasets and answer complex questions independently.\nExperience designing data models and reliable pipelines, including handling historical changes, reprocessing, and reconciliation.\nAdvanced Excel proficiency (complex formulas, pivot tables) and experience with reconciliation tooling and payments.\nExperience integrating business systems through APIs, files, or other interfaces.\nExcellent communication skills: able to own stakeholder relationships, present findings and recommendations, and drive clear next steps in areas without clear ownership. Bonus  Experience extending or\nTechnologies We Use and Teach  Pigment for ICM/quota issuance, Salesforce as the system of record & end user UI in Looker. We're working to build a more inclusive economy where our customers have equa"
+"req": "You Have  5+ years of experience in systems engineering, data engineering, or hands-on business-systems development.\nHands-on engineering experience with sales commission systems, including implementing calculation logic, crediting rules, adjustments, and payment workflows.\nExpert-level SQL, including owning design, development, and documentation, and the ability to navigate new datasets and answer complex questions independently.\nExperience designing data models and reliable pipelines, including handling historical changes, reprocessing, and reconciliation.\nAdvanced Excel proficiency (complex formulas, pivot tables) and experience with reconciliation tooling and payments.\nExperience integrating business systems through APIs, files, or other interfaces.\nExcellent communication skills: able to own stakeholder relationships, present findings and recommendations, and drive clear next steps in areas without clear ownership. Nice to Have  Experience exten\nTechnologies We Use and Teach  Pigment for ICM/quota issuance, Salesforce as the system of record & end user UI in Looker. We're working to build a more inclusive economy where our customers have equa"
 },
 {
 "title": "Fire Protection Engineer - Data Centers",
@@ -3022,6 +3064,241 @@
 "Agile / Scrum"
 ],
 "req": "NOTE:  Send your resume to recruiting@coventek.com  Local to DesMoines, IA(Remote)  Must be available for the dates [November 23, 24] Short Description: We require a specialized full-stack developer t"
+},
+{
+"title": "SAP Developer",
+"company": "Arvato SE",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=effa5c2190b6a77c",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobsearch.createyourowncareer.com/job-invite/2v4KETLnUKRdhZnBuLke2g5V0SWE7ulSbkbxWcdlMfip/?locale=en_US",
+"skills": [
+"SQL",
+"Help desk / troubleshooting",
+"SAP",
+"ITIL"
+],
+"req": "We’re looking for an SAP Developer to work closely with technical peers, internal business contacts and external clients to develop, design and continuously improve ERP backbone to successful business\nExperienced in setting up end-to-end SCM processes in the MM/SD/LES/PP/WM/IM area.\nEmployee engagement activities. Disclosure requirements pertaining to the collection of your personal data: Responsible for processing the information provided in your application is the company speci\nBachelor's degree in computer science or closely related field preferred; equivalent experience will be considered  5+ years of SAP support/implementation experience required  3+ of ABAP and debugging"
+},
+{
+"title": "IT Analyst - Business Analyst",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=feaabf58ed78a79f",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56449&tz=GMT-06%3A00&tzname=America%2FChicago",
+"salary": "$51.18 - $65.31",
+"skills": [
+"HTML/CSS",
+"Cybersecurity",
+"Microsoft 365"
+],
+"req": "Job Number ============== : 56449 The Information Technology Division of the Edmonton Police Service (EPS) is seeking one (1) experienced Enterprise Business Analyst to join the Business Technology Tr\nOther duties: Support detailed requirements, testing, implementation or other project activities when assigned, and perform other related duties as required. Qualifications ------------------ : Degree\nOR Post secondary diploma in a related discipline and five (5) years relevant experience in an Information Technology environment including demonstrated ability to lead small to mid-size initiatives. \nOR Certificate in a related discipline and seven (7) years relevant experience in an Information Technology environment including demonstrated ability to lead small to mid-size initiatives. Formal cer\nProven experience applying enterprise business analysis methods to ambiguous or complex technology requests, from intake and discovery through recommendation and transition.\nExperience assessing enterprise-scale applications or initiatives, including commercial off-the-shelf and software-as-a-service solutions, market scans and fit-gap analysis.\nExcellent organizational, interpersonal, verbal and written communication skills, with confidence presenting to senior leaders and governance committees.\nAbility to work effectively independently and within multidisciplinary teams; proficiency with Microsoft 365 applications is required.\nWe are an equal opportunity employer. We welcome diversity "
+},
+{
+"title": "Bookkeeper/Administrative Assistant",
+"company": "MMP Automotive inc",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=e336217473fd51d3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/bookkeeperadministrative-assistant-e336217473fd51d3",
+"salary": "$19.78-$31.11 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Scheduling Systems Administrator",
+"company": "March of Dimes Canada",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=d683d32980408f44",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-CA/modc/CANDIDATEPORTAL/jobs/1654",
+"salary": "$21.90 per hour",
+"skills": [
+"HTML/CSS",
+"Hardware setup"
+],
+"req": "Carry the after-hours phone on a rotating on-call schedule to support clients and staff during evenings and weekends. Qualifications:  High school diploma or equivalent.\nScheduling experience is an asset.\nValid driver's licence and reliable transportation preferred. Questions about working at March of Dimes Canada? Whether starting or advancing your career with us, you’ll feel great knowing that you’re"
+},
+{
+"title": "Network administrator",
+"company": "Comox Valley Regional District",
+"location": "Courtenay, British Columbia, Canada",
+"posted": "2026-11-17",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50748565",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Engineer",
+"company": "Proto",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=b2cb55fa4e88ea4c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://proto.careers-page.com/jobs/616db72f-1885-43a2-aa55-6619b408dc60?utm_medium=free_job_board&utm_source=indeed",
+"skills": [
+"Python",
+"TypeScript",
+"React",
+"Node.js",
+"FastAPI",
+"REST APIs",
+"LLMs / GenAI",
+"AWS",
+"Docker",
+"CI/CD",
+"Hardware setup",
+"System design"
+],
+"req": "The role Proto is hiring a Product Engineer to design, build, and scale user-centric features and applications behind our AI agent platform – the products that put AI agents in the hands of government\nMaintain high software standards for reliability, accessibility, security, and maintainability across the entire stack. What you bring ------------------  3+ years of professional experience as a Prod\nProven track record of taking product features from ideation to launch, with a focus on user experience, performance, and scalability.\nStrong data-driven mindset and experience implementing analytics, telemetry, and user feedback loops to improve each product usecase.\nTechnical & Product Capabilities  Experience with relational databases, RESTful APIs, and modern web application architecture.\nUnderstanding of product analytics, usability principles, and design systems. Nice to have ----------------  Experience integrating LLM APIs, prompt engineering, or AI agent frameworks into user workf\nExperience designing for emerging markets or multilingual multi-channel platforms (WhatsApp, SMS, Voice, Web chat). Why Proto ------------- Proto is a Canadian-registered AI communication platform com\nReal-world impact: your code serves citizens, institutions, and businesses in markets where technology makes a daily difference."
+},
+{
+"title": "Firmware Engineer",
+"company": "VIAVI Solutions",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=1fd12fdf953ccfef",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Ottawa-CAN/Firmware-Engineer_260005278-1",
+"skills": [
+"Python",
+"C++",
+"C",
+"Bash/Shell",
+"Docker",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"Git",
+"Linux",
+"Hardware setup",
+"Jira",
+"Embedded systems"
+],
+"req": "Summary: VIAVI (NASDAQ: VIAV) is a global provider of network test, monitoring and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace, and railway. V\nLearning from experience. We review bugs after the fact, asking why it happened, how it escaped, and what would have caught it. The answers feed back into the process, the tests, and the tooling. Job \nWork with experienced engineers through design discussions, pairing, and code review, and give review feedback of your own.\nMentorship from day one. You'll have a defined onboarding path and regular guidance from senior engineers.\nExposure across the stack. You'll get to see embedded Linux, communication protocols, real-time behavior, optical hardware, and release engineering. Qualifications Required  BS or MS in Electrical Eng\nClear written and verbal communication. Nice to haves:  Embedded or hardware experience with USB, PCIe, UART, SPI, or I2C.\nExperience with Git, pull-request workflows, and CI tools (for example Jenkins, Bitbucket Pipelines, or GitHub Actions)."
+},
+{
+"title": "Co-op Student - OMS Project - Capital Projects - (26-077) External Closes Dec 1/26",
+"company": "City of Campbell River",
+"location": "Campbell River, BC, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=5afa65281e808d91",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139734-co-op-student-oms-project-capital-projects-26-077-external-closes-dec-1-26",
+"salary": "$24.97 per hour",
+"req": "Company Description ----------------------- Naturally, Campbell River – Located on Vancouver Island, the City of Campbell River offers a rare combination of a welcoming small-town feel with large-city\nMust possess and maintain a valid Class 5 Drivers License as per City policy.\nMust be currently enrolled in a recognized university or technical college co-op program related to the work (Civil Engineering, Building Technology, Sciences). Additional Information ----------------"
+},
+{
+"title": "SAP Analyst",
+"company": "Arvato SE",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=f95346f042afe5ed",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jobsearch.createyourowncareer.com/job-invite/4C0sMqYBRnsHkxpY3KJ3ql4sjciAgzF6GEiq5QKKADxG/?locale=en_US",
+"skills": [
+"System design",
+"SAP",
+"ITIL"
+],
+"req": "We’re looking for an SAP Support Analyst to primarily be responsible for managing SAP incidents, and to write/manage functional specifications between the user community and the more technical IT comm\nAssist in providing day-to-day support for issues that affect the daily operation of SAP and related interfaces; resolve level 1 support issues in a timely manner and assign complex issues to more sen\nEmployee engagement activities. Disclosure requirements pertaining to the collection of your personal data: Responsible for processing the information provided in your application is the company speci"
+},
+{
+"title": "Workday Analyst - Security & Configuration",
+"company": "Morningstar",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=007d09ef51c0a878",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Toronto/Workday-Analyst---Security---Configuration_REQ-059246-1",
+"salary": "$93,200.00-$136,696.00",
+"skills": [
+"REST APIs",
+"IAM",
+"Help desk / troubleshooting",
+"Jira"
+],
+"req": "About the Team The Corporate Systems - Workday team is responsible for supporting, maintaining, and enhancing Morningstar's Workday platform. We work closely with People & Culture, Payroll, and other \nMaintain technical documentation for Paradox configurations, integrations, and system changes. What we're looking for:  3+ years of hands-on Workday HCM experience, preferably in Workday Security admi\nPractical experience configuring or supporting Workday Security, including security groups, domain policies, Business Process security, and role assignments.\nExperience troubleshooting Workday configuration issues, analyzing root causes, and implementing solutions.\nExperience analyzing requirements, testing configuration changes, and documenting technical solutions.\nAbility to independently handle routine technical activities, collaborate on complex issues, and take ownership of assigned work. Nice to Have  Experience administering Paradox or similar recruitment \nExperience with advanced Workday Security configurations, including intersection and segmented security groups, integration security (ISUs/ISSGs), and security governance.\nExperience with HR system integrations, APIs, SAML, SSO, and identity management solutions such as Okta."
+},
+{
+"title": "Platform Engineer-Kubernetes Operators",
+"company": "EDB",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=0f936175dd13f9e8",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/tp7ttk7y3us",
+"skills": [
+"Go",
+"PostgreSQL",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Linux",
+"Monitoring",
+"IAM",
+"System design"
+],
+"req": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB e\nDocumenting and evangelizing products, features for use by engineers for the development, testing, and packaging of their products  Implementing and maintaining Kubernetes operators  Must be able to i\nDeveloping distributed systems for Kubernetes environments  Technical writing for customer-facing product documentation that is passed to the documentation team, and documentation for internal stakeho\nAbility to present technical explanations to engineering audiences and internal stakeholders in English. What you will bring:  Hands-on experience authoring Kubernetes Operators.\nExpert in Golang (Go).\nDeep Kubernetes experience, both managed (e.g. Cloud) and self-managed (e.g. OpenShift, Rancher)  Container build tooling: Docker, multi-stage and CI image builds.\nHigh-availability and distributed systems. EDB is committed to supporting our employees' overall well being by offering a range of benefits and resources to promote a healthy work-life balance and wel"
+},
+{
+"title": "Business Analyst",
+"company": "Capgemini",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=8773fc1e5a4ca430",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://capgemini.talentnet.community/jobs/67802f57-e392-4df6-aeb6-92c8037bef18",
+"salary": "$23 - $36 USD per hour",
+"skills": [
+"Hardware setup",
+"Data structures & algorithms"
+],
+"req": "The role will provide consulting services to manage client relationships on requirements discovery and solution implementation engagements, provide technical expertise on data analysis, data structure"
+},
+{
+"title": "Power Studies Internship",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=026fb0595ca5e097",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/power-studies-internship-026fb0595ca5e097",
+"salary": "$21 - $23 USD per hour",
+"req": "Organize equipment data and arc-flash label information. Qualifications  Currently pursuing a Bachelor’s degree in Electrical Engineering."
 },
 {
 "title": "Enterprise Solution Engineer - South East",
@@ -7196,7 +7473,7 @@
 "Hardware setup",
 "System design"
 ],
-"req": "Remote Contract (5 months 29 days) Published 20 hours ago Adobe Certifications data visualization Adobe AEP data analysis javaScript adobe analytics project management Stakeholder collaboration sql qu\nResponsible for data stewardship in the Adobe Experience Platform (AEP) Data Lake, ensuring the accuracy, integrity, and quality of the data being ingested and analyzed.\nDevelop journey dashboards, summarize findings, recommend next steps, and continuously improve the customer experience based on data-driven insights.\nWork closely with stakeholders, including marketing, IT, and data teams, to ensure the CJA platform aligns with business objectives. Experience:  3+ years of experience working with Adobe Analytics an\n2+ years of experience in data stewardship within the AEP Data Lake, with a focus on analyzing AA data.\nStrong background in data architecture, analytics, or data engineering with Adobe Experience Cloud products.\nExperience developing dashboards and reports in Adobe Analytics and CJA.\nFamiliarity with developing insights from analytics data and recommending actionable steps. Technical & Soft Skills:  Proficiency in Adobe Customer Journey Analytics, Adobe Experience Platform (AEP), \nExperience with integrating CJA with Adobe Real-time CDP and Adobe Journey Optimizer.\nExperience with API integrations and data flow management.\nAbility to manage multiple projects and deadlines effectively. Preferred Qualifications:  Adobe Certified Expert in Analytics or Customer Journey "
+"req": "Remote Contract (5 months 29 days) Published 1 day ago Adobe Certifications data visualization Adobe AEP data analysis javaScript adobe analytics project management Stakeholder collaboration sql queri\nResponsible for data stewardship in the Adobe Experience Platform (AEP) Data Lake, ensuring the accuracy, integrity, and quality of the data being ingested and analyzed.\nDevelop journey dashboards, summarize findings, recommend next steps, and continuously improve the customer experience based on data-driven insights.\nWork closely with stakeholders, including marketing, IT, and data teams, to ensure the CJA platform aligns with business objectives. Experience:  3+ years of experience working with Adobe Analytics an\n2+ years of experience in data stewardship within the AEP Data Lake, with a focus on analyzing AA data.\nStrong background in data architecture, analytics, or data engineering with Adobe Experience Cloud products.\nExperience developing dashboards and reports in Adobe Analytics and CJA.\nFamiliarity with developing insights from analytics data and recommending actionable steps. Technical & Soft Skills:  Proficiency in Adobe Customer Journey Analytics, Adobe Experience Platform (AEP), \nExperience with integrating CJA with Adobe Real-time CDP and Adobe Journey Optimizer.\nExperience with API integrations and data flow management.\nAbility to manage multiple projects and deadlines effectively. Preferred Qualifications:  Adobe Certified Expert in Analytics or Customer Journey "
 },
 {
 "title": "Business Analyst I",
@@ -9096,7 +9373,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Cybersecurity-Engineer-II_R4457896",
+"apply": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-at-The-Bond-3200-E-Camelback-Rd/Cybersecurity-Engineer-II_R4457896",
 "skills": [
 "Cybersecurity",
 "SIEM",
@@ -13408,6 +13685,76 @@
 "years": null
 },
 {
+"title": "Business Support Specialist",
+"company": "SSA Marine Canada",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490686324",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Revenue Operations Analyst",
+"company": "IMCS Group",
+"location": "Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490687700",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior QA Automation Engineer with Playwright",
+"company": "MethodHub",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490928197",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Winter Co-op 2027 - Product Designer (UX/UI/HCI)",
+"company": "Manulife",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490908337",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual (English / French) Customer Service & Support Specialist I",
+"company": "CooperVision",
+"location": "Richmond Hill, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490924014",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Forward Deployed Engineer",
+"company": "OpsGuru",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4449386643",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevOps Engineer",
+"company": "Techouts",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490934018",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Hamilton & Oakville Offices - Opportunities in Audit - Co-op/Intern Fall 2027 - Wilfrid Laurier University",
 "company": "KPMG",
 "location": "Hamilton, Canada; Oakville, Canada",
@@ -16085,32 +16432,6 @@
 "source": "Celestica careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Strategic Finance Analyst - 15 Month Contract",
-"company": "1Password",
-"location": "Canada",
-"posted": "2026-11-14T19:10:40.250+00:00",
-"link": "https://jobs.ashbyhq.com/1password/6d3acd23-5a6d-4e38-bf5a-bee4d9a3460b",
-"source": "1Password careers",
-"country": "CA",
-"years": 4,
-"salary": "$500",
-"quals": [
-"4+ years of experience in financial planning and analysis (FP&A), strategic finance or business analytics, with a preference for SaaS or sub",
-"Experience owning operating expense and headcount forecasts against budget, including program spend and vendor costs, with a preference for ",
-"Experience running a monthly close, forecast and variance cycle, including reconciling actuals and writing variance commentary for an execut",
-"A track record of using AI tools and automation to improve a finance process, such as automating a recurring report, drafting variance comme"
-],
-"skills": [
-"Machine learning",
-"NLP",
-"Excel",
-"Oracle",
-"Cybersecurity",
-"Salesforce"
-],
-"req": "At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic\n4+ years of experience in financial planning and analysis (FP&A), strategic finance or business analytics, with a preference for SaaS or subscription technology companies\nExperience owning operating expense and headcount forecasts against budget, including program spend and vendor costs, with a preference for marketing\nExperience running a monthly close, forecast and variance cycle, including reconciling actuals and writing variance commentary for an executive audience\nExperience building AI agents or automated workflows for a finance team\nExperience with NetSuite, Anaplan, ChartHop, Salesforce or Hex\nExperience with marketing spend analytics such as cost per pipeline, CAC and payback\nAt 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.\nYou’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is not for everyone https://blog.1password.com/in\n1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individu\nRemote work is a part of our DNA. Giv"
 }
 ]
 }
