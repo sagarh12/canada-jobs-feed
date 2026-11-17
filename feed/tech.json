@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T19:49:48+00:00",
+"updated": "2026-11-17T19:59:46+00:00",
 "jobs": [
 {
 "title": "Product Security Engineer",
@@ -32,16 +32,12 @@
 "Kubernetes",
 "Terraform",
 "CI/CD",
-"SIEM",
 "Vulnerability management",
 "Penetration testing",
-"IAM",
-"Cloud security",
 "Figma",
-"SDLC",
-"AWS certification"
+"SDLC"
 ],
-"req": "We’re looking for a Senior Product Security Engineer to help Hex ship secure products at the pace we’re building. You’ll partner closely with product and engineering teams to expand security coverage \nSignificant experience in product or application security, typically 5+ years, or equivalent experience delivering security improvements in production software.\nHands-on software engineering ability. You’re comfortable reading unfamiliar code, writing tools and tests, and contributing production fixes. Experience with TypeScript, JavaScript, or Python is espe\nPractical experience using AI coding tools or agents in engineering or security work. You can explain workflows you’ve built, how you verified their results, and where they failed.\nExperience integrating security into developer workflows and delivery pipelines, with attention to finding quality, developer effort, and adoption.\nExperience securing LLM applications, agent workflows, or systems that execute user-provided code.\nExperience with multi-tenant SaaS, data platforms, developer tools, or complex authorization models.\nExperience building security analysis tooling, evaluating AI-assisted vulnerability discovery, or turning penetration test and vulnerability disclosure findings into lasting engineering improvements.\n5+ years of experience in cloud security engineering, with extensive expertise in AWS.\nExpert-level knowledge and hands-on experience with Terraform."
+"req": "We’re looking for a Senior Product Security Engineer to help Hex ship secure products at the pace we’re building. You’ll partner closely with product and engineering teams to expand security coverage \nSignificant experience in product or application security, typically 5+ years, or equivalent experience delivering security improvements in production software.\nHands-on software engineering ability. You’re comfortable reading unfamiliar code, writing tools and tests, and contributing production fixes. Experience with TypeScript, JavaScript, or Python is espe\nPractical experience using AI coding tools or agents in engineering or security work. You can explain workflows you’ve built, how you verified their results, and where they failed.\nExperience integrating security into developer workflows and delivery pipelines, with attention to finding quality, developer effort, and adoption.\nExperience securing LLM applications, agent workflows, or systems that execute user-provided code.\nExperience with multi-tenant SaaS, data platforms, developer tools, or complex authorization models.\nExperience building security analysis tooling, evaluating AI-assisted vulnerability discovery, or turning penetration test and vulnerability disclosure findings into lasting engineering improvements."
 },
 {
 "title": "Software Engineer, Backend, AI Ventures",
