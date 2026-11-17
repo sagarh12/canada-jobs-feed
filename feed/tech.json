@@ -1,6 +1,53 @@
 {
-"updated": "2026-11-17T20:19:51+00:00",
+"updated": "2026-11-17T20:29:45+00:00",
 "jobs": [
+{
+"title": "ML Engineer, Marketplace",
+"company": "Lyft",
+"location": "Toronto, Canada",
+"posted": "2026-11-17T15:25:50-05:00",
+"link": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
+"source": "Lyft careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Detection and Response Engineer",
+"company": "Hex",
+"location": "Remote · United States",
+"posted": "2026-11-17T20:23:04.531+00:00",
+"link": "https://jobs.ashbyhq.com/hex/59282b6c-07e9-4cc4-a81e-62cd98a8a1e8",
+"source": "Hex careers",
+"country": "US",
+"years": 5,
+"salary": "$100",
+"quals": [
+"You have 5+ years of experience in detection engineering, incident response, security engineering, or a closely related discipline, with mea",
+"You have hands-on experience building with LLMs, AI agents, or AI-assisted automation. You can take a promising idea through implementation ",
+"You’re a strong programmer, comfortable using Python or a similar language, SQL, APIs, version control, and automated testing to build maint",
+"You understand kill chains and how attackers move through cloud environments, identity systems, endpoints, and SaaS applications. You can id"
+],
+"skills": [
+"Python",
+"TypeScript",
+"SQL",
+"React",
+"GraphQL",
+"REST APIs",
+"LLMs / GenAI",
+"Snowflake",
+"PostgreSQL",
+"Redis",
+"AWS",
+"Kubernetes",
+"Terraform",
+"Incident response",
+"Threat intelligence",
+"Testing (unit, automated)",
+"Figma"
+],
+"req": "We’re hiring a Senior Detection & Response Engineer to strengthen Hex’s ability to detect, investigate, and respond to attacks. You’ll own critical parts of our detection and response program, includi\nYou have 5+ years of experience in detection engineering, incident response, security engineering, or a closely related discipline, with meaningful ownership of production security capabilities.\nYou have hands-on experience building with LLMs, AI agents, or AI-assisted automation. You can take a promising idea through implementation and evaluation, explain its limitations, and improve it base"
+},
 {
 "title": "Product Security Engineer",
 "company": "Hex",
