@@ -1,6 +1,31 @@
 {
-"updated": "2026-11-18T21:29:48+00:00",
+"updated": "2026-11-18T21:40:09+00:00",
 "jobs": [
+{
+"title": "Research Engineer, Agentic Systems",
+"company": "Ramp",
+"location": "Remote · United States",
+"posted": "2026-11-18T21:30:13.928+00:00",
+"link": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
+"source": "Ramp careers",
+"country": "US",
+"years": null,
+"salary": "$275",
+"quals": [
+"Experience building applied AI systems and LLM applications that shipped",
+"Hands-on experience with multi-agent or high-fan-out LLM workloads: parallel agents, map-reduce over models, large batch inference",
+"Strong engineering in Python; you build concurrent, distributed systems that hold up in production",
+"Judgment about output: you decide what the end result should look like before you scale the swarm, and you can separate signal from agent no"
+],
+"skills": [
+"Python",
+"LLMs / GenAI",
+"Networking (TCP/IP, DNS)",
+"System design",
+"Embedded systems"
+],
+"req": "The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nExperience building applied AI systems and LLM applications that shipped\nHands-on experience with multi-agent or high-fan-out LLM workloads: parallel agents, map-reduce over models, large batch inference\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
+},
 {
 "title": "Corporate Finance & Systems",
 "company": "Hex",
@@ -22,31 +47,6 @@
 "Figma"
 ],
 "req": "This is a hands-on senior IC reporting to the Head of Finance. We’re looking for a builder who can design the systems behind headcount planning and procurement, so they run on clear workflows rather t\nLead long range planning. Build 2-3 year scenarios with GTM and Product & R&D Finance that show the long term impact of our investment decisions, using benchmarks to guide them."
-},
-{
-"title": "Research Engineer, Agentic Systems",
-"company": "Ramp",
-"location": "Remote · United States",
-"posted": "2026-11-18T21:20:29.719+00:00",
-"link": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
-"source": "Ramp careers",
-"country": "US",
-"years": null,
-"salary": "$275",
-"quals": [
-"Experience building applied AI systems and LLM applications that shipped",
-"Hands-on experience with multi-agent or high-fan-out LLM workloads: parallel agents, map-reduce over models, large batch inference",
-"Strong engineering in Python; you build concurrent, distributed systems that hold up in production",
-"Judgment about output: you decide what the end result should look like before you scale the swarm, and you can separate signal from agent no"
-],
-"skills": [
-"Python",
-"LLMs / GenAI",
-"Networking (TCP/IP, DNS)",
-"System design",
-"Embedded systems"
-],
-"req": "The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nExperience building applied AI systems and LLM applications that shipped\nHands-on experience with multi-agent or high-fan-out LLM workloads: parallel agents, map-reduce over models, large batch inference\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
 },
 {
 "title": "Research Intern - Model Foundations for Knowledge & Reasoning - Microsoft Research",
@@ -942,7 +942,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://www.muvi.com/career/job-listings//html-developer-20261118095855/",
+"apply": "https://www.muvi.com/career/job-listings/development/html-developer-20261118095855/",
 "skills": [
 "JavaScript",
 "HTML/CSS",
@@ -3954,6 +3954,347 @@
 "years": null
 },
 {
+"title": "Full Stack Software Developer",
+"company": "YuJa",
+"location": "North York, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=d8c611345f59dc34",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://yuja.bamboohr.com/careers/539?source=indeed&src=indeed&postedDate=2026-11-18",
+"salary": "$90k to $100k",
+"skills": [
+"Java",
+"C++",
+"MySQL",
+"Linux",
+"Windows",
+"Mobile (iOS / Android)"
+],
+"req": "About Us YuJa, Inc. is a leading provider of cloud-based digital compliance and accessibility solutions for regulated sectors worldwide. Serving clients in higher education, K-12, government, and heal\nYou have programming experience with Java (J2EE), Enterprise Java Beans (EJBs), Java Server Pages (JSP), Java Servlets, JDBC, Eclipse and JBoss web server.\nYou enjoy building and designing distributed software systems including experience with network protocols – HTTP, HTTPS, and TCP-IP.\nYou are experienced working with both Windows Server and Linux-based server systems.\nYou have some foundational MySQL database experience including Java connectivity through JDBC.\nYou bring strong academic performance to the role with at least 80%+ overall in relevant computer science/engineering coursework. Educational Requirements Bachelors’ Degree in Computer Science / Compu"
+},
+{
+"title": "45Drives Software Developer",
+"company": "",
+"location": "Kitchener, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=cb1eb88d535cc531",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://protocase.bamboohr.com/careers/459?source=indeed&src=indeed&postedDate=2026-11-18",
+"salary": "$105,000-$135,000 CAD",
+"skills": [
+"Python",
+"JavaScript",
+"Rust",
+"Bash/Shell",
+"React",
+"Vue",
+"Linux",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Position Title: Software Developer Department: Research & Development Company: 45Drives Ltd. Location: Waterloo, Ontario, Canada Work Arrangement: On-site Employment Type: Permanent, Full-Time (40 hou\nIdentify opportunities to improve software functionality, usability, and customer experience.\nContribute to ongoing product innovation and continuous improvement. What You Need (Required Qualifications) Education  Bachelor's degree in Computer Science, Software Engineering, or equivalent exper\nAbility to communicate technical concepts clearly and effectively. Certifications / Licenses  No specific certifications or licenses have been identified as required. Other Requirements  Ability to wo\nCommitment to seeing projects through from concept to successful customer delivery. What Would Be Considered an Asset (Nice-to-Have Qualifications) The following qualifications are not required, but w\nExperience with JavaScript.\nExperience with front-end frameworks such as React and Vue.\nExperience with Bash and Python scripting.\nKnowledge of or experience with Rust.\nExperience with front-end or full-stack software development.\nExperience integrating software and hardware solutions.\n️Comprehensive Health Care Plan & Company RRSP: Medical, Dental, Life Insurance, Group Insurance, and a Company RRSP after six months of full-time employment. ️Vacation: Start with two weeks of paid v"
+},
+{
+"title": "Data Centre Analyst",
+"company": "Sunlife",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=6b1a42fe57997df0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Brampton-Ontario/Data-Centre-Analyst_JR00129811",
+"start": "immediately",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues - experts in their fi\nCoordinate vendor pickups and deliveries, including scheduling, onsite escorts, loading-dock access, and building security requirements. Assist senior technicians with complex installations and provid\nWhat do you need to succeed? --------------------------------  A university degree or college diploma in information technology, computer systems, electronics, or a related discipline, or equivalent t\nAbility to safely lift equipment weighing up to 40 pounds and work on ladders or at heights. A valid driver’s licence and the ability to travel between the Brampton Data Centre, Waterloo Data Centre, \nReliability Status Clearance -------------------------------- This role requires Reliability Status Clearance. In addition to a law enforcement inquiry and a credit check, as part of your application,"
+},
+{
+"title": "Desktop Support Technician - Fixed-Term",
+"company": "H2Safety Services",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=f4b3ecfbe0a4226b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://h2safety.bamboohr.com/careers/134?source=indeed&src=indeed&postedDate=2026-11-18",
+"skills": [
+"Excel",
+"Azure",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Grow Your Career with Us! Celebrating our 22nd anniversary this year, H2Safety Services Inc. is Canada’s largest provider of emergency response management services and solutions. Our team of industry-\nServe as the first point of contact for staff regarding office access issues, including troubleshooting and reporting lost fobs. Vendors, Purchasing & Inventory  Assist with IT purchasing requests:  L"
+},
+{
+"title": "IT Field Analyst I",
+"company": "VC3",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=ba6efe2e367e1202",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.vc3.com/postings/8e7a2ace-f659-4b2f-abd9-4850fa45b7b1?utm_medium=job_board&utm_source=indeed",
+"skills": [
+"Azure",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Azure certification"
+],
+"req": "Description The Field Analyst I is responsible for providing mid-level technical assistance and support to VC3 clients. This support is primarily performed at client sites when issues require a physic\nKey Responsibilities  Understand and follow “The VC3 Way”. This is our set of standards and processes that produce a predictable result for the customer. You must be aware of and maintain our standard"
+},
+{
+"title": "Revenue Operations Analyst",
+"company": "Gaming Labs",
+"location": "Moncton, NB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=2b07b0421c270d45",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://bulletproof.bamboohr.com/careers/114?source=indeed&src=indeed&postedDate=2026-11-18",
+"salary": "$1500 per year",
+"skills": [
+"SQL",
+"ETL / data pipelines",
+"Power BI",
+"Excel",
+"Azure",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Use AI, including Microsoft Copilot, to move faster on analysis, reporting and documentation. Other duties as assigned. What You’ll Bring  5+ years in Marketing Ops, Sales Ops or RevOps in a B2B envir\n3+ years of hands-on CRM and marketing automation administration, including integrations, field mapping and workflow automation.\nHands-on experience with Demandbase or a similar ABM/intent platform (6sense, Bombora, etc.).\nExperience with ABM orchestration, including intent data, engagement scoring and multi-channel campaigns.\nExperience with Monday.com.\nExperience leading projects or mentoring others Perks & Benefits - What’s in it for you?"
+},
+{
+"title": "Revenue Operations Analyst",
+"company": "Gaming Labs",
+"location": "Fredericton, NB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=c4432259127993e7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://bulletproof.bamboohr.com/careers/113?source=indeed&src=indeed&postedDate=2026-11-18",
+"salary": "$1500 per year",
+"skills": [
+"SQL",
+"ETL / data pipelines",
+"Power BI",
+"Excel",
+"Azure",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Use AI, including Microsoft Copilot, to move faster on analysis, reporting and documentation. Other duties as assigned. What You’ll Bring  5+ years in Marketing Ops, Sales Ops or RevOps in a B2B envir\n3+ years of hands-on CRM and marketing automation administration, including integrations, field mapping and workflow automation.\nHands-on experience with Demandbase or a similar ABM/intent platform (6sense, Bombora, etc.).\nExperience with ABM orchestration, including intent data, engagement scoring and multi-channel campaigns.\nExperience with Monday.com.\nExperience leading projects or mentoring others Perks & Benefits - What’s in it for you?"
+},
+{
+"title": "Project Administrator",
+"company": "J.L. Richards & Associates",
+"location": "Kingston, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=c8911b7a299c286e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/project-administrator-c8911b7a299c286e",
+"salary": "$48,000 to $61,000",
+"req": "Are you a resourceful, clever, and enthusiastic Administrative Assistant with 3+ years of writing and interpersonal experience, and the ability to collaborate in a team-oriented environment?\nAre you willing to take on new challenges and learn new processes? If you scored four for four, JLR has a home for you as a Project Administrator! You’ll be supported by a Platinum Club member of Cana\nMaintaining the reception area, lunchroom, boardrooms, and print rooms, as required.\nAssisting in daily administrative operations, including scheduling meetings, prioritizing tasks, scanning/filing, monitoring action items and assisting other administrative staff as required. Project "
+},
+{
+"title": "Data Migration Specialist (ETL/SSIS, Data Mapping)",
+"company": "FNZ",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=93f709f3ede13e5a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://fnz.wd3.myworkdayjobs.com/en-US/fnz_careers/job/Toronto---Canada/Data-Migration-Specialist--ETL-SSIS--Data-Mapping-_REQ-16767",
+"salary": "$126,000-170,000 per year",
+"skills": [
+"SQL",
+"ETL / data pipelines",
+"SQL Server",
+"Testing (unit, automated)",
+"SDLC"
+]
+},
+{
+"title": "AI Engineer",
+"company": "YuJa",
+"location": "North York, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=23f28a33e73e37a1",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://yuja.bamboohr.com/careers/540?source=indeed&src=indeed&postedDate=2026-11-18",
+"salary": "$90,000 to $100,000",
+"skills": [
+"Python",
+"NumPy",
+"scikit-learn",
+"PyTorch",
+"Machine learning",
+"Deep learning",
+"LLMs / GenAI",
+"Computer vision",
+"LangChain",
+"Vector databases",
+"AWS",
+"Azure",
+"Google Cloud",
+"System design"
+],
+"req": "At YuJa, we are on a mission to equip regulated sector clients with solutions to deliver compliant digital experiences. We integrate AI thoughtfully to support smarter decisions and create more inclus"
+},
+{
+"title": "Program Administrator - OA5 (AESES)",
+"company": "University of Manitoba",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=4325b9ceed7c9041",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://viprecprod.ad.umanitoba.ca/default.aspx?REQ_ID=51729&Language=1",
+"salary": "$26.62 to $36.41 per hour",
+"start": "December 7, 2026",
+"req": "Undergraduate degree and / or Post-secondary education certificate with emphasis on business practices and/or education preferred. EXPERIENCE:  Minimum 4 years’ experience or the equivalent combinatio\nExperience working in a postgraduate medical training setting and experience with U of M policies and procedures.\nExperience scheduling large numbers of students or staff and rotational schedules across multiple program and functional areas with close attention to detail is required.\nExperience working independently with a strong initiative to complete and follow up on tasks is required.\nExperience scheduling large volumes of meetings, other events or interviews at once is required.\nExperience with computer software applications, including but not limited to Microsoft Office, is required.\nExperience in CaRMS, ENTRADA, Accreditation preferred  Financial Experience such as creating a budget, processing invoices and expenses is preferred.\nEducational experience with remediations, probations, appeals are preferred.\nExperience in a university clinical department is preferred.\nAn acceptable equivalent combination of education and experience may be considered. SKILLS AND ABILITIES:  Ability to interact with people from diverse backgrounds in a calm, courteous, and effective \nAbility to exercise tact and discretion, and tactfully navigate situations of conflict is required  Excellent problem-solving skills and take initiative in this regard is required.\nStrong organizational, analytical"
+},
+{
+"title": "CIVIL ENGINEER (STRUCTURAL)",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=7ec169a035495ea2",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893324600",
+"salary": "$101,375 - $131,790 USD per year",
+"skills": [
+"HTML/CSS"
+],
+"req": "Summary ----------- This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the \nYou will ensure that the structural aspects of projects are constructed in accordance with contract plans and specifications. Requirements ----------------  Conditions of employment  Must be a US Citi\nMust be determined suitable for federal employment.\nMust participate in the direct deposit pay program.\nNew employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, \nMales born after 12-31-59 must be registered for Selective Service.\nYou will be required to obtain and maintain a current valid United States driver’s license.\nYou will be required to obtain and maintain an interim and/or final SECRET security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in th\nThis position is covered under the Defense Acquisition Workforce Improvement Act (DAWIA). Certification in the Functional Area and Tier assigned to the position, along with Continuous Learning (CL) po\nThis position is covered under Public Law 114-264, the Program Management Improvement Accountability Act (PMIAA): (2) Project Manager  You will be required to complete training, obtain, and maintain a\nThis position may require trav"
+},
+{
+"title": "Technical Support Technician",
+"company": "Peraton",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=96ef15316a558b7b",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.careers.peraton.com/jobs/technical-support-technician-undefined-undefined-173882-jobs--customer-service--",
+"salary": "$86,000 - $138,000 USD per year",
+"skills": [
+"Monitoring",
+"Incident response",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "About The Role The Technical Support Technician implements policies and procedures regarding how problems are identified, received, documented, distributed, and corrected. Ensures maximum issue resolu\nFoundational mainframe knowledge (zOS, CICS, PSPF/TSO, JCL, FTP/Mainframe interactions)  Understanding of data center operations, incident management, basic networking concepts, troubleshooting method\nU.S. Citizenshp  Ability to obtain Public Trust clearance  Minimum of 8 years with BS/BA; Minimum of 6 years with MS/MA; Minimum of 3 years with PhD  Experience working zOS mainframe skills, with the \nWorking knowledge of JCL, TSO, batch processing, job troubleshooting, change management Preferred Qualifications  Knowledge of z/OS security compliance, including DISA STIG and FISMA controls.\nExperience participating in security compliance audits, discussing policy, presenting evidence, and researching non-compliance."
+},
+{
+"title": "Revenue Operations Analyst",
+"company": "Gaming Labs",
+"location": "Beechville, NS, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=1c9bf20f5094a55a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://bulletproof.bamboohr.com/careers/115?source=indeed&src=indeed&postedDate=2026-11-18",
+"salary": "$1500 per year",
+"skills": [
+"SQL",
+"ETL / data pipelines",
+"Power BI",
+"Excel",
+"Azure",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Use AI, including Microsoft Copilot, to move faster on analysis, reporting and documentation. Other duties as assigned. What You’ll Bring  5+ years in Marketing Ops, Sales Ops or RevOps in a B2B envir\n3+ years of hands-on CRM and marketing automation administration, including integrations, field mapping and workflow automation.\nHands-on experience with Demandbase or a similar ABM/intent platform (6sense, Bombora, etc.).\nExperience with ABM orchestration, including intent data, engagement scoring and multi-channel campaigns.\nExperience with Monday.com.\nExperience leading projects or mentoring others Perks & Benefits - What’s in it for you?"
+},
+{
+"title": "Power BI Intern",
+"company": "HUB International",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=40306a4632a77e9c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careers.hubinternational.com/us/en/job/R0039471",
+"salary": "$22/hr",
+"skills": [
+"SQL",
+"Power BI",
+"Excel",
+"Data visualization",
+"Azure",
+"Git",
+"Agile / Scrum"
+],
+"req": "Connect with Industry Leaders: Build your network and learn from experienced professionals across HUB. Through our Speaker Series and other networking opportunities, you’ll gain exposure to leaders, f\nMeaningful, Hands-On Experience: Make an impact from day one by contributing to real business priorities and projects. Bring your ideas, collaborate with your team, and gain practical experience that \nMentorship & Support: Learn alongside experienced professionals who will provide guidance, share their expertise, and help you navigate both your internship experience and the insurance industry.\nExperiences Beyond the Office: Your internship is about more than your day-to-day role. Participate in volunteer initiatives, social activities, networking opportunities, and local experiences designe\nMake an Impact in Your Community: Collaborate with fellow interns on a local service initiative that gives back to the communities where we live and work. Select projects may also receive a donation t\nScholarship Opportunities: Eligible interns may have the opportunity to apply for a scholarship through the Council of Insurance Agents & Brokers (CIAB), providing an additional opportunity to demonst\nCompetitive pay with comprehensive health benefits, retirement savings matching, and company-paid life and disability plans  Generous paid time off, paid parental leave and a wellbeing program designe"
+},
+{
+"title": "Business Administrator - Corporate Operations & Systems",
+"company": "Benson Cabinetry & Millwork",
+"location": "Saanichton, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=dfe9a5942d304e4d",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/business-administrator-corporate-operations-systems-dfe9a5942d304e4d",
+"salary": "$68,000–$78,000",
+"skills": [
+"Microsoft 365"
+],
+"req": "Serve as a central point of coordination between management, employees, and external partners. Qualifications  Post-secondary education in Business Administration, Operations Management, or a related \n5+ years of experience in business administration, operations, office management, or a similar role.\nExperience managing vendors, contracts, budgets, and business systems."
+},
+{
+"title": "Coord,Student & Graduate Svcs",
+"company": "University of New Mexico",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=90e17693c9c03673",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://unm.csod.com/ux/ats/careersite/18/home/requisition/38526?c=unm",
+"salary": "$22 - $26 USD per hour",
+"skills": [
+"HTML/CSS"
+],
+"req": "Coord,Student & Graduate Svcs ---------------------------------- Requisition ID req38526 Working Title Coord,Student & Graduate Svcs Position Grade 12 Position Summary The UNM Department of Anthropolo\nThe ability to work collaboratively with faculty, staff and students.\nExperience with organizing special programs, events, and/or conferences."
+},
+{
 "title": "Business Analyst",
 "company": "OpenText",
 "location": "Waterloo, Ontario, CAN",
@@ -4130,6 +4471,16 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 1
+},
+{
+"title": "Lending Analyst Automotive Finance - Permanent and Casual Roles",
+"company": "Scotiabank",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-18T00:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Hamilton-Lending-Analyst-Automotive-Finance-Permanent-and-Casual-Roles-ON/608173617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "International People Ops Analyst, Benefits",
@@ -11620,7 +11971,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://masv.bamboohr.com/careers/91?source=indeed&src=indeed&postedDate=2026-11-17",
+"apply": "https://masv.bamboohr.com/careers/91?source=indeed&src=indeed&postedDate=2026-11-18",
 "salary": "$70K-$95K CAD",
 "skills": [
 "JavaScript",
@@ -11775,7 +12126,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://evconstruction.bamboohr.com/careers/49?source=indeed&src=indeed&postedDate=2026-11-17",
+"apply": "https://evconstruction.bamboohr.com/careers/49?source=indeed&src=indeed&postedDate=2026-11-18",
 "skills": [
 "Excel"
 ],
@@ -14765,6 +15116,66 @@
 "location": "Orillia, Ontario, Canada",
 "posted": "2026-11-17",
 "link": "https://www.linkedin.com/jobs/view/4491421716",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Care Representative",
+"company": "ZayZoon",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4491712700",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supply Chain Analyst, Supply Chain Management",
+"company": "University of Calgary",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4488442666",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "QA Analyst",
+"company": "BIS Safety Software",
+"location": "Sherwood Park, Alberta, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4480550955",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "Empire Life",
+"location": "",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4469056209",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Azure Server Admin with VMware Virtualization expertise",
+"company": "Apptoza Inc.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4490813357",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AWS Support Engineer – Payment Domain : Toronto ON: FTE",
+"company": "AceStack",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4491426566",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
