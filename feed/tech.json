@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-18T20:29:47+00:00",
+"updated": "2026-11-18T20:39:51+00:00",
 "jobs": [
+{
+"title": "Research Intern - Model Foundations for Knowledge & Reasoning - Microsoft Research",
+"company": "Microsoft",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-18T18:56:11+00:00",
+"link": "https://apply.careers.microsoft.com/careers/job/1970393557075474",
+"source": "Microsoft careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Software Engineer, Agent Identity",
 "company": "OpenAI",
@@ -2939,7 +2949,7 @@
 "SQL",
 "A/B testing"
 ],
-"req": "Write and share findings. Communicate results in a remote-first, asynchronous environment so stakeholders can make data-driven decisionss What We’re Looking For  3–5 years of experience in a product, \nPrior experience in consulting or a similarly business-focused role is a strong plus. Perks and Benefits  Health insurance fully covered by the company."
+"req": "Do you enjoy solving complex business problems where every insight can impact two different groups of users? Homeaglow is seeking a Senior Product Analyst to help optimize one of the largest home serv"
 },
 {
 "title": "Nurse",
@@ -3153,6 +3163,374 @@
 "System design"
 ],
 "req": "Company Description About Syngenta At Syngenta Crop Protection, we're pioneering solutions that safeguard global food security while championing sustainable agriculture. As a world market leader headq\nPrototype workflow automation and internal tools that streamline data capture, quality checks, analysis, reporting, and experiment setup.\nHow cross-functional teams balance model performance, scientific validity, usability, scalability, and responsible deployment. Qualifications Required Qualifications:  Currently pursuing a bachelor’s \nCompleted or currently enrolled in relevant coursework in data science, machine learning, computer vision or image processing, and statistics; associated laboratory or project experience is strongly v\nHands-on experience with Python and practical experience working with data, comprising cleaning, transformation, exploratory analysis, and visualization.\nHands-on experience with image processing or computer vision, such as segmentation, object detection, classification, feature extraction, or measurement from images.\nMinimum 3.0 GPA. Desired Qualifications:  Experience with TensorFlow, PyTorch, OpenCV, scikit-image, or comparable computer-vision and machine-learning libraries.\nExperience with R, SQL, geospatial analysis, remote sensing, or statistical methods such as ANOVA and linear mixed-effects models.\nExperience creating dashboards or data products using tools such as Plotly, Dash, Streamlit, Tableau, Power BI, or comparable technologies."
+},
+{
+"title": "Software Applications Associate Specialist",
+"company": "General Dynamics Land Systems",
+"location": "London, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=1d2d772578541dbb",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://generaldynamics-ca-careers.ttcportals.com/jobs/18494376-software-applications-associate-specialist?tm_job=5716&tm_event=view&tm_company=48367",
+"skills": [
+"Python",
+"Java",
+"C++",
+"C",
+"SQL",
+"Excel",
+"CI/CD",
+"Git",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Agile / Scrum",
+"Jira"
+],
+"req": "Evaluate impact of hardware on software performance, and recommend changes to hardware designers, if required.\nIntegrate developed software into established Continuous Integration / Continuous Deployment (CI/CD) pipelines. Required  University Degree or College Diploma in Computer Science, Computer Engineering"
+},
+{
+"title": "Salesforce Developer",
+"company": "CGI",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=72a9be892622c0cf",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1604&BRID=1350827&sbdid=936",
+"salary": "$85,000–$135,000",
+"skills": [
+"REST APIs",
+"CI/CD",
+"Jenkins",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"SDLC",
+"Salesforce"
+],
+"req": "We are seeking an experienced Salesforce Developer to contribute to the design, development, implementation, integration, testing, and support of Salesforce solutions. This is a hands-on development r\nParticipate in on-call production support activities, as determined by client requirements. Required qualifications to be successful in this role  Minimum of 5 years of hands-on Salesforce development\nBanking domain experience, including experience with Salesforce Financial Services Cloud.\nStrong experience with Salesforce platform development, including:  Apex programming.\nExperience with DevOps and CI/CD tools, including:  Git.\nDemonstrated experience working within an onsite-offshore delivery model."
+},
+{
+"title": "Business Systems Analyst, JD Edwards & ReportsNow",
+"company": "CEMENTATION CANADA",
+"location": "North Bay, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=a02ad8717621387d",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://cementationjobs.applicantpool.com/jobs/1341808-256359.html",
+"salary": "$111,000.00 to $123,400.00",
+"skills": [
+"SQL",
+"REST APIs",
+"Power BI",
+"Oracle",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Data structures & algorithms"
+],
+"req": "Maintain a safe and organized workspace, including when working at Cementation offices and project sites. General Responsibilities:  Act as Cementation's primary functional specialist for JDE, providi\nServe as Cementation's primary internal JDE functional support and escalation resource, providing troubleshooting, user guidance, training and coordination with external technical support providers.\nOther duties as assigned Working Relationships:  Work with Finance, Project Controls, Procurement and other business owners to support JDE project setup, cost code structures, master data standards an\nMay coordinate the work of third-party JDE, ReportsNow or Orchestrator consultants and support providers. Travel Requirements:  This position requires occasional travel to Cementation offices and proj\nSite visits may be required to understand current-state processes, train users and validate implemented changes. QUALIFICATIONS: EducationExperience  Degree or diploma in Information Systems, Computer\nMinimum five (5) years of hands-on Oracle JD Edwards EnterpriseOne experience, including experience as a senior functional analyst or primary JDE subject matter expert in a complex, multi-department b\nDemonstrated expertise in JDE Job Cost, General Ledger, Accounts Payable and Procurement modules, with working knowledge of inventory, equipment and payroll data and their relationships to financial a\nExtensive hands-on experience developing and maintaining complex ReportsNow DAS reports, schedu"
+},
+{
+"title": "Salesforce Business Analyst",
+"company": "CGI",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=16343a70d5850137",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1126-1605&BRID=1350875&sbdid=936",
+"salary": "$85,000–$135,000",
+"skills": [
+"SQL",
+"REST APIs",
+"Excel",
+"Azure",
+"Agile / Scrum",
+"Jira",
+"Salesforce"
+],
+"req": "We are seeking a Senior Business System Analyst (Salesforce) with experience in Salesforce Financial Services Cloud (FSC) to translate business needs into prioritized requirements and Agile backlogs. \nMaintain governance documentation, approvals, and change records. Required qualifications to be successful in this role  5+ years of experience as an IT Business Analyst.\n3+ years of experience on Salesforce projects.\n1–2 years of experience with Salesforce Financial Services Cloud implementations in wealth management, banking, or insurance.\nHands-on Business Analysis experience in Scrum or SAFe Agile teams.\nExperience specifying data mapping, migration, and API integrations, with familiarity using SQL or reporting tools.\nExperience writing test cases and coordinating UAT through business sign-off.\nExperience with Jira or Azure DevOps, Confluence, Visio or Lucidchart, Excel, and Salesforce sandboxes.\nBachelor's degree in Business, Information Systems, Finance, Computer Science, or equivalent experience. Assets Preferred Certifications and Experience  Salesforce Certified Business Analyst, Administ\nExposure to MuleSoft, Experience Cloud, OmniStudio, CRM Analytics, or Agentforce.\nExperience with legacy system data migration and large, regulated, multi-vendor programs."
+},
+{
+"title": "Systems/Network Administrator - Regular, Full-time",
+"company": "City of Kingston",
+"location": "Kingston, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=9d7fd5604f00db7b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://indeed.njoyn.com/cl2/xweb/XWeb.asp?page=jobdetails&clid=61577&JobID=J1026-0252&BRID=383985&sbdid=936",
+"skills": [
+"SQL",
+"Azure",
+"Linux",
+"Cybersecurity",
+"Windows",
+"Microsoft 365",
+"Hardware setup",
+"VMware / virtualization",
+"Azure certification",
+"CCNA",
+"ITIL"
+],
+"req": "The Role As a member of the Technology Infrastructure Services group, the Systems/Network Administrator is responsible for the administration, maintenance, day-to-day operations and security of the in"
+},
+{
+"title": "Administrative Assistant",
+"company": "dundas walk in clinic",
+"location": "London, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=baf42691499741e8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-baf42691499741e8",
+"salary": "$19.78-$31.12 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Receptionist",
+"company": "RESTALL & RESTALL LLP",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=fe4301820e8acd1a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/receptionist-fe4301820e8acd1a",
+"salary": "$19.00 per hour",
+"skills": [
+"Excel",
+"Google Workspace"
+],
+"req": "Job Overview We are seeking a dynamic and friendly Receptionist to be the welcoming face of our organization. In this vital role, you will manage front desk operations, handle incoming calls, and prov\nPerforming general administrative tasks as required."
+},
+{
+"title": "IT Support Specialist",
+"company": "ARAG Legal Solutions Inc",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=af22bd3168f22fa8",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://arag.talentnest.com/en/posting/246302/location/294808?source=indeed",
+"skills": [
+"Azure",
+"Docker",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"NIST / ISO 27001",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"ITIL"
+],
+"req": "IT Support Specialist Reporting to the EUC Services Manager (located in United Kingdom) and also reporting to the Vice President, Operations and Business Management) in Toronto, the IT Support Special\nUtilize good communication skills to communicate with all ARAG staff and internal stakeholders to help them resolve their IT related issues.\nParticipate in one-time and occasional IT projects, such as office relocations, technology refreshes, and workspace deployments, ensuring a seamless experience for employees.\nCommunicate with IT suppliers. Security and Documentation  As ARAG is an owner of both ISO27001 and ISO22301 certifications, all solutions provided to the business must adhere to our policies and proc\nDocument all actions performed as part of the work completed to resolve a support ticket. Learning and Development  Train on Azure platform, and other trainings and workshops, relevant to your discipl"
+},
+{
+"title": "VRF & Ductless Technical Support Representative",
+"company": "Darwinbox",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=b74e946b07b78653",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://rsl.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6aecf88152373",
+"quals": [
+"Demonstrated ability to influence the market at key levels.",
+"Excellent initiative, and interpersonal communication skills.",
+"Provide excellent customer service.",
+"Always represent Refrigerative Supply in a professional manner."
+],
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Job Description RSL’S story: Refrigerative Supply Limited is a family business owned by Alison Hamilton and Linda Gibbs. The business was founded by Peter Gibbs' and Alison Hamilton's parents, Jack an\nParticipate in team meetings, uphold consistent communication, and engage in manufacturer cadence calls to establish and enhance internal communication and collaboration effectively.\nReview recorded Data from contractors with RSL lead tech support staff. Warranty Support  Collect all required data and information on Ductless unit replacement requests working with Warranty Departme\nCollaborate with manufacturers to ensure your product training sessions and certifications are up to date. Competencies and Qualifications  Ability to travel.\nMust have excellent knowledge of Ductless systems design and application.\nMinimum of 5 years of HVAC technical experience.\nJourneyman certificate required or equivalent.\nMust have demonstrated HVAC-related troubleshooting skills."
+},
+{
+"title": "Family Development Coordinator",
+"company": "CFB Suffield Military Family Resource Centre",
+"location": "Ralston, AB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=24b79bffd8057d3f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/family-development-coordinator-24b79bffd8057d3f",
+"salary": "$57,369.00 per year",
+"req": "Coordinate, evaluate, and track programs and services to ensure they continue to meet the needs of our community. What We’re Looking For You’ll be a great fit if you are approachable, organized, creat\nExperience in community programming, family services, child and youth programming, employment or education support, or a related area.\nExperience supporting résumés, cover letters, job searches, interviews, or employment readiness is an asset."
+},
+{
+"title": "Systems Analyst",
+"company": "University of New Brunswick",
+"location": "Fredericton, NB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=547812401e4c0c55",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.careerbeacon.com/details/systems-analyst/2245857?utm_source=University+of+New+Brunswick&utm_medium=widget&utm_campaign=refer&utm_content=2245857&utm_term=jobtitle",
+"salary": "$54,614 - $70,998 / year",
+"skills": [
+"Python",
+"SQL",
+"Bash/Shell",
+"MySQL",
+"Docker",
+"Linux",
+"VMware / virtualization"
+],
+"req": "Provide knowledgeable systems and database consultation internally for ITS and for UNB researchers, faculty and staff.\nParticipate in project teams as an effective team member and complete independent projects successfully and on- time. WHAT YOU BRING  A Bachelor's degree in Computer Science, Information Systems or En\nExperience administering relational database management systems such as MySQL, MS SQL an asset.\nExperience using a scripting language such as Bash or Python is an asset.\nMust be able to work independently or as part of a team.\nOccasional travel required. Share  Look for yourself Photo Gallery -----------------  A little bit about us University of New Brunswick ------------------------------- The University of New Brunswick \nAre you interested? Work With Us ---------------- WHY CHOOSE UNB? UNB offers a large variety of benefits for employees, including a full pension, a minimum of three weeks of vacation annually, the Emp"
+},
+{
+"title": "Platform Engineering Analyst",
+"company": "University of British Columbia",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=08d4f1914ca6bc2d",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Platform-Engineering-Analyst_JR26692",
+"salary": "$8,810.92 - $13,202.50 CAD",
+"skills": [
+"Python",
+"Java",
+"HTML/CSS",
+"REST APIs",
+"PostgreSQL",
+"MySQL",
+"SQL Server",
+"MongoDB",
+"Redis",
+"Cassandra",
+"AWS",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Linux",
+"Microservices",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"System design",
+"SDLC"
+],
+"req": "Works with Senior Programmer Analysts to investigate, analyze, estimate, design, develop, test, document, and implement UBC APIs and API-centric integrations.\nPrepares training plans, training materials, and trains staff as required during system implementation. May provide configuration and implementation training for subsequent releases of third-party app\nContributes to designing detailed integration strategies, approaches, and plans under the guidance of Senior Programmer Analysts.\nPerforms other related duties as required. Consequence of Error/Judgement Information Technology plays a key role in enabling the University to achieve its goals of becoming one of the world's leading\nWillingness to respect diverse perspectives, including perspectives in conflict with one’s own  Demonstrates a commitment to enhancing one’s own awareness, knowledge, and skills related to equity, div\nDemonstrated knowledge of and experience working with Enterprise Application Integration tools (ETLs, ESBs, etc.) implementing Enterprise Integration Patterns.\nGeneral knowledge and/or experience of standard industry methodologies for large COTS implementation programs.\nStrong working knowledge of SOAP/REST concepts and technologies: XSD, XSLT, XPATH, WSDL, SOAP APIs, WS-, JSON Schema, RAML/Swagger, RESTful Core Competencies: Collaboration Actively solicits ideas and"
+},
+{
+"title": "Infrastructure Consultant, Network and Datacenter",
+"company": "MNP",
+"location": "Burlington, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=b02055bd9eceb198",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/OpportunityDetail?opportunityId=e6a74deb-91f3-4f78-9e4e-90ad4e75d213&postingId=75d2ce44-1e8d-406f-b76a-85cc960d9ef5",
+"salary": "$75,000 to $90,000",
+"skills": [
+"Python",
+"PowerShell",
+"Azure",
+"Ansible",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"VMware / virtualization",
+"System design",
+"Azure certification"
+],
+"req": "Travel to client sites approximately 25% to 30% of the time. Skills and Experience  Post-secondary education in Information Technology, Computer Science, Engineering or a related field, or equivalent \n3+ years of experience designing, implementing and supporting enterprise network and server infrastructure.\n2+ years of consulting, professional services or project delivery experience.\nExperience delivering network refreshes, firewall migrations, enterprise wireless, server and virtualization upgrades, and backup and disaster recovery solutions.\nExperience with PowerShell; Python or Ansible experience is an asset.\nAbility to obtain a criminal record check and federal security clearance.\nCisco, Fortinet, Check Point, Windows Server or Microsoft Azure certifications are considered strong assets. Preferred Experience  Experience working within a managed services or information technolog"
+},
+{
+"title": "Full Stack Software Engineer w/Top Secret Clearance",
+"company": "A3 Consulting",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=09c8dbf053b5d73f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://www.a3consultingllc.com/careers/?gnk=job&gni=8a78879ea1ccde3201a1ef18a11b14f1&gns=Indeed+Free",
+"salary": "$160,000 - $174,000 USD per year",
+"skills": [
+"Python",
+"Java",
+"React",
+"Angular",
+"REST APIs",
+"Machine learning",
+"AWS",
+"CI/CD",
+"GitLab",
+"Networking (TCP/IP, DNS)",
+"Vulnerability management",
+"Agile / Scrum",
+"Jira",
+"Testing (unit, automated)",
+"System design",
+"AWS certification",
+"CompTIA Security+"
+],
+"req": "A3 Consulting is seeking a seasoned Full Stack Software Engineer to join a mission-critical team and play a key role in the full lifecycle management and modernization of the applications for our Defe\nEnsure all newly developed software code achieves a minimum of 80% automated test coverage and successful regression testing.\nSupport the Assessment & Authorization (A&A) process by resolving performance defects within Government-approved timelines (e.g. resolving Critical defects within 24 hours), ensuring the application m\n(DoD 8570/8140): IAT Level II or better Certification Required (e.g., Security+ CE, SSCP).\n5+ years of hands-on full-stack software development experience (e.g., Java, Python, Angular, React), with a strong focus on custom enterprise application development and workflow integration.\nStrong, demonstrated experience with API development and consumption (REST/SOAP) to connect disparate enterprise systems.\nDemonstrated experience operating within a DevSecOps continuous integration environment using Agile best practices. Desired Qualifications:  AWS Certified Developer – Associate or similar cloud develo\nExperience engineering solutions capable of processing continuous vetting and monitoring data feeds."
+},
+{
+"title": "Integration Specialist (Independent Contractor)",
+"company": "Micco Companies",
+"location": "Halifax, NS, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=46f3b241e4245d14",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/integration-specialist-independent-contractor-46f3b241e4245d14",
+"skills": [
+"REST APIs",
+"Azure",
+"Encryption / PKI",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "About Us Micco Companies Micco Companies is a proudly family-owned group of businesses based in Bedford, Nova Scotia. We operate across a vibrant mix of industries from retail hospitality and fitness \nProvide knowledge transfer and training to internal teams to ensure long-term supportability. Qualifications & Essential Skills  Minimum 5 years of experience in ERP, WMS, or enterprise systems integr\nStrong experience designing and deploying enterprise application integrations.\nExperience implementing secure, automated, bidirectional integrations between systems.\nAbility to work collaboratively with software vendors, IT teams, and business partners. Experience  Experience implementing ERP and Warehouse Management System integrations.\nExperience developing and supporting XML-based file exchanges and automated data processing solutions.\nExperience managing integrations through development, testing, production deployment, and stabilization.\nExperience supporting warehouse operations, inventory management, fulfillment, and logistics workflows.\nExperience with Microsoft Azure or comparable cloud infrastructure is considered an asset Education  Diploma or degree in Computer Science, Information Technology, Software Development, Systems Engine\nEquivalent combinations of education, certifications, and relevant experience will also be considered. Work Schedule  Full-time, 40 hours per week.\nFlexibility may be required during testing, deployment, go-live, and system stabilization activit"
+},
+{
+"title": "Practice Plan Analyst",
+"company": "UW Health",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=8799c2cc0cfefa8e",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://eimy.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/53720",
+"salary": "$68,454 - $102,682 USD per year",
+"skills": [
+"Statistics"
+],
+"req": "This is a full time, day shift position and is remote. Typical work week is Monday - Friday, 8:00 am -5:00 pm CST. Hours may vary based on the operational needs of the department. To be eligible to wo\nThe opportunity to earn a referral bonus for referring friends, former colleagues or others to apply for open, posted positions. Qualifications Bachelor's degree in accounting, Business, Finance, Heal"
 },
 {
 "title": "Business Analyst",
@@ -13806,6 +14184,36 @@
 "years": null
 },
 {
+"title": "Support Analyst",
+"company": "Hays",
+"location": "Kenora, Ontario, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4490497854",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advanced Online Software Engineer – EA SPORTS FC",
+"company": "EA SPORTS",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4417689665",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Data Engineer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4491412983",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Enterprise Solution Engineer - South East",
 "company": "Sigma Computing",
 "location": "Remote · United States",
@@ -22890,7 +23298,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619147&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18485645-technical-intern%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dcd4ba9f1-e20c-11f1-a42f-9fb151d7230b%26rx_job%3D2619147%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T180429Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619147",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619147&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18485645-technical-intern%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dcd4ba9f1-e20c-11f1-a42f-9fb151d7230b%26rx_job%3D2619147%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T200404Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619147",
 "salary": "$40,000",
 "skills": [
 "Machine learning",
