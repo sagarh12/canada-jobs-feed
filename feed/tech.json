@@ -1,35 +1,6 @@
 {
-"updated": "2026-11-18T00:59:51+00:00",
+"updated": "2026-11-18T01:09:49+00:00",
 "jobs": [
-{
-"title": "Tutor/Academic Consultant",
-"company": "Sigma Education",
-"location": "Remote, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=b9f884b59c58dbde",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/tutoracademic-consultant-b9f884b59c58dbde",
-"skills": [
-".NET",
-"Machine learning"
-],
-"req": "Tutor, Mentor & Academic Consultant (Remote) Sigma Education | Remote | Contract, flexible hours About Sigma Education Sigma Education is a college admissions consulting and academic mentorship firm. \nExperience working with students through tutoring, teaching, mentoring, coaching, or research supervision  Familiarity with the American college application process  The ability to explain hard ideas \nHelp shape how we teach — you’ll have a real say in building an ethical, effective approach to education. How to Apply Send your resume, a short note about your experience with students, and an academ"
-},
-{
-"title": "Administrative Assistant",
-"company": "Stutters Restorations",
-"location": "Kelowna, BC, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=15d05a37709c5641",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-15d05a37709c5641",
-"salary": "$46,800 - $52,000 per year",
-"req": "Job Description – Administrative Assistant Do you enjoy being the welcoming voice of an organization and keeping things running behind the scenes? We are looking for a polished, highly organized profe\nProvide centralized support for all office locations. Requirements  Two or more years related experience.\nCareer coaching and internal advancement opportunities."
-},
 {
 "title": "IT Field Technician",
 "company": "MAARA Consulting",
@@ -52,6 +23,35 @@
 "CompTIA A+",
 "CompTIA Network+"
 ]
+},
+{
+"title": "Administrative Assistant",
+"company": "Stutters Restorations",
+"location": "Kelowna, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=15d05a37709c5641",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-15d05a37709c5641",
+"salary": "$46,800 - $52,000 per year",
+"req": "Job Description – Administrative Assistant Do you enjoy being the welcoming voice of an organization and keeping things running behind the scenes? We are looking for a polished, highly organized profe\nProvide centralized support for all office locations. Requirements  Two or more years related experience.\nCareer coaching and internal advancement opportunities."
+},
+{
+"title": "Tutor/Academic Consultant",
+"company": "Sigma Education",
+"location": "Remote, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=b9f884b59c58dbde",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/tutoracademic-consultant-b9f884b59c58dbde",
+"skills": [
+".NET",
+"Machine learning"
+],
+"req": "Tutor, Mentor & Academic Consultant (Remote) Sigma Education | Remote | Contract, flexible hours About Sigma Education Sigma Education is a college admissions consulting and academic mentorship firm. \nExperience working with students through tutoring, teaching, mentoring, coaching, or research supervision  Familiarity with the American college application process  The ability to explain hard ideas \nHelp shape how we teach — you’ll have a real say in building an ethical, effective approach to education. How to Apply Send your resume, a short note about your experience with students, and an academ"
 },
 {
 "title": "International People Ops Analyst, Benefits",
@@ -6402,6 +6402,223 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-17",
 "link": "https://www.linkedin.com/jobs/view/4490950729",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "PAR Technology",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=10f0179937b6e00e",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.ashbyhq.com/PAR%20Technology/4c0ba297-a1fb-4584-bbaa-19f18681f5a0?utm_source=X8m9D5p0n4",
+"salary": "$70K",
+"skills": [
+"SQL",
+"Databricks",
+"Snowflake",
+"Tableau",
+"Statistics",
+"Hardware setup",
+"System design"
+],
+"req": "For over four decades, PAR Technology Corporation (NYSE: PAR) has been a leader in restaurant technology, empowering brands worldwide to create lasting connections with their guests. Our innovative so\nBachelor’s or Master’s degree in data technology, business, economics, statistics, or a related field.\nStrong SQL skills, including experience writing and tuning complex queries against a cloud data warehouse such as Snowflake, Amazon Redshift, or Databricks SQL. SQL querying represents at least 60% of\n1 to 2+ years of hands-on Tableau experience across Tableau Desktop and Tableau Cloud or Server, including building dashboards that connect to multiple data sources.\nClear written and verbal communication skills, with confidence presenting findings to non-technical stakeholders and client executives. Additional skills:  Experience analyzing guest behavior, loyalty\nExperience documenting business definitions, key performance indicators, semantic layers, or governed reporting metrics.\nServe as the liaison between data and internal teams by triaging and resolving data requests and protecting the quality and integrity of the data warehouse.\nRepresent PAR’s analytics expertise externally by contributing to thought-leadership articles, blog content, and customer forums. What Success Looks Like:  Stakeholders receive accurate, timely, and a\nTableau dashboards combine relevant data sources and allow internal teams and enterprise customers to answer recurring questions independently."
+},
+{
+"title": "Access and Controls Analyst - ERP Program",
+"company": "Nova Scotia Power",
+"location": "Halifax, NS, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=b88205371d5905b7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://careers.emera.com/jobs/6777/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"Oracle",
+"IAM",
+"Ticketing (ServiceNow, Jira)"
+],
+"req": "Ensure access controls and related processes align with SOX requirements and internal standards. Controls Monitoring & Audit Support  Execute recurring User Access Reviews and Privileged Access Review\nRespond to internal and external audit requests.\nSupport ongoing governance activities related to access controls and compliance requirements. These skills will make you successful:: Education & Experience  Bachelor's degree in Information Technolog\nExperience in a business or technology operational support role.\nExperience in access management, IT compliance, or ERP security.\nAn equivalent combination of education, training, and relevant experience may be considered. Technical/Job Specific Knowledge and Abilities  Excellent organizational, communication, and documentation \nExperience with Oracle Fusion Cloud ERP or similar enterprise platforms.\nExperience with ServiceNow or similar IT service management (ITSM) platforms.\nExperience working in regulated industries, such as utilities or the public sector, is considered an asset.\nOracle certifications in Risk Management or Security are considered an asset. We understand that experience comes in many forms, and we’re dedicated to adding new perspectives to the team. So, if your\nCompetitive Compensation: Short-term incentive plan and a Defined Contribution Pension Plan. Diversity, Equity & Inclusion at Emera: As one of Atlantic Canada’s largest publicly traded companies, we a"
+},
+{
+"title": "Support Specialist, Technical Support - L1",
+"company": "Global Relay",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=d7f5fa553f97034f",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://grnh.se/kb30zlxm4us",
+"skills": [
+"SQL",
+"PowerShell",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Google Workspace",
+"Jira",
+"System design",
+"Salesforce",
+"CCNA"
+],
+"req": "Who we are: For over 25 years, Global Relay has set the standard in enterprise information archiving with industry-leading cloud archiving, surveillance, eDiscovery, and analytics solutions. We secure\nMinimum 1-2 Years in a customer facing technical support role.\nPrior experience with Salesforce or Jira is an asset.\nBasic demonstrable knowledge in two or more of the following areas: + Networking fundamentals (AD, ADFS, TCP/IP, DNS, DHCP, VPN, LDAP, SSO) + Microsoft Exchange, Office 365, or Google Workspace + Wind"
+},
+{
+"title": "Application and Infrastructure Analyst II",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=63d638188310dab0",
+"source": "Indeed",
+"country": "CA",
+"years": 7,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56435&tz=GMT-06%3A00&tzname=America%2FChicago",
+"salary": "$51.181 - $65.31",
+"skills": [
+"Testing (unit, automated)"
+],
+"req": "Job Number ============== : 56435 Join our team as an IT Applications Specialist II and become a key contributor to the City of Edmonton's emergency dispatch technology. This role focuses on the end-t"
+},
+{
+"title": "Sales Operations Specialist - Americas",
+"company": "Pergolux",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=d5ad369bee6104ad",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.ashbyhq.com/pergolux/27a1a10d-599c-44b2-b41f-f802c80f68f8?utm_source=6P8JQ7LGNa",
+"salary": "$85K",
+"skills": [
+"Unity",
+"Looker",
+"Networking (TCP/IP, DNS)",
+"Salesforce"
+],
+"req": "Implement Channel Processes & Run Incentives: Deploy global B2B and Showroom workflows, manage local needs such as permitting and partner integrations, provide regional inputs to the global capacity p\nCRM & Telephony Administration Expertise: Strong proficiency in HubSpot (or Salesforce) administration—including workflows, routing, sequences, and reporting—alongside experience managing cloud teleph\nPreferred Qualifications: Experience with Showroom, retail, or B2B sales models, workflow automation tools (such as Zapier, Make, or n8n), or fluency in Spanish or Portuguese is a strong plus. Benefit\nAn international, collaborative work environment that values creativity and innovation."
+},
+{
+"title": "Software Engineer II, Enterprise Server",
+"company": "GitHub",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=8f221018f76820d8",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.github.careers/jobs/7503/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$83,400 - $221,400 USD per year",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C++",
+"C",
+"Go",
+"Rust",
+"Ruby",
+"Bash/Shell",
+"MySQL",
+"Redis",
+"Docker",
+"Git",
+"Linux",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "About GitHub: GitHub is the world’s leading platform for agentic software development — powered by Copilot to build, scale, and deliver secure software. Over 180 million developers, including more tha\nWork closely with other Platform and Application teams to ensure we ship the highest quality Enterprise experience.\nWork within a shared ownership model, working collaboratively with peer teams on all facets of our product. Qualifications: Required Qualifications 2+ years experience in Software Engineering, Compute\nExperience writing and debugging code in Ruby, Go, or a similar programming language.\nKnowledge of linux or bash script Preferred Qualifications Experience with GitHub's underlying technology stack (resque, nomad, redis, MySQL, unicorn, etc.)."
+},
+{
+"title": "Technical Support Representative",
+"company": "Viasat",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=1dfb51b11e7d8a2a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://careers.viasat.com/jobs/8094/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$15 - $28 USD per hour",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "About us: At Viasat, the work you do helps people stay connected in ways that matter, from everyday moments to critical missions across air, land, sea, and space. We’re a place for people who are curi\nWorks effectively with other team members to provide exceptional support for both internal and external customers.\nHigh School Diploma or GED."
+},
+{
+"title": "Infrastructure Support Specialist",
+"company": "Epicor Software",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=6bc73b2cc0b74476",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/US-Remote/Infrastructure-Support-Specialist_JR105801",
+"salary": "$55,000 - $89,000 USD per year",
+"skills": [
+"REST APIs",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Firewalls",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Step into your future as a Hardware Support Specialist! You will provide remote technical support and troubleshooting for customer hardware, peripheral, and network environments within automotive and \nAnalyze connectivity failures across internal and external network routes, including internet service provider, VPN, firewall, routing, and endpoint communication issues.\nCollaborate with customers, vendors, telecommunications providers, datacenter teams, and internal support teams to resolve complex infrastructure and connectivity issues.\nWhat you will likely bring:  Minimum of two years’ experience in customer-facing technical support, hardware support, or infrastructure support roles, preferably in retail or automotive technology env\nExperience troubleshooting hardware, peripheral, and network connectivity issues in a remote support environment, including point-of-sale systems, servers, desktops, printers, scanners, RF devices, an\nUnderstanding of networking fundamentals, including TCP/IP, DNS, VPN connectivity, routing, firewalls, remote access technologies, and internet service provider-related connectivity troubleshooting.\nAbility to explain technical issues, routing paths, and connectivity failures clearly to technical and non-technical audiences. Strong customer service and interpersonal skills, with the ability to de\nInternal Mobility: Opportunities for mentorship, continuing education, and focused career goal setting, with 25% of positions filled internally."
+},
+{
+"title": "Billing Representative II",
+"company": "Mass General Brigham",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=4b2f243dfe10ff1f",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Somerville-MA/Billing-Representative-II_RQ4085395-1",
+"salary": "$19 - $28 USD per hour",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Compliance Analyst",
+"company": "Northpoint Recovery Holdings, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=a066c0be3cc244d6",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://grnh.se/ordwdwi78us",
+"salary": "$29 - $33 USD per hour",
+"req": "Pre-tax Savings Accounts for all IRS-allowable medical and dependent care expenses  Generous Paid Time Off plan  Employee Referral Bonuses  401K Retirement Plan & Employer Match This job description i"
+},
+{
+"title": "Data Analytics & AI Intern",
+"company": "Zurich Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4490941786",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4490113999",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15272,7 +15489,7 @@
 "req": "Responsibilities: Position Responsibilities: Acts as a liaison to IT and the business functions during the business requirements phase. Provides for the collection of business needs and the transforma"
 },
 {
-"title": "Business Analyst - Salesforce",
+"title": "Salesforce Business Analyst",
 "company": "Reyes Holdings",
 "location": "Remote · United States",
 "posted": "2026-11-16",
@@ -17879,6 +18096,16 @@
 "location": "St.-Paul, New Brunswick, Canada",
 "posted": "2026-11-16",
 "link": "https://www.linkedin.com/jobs/view/4490659230",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Summer Warehouse Technician",
+"company": "PepsiCo",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4361889341",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
