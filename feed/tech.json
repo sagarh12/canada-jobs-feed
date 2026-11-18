@@ -1,6 +1,66 @@
 {
-"updated": "2026-11-18T21:49:49+00:00",
+"updated": "2026-11-18T21:59:59+00:00",
 "jobs": [
+{
+"title": "Software Engineer (Entry Level)",
+"company": "Kira",
+"location": "Remote · United States",
+"posted": "2026-11-18T21:57:51.557+00:00",
+"link": "https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7",
+"source": "Kira careers",
+"country": "US",
+"years": 0,
+"salary": "$115,000 – $140,000,",
+"quals": [
+"Bachelor's or Master's degree in Computer Science or a related field, or equivalent technical experience",
+"You’re early in your software engineering career, with 0–2 years of professional experience. You can show your work through an internship, c",
+"Strong fundamentals in data structures, algorithms, and how software systems work",
+"Experience building and shipping projects end-to-end in at least one modern language (for example Python, TypeScript, Kotlin, Go, or Rust). "
+],
+"skills": [
+"Python",
+"TypeScript",
+"Go",
+"Rust",
+"Kotlin",
+"React",
+"REST APIs",
+"LLMs / GenAI",
+"MySQL",
+"AWS",
+"CI/CD",
+"Testing (unit, automated)",
+"Data structures & algorithms"
+],
+"req": "We live in a world where technology is rapidly changing the educational experiences of students and teachers everywhere, and we have the opportunity to shape how this change takes place. Kira’s missio\nAs an entry-level Software Engineer at Kira, you will help build and ship product that real teachers and students use every day, and you will grow quickly while doing it. This role is for an early-car\nThis is a generalist role. You don’t need to be a “frontend” or “backend” engineer. You’ll start where your strengths are, work across our stack as projects need, and find where you want to go deeper.\nShip scoped, end-to-end features that improve student and teacher experiences, with guidance from senior engineers and increasing independence over time\nContribute to design discussions and code reviews, and grow through mentorship from senior engineers\nBachelor's or Master's degree in Computer Science or a related field, or equivalent technical experience\nYou’re early in your software engineering career, with 0–2 years of professional experience. You can show your work through an internship, coursework, research, open source, a personal project, or a j\nExperience building and shipping projects end-to-end in at least one modern language (for example Python, TypeScript, Kotlin, Go, or Rust). We care more about depth in a modern language than an exact \nInternship or project experience at a startup or a fast-growing company\nExperience with React and TypeScript, or with backend services a"
+},
+{
+"title": "Software Engineering Intern (Winter '27)",
+"company": "Kira",
+"location": "Remote · United States",
+"posted": "2026-11-18T21:56:52.175+00:00",
+"link": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe",
+"source": "Kira careers",
+"country": "US",
+"years": null,
+"quals": [
+"Candidates who already operate at a high level of independence and technical maturity",
+"Currently pursuing an undergraduate degree in Computer Science or a related field",
+"Strong fundamentals in data structures, algorithms, and systems",
+"Experience building and shipping non-trivial projects end-to-end"
+],
+"skills": [
+"Python",
+"TypeScript",
+"React",
+"Next.js",
+"Node.js",
+"REST APIs",
+"LLMs / GenAI",
+"Data structures & algorithms"
+],
+"req": "Kira is building the AI-native platform for education. We’re rethinking how teaching works by pairing educators with AI systems that can generate content, evaluate student work, and provide personaliz\nWe’re looking for exceptional fullstack engineering interns to join us for Winter 2027. You’ll work on production systems used by students and teachers, not isolated intern projects. Over 12 weeks, yo\nIntern projects typically sit directly on critical product paths, such as:\nStudent and teacher-facing product surfaces (dashboards, workflows)\nInternal tools used by curriculum and operations teams\nCurrently pursuing an undergraduate degree in Computer Science or a related field\nExperience building and shipping non-trivial projects end-to-end\nExperience building fullstack applications or APIs from scratch\nReturn offer consideration for top-performing interns\nMust be authorized to work in the U.S. for the duration of the internship\nAt Kira, we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants without regard to race, color, religion, sex, pregnancy (in"
+},
 {
 "title": "Research Engineer, Agentic Systems",
 "company": "Ramp",
