@@ -1,9 +1,9 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,3362,807,3362,2026-11-18
-2,SQL,Language,24%,1837,470,1837,2026-11-18
+2,SQL,Language,24%,1838,471,1838,2026-11-18
 3,REST APIs,Framework,23%,1792,440,1792,2026-11-18
-4,Python,Language,23%,1731,449,1731,2026-11-18
-5,Excel,Data & AI,21%,1605,393,1605,2026-11-18
+4,Python,Language,23%,1732,450,1732,2026-11-18
+5,Excel,Data & AI,21%,1606,394,1606,2026-11-18
 6,Hardware setup,IT support,19%,1433,331,1433,2026-11-18
 7,System design,Practice,18%,1380,320,1380,2026-11-18
 8,Azure,Cloud & DevOps,16%,1219,322,1219,2026-11-18
@@ -39,7 +39,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 38,SQL Server,Database,5%,411,98,411,2026-11-18
 39,Salesforce,Practice,5%,407,101,407,2026-11-18
 40,SDLC,Practice,5%,405,112,405,2026-11-18
-41,Google Cloud,Cloud & DevOps,5%,392,100,392,2026-11-18
+41,Google Cloud,Cloud & DevOps,5%,393,101,393,2026-11-18
 42,PowerShell,Language,5%,385,107,385,2026-11-18
 43,Data structures & algorithms,Practice,5%,368,89,368,2026-11-18
 44,Bash/Shell,Language,5%,362,108,362,2026-11-18
@@ -100,7 +100,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 99,Ruby,Language,1%,77,23,77,2026-11-18
 100,Looker,Data & AI,1%,74,26,74,2026-11-18
 101,Azure certification,Certification,1%,73,26,73,2026-11-18
-102,BigQuery,Database,1%,72,18,72,2026-11-18
+102,BigQuery,Database,1%,73,19,73,2026-11-18
 103,Airflow,Data & AI,1%,71,15,71,2026-11-18
 104,AWS certification,Certification,1%,70,19,70,2026-11-18
 105,Vue,Framework,1%,70,14,70,2026-11-18
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-18
 155,Keras,Data & AI,0%,1,1,1,2026-11-18
 
-,Based on 7651 postings in the last 30 days (7651 all time)
+,Based on 7652 postings in the last 30 days (7652 all time)
