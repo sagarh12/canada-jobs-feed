@@ -1,623 +1,6 @@
 {
-"updated": "2026-11-18T12:49:53+00:00",
+"updated": "2026-11-18T12:59:44+00:00",
 "jobs": [
-{
-"title": "IT Service Center Analyst",
-"company": "Hurley Medical Center",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=6b25b6790df1c77b",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://fa-evlb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/20260846",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Windows",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "Provides end-user support and resolution for desktop hardware, software, LAN, WAN, VPN, E-mail, Internet, Intranet, telecommunication devices, and administrative computing related issues.\nProvides support for enterprise wide systems and applications including Outlook, Epic, Lawson, Web Reporting, IDoc, Obix, Security Access systems, Radiology Imaging, Facilities monitoring, interface m\nResponsible for active monitoring of critical data center internal and external systems and environment.Maintains a super user level proficiency with EPIC functionality to provide effective first leve\nPerforms other related duties as required. Utilizes new improvements and/or technology that relate to job assignment.\nHigh school graduate and/or GED equivalent.\nDemonstrated analytical and problem solving abilities including proven expertise in isolating and resolving complex computer related issues.\nStrong organizational skills with the ability to work independently while maintaining strong team interactions. PREFERRED  Associates degree or equivalent college credits towards a degree in Computer \nPrevious experience working in an IT helpdesk, call center or other IT operations center.\nPrevious experience working in healthcare.\nOne (1) year working experience supporting and maintaining a Microsoft Windows environment in a corporate setting."
-},
-{
-"title": "R00122184 Workday Business Analyst 2 or 3 - Grants Mgmt/Financials",
-"company": "Grambling State University",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=a1944bd972a7f9c1",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553157/r00122184-workday-business-analyst-2-or-3-grants-mgmt-financials",
-"salary": "$68,250 - $91,840 USD per year",
-"skills": [
-"Help desk / troubleshooting",
-"Testing (unit, automated)"
-]
-},
-{
-"title": "R00122181 Workday Business Analyst 2 or 3 - Payroll/HR",
-"company": "Grambling State University",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=3104976c7bacaef6",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553121/r00122181-workday-business-analyst-2-or-3-payroll-hr",
-"salary": "$68,250 - $91,840 USD per year",
-"skills": [
-"Help desk / troubleshooting",
-"Testing (unit, automated)"
-]
-},
-{
-"title": "Customer Support Engineer",
-"company": "PlaySight",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=012be67c47eb8843",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/customer-support-engineer-012be67c47eb8843",
-"salary": "$50,000 - $75,000 USD per year",
-"skills": [
-"SQL",
-"Firewalls",
-"Windows",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "Department PlaySight Customer Support Reports To Customer Support Team Leader Travel Frequent travel required Languages English (required) · Russian (advantage) ABOUT THE ROLE As a Customer Support En\nEscalate unresolved issues through PlaySight’s defined procedures and document every action taken in Freshdesk.Careers CONFIDENTIAL WHAT YOU'LL BRING The table below shows what we’re looking for. We k\nGain hands-on experience across the full hardware/software stack — no two days are the same."
-},
-{
-"title": "Informatics security analyst",
-"company": "Nova Scotia Power Inc.",
-"location": "Halifax, Nova Scotia, Canada",
-"posted": "2026-11-18",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752749",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Business Analyst",
-"company": "Island Health",
-"location": "Victoria, BC, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=4804e4ab40152222",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://islandhealth.hua.hrsmart.com/pm_module/cgi-bin/click.cgi?job_id=238605&site_id=148",
-"skills": [
-"Excel",
-"Statistics",
-"Microsoft 365"
-],
-"req": "Job Description: In accordance with the Vision, Purpose, and Values, and strategic direction of the Vancouver Island Health Authority (Island Health) patient and staff safety is a priority and a respo\nQUALIFICATIONS:  Education, Training And Experience A level of education, training, and experience equivalent to a Bachelor's Degree in a related discipline such as health information sciences, busine\nThree years of experience working in projects.\nProven ability to work in a dynamic environment with a variety of disciplines, to maintain and foster good working relationships including tact and diplomacy in dealing with a variety of work situatio"
-},
-{
-"title": "Business Analyst, Enterprise Data & Cloud Migration",
-"company": "General Motors",
-"location": "2 Locations, Canada",
-"posted": "2026-11-18",
-"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Business-Analyst--Enterprise-Data---Cloud-Migration_JR-202623987",
-"source": "General Motors careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data Validation & Quality Analyst",
-"company": "General Motors",
-"location": "2 Locations, Canada",
-"posted": "2026-11-18",
-"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Data-Validation---Quality-Analyst_JR-202623986",
-"source": "General Motors careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "R00122184 Workday Business Analyst 2 or 3 - Grants Mgmt/Financials",
-"company": "Nunez Community College",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=38d15a27be8d0ade",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553157/r00122184-workday-business-analyst-2-or-3-grants-mgmt-financials",
-"salary": "$68,250 - $91,840 USD per year",
-"skills": [
-"Help desk / troubleshooting",
-"Testing (unit, automated)"
-]
-},
-{
-"title": "Information technology (IT) analyst",
-"company": "ADECCO",
-"location": "Bath, Ontario, Canada",
-"posted": "2026-11-18",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752686",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Information technology (IT) analyst",
-"company": "JD Development Group",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-11-18",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752644",
-"source": "Job Bank",
-"country": "CA",
-"years": 5
-},
-{
-"title": "TECHNICAL ASSISTANT",
-"company": "Manitoba Hydro",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=bab98e0af7db60ff",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI4RDM3MDk5RjE4M0MzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
-"salary": "$41.26-$57.11",
-"req": "Enjoy a work schedule that typically provides every second Monday off (subject to location and operational requirements), supporting a balanced approach to work, family life and community. Position Ov\nDetermine requirements, obtain or negotiate for offers of easement or land purchase, tree trimming, brush clearing, permission for new extensions, and distribution line relocations. Carry out land tit\nConsult, negotiate, and coordinate with other internal departments and external authorities on joint-use projects regarding design requirements, cost/resources and scheduling. External authorities may\nProvide comprehensive advice as required to Distribution Construction and other customers on alternative designs.\nConduct field visits with Construction, Operations, Sales, Apparatus Maintenance and the public to evaluate suggestions for design, modifications, equipment and land purchase options. Make on-site des\nReview \"As Built\" drawings to verify the accuracy of the drawings and the correct completion of the field work. Qualifications:  Long-term electrical apprenticeship resulting in Power Line Technician \nPrevious experience in successfully developing work order packages for high profile and sensitive distribution projects."
-},
-{
-"title": "Data entry clerk",
-"company": "S.R.T. MedStaff",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-18",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752685",
-"source": "Job Bank",
-"country": "CA",
-"years": 2
-},
-{
-"title": "CYBER SECURITY ANALYST",
-"company": "Manitoba Hydro",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=0eafe99028a533a7",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI4RDZEMzJFNzk2NUMzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
-"salary": "$40.44-$55.99",
-"skills": [
-"Cybersecurity",
-"Vulnerability management",
-"Microsoft 365"
-],
-"req": "Develop and maintain good working relationships with industry contacts for the purpose of information exchange and to keep abreast of technology innovation and directions. Develop and maintain  good w\nEntry level cyber security certification(s) with organizations such as ISACA or ISC 2 would be an asset."
-},
-{
-"title": "HUMAN RESOURCE ANALYST (9-MONTH TERM)",
-"company": "Manitoba Hydro",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=74a31d80cccbba2a",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI4RDQ2OTY1MTZDQTgzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
-"salary": "$37.10-$51.34",
-"skills": [
-"Power BI",
-"Excel",
-"Statistics",
-"Microsoft 365",
-"SAP"
-],
-"req": "Participate on cross-functional teams to provide expertise, knowledge, and advice on leveraging data and analytics to drive optimal business outcomes.\nKeep abreast of technological advances to address various needs of the department and other customers. Qualifications:  Related four-year university degree (e.g., Social Sciences, Statistics, Commerce\nKnowledge and experience with application system projects, system maintenance and support, including testing.\nExperience with SAP S/4HANA of SAP Success Factors considered an asset.\nA problem solver who is comfortable being hands on with demonstrated ability and experience in driving continuous improvement.\nCapable of managing fluctuating workload, setting priorities and meeting deadlines, with minimum direction."
-},
-{
-"title": "Software developer",
-"company": "49 Solutions",
-"location": "Ottawa, Ontario, Canada",
-"posted": "2026-11-18",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752684",
-"source": "Job Bank",
-"country": "CA",
-"years": 15
-},
-{
-"title": "Software developer",
-"company": "CIeNET International",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-11-18",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752670",
-"source": "Job Bank",
-"country": "CA",
-"years": null
-},
-{
-"title": "Procurement Analyst",
-"company": "Sourcewell",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=7374ad3c413e1a42",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "https://sourcewell.wd1.myworkdayjobs.com/en-US/SWCareers/job/Staples-MN/Procurement-Analyst_R-1848",
-"salary": "$67,360 - $84,200 USD per year",
-"req": "Assists Procurement Analyst II in collaborating regularly with Sourcewell’s Category Development Administrators and Supplier Development Administrators in order to continuously improve processes criti\nAssists with the internal processes of the department under the guidance of the Procurement Manager or Senior Procurement Analyst:  Ensures the accuracy and validity of documents and records.\nAssists with researching select solicitation categories as empowered by the Procurement Manager or Senior Procurement Analyst.\nAssists with modifications of CRM entries and reports within Procurement Department. Works with Procurement Manager or Senior Procurement Analyst in determining the need for new reports in CRM to be u\nParticipates in the internal processes of the Procurement Department to include:  Checks validity of documents and records.\nSecondary Duties and Responsibilities ----------------------------------------- 1. Acts as Procurement Department project management resource:  Assists with project management for procurement related \n2. Supports Procurement Document Specialist and other Procurement Team members as needed. 3. Other duties as assigned. Additional Job Description: Required Qualifications ---------------------------  "
-},
-{
-"title": "DR Planning and Operations Specialist",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=e7cba966a1d4d927",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T120406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
-"skills": [
-"Linux",
-"Networking (TCP/IP, DNS)",
-"Firewalls",
-"Hardware setup",
-"Jira"
-],
-"req": "Working with technology partners to support all Disaster Recovery Runbooks and Orchestration Playbook tasks  Designing, developing, implementing, and maintaining tools and reports for Disaster Recover\nScripting and automation experience, AI and Machine Language.\nStrong communication and ability to communicate effectively with diverse stakeholders, from technical specialists to senior managers. Nice to Have  Knowledge of Cutover Recover and Cutover Responder t\nOpportunities to do challenging work LI-POST TECHPJ Job Skills Business Continuity and Disaster Recovery (BCDR), Customer Service, Data Center Administration, Decision Making, Group Problem Solving, H"
-},
-{
-"title": "Data engineer",
-"company": "SHIL Technologies, Inc",
-"location": "Halifax, Nova Scotia, Canada",
-"posted": "2026-11-18",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752292",
-"source": "Job Bank",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Privacy & Compliance Analyst",
-"company": "Epson",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=2710207e2c694388",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://jobs.epson.com/job/Los-Alamitos-Privacy-&-Compliance-Analyst-CA/1451643200/",
-"salary": "$49 - $62 USD per hour",
-"skills": [
-"Cybersecurity",
-"Agile / Scrum"
-],
-"req": "The Privacy & Compliance Analyst will support Privacy and Compliance Strategy Planning and the day-to-day operation of privacy, compliance, and risk management programs. Responsibilities may include c\nAssist with internal and external privacy audits and assessments.\nAssist in evaluating how customer and employee information is collected and shared internally and externally.\nParticipate in security and privacy incident investigations, incident tracking, response planning, documentation, and related operational activities. Qualifications  Minimum of a bachelor's degree or \n2–5 years of relevant experience in data privacy, compliance, information governance, risk management, or related functions.\nPrior experience with Third-Party Risk Management (TPRM) is a plus.\nExperience with OneTrust or similar privacy management tools is a plus.\nInternational Association of Privacy Professionals (IAPP) certification — CIPP, CIPM, or CIPT — is a plus.\nPrior data privacy-related consulting experience is a plus."
-},
-{
-"title": "Online Instructor (Lecture Recording)",
-"company": "Alison College",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=9986b2e5916420a5",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/online-instructor-lecture-recording-9986b2e5916420a5",
-"req": "Collaborate with course developers to create a seamless and interactive learning experience for students.\nA passion for education and helping students succeed in a digital learning environment.\nEducational Qualifications:  Master’s degree in Business, Healthcare, Computer Science, or Accounting (preferred).\nBachelor’s degree holders with 3+ years of teaching experience will also be considered.\nPrior experience in creating or delivering online content is a plus. Benefits:  Flexible, remote work schedule.\nSupport from the Alvis Education team for content development and production. If you are an enthusiastic educator with a passion for online teaching and can deliver engaging, high-quality video lectur"
-},
-{
-"title": "Customer Service Representative",
-"company": "LIT METHOD",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=346328a4585ea8df",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "http://www.indeed.com/job/customer-service-representative-346328a4585ea8df",
-"salary": "$30,000 - $40,000 USD per year",
-"skills": [
-"Help desk / troubleshooting",
-"Hardware setup",
-"Salesforce"
-],
-"req": "At LIT Method, we’re redefining recovery. From our award-winning cold plunges to our handcrafted saunas, we design products that bring world-class wellness into homes, studios, and performance spaces.\nProactively follow up with customers to ensure their experience exceeds expectations.\nIdentify and report recurring technical issues or trends to improve products and service. What You Bring  2+ years in customer service or technical support, ideally in fitness, wellness, or consumer h\nExperience with CRM tools (HubSpot, Salesforce, or similar)."
-},
-{
-"title": "Tutor/Academic Consultant",
-"company": "Sigma Education",
-"location": "Remote, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=b9f884b59c58dbde",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/tutoracademic-consultant-b9f884b59c58dbde",
-"skills": [
-".NET",
-"Machine learning"
-],
-"req": "Tutor, Mentor & Academic Consultant (Remote) Sigma Education | Remote | Contract, flexible hours About Sigma Education Sigma Education is a college admissions consulting and academic mentorship firm. \nExperience working with students through tutoring, teaching, mentoring, coaching, or research supervision  Familiarity with the American college application process  The ability to explain hard ideas \nHelp shape how we teach — you’ll have a real say in building an ethical, effective approach to education. How to Apply Send your resume, a short note about your experience with students, and an academ"
-},
-{
-"title": "Administrative Assistant",
-"company": "Stutters Restorations",
-"location": "Kelowna, BC, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=15d05a37709c5641",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-15d05a37709c5641",
-"salary": "$46,800 - $52,000 per year",
-"req": "Job Description – Administrative Assistant Do you enjoy being the welcoming voice of an organization and keeping things running behind the scenes? We are looking for a polished, highly organized profe\nProvide centralized support for all office locations. Requirements  Two or more years related experience.\nCareer coaching and internal advancement opportunities."
-},
-{
-"title": "IT Field Technician",
-"company": "MAARA Consulting",
-"location": "Greater Toronto Area, ON, CA (remote)",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=848de3cc03ae3a08",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/it-field-technician-848de3cc03ae3a08",
-"salary": "$21.00 per hour",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Firewalls",
-"Windows",
-"Microsoft 365",
-"Help desk / troubleshooting",
-"Hardware setup",
-"CompTIA A+",
-"CompTIA Network+"
-]
-},
-{
-"title": "IT Change Management & Communications Specialist",
-"company": "FYidoctors",
-"location": "Delta, BC, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=ca3ba9de03ba826c",
-"source": "Indeed",
-"country": "CA",
-"years": 10,
-"apply": "https://recruiting.ultipro.ca/FYI5000FYID/JobBoard/3d8debde-b43d-451a-9d95-37584008133f/OpportunityDetail?opportunityId=362cb61b-6286-444b-9340-e4cffc46f01d&postingId=31e85823-9cdd-4fd5-9586-a6a7bcd59c01",
-"salary": "$97,400 to $115,000",
-"skills": [
-"ITIL"
-]
-},
-{
-"title": "Bookkeeper/Administrative Assistant",
-"company": "KYRO Mechanical",
-"location": "Remote, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=944f0dfb08202b96",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/bookkeeperadministrative-assistant-944f0dfb08202b96",
-"salary": "$68,019.78-$93,631.11 per year",
-"req": "Company Overview KYRO Mechanical is a local HVAC contractor serving Kingston and surrounding areas. The company specializes in residential service and retrofit installations. Summary As a Bookkeeper/A\nQualifications  Required: Bookkeeping knowledge and experience using QuickBooks.\nRequired: Office or administrative experience and strong organizational skills.\nPreferred: Data-entry, filing, and clerical experience."
-},
-{
-"title": "Power Platform Administrator",
-"company": "MNP",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=330a6d5885b7a454",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/OpportunityDetail?opportunityId=d5bb0f63-f2c5-410c-af7f-52d9070ca8c2&postingId=07a4e0e7-10a9-4071-895e-bac4b5b7fbf1",
-"skills": [
-"PowerShell",
-"IAM",
-"Microsoft 365",
-"Help desk / troubleshooting",
-"Agile / Scrum"
-],
-"req": "Inspirational, innovative and entrepreneurial - this is how we describe our empowered teams. Combine your passion with purpose and join a culture that is thriving in the face of change. Make an impact"
-},
-{
-"title": "Project Controls Analyst",
-"company": "Cenovus",
-"location": "CA-SK-Lloydminster",
-"posted": "2026-11-18",
-"link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-SK-Lloydminster/Project-Controls-Analyst_R-411318",
-"source": "Cenovus careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Project Analyst",
-"company": "Johnson Controls",
-"location": "Nisku, AB, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=f8795365fbc88715",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://click.appcast.io/t/zbySRLGxqNbjSlhdF0-RZrkHA2h4y8d13St8QhlOhOU=",
-"salary": "$70,000.00 – 90,000.00 CAD",
-"skills": [
-"Excel"
-],
-"req": "Three weeks paid vacation in a calendar year/holidays/sick time/three PTO days in a calendar year.\nPrepare project performance reports, dashboards, and presentations for internal and external stakeholders.\nProvide ad hoc financial analysis and reporting as required by project and management teams.\nSupport continuous improvement initiatives related to project controls, budgeting, and reporting processes. Qualifications ------------------  Diploma or Bachelor's degree in Business, Finance, Accoun\n2-5 years of experience in project controls, project analysis, accounting, finance, or a related discipline is considered an asset.\nExperience working with project-based financial reporting is preferred.\nExperience in construction, industrial, energy, or engineering environments is considered an asset. Skills & Competencies --------------------------  Advanced proficiency in Microsoft Excel, including\nExperience with ERP systems and project accounting software is considered an asset."
-},
-{
-"title": "Hydro Mechanical Engineer",
-"company": "Stantec",
-"location": "Burnaby, BC, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=92d56d9e1227dbef",
-"source": "Indeed",
-"country": "CA",
-"years": 2,
-"apply": "https://rr.jobsyn.org/72D47DCCBEED47FC89ABC3B9EDC464221554",
-"salary": "$80,300.00 - $116,500.00"
-},
-{
-"title": "Information Security Analyst",
-"company": "Yukon Government",
-"location": "Whitehorse, YT, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=aef1a186416e970b",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://yukongovernment.hua.hrsmart.com/ats/js_job_details.php?site_id=148&reqid=70306",
-"salary": "$99,800.00 - $115,857.00",
-"skills": [
-"Cybersecurity",
-"Incident response",
-"CompTIA Security+",
-"CISSP"
-],
-"req": "Degree or diploma in computer science, cybersecurity, information technology or a related field.\nExperience conducting or reviewing security threat and risk assessments and recommending risk mitigations.\nExperience developing or applying information security policies, standards, procedures or guidelines, including incident response plans or security playbooks.\nExperience investigating and responding to cybersecurity incidents.\nExperience preparing written materials (e.g., briefing notes, reports, position papers) for senior management.\nExperience delivering or managing a security awareness program will be considered an asset.\nSecurity-based professional qualification (e.g., CISSP, CISM, Security+, GSEC) will be considered an asset. Candidates who have education, training, and/or experience equivalent to the essential quali"
-},
-{
-"title": "Cybersecurity Specialist",
-"company": "",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=a11ff3096b60be35",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cybersecurity-specialist-a11ff3096b60be35",
-"salary": "$49.52 per hour",
-"skills": [
-"Cybersecurity",
-"SOC",
-"Incident response",
-"Vulnerability management",
-"Firewalls"
-],
-"req": "Document incidents and procedures, and support security awareness and internal compliance activities. Qualifications  Experience in cybersecurity, information security, or IT security operations."
-},
-{
-"title": "R00122181 Workday Business Analyst 2 or 3 - Payroll/HR",
-"company": "Nunez Community College",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=11a29c4ca870be8f",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553121/r00122181-workday-business-analyst-2-or-3-payroll-hr",
-"salary": "$68,250 - $91,840 USD per year",
-"skills": [
-"Help desk / troubleshooting",
-"Testing (unit, automated)"
-]
-},
-{
-"title": "HTML Developer",
-"company": "Muvi",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=6e04c0291b322c2b",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://www.muvi.com/career/job-listings//html-developer-20261118095855/",
-"skills": [
-"JavaScript",
-"HTML/CSS",
-"Testing (unit, automated)",
-"Figma"
-],
-"req": "2-3 Years HTML Developer 1 Openings Remote HTML Developer We are looking for a skilled HTML Developer to join our team and focus on creating high-quality web pages from Figma designs and other design \nContent Management: Independently manage and update content on existing pages when new content is provided or changes are needed, while maintaining consistent design and structure. Skills Required  Pr\nContent Organization: Experience in organizing and structuring content on web pages to ensure readability, even without specific design instructions.\nExperience working with content management systems (CMS)  Benefits:  Work with a B2B SaaS product company building end-to-end streaming solutions.\nNo approval required for leaves of up to 2 days."
-},
-{
-"title": "Learning Facilitator, OMAIB, Questrom, Online Learning",
-"company": "Boston University",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=9b36c9e7787496d3",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "https://jobs.silkroad.com/BU/External/jobs/317578/?source=Indeed.com",
-"skills": [
-"Python",
-"LLMs / GenAI",
-"Salesforce"
-],
-"req": "Boston University's Questrom School of Business launched the Online MS in AI in Business (AIB) program in Fall 2026. Designed for a global community of learners, the AIB program prepares professionals\nAI agents and agentic AI familiarity. Preferred Qualifications:  Academic or professional background in computer science, information systems, engineering, mathematics, AI, or related fields.\nExperience with AI-related research, projects, or applied business use cases is highly desirable.\nExperience delivering or supporting online learning experiences, preferably at scale.\nExperience working with adult or professional learners. Familiarity with learning management systems (LMS) and online collaboration platforms.\nExperience with Salesforce or similar CRM systems. Experience developing operational processes, documentation, or best practices.\nInterest in responsible AI, ethics, and the future of work. We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, "
-},
-{
-"title": "Remote 1-on-1 Academic Tutors Needed",
-"company": "Dr. Mark Baril",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=72431bdeb7294cf9",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "http://www.indeed.com/job/remote-1-1-academic-tutors-needed-72431bdeb7294cf9",
-"salary": "$23 - $30 USD per hour",
-"req": "About Tutor Me LLC Tutor Me LLC is an innovative, educator-driven online tutoring platform dedicated to connecting dedicated K–12 and higher-education students with passionate 1-on-1 private educators\nFlexible Scheduling: Set your weekly availability and accept student bookings that fit your lifestyle.\nFully Remote: Teach from the comfort of your home office using a reliable high-speed internet connection and video conferencing tools.\nStreamlined Operations: Our automated platform manages student bookings, session calendars, and payout structures. Key Responsibilities  Deliver engaging, individualized 1-on-1 tutoring sessions tailo\nAssist students with homework support, concept mastery, study skills, and test preparation across core school subjects (such as Mathematics, English Language Arts, Sciences, and History).\nMaintain professional communication with students and parents regarding academic progress.\nKeep session notes and attendance updated through the Tutor Me LLC web platform. Qualifications & Requirements  Education: Bachelor’s degree or higher in Education, Mathematics, English, Science, or a\nExperience: Minimum 1–2 years of proven teaching, tutoring, or instructional experience.\nTechnical Setup: Reliable computer/laptop, stable high-speed internet connection, webcam, and microphone for crystal-clear virtual sessions.\nBackground Check: Successful candidates will be required to pass a standard criminal background check prior to onboarding.\nAutonomous Growth: Set your"
-},
-{
-"title": "Computer Science and Data Science Teacher",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=6eb7f30339455e20",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/computer-science-and-data-science-teacher-6eb7f30339455e20",
-"salary": "$60,000 - $70,000 USD per year",
-"skills": [
-"Cybersecurity"
-]
-},
-{
-"title": "Data Integration Specialist",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-18",
-"link": "https://www.indeed.com/viewjob?jk=ac437f6e94502ba2",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://www.jobs.virginia.gov/jobs/data-integration-specialist-virginia-united-states-2ac4d20c-8e4e-46c0-a5c3-e82e5d0fc7ab",
-"skills": [
-"SQL",
-"REST APIs",
-"ETL / data pipelines",
-"Snowflake",
-"AWS",
-"Help desk / troubleshooting",
-"Data structures & algorithms",
-"Salesforce"
-],
-"req": "https://jobs.odu.edu/postings/27521  Virginia, United States  SALESFORCE SERVICES & SUPPORT  VP DIGITAL TRANSFORMATION & TECHNOLOGY Title: Data Integration Specialist Agency: VP DIGITAL TRANSFORMATION\nDemonstrated experience in creating, managing, troubleshooting, and optimizing data integrations and ETL/ELT processes.\nExpert-level working experience with Salesforce architecture, data structures, and troubleshooting, particularly within Higher Education environments.\nWorking experience gathering technical requirements, documenting data mapping, and initiating integration requests for enterprise systems.\nWorking experience providing end-user support through tickets, training, and documentation.\nWorking experience writing and executing SQL queries for data extraction, analysis, validation, and debugging across relational databases and data warehouses.\nWorking experience creating test plans, cases, data, and documentation.\nWorking experience working with a distributed staff in an organized and consistent manner. Additional Considerations:  Certified Salesforce Administrator (preferred)  Working experience with Data 360,\nFamiliarity with enterprise integration platforms (e.g., Informatica, Axiom Elite) and Student Information Systems (e.g., Ellucian Banner) to effectively collaborate with the technical teams that own \nMaster’s degree in Computer Science, Information Technology or a related field of study required. Or a Bachelor’s degree in Computer Science, Information Technology"
-},
-{
-"title": "Administrative Assistant",
-"company": "Becker's Convenience Store #82023",
-"location": "Remote, CA",
-"posted": "2026-11-18",
-"link": "https://ca.indeed.com/viewjob?jk=06a13fa03ba57cad",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-06a13fa03ba57cad",
-"salary": "$19.78-$31.12 per hour",
-"skills": [
-"Google Workspace"
-]
-},
 {
 "title": "Automations Engineer",
 "company": "Marbill Technologies",
@@ -646,6 +29,623 @@
 "Agile / Scrum"
 ],
 "req": "Referral Bonuses: Get rewarded for bringing great talent on board. We are looking for a highly skilled Automations Engineer to join our team. In this role, you will be the mastermind behind our operat\nAI-Powered Visual Management: Build and improve visual management boards, dashboards and internal tools using AI platforms such as Claude and ChatGPT to make business processes, KPIs and operational i\nAPI & MCP Management: Maintain, troubleshoot and improve existing API connections and MCP integrations. Build new integrations between internal systems, external platforms and AI tools to enable seaml\nContinuous Innovation: Explore and implement new AI tools, technologies and automation opportunities to continuously improve how our departments operate. What you’ll bring:  Automation Expertise: Prov\nIntegration Skills: Deep expertise consuming and creating RESTful APIs, GraphQL, and handling Webhooks securely. Familiarity with workflow tools (like n8n, Make, or custom orchestration engines) is a \nAsynchronous Processing: Hands-on experience with Redis, message brokers (RabbitMQ, AWS SQS), and background job queues (e.g., BullMQ).\nDatabase Mastery: Solid experience with MySQL at scale (query optimization, indexing) for logging and retrieving automation states.\nCloud & DevOps: Strong AWS experience, specifically with EKS and Helm, adhering to Git/CI/CD (GitHub Actions, Docker) for deploying your automations."
+},
+{
+"title": "Administrative Assistant",
+"company": "Becker's Convenience Store #82023",
+"location": "Remote, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=06a13fa03ba57cad",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-06a13fa03ba57cad",
+"salary": "$19.78-$31.12 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Data Integration Specialist",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=ac437f6e94502ba2",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.jobs.virginia.gov/jobs/data-integration-specialist-virginia-united-states-2ac4d20c-8e4e-46c0-a5c3-e82e5d0fc7ab",
+"skills": [
+"SQL",
+"REST APIs",
+"ETL / data pipelines",
+"Snowflake",
+"AWS",
+"Help desk / troubleshooting",
+"Data structures & algorithms",
+"Salesforce"
+],
+"req": "https://jobs.odu.edu/postings/27521  Virginia, United States  SALESFORCE SERVICES & SUPPORT  VP DIGITAL TRANSFORMATION & TECHNOLOGY Title: Data Integration Specialist Agency: VP DIGITAL TRANSFORMATION\nDemonstrated experience in creating, managing, troubleshooting, and optimizing data integrations and ETL/ELT processes.\nExpert-level working experience with Salesforce architecture, data structures, and troubleshooting, particularly within Higher Education environments.\nWorking experience gathering technical requirements, documenting data mapping, and initiating integration requests for enterprise systems.\nWorking experience providing end-user support through tickets, training, and documentation.\nWorking experience writing and executing SQL queries for data extraction, analysis, validation, and debugging across relational databases and data warehouses.\nWorking experience creating test plans, cases, data, and documentation.\nWorking experience working with a distributed staff in an organized and consistent manner. Additional Considerations:  Certified Salesforce Administrator (preferred)  Working experience with Data 360,\nFamiliarity with enterprise integration platforms (e.g., Informatica, Axiom Elite) and Student Information Systems (e.g., Ellucian Banner) to effectively collaborate with the technical teams that own \nMaster’s degree in Computer Science, Information Technology or a related field of study required. Or a Bachelor’s degree in Computer Science, Information Technology"
+},
+{
+"title": "Computer Science and Data Science Teacher",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=6eb7f30339455e20",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/computer-science-and-data-science-teacher-6eb7f30339455e20",
+"salary": "$60,000 - $70,000 USD per year",
+"skills": [
+"Cybersecurity"
+]
+},
+{
+"title": "Remote 1-on-1 Academic Tutors Needed",
+"company": "Dr. Mark Baril",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=72431bdeb7294cf9",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "http://www.indeed.com/job/remote-1-1-academic-tutors-needed-72431bdeb7294cf9",
+"salary": "$23 - $30 USD per hour",
+"req": "About Tutor Me LLC Tutor Me LLC is an innovative, educator-driven online tutoring platform dedicated to connecting dedicated K–12 and higher-education students with passionate 1-on-1 private educators\nFlexible Scheduling: Set your weekly availability and accept student bookings that fit your lifestyle.\nFully Remote: Teach from the comfort of your home office using a reliable high-speed internet connection and video conferencing tools.\nStreamlined Operations: Our automated platform manages student bookings, session calendars, and payout structures. Key Responsibilities  Deliver engaging, individualized 1-on-1 tutoring sessions tailo\nAssist students with homework support, concept mastery, study skills, and test preparation across core school subjects (such as Mathematics, English Language Arts, Sciences, and History).\nMaintain professional communication with students and parents regarding academic progress.\nKeep session notes and attendance updated through the Tutor Me LLC web platform. Qualifications & Requirements  Education: Bachelor’s degree or higher in Education, Mathematics, English, Science, or a\nExperience: Minimum 1–2 years of proven teaching, tutoring, or instructional experience.\nTechnical Setup: Reliable computer/laptop, stable high-speed internet connection, webcam, and microphone for crystal-clear virtual sessions.\nBackground Check: Successful candidates will be required to pass a standard criminal background check prior to onboarding.\nAutonomous Growth: Set your"
+},
+{
+"title": "Learning Facilitator, OMAIB, Questrom, Online Learning",
+"company": "Boston University",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=9b36c9e7787496d3",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.silkroad.com/BU/External/jobs/317578/?source=Indeed.com",
+"skills": [
+"Python",
+"LLMs / GenAI",
+"Salesforce"
+],
+"req": "Boston University's Questrom School of Business launched the Online MS in AI in Business (AIB) program in Fall 2026. Designed for a global community of learners, the AIB program prepares professionals\nAI agents and agentic AI familiarity. Preferred Qualifications:  Academic or professional background in computer science, information systems, engineering, mathematics, AI, or related fields.\nExperience with AI-related research, projects, or applied business use cases is highly desirable.\nExperience delivering or supporting online learning experiences, preferably at scale.\nExperience working with adult or professional learners. Familiarity with learning management systems (LMS) and online collaboration platforms.\nExperience with Salesforce or similar CRM systems. Experience developing operational processes, documentation, or best practices.\nInterest in responsible AI, ethics, and the future of work. We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, "
+},
+{
+"title": "HTML Developer",
+"company": "Muvi",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=6e04c0291b322c2b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.muvi.com/career/job-listings//html-developer-20261118095855/",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"Testing (unit, automated)",
+"Figma"
+],
+"req": "2-3 Years HTML Developer 1 Openings Remote HTML Developer We are looking for a skilled HTML Developer to join our team and focus on creating high-quality web pages from Figma designs and other design \nContent Management: Independently manage and update content on existing pages when new content is provided or changes are needed, while maintaining consistent design and structure. Skills Required  Pr\nContent Organization: Experience in organizing and structuring content on web pages to ensure readability, even without specific design instructions.\nExperience working with content management systems (CMS)  Benefits:  Work with a B2B SaaS product company building end-to-end streaming solutions.\nNo approval required for leaves of up to 2 days."
+},
+{
+"title": "R00122181 Workday Business Analyst 2 or 3 - Payroll/HR",
+"company": "Nunez Community College",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=11a29c4ca870be8f",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553121/r00122181-workday-business-analyst-2-or-3-payroll-hr",
+"salary": "$68,250 - $91,840 USD per year",
+"skills": [
+"Help desk / troubleshooting",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Cybersecurity Specialist",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=a11ff3096b60be35",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cybersecurity-specialist-a11ff3096b60be35",
+"salary": "$49.52 per hour",
+"skills": [
+"Cybersecurity",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Firewalls"
+],
+"req": "Document incidents and procedures, and support security awareness and internal compliance activities. Qualifications  Experience in cybersecurity, information security, or IT security operations."
+},
+{
+"title": "Information Security Analyst",
+"company": "Yukon Government",
+"location": "Whitehorse, YT, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=aef1a186416e970b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://yukongovernment.hua.hrsmart.com/ats/js_job_details.php?site_id=148&reqid=70306",
+"salary": "$99,800.00 - $115,857.00",
+"skills": [
+"Cybersecurity",
+"Incident response",
+"CompTIA Security+",
+"CISSP"
+],
+"req": "Degree or diploma in computer science, cybersecurity, information technology or a related field.\nExperience conducting or reviewing security threat and risk assessments and recommending risk mitigations.\nExperience developing or applying information security policies, standards, procedures or guidelines, including incident response plans or security playbooks.\nExperience investigating and responding to cybersecurity incidents.\nExperience preparing written materials (e.g., briefing notes, reports, position papers) for senior management.\nExperience delivering or managing a security awareness program will be considered an asset.\nSecurity-based professional qualification (e.g., CISSP, CISM, Security+, GSEC) will be considered an asset. Candidates who have education, training, and/or experience equivalent to the essential quali"
+},
+{
+"title": "Hydro Mechanical Engineer",
+"company": "Stantec",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=92d56d9e1227dbef",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://rr.jobsyn.org/72D47DCCBEED47FC89ABC3B9EDC464221554",
+"salary": "$80,300.00 - $116,500.00"
+},
+{
+"title": "Project Analyst",
+"company": "Johnson Controls",
+"location": "Nisku, AB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=f8795365fbc88715",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://click.appcast.io/t/zbySRLGxqNbjSlhdF0-RZrkHA2h4y8d13St8QhlOhOU=",
+"salary": "$70,000.00 – 90,000.00 CAD",
+"skills": [
+"Excel"
+],
+"req": "Three weeks paid vacation in a calendar year/holidays/sick time/three PTO days in a calendar year.\nPrepare project performance reports, dashboards, and presentations for internal and external stakeholders.\nProvide ad hoc financial analysis and reporting as required by project and management teams.\nSupport continuous improvement initiatives related to project controls, budgeting, and reporting processes. Qualifications ------------------  Diploma or Bachelor's degree in Business, Finance, Accoun\n2-5 years of experience in project controls, project analysis, accounting, finance, or a related discipline is considered an asset.\nExperience working with project-based financial reporting is preferred.\nExperience in construction, industrial, energy, or engineering environments is considered an asset. Skills & Competencies --------------------------  Advanced proficiency in Microsoft Excel, including\nExperience with ERP systems and project accounting software is considered an asset."
+},
+{
+"title": "Project Controls Analyst",
+"company": "Cenovus",
+"location": "CA-SK-Lloydminster",
+"posted": "2026-11-18",
+"link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-SK-Lloydminster/Project-Controls-Analyst_R-411318",
+"source": "Cenovus careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power Platform Administrator",
+"company": "MNP",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=330a6d5885b7a454",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/062c8fba-7371-4cd7-9e8a-94a0b8019ffc/OpportunityDetail?opportunityId=d5bb0f63-f2c5-410c-af7f-52d9070ca8c2&postingId=07a4e0e7-10a9-4071-895e-bac4b5b7fbf1",
+"skills": [
+"PowerShell",
+"IAM",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+],
+"req": "Inspirational, innovative and entrepreneurial - this is how we describe our empowered teams. Combine your passion with purpose and join a culture that is thriving in the face of change. Make an impact"
+},
+{
+"title": "Bookkeeper/Administrative Assistant",
+"company": "KYRO Mechanical",
+"location": "Remote, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=944f0dfb08202b96",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/bookkeeperadministrative-assistant-944f0dfb08202b96",
+"salary": "$68,019.78-$93,631.11 per year",
+"req": "Company Overview KYRO Mechanical is a local HVAC contractor serving Kingston and surrounding areas. The company specializes in residential service and retrofit installations. Summary As a Bookkeeper/A\nQualifications  Required: Bookkeeping knowledge and experience using QuickBooks.\nRequired: Office or administrative experience and strong organizational skills.\nPreferred: Data-entry, filing, and clerical experience."
+},
+{
+"title": "IT Change Management & Communications Specialist",
+"company": "FYidoctors",
+"location": "Delta, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=ca3ba9de03ba826c",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://recruiting.ultipro.ca/FYI5000FYID/JobBoard/3d8debde-b43d-451a-9d95-37584008133f/OpportunityDetail?opportunityId=362cb61b-6286-444b-9340-e4cffc46f01d&postingId=31e85823-9cdd-4fd5-9586-a6a7bcd59c01",
+"salary": "$97,400 to $115,000",
+"skills": [
+"ITIL"
+]
+},
+{
+"title": "IT Field Technician",
+"company": "MAARA Consulting",
+"location": "Greater Toronto Area, ON, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=848de3cc03ae3a08",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/it-field-technician-848de3cc03ae3a08",
+"salary": "$21.00 per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"CompTIA Network+"
+]
+},
+{
+"title": "Administrative Assistant",
+"company": "Stutters Restorations",
+"location": "Kelowna, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=15d05a37709c5641",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-15d05a37709c5641",
+"salary": "$46,800 - $52,000 per year",
+"req": "Job Description – Administrative Assistant Do you enjoy being the welcoming voice of an organization and keeping things running behind the scenes? We are looking for a polished, highly organized profe\nProvide centralized support for all office locations. Requirements  Two or more years related experience.\nCareer coaching and internal advancement opportunities."
+},
+{
+"title": "Tutor/Academic Consultant",
+"company": "Sigma Education",
+"location": "Remote, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=b9f884b59c58dbde",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/tutoracademic-consultant-b9f884b59c58dbde",
+"skills": [
+".NET",
+"Machine learning"
+],
+"req": "Tutor, Mentor & Academic Consultant (Remote) Sigma Education | Remote | Contract, flexible hours About Sigma Education Sigma Education is a college admissions consulting and academic mentorship firm. \nExperience working with students through tutoring, teaching, mentoring, coaching, or research supervision  Familiarity with the American college application process  The ability to explain hard ideas \nHelp shape how we teach — you’ll have a real say in building an ethical, effective approach to education. How to Apply Send your resume, a short note about your experience with students, and an academ"
+},
+{
+"title": "Customer Service Representative",
+"company": "LIT METHOD",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=346328a4585ea8df",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/customer-service-representative-346328a4585ea8df",
+"salary": "$30,000 - $40,000 USD per year",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup",
+"Salesforce"
+],
+"req": "At LIT Method, we’re redefining recovery. From our award-winning cold plunges to our handcrafted saunas, we design products that bring world-class wellness into homes, studios, and performance spaces.\nProactively follow up with customers to ensure their experience exceeds expectations.\nIdentify and report recurring technical issues or trends to improve products and service. What You Bring  2+ years in customer service or technical support, ideally in fitness, wellness, or consumer h\nExperience with CRM tools (HubSpot, Salesforce, or similar)."
+},
+{
+"title": "Online Instructor (Lecture Recording)",
+"company": "Alison College",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=9986b2e5916420a5",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/online-instructor-lecture-recording-9986b2e5916420a5",
+"req": "Collaborate with course developers to create a seamless and interactive learning experience for students.\nA passion for education and helping students succeed in a digital learning environment.\nEducational Qualifications:  Master’s degree in Business, Healthcare, Computer Science, or Accounting (preferred).\nBachelor’s degree holders with 3+ years of teaching experience will also be considered.\nPrior experience in creating or delivering online content is a plus. Benefits:  Flexible, remote work schedule.\nSupport from the Alvis Education team for content development and production. If you are an enthusiastic educator with a passion for online teaching and can deliver engaging, high-quality video lectur"
+},
+{
+"title": "Privacy & Compliance Analyst",
+"company": "Epson",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=2710207e2c694388",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.epson.com/job/Los-Alamitos-Privacy-&-Compliance-Analyst-CA/1451643200/",
+"salary": "$49 - $62 USD per hour",
+"skills": [
+"Cybersecurity",
+"Agile / Scrum"
+],
+"req": "The Privacy & Compliance Analyst will support Privacy and Compliance Strategy Planning and the day-to-day operation of privacy, compliance, and risk management programs. Responsibilities may include c\nAssist with internal and external privacy audits and assessments.\nAssist in evaluating how customer and employee information is collected and shared internally and externally.\nParticipate in security and privacy incident investigations, incident tracking, response planning, documentation, and related operational activities. Qualifications  Minimum of a bachelor's degree or \n2–5 years of relevant experience in data privacy, compliance, information governance, risk management, or related functions.\nPrior experience with Third-Party Risk Management (TPRM) is a plus.\nExperience with OneTrust or similar privacy management tools is a plus.\nInternational Association of Privacy Professionals (IAPP) certification — CIPP, CIPM, or CIPT — is a plus.\nPrior data privacy-related consulting experience is a plus."
+},
+{
+"title": "Data engineer",
+"company": "SHIL Technologies, Inc",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752292",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "DR Planning and Operations Specialist",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=e7cba966a1d4d927",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T120406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Firewalls",
+"Hardware setup",
+"Jira"
+],
+"req": "Working with technology partners to support all Disaster Recovery Runbooks and Orchestration Playbook tasks  Designing, developing, implementing, and maintaining tools and reports for Disaster Recover\nScripting and automation experience, AI and Machine Language.\nStrong communication and ability to communicate effectively with diverse stakeholders, from technical specialists to senior managers. Nice to Have  Knowledge of Cutover Recover and Cutover Responder t\nOpportunities to do challenging work LI-POST TECHPJ Job Skills Business Continuity and Disaster Recovery (BCDR), Customer Service, Data Center Administration, Decision Making, Group Problem Solving, H"
+},
+{
+"title": "Procurement Analyst",
+"company": "Sourcewell",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=7374ad3c413e1a42",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://sourcewell.wd1.myworkdayjobs.com/en-US/SWCareers/job/Staples-MN/Procurement-Analyst_R-1848",
+"salary": "$67,360 - $84,200 USD per year",
+"req": "Assists Procurement Analyst II in collaborating regularly with Sourcewell’s Category Development Administrators and Supplier Development Administrators in order to continuously improve processes criti\nAssists with the internal processes of the department under the guidance of the Procurement Manager or Senior Procurement Analyst:  Ensures the accuracy and validity of documents and records.\nAssists with researching select solicitation categories as empowered by the Procurement Manager or Senior Procurement Analyst.\nAssists with modifications of CRM entries and reports within Procurement Department. Works with Procurement Manager or Senior Procurement Analyst in determining the need for new reports in CRM to be u\nParticipates in the internal processes of the Procurement Department to include:  Checks validity of documents and records.\nSecondary Duties and Responsibilities ----------------------------------------- 1. Acts as Procurement Department project management resource:  Assists with project management for procurement related \n2. Supports Procurement Document Specialist and other Procurement Team members as needed. 3. Other duties as assigned. Additional Job Description: Required Qualifications ---------------------------  "
+},
+{
+"title": "Software developer",
+"company": "CIeNET International",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752670",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software developer",
+"company": "49 Solutions",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752684",
+"source": "Job Bank",
+"country": "CA",
+"years": 15
+},
+{
+"title": "HUMAN RESOURCE ANALYST (9-MONTH TERM)",
+"company": "Manitoba Hydro",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=74a31d80cccbba2a",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI4RDQ2OTY1MTZDQTgzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
+"salary": "$37.10-$51.34",
+"skills": [
+"Power BI",
+"Excel",
+"Statistics",
+"Microsoft 365",
+"SAP"
+],
+"req": "Participate on cross-functional teams to provide expertise, knowledge, and advice on leveraging data and analytics to drive optimal business outcomes.\nKeep abreast of technological advances to address various needs of the department and other customers. Qualifications:  Related four-year university degree (e.g., Social Sciences, Statistics, Commerce\nKnowledge and experience with application system projects, system maintenance and support, including testing.\nExperience with SAP S/4HANA of SAP Success Factors considered an asset.\nA problem solver who is comfortable being hands on with demonstrated ability and experience in driving continuous improvement.\nCapable of managing fluctuating workload, setting priorities and meeting deadlines, with minimum direction."
+},
+{
+"title": "CYBER SECURITY ANALYST",
+"company": "Manitoba Hydro",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=0eafe99028a533a7",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI4RDZEMzJFNzk2NUMzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
+"salary": "$40.44-$55.99",
+"skills": [
+"Cybersecurity",
+"Vulnerability management",
+"Microsoft 365"
+],
+"req": "Develop and maintain good working relationships with industry contacts for the purpose of information exchange and to keep abreast of technology innovation and directions. Develop and maintain  good w\nEntry level cyber security certification(s) with organizations such as ISACA or ISC 2 would be an asset."
+},
+{
+"title": "Data entry clerk",
+"company": "S.R.T. MedStaff",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752685",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "TECHNICAL ASSISTANT",
+"company": "Manitoba Hydro",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=bab98e0af7db60ff",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://careers.hydro.mb.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9MDA1MDU2QTlFOTY1MUZFMUI4RDM3MDk5RjE4M0MzODgmY2FuZF90eXBlPUVYVA%3d%3d&sap-theme=sap_corbu&sap-client=100&sap-language=EN",
+"salary": "$41.26-$57.11",
+"req": "Enjoy a work schedule that typically provides every second Monday off (subject to location and operational requirements), supporting a balanced approach to work, family life and community. Position Ov\nDetermine requirements, obtain or negotiate for offers of easement or land purchase, tree trimming, brush clearing, permission for new extensions, and distribution line relocations. Carry out land tit\nConsult, negotiate, and coordinate with other internal departments and external authorities on joint-use projects regarding design requirements, cost/resources and scheduling. External authorities may\nProvide comprehensive advice as required to Distribution Construction and other customers on alternative designs.\nConduct field visits with Construction, Operations, Sales, Apparatus Maintenance and the public to evaluate suggestions for design, modifications, equipment and land purchase options. Make on-site des\nReview \"As Built\" drawings to verify the accuracy of the drawings and the correct completion of the field work. Qualifications:  Long-term electrical apprenticeship resulting in Power Line Technician \nPrevious experience in successfully developing work order packages for high profile and sensitive distribution projects."
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "JD Development Group",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752644",
+"source": "Job Bank",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "ADECCO",
+"location": "Bath, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752686",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "R00122184 Workday Business Analyst 2 or 3 - Grants Mgmt/Financials",
+"company": "Nunez Community College",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=38d15a27be8d0ade",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553157/r00122184-workday-business-analyst-2-or-3-grants-mgmt-financials",
+"salary": "$68,250 - $91,840 USD per year",
+"skills": [
+"Help desk / troubleshooting",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "Data Validation & Quality Analyst",
+"company": "General Motors",
+"location": "2 Locations, Canada",
+"posted": "2026-11-18",
+"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Data-Validation---Quality-Analyst_JR-202623986",
+"source": "General Motors careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst, Enterprise Data & Cloud Migration",
+"company": "General Motors",
+"location": "2 Locations, Canada",
+"posted": "2026-11-18",
+"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Business-Analyst--Enterprise-Data---Cloud-Migration_JR-202623987",
+"source": "General Motors careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "Island Health",
+"location": "Victoria, BC, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=4804e4ab40152222",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://islandhealth.hua.hrsmart.com/pm_module/cgi-bin/click.cgi?job_id=238605&site_id=148",
+"skills": [
+"Excel",
+"Statistics",
+"Microsoft 365"
+],
+"req": "Job Description: In accordance with the Vision, Purpose, and Values, and strategic direction of the Vancouver Island Health Authority (Island Health) patient and staff safety is a priority and a respo\nQUALIFICATIONS:  Education, Training And Experience A level of education, training, and experience equivalent to a Bachelor's Degree in a related discipline such as health information sciences, busine\nThree years of experience working in projects.\nProven ability to work in a dynamic environment with a variety of disciplines, to maintain and foster good working relationships including tact and diplomacy in dealing with a variety of work situatio"
+},
+{
+"title": "Informatics security analyst",
+"company": "Nova Scotia Power Inc.",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-18",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50752749",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Support Engineer",
+"company": "PlaySight",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=012be67c47eb8843",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/customer-support-engineer-012be67c47eb8843",
+"salary": "$50,000 - $75,000 USD per year",
+"skills": [
+"SQL",
+"Firewalls",
+"Windows",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Department PlaySight Customer Support Reports To Customer Support Team Leader Travel Frequent travel required Languages English (required) · Russian (advantage) ABOUT THE ROLE As a Customer Support En\nEscalate unresolved issues through PlaySight’s defined procedures and document every action taken in Freshdesk.Careers CONFIDENTIAL WHAT YOU'LL BRING The table below shows what we’re looking for. We k\nGain hands-on experience across the full hardware/software stack — no two days are the same."
+},
+{
+"title": "R00122181 Workday Business Analyst 2 or 3 - Payroll/HR",
+"company": "Grambling State University",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=3104976c7bacaef6",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553121/r00122181-workday-business-analyst-2-or-3-payroll-hr",
+"salary": "$68,250 - $91,840 USD per year",
+"skills": [
+"Help desk / troubleshooting",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "R00122184 Workday Business Analyst 2 or 3 - Grants Mgmt/Financials",
+"company": "Grambling State University",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=a1944bd972a7f9c1",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www.governmentjobs.com/careers/louisiana/jobs/5553157/r00122184-workday-business-analyst-2-or-3-grants-mgmt-financials",
+"salary": "$68,250 - $91,840 USD per year",
+"skills": [
+"Help desk / troubleshooting",
+"Testing (unit, automated)"
+]
+},
+{
+"title": "IT Service Center Analyst",
+"company": "Hurley Medical Center",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=6b25b6790df1c77b",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://fa-evlb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/20260846",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Provides end-user support and resolution for desktop hardware, software, LAN, WAN, VPN, E-mail, Internet, Intranet, telecommunication devices, and administrative computing related issues.\nProvides support for enterprise wide systems and applications including Outlook, Epic, Lawson, Web Reporting, IDoc, Obix, Security Access systems, Radiology Imaging, Facilities monitoring, interface m\nResponsible for active monitoring of critical data center internal and external systems and environment.Maintains a super user level proficiency with EPIC functionality to provide effective first leve\nPerforms other related duties as required. Utilizes new improvements and/or technology that relate to job assignment.\nHigh school graduate and/or GED equivalent.\nDemonstrated analytical and problem solving abilities including proven expertise in isolating and resolving complex computer related issues.\nStrong organizational skills with the ability to work independently while maintaining strong team interactions. PREFERRED  Associates degree or equivalent college credits towards a degree in Computer \nPrevious experience working in an IT helpdesk, call center or other IT operations center.\nPrevious experience working in healthcare.\nOne (1) year working experience supporting and maintaining a Microsoft Windows environment in a corporate setting."
 },
 {
 "title": "Vendor Cyber Risk Assessment Analyst, Deloitte Global Technology",
