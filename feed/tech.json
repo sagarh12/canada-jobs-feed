@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-17T23:59:47+00:00",
+"updated": "2026-11-18T00:09:48+00:00",
 "jobs": [
 {
 "title": "International People Ops Analyst, Benefits",
@@ -562,7 +562,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192582&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192582%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D97c793c6-e21d-11f1-ab5f-29fe8fd450c8%26rx_job%3DR-0000192582%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T220406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192582&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192582%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D97c793c6-e21d-11f1-ab5f-29fe8fd450c8%26rx_job%3DR-0000192582%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T000406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Ticketing (ServiceNow, Jira)",
 "Help desk / troubleshooting",
@@ -5867,6 +5867,201 @@
 "req": "At Zotec Partners, our People make it happen. Transforming the healthcare industry isn’t easy. But when you build a team like the one we have, that goal can become a reality. Our accomplishments can’t"
 },
 {
+"title": "Cloud administrator",
+"company": "Dickson Chartered Professional Accountants",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-17",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50750556",
+"source": "Job Bank",
+"country": "CA",
+"years": 4
+},
+{
+"title": "Full Stack Developer",
+"company": "KNNX Corp.",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=7b49a5aa50f2fce8",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/full-stack-developer-7b49a5aa50f2fce8",
+"salary": "$61,500.00-$145,000.00 per year",
+"skills": [
+"Java",
+"JavaScript",
+"TypeScript",
+"React",
+"Spring Boot",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"LangChain",
+"PostgreSQL",
+"Vector databases",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"GitLab",
+"Git",
+"Linux",
+"Microservices",
+"Infrastructure as code",
+"Monitoring",
+"Help desk / troubleshooting",
+"System design",
+"SDLC"
+],
+"req": "Senior Full-Stack Engineer (AI Agents & Cloud Platform) About the Role We are looking for a highly motivated Senior Full-Stack Engineer to help build the next generation of AI-powered products and pla\nContribute to engineering best practices, code reviews, and technical documentation. Required Qualifications  Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent prac\n3-7 years of professional software engineering experience.\nStrong hands-on experience with Java and Spring Boot.\nStrong experience with React and modern JavaScript/TypeScript development.\nExperience designing and optimizing PostgreSQL databases.\nExperience deploying and operating applications on Azure or AWS.\nExperience with Git-based development workflows.\nAbility to work independently and deliver end-to-end solutions. Preferred Qualifications  Experience with cloud infrastructure and platform engineering.\nExperience with Docker and Kubernetes.\nExperience with Infrastructure as Code (Terraform, CloudFormation, Bicep, or similar).\nExperience building and operating microservices architectures.\nExperience implementing CI/CD pipelines using GitHub Actions, GitLab CI/CD, Azure DevOps, Jenkins, or similar tools.\nExperience with observability, monitoring, and logging platforms.\nExperience supporting production systems and participating in on-call rotations. AI Engineering & Agent Development RequirementsWe are looking for engineers who embrace AI-native software development \nExperience r"
+},
+{
+"title": "Financial Analyst",
+"company": "Malek el Shawarma",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=ebce8bd304633348",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/financial-analyst-ebce8bd304633348",
+"salary": "$51,300.00-$151,000.00 per year",
+"skills": [
+"SQL",
+"VBA",
+"Power BI",
+"Tableau",
+"Excel",
+"Data visualization",
+"Oracle",
+"SAP"
+]
+},
+{
+"title": "IT Systems Administrator",
+"company": "Roadpost",
+"location": "Etobicoke, ON, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=ab6a280f21feaf87",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://roadpost.applytojob.com/apply/8ZTcMRQkXN/IT-Systems-Administrator?source=INDE&~",
+"salary": "$95,000-$110,000 CAD",
+"skills": [
+"SQL",
+"REST APIs",
+"MySQL",
+"SQL Server",
+"AWS",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"IAM",
+"Firewalls",
+"NIST / ISO 27001",
+"Encryption / PKI",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"Jira"
+],
+"req": "Who We Are At Roadpost, we've spent years building trust with people who need to stay connected beyond cell coverage, in the world's most remote places. That work led to ZOLEO, our global messaging pl\nMake Everyday Work Better. Turn undocumented fixes into useful runbooks. Spot recurring friction and suggest practical improvements. Use AI and automation to help troubleshoot, draft documentation, an\nMicrosoft 365 and Device Administration. Hands-on experience with Microsoft 365, Entra ID or Active Directory, and endpoint management tools such as Intune, Jamf, or equivalent. Working knowledge of W\nInfrastructure and Networking. Working knowledge of servers, storage, virtualization, backups, and cloud services. Experience with Fortinet/FortiGate firewalls and VPNs, and AWS VPC networking, includ\nApplications and Databases. Experience administering JIRA/Confluence and working knowledge of database administration, preferably Microsoft SQL Server and MySQL.\nInclusive by Nature. A values-driven workplace where diverse perspectives are celebrated. Apply Now Our recruitment process may use artificial intelligence tools, alongside human review, to assist wit"
+},
+{
+"title": "Help Desk Technician I",
+"company": "GoEngineer",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=550c5dd632ad9e43",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.goengineer.com/jobs/739739-help-desk-technician-i",
+"salary": "$80,000 - $83,400 CAD",
+"skills": [
+"Azure",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting"
+],
+"req": "Assist with onboarding and technology setup for new users. We are looking for candidates with the below experience and skills, however, even if you do not meet all the listed requirements, very intere"
+},
+{
+"title": "Field Service Technician - Vancouver (Temporary)",
+"company": "BFG Enterprise Services",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=101a2f791fad0930",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.bfg.ca/jobs/739773-field-service-technician-vancouver-temporary",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+"
+],
+"req": "Employment Type: Temporary (duration to be determined), with the possibility of becoming permanent based on business needs. Role: Responsible for providing field technical service and support at BFG E"
+},
+{
+"title": "Junior Fullstack Developer (Python)",
+"company": "AlayaCare",
+"location": "",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4490146775",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Engineer - Co-op/Intern",
+"company": "Lumentum",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4490904451",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Infrastructure System Engineer",
+"company": "CIeNET International",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=8a5f8094311394ac",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://apply.workable.com/j/5E46C033B6",
+"skills": [
+"Python",
+"Bash/Shell",
+"Docker",
+"Kubernetes",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Embedded systems"
+],
+"req": "Log & Metric Analysis: Dive into installer logs, operating system metrics, and orchestration workflow histories to determine why a deployment or hardware qualification step failed.\nCollaboration: Act as the bridge between software development, DevOps, and hardware operations teams to drive rapid resolution of blockers. Required Skills & Qualifications Technical Skills:  Linux/OS\nContainerization & Orchestration: Practical experience troubleshooting in Kubernetes environments (e.g., K3s, custom distributions), CNI plugins, and workload scheduling.\nTicketing & Tracking Systems: Experience using ticket systems to manage, escalate, and organize operational tasks. Soft Skills:  Problem-Solving: Strong analytical and troubleshooting skills with the \nCross-Time Zone Collaboration: Ability to pass off tasks smoothly to global counterparts at the end of a shift (handoff reporting). Preferred Qualifications  Bootstrap/Deployment Experience: Experienc\nDCIM/IPAM Tools: Prior experience working with tools like NetBox or other DCIM/Inventory management systems. Education and Experiences  Bachelor's degree in Information Technology, Computer Science, o\n2+ years of computer networking experience  2+ years of Linux Operating System experience Benefits  Extended group insurance including prescription drugs, dental and vision cares.\n15 days annual vacation. CIeNET offers equal opportunities to people. Accommodation is available for applicants with disabilities upon required. We would like to th"
+},
+{
 "title": "Enterprise Solution Engineer - South East",
 "company": "Sigma Computing",
 "location": "Remote · United States",
@@ -9116,7 +9311,7 @@
 "req": "Are you someone who enjoys being part of a high-performing team and feels accomplished after a productive day completing a variety of tasks? Join a team that sets the standard in automotive industry a\nAre you available to work full time? Monday-Friday-8:30-5pm Experience:  Administrative: 2 years (required)  Dealership : 2 years (preferred) Work Location: In person"
 },
 {
-"title": "Specialist, Identity & Access Management",
+"title": "Specialist, Identity & Access Management & Mainframe",
 "company": "Canada Mortgage and Housing Corporation (CMHC)",
 "location": "Ottawa, ON, CA",
 "posted": "2026-11-16",
@@ -9124,14 +9319,14 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://careers.cmhc-schl.gc.ca/job/Ottawa-Specialist%2C-Identity-&-Access-Management/608050617/",
+"apply": "https://careers.cmhc-schl.gc.ca/job/Ottawa-Specialist%2C-Identity-&-Access-Management-&-Mainframe/608050617/",
 "salary": "$ 86,816.59 to $ 108,520.74",
 "skills": [
 "Cybersecurity",
 "IAM",
 "CompTIA Security+"
 ],
-"req": "While positions at CMHC require some in-office presence, alternative work arrangements may be considered for Indigenous candidates. About the role Join the IT Security Team, in the Specialist, Identit\nLead end‑to‑end access reviews for assigned systems, challenging access appropriateness and driving required remediation.\nDrive continuous improvement of IAM controls and processes, exercising sound judgment in non‑standard scenarios and escalating systemic risks as needed. What you should have:  A bachelor’s degree in I\nRelevant certification required or in progress (e.g., Security+, IAM‑related certification).\nA minimum of 5 years of experience in identity and access management, IT operations, or security‑related roles.\nDemonstrated experience administering identity lifecycle and access provisioning controls."
+"req": "While positions at CMHC require some in-office presence, alternative work arrangements may be considered for Indigenous candidates. About the role Join the IT Security Team, in the Specialist, Identit\nLead end‑to‑end access reviews for assigned systems, challenging access appropriateness and driving required remediation.\nDrive continuous improvement of IAM controls and processes, exercising sound judgment in non‑standard scenarios and escalating systemic risks as needed. What you should have:  A bachelor’s degree in I\nRelevant certification required or in progress (e.g., Security+, IAM‑related certification).\nA minimum of 5 years of experience in mainframe support and identity and access management, IT operations, or security‑related roles.\nDemonstrated experience administering identity lifecycle and access provisioning controls."
 },
 {
 "title": "AI Engineer – Generative AI & Agentic Systems",
@@ -14951,7 +15146,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619147&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18485645-technical-intern%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dcd4ba9f1-e20c-11f1-a42f-9fb151d7230b%26rx_job%3D2619147%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619147",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619147&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18485645-technical-intern%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dcd4ba9f1-e20c-11f1-a42f-9fb151d7230b%26rx_job%3D2619147%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619147",
 "salary": "$40,000",
 "skills": [
 "Machine learning",
@@ -15651,7 +15846,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619171&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18488049-tier-1-soc-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Da2fca8d5-e260-11f1-b391-b9c81195fa2a%26rx_job%3D2619171%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619171",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619171&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18488049-tier-1-soc-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Da2fca8d5-e260-11f1-b391-b9c81195fa2a%26rx_job%3D2619171%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619171",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "LLMs / GenAI",
@@ -16099,7 +16294,7 @@
 "years": null
 },
 {
-"title": "Specialist, Identity & Access Management",
+"title": "Specialist, Identity & Access Management & Mainframe",
 "company": "Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)",
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-16",
@@ -17139,6 +17334,126 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-16",
 "link": "https://www.linkedin.com/jobs/view/4491533381",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Co-op – Fall 2027",
+"company": "Jacobs",
+"location": "Burnaby, British Columbia, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4491539801",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer",
+"company": "CCX Technologies",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490632809",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Co-op Student, Clinical Services",
+"company": "WorkSafeBC",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4491527791",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Advisor",
+"company": "KORE",
+"location": "Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490157557",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Support Analyst",
+"company": "smartTrade Technologies",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4436794370",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack App Developer (Intermediate)",
+"company": "AutoAlign AI",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490644310",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Epic Application Analyst - Patient Flow",
+"company": "University Health Network",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4491549304",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Implementation Specialist (Variable Ops Experience Required)",
+"company": "Tekion Corp",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4470634109",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Genesys Cloud - Business Analyst",
+"company": "Ateko, backed by Bell Canada",
+"location": "",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4481169143",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Procurement Analyst",
+"company": "Supply Ontario",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490934534",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Human Resources Analyst",
+"company": "TEEMA",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4490697529",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Financial Analyst - CONTRACT: 20-months",
+"company": "KIK Consumer Products",
+"location": "Concord, Ontario, Canada",
+"posted": "2026-11-16",
+"link": "https://www.linkedin.com/jobs/view/4483068513",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -19733,7 +20048,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695222-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695222-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D815c7f5e-e21e-11f1-a936-43109fe30734%26rx_job%3D200695222-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261117T220408Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695222-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695222-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D815c7f5e-e21e-11f1-a936-43109fe30734%26rx_job%3D200695222-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T000409Z%26rx_vp%3Dcpc",
 "salary": "$119,100",
 "skills": [
 "Swift",
