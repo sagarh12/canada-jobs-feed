@@ -1,17 +1,17 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,3513,834,3513,2026-11-19
 2,SQL,Language,24%,1934,494,1934,2026-11-19
-3,REST APIs,Framework,23%,1875,468,1875,2026-11-19
+3,REST APIs,Framework,23%,1876,469,1876,2026-11-19
 4,Python,Language,23%,1822,470,1822,2026-11-19
 5,Excel,Data & AI,21%,1683,414,1683,2026-11-19
 6,Hardware setup,IT support,19%,1494,332,1494,2026-11-19
-7,System design,Practice,18%,1447,335,1447,2026-11-19
+7,System design,Practice,18%,1448,336,1448,2026-11-19
 8,Azure,Cloud & DevOps,16%,1280,339,1280,2026-11-19
 9,Microsoft 365,IT support,16%,1279,320,1279,2026-11-19
 10,Agile / Scrum,Practice,15%,1191,284,1191,2026-11-19
 11,Git,Cloud & DevOps,13%,1058,270,1058,2026-11-19
-12,CI/CD,Cloud & DevOps,13%,1037,270,1037,2026-11-19
-13,AWS,Cloud & DevOps,13%,1022,260,1022,2026-11-19
+12,CI/CD,Cloud & DevOps,13%,1038,271,1038,2026-11-19
+13,AWS,Cloud & DevOps,13%,1023,261,1023,2026-11-19
 14,Windows,IT support,13%,1014,246,1014,2026-11-19
 15,Cybersecurity,Security,11%,908,219,908,2026-11-19
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,903,219,903,2026-11-19
@@ -30,7 +30,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 29,Machine learning,Data & AI,7%,541,120,541,2026-11-19
 30,HTML/CSS,Language,7%,528,116,528,2026-11-19
 31,Docker,Cloud & DevOps,7%,523,145,523,2026-11-19
-32,Monitoring,Cloud & DevOps,6%,488,127,488,2026-11-19
+32,Monitoring,Cloud & DevOps,6%,489,128,489,2026-11-19
 33,Kubernetes,Cloud & DevOps,6%,484,125,484,2026-11-19
 34,React,Framework,6%,480,117,480,2026-11-19
 35,TypeScript,Language,6%,462,129,462,2026-11-19
@@ -46,11 +46,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 45,Firewalls,Security,5%,378,99,378,2026-11-19
 46,.NET,Framework,5%,377,102,377,2026-11-19
 47,Tableau,Data & AI,4%,345,104,345,2026-11-19
-48,Embedded systems,Practice,4%,333,81,333,2026-11-19
-49,Incident response,Security,4%,331,86,331,2026-11-19
+48,Embedded systems,Practice,4%,334,82,334,2026-11-19
+49,Incident response,Security,4%,332,87,332,2026-11-19
 50,ITIL,Certification,4%,327,79,327,2026-11-19
 51,C++,Language,4%,323,78,323,2026-11-19
-52,Terraform,Cloud & DevOps,4%,316,92,316,2026-11-19
+52,Terraform,Cloud & DevOps,4%,317,93,317,2026-11-19
 53,SOC,Security,4%,312,68,312,2026-11-19
 54,Google Workspace,IT support,4%,302,80,302,2026-11-19
 55,Data visualization,Data & AI,4%,301,77,301,2026-11-19
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-19
 155,Keras,Data & AI,0%,1,0,1,2026-11-19
 
-,Based on 8015 postings in the last 30 days (8015 all time)
+,Based on 8016 postings in the last 30 days (8016 all time)
