@@ -1,23 +1,31 @@
 {
- "updated": "2026-11-19T19:09:50+00:00",
- "mode": "quick",
- "last_full": "2026-11-19T18:49:49+00:00",
+ "updated": "2026-11-19T19:19:49+00:00",
+ "mode": "full",
+ "last_full": "2026-11-19T19:19:49+00:00",
  "searches_run": {
   "Tech company boards": 129,
   "Employer boards": 77,
-  "Employer career sites": 54
+  "Employer career sites": 522,
+  "Job Bank": 26,
+  "Indeed": 234,
+  "LinkedIn": 14,
+  "Indeed (US remote)": 26
  },
  "found_this_run": {
   "Tech company boards": 90,
   "Employer boards": 40,
-  "Employer career sites": 126
+  "Employer career sites": 2008,
+  "Job Bank": 599,
+  "Indeed": 2454,
+  "LinkedIn": 280,
+  "Indeed (US remote)": 552
  },
- "in_feed": 1507,
- "us_remote_in_feed": 490,
- "with_years": 662,
- "jobbank_postings_opened": 0,
- "alerts_sent": 0,
- "keyword_jobs_added": 0,
+ "in_feed": 1523,
+ "us_remote_in_feed": 496,
+ "with_years": 667,
+ "jobbank_postings_opened": 29,
+ "alerts_sent": 3,
+ "keyword_jobs_added": 11,
  "zero_streak": {
   "Indeed": 0,
   "LinkedIn": 0,
@@ -26,5 +34,5 @@
   "Employer boards": 0,
   "Tech company boards": 0
  },
- "seconds": 76
+ "seconds": 516
 }
