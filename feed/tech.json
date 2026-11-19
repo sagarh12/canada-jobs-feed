@@ -1,6 +1,44 @@
 {
-"updated": "2026-11-19T21:19:48+00:00",
+"updated": "2026-11-19T21:29:51+00:00",
 "jobs": [
+{
+"title": "Forward Deployed AI Engineer, Travel Intelligence",
+"company": "Hopper",
+"location": "Canada - Remote; Toronto - Remote; Ontario - Remote; Alberta - Remote; Canada",
+"posted": "2026-11-19T21:27:41.686+00:00",
+"link": "https://jobs.ashbyhq.com/hopper/7b406c91-9059-437c-9af7-a720b98ee253",
+"source": "Hopper careers",
+"country": "CA",
+"years": null,
+"skills": [
+"Python",
+"SQL",
+"PyTorch",
+"Hugging Face",
+"Ticketing (ServiceNow, Jira)",
+"Embedded systems"
+],
+"req": "Working experience with supervised fine-tuning and at least one of preference optimization or reinforcement learning, including parameter-efficient methods such as LoRA\nConfidence presenting to and pushing back on senior customer stakeholders, including data and technology leaders\nBonus: forward-deployed, applied research or applied AI experience at an AI-native company that trains its own models for a domain\nBonus: multilingual training and evaluation, or experience with travel, airline or banking systems and data such as PSS, GDS, NDC, ticketing, loyalty and contact-centre data\nBonus: experience with agent systems and tool use, or working alongside a research team to turn their methods into results at a customer\nAt Hopper, we’re building the leading travel technology platform in the world, and we’re doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (H\nBillions of dollars in travel and travel fintech move through Hopper and HTS every year."
+},
+{
+"title": "Forward Deployed AI Engineer, Travel Intelligence",
+"company": "Hopper",
+"location": "Remote · United States",
+"posted": "2026-11-19T21:27:40.041+00:00",
+"link": "https://jobs.ashbyhq.com/hopper/1814729f-bf68-45cb-8710-aa733714a91b",
+"source": "Hopper careers",
+"country": "US",
+"years": null,
+"skills": [
+"Python",
+"SQL",
+"PyTorch",
+"Hugging Face",
+"Ticketing (ServiceNow, Jira)",
+"Embedded systems"
+],
+"req": "Working experience with supervised fine-tuning and at least one of preference optimization or reinforcement learning, including parameter-efficient methods such as LoRA\nConfidence presenting to and pushing back on senior customer stakeholders, including data and technology leaders\nBonus: forward-deployed, applied research or applied AI experience at an AI-native company that trains its own models for a domain\nBonus: multilingual training and evaluation, or experience with travel, airline or banking systems and data such as PSS, GDS, NDC, ticketing, loyalty and contact-centre data\nBonus: experience with agent systems and tool use, or working alongside a research team to turn their methods into results at a customer\nAt Hopper, we’re building the leading travel technology platform in the world, and we’re doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (H\nBillions of dollars in travel and travel fintech move through Hopper and HTS every year."
+},
 {
 "title": "Commercial Sales Engineer- West",
 "company": "Chainguard",
@@ -26247,37 +26285,6 @@
 "source": "Instacart careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Data Analyst, Revenue & Margin",
-"company": "Trulioo",
-"location": "Vancouver, BC; Canada",
-"posted": "2026-11-16T21:29:16.231+00:00",
-"link": "https://jobs.ashbyhq.com/trulioo/775fe1fa-c4a9-455b-9b3b-5bde05b8328e",
-"source": "Trulioo careers",
-"country": "CA",
-"years": null,
-"salary": "$1,000",
-"quals": [
-"Bachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Engineering, or Finance, or equivalent experien",
-"5 years in a data analyst, analytics engineer, or similar technical analytics role.",
-"Strong cross-functional communication, translating between engineering and product concepts and financial ones for both Data Science and Fin",
-"Exceptional attention to detail, since your work feeds vendor payments, revenue reporting, and customer invoicing."
-],
-"skills": [
-"Python",
-"SQL",
-"Airflow",
-"dbt",
-"ETL / data pipelines",
-"Power BI",
-"Tableau",
-"Looker",
-"Statistics",
-"Git",
-"Help desk / troubleshooting"
-],
-"req": "But Trulioo is more than a tech company. We are a united force of dedicated experts committed to establishing trust online - and we’re proud to be recognized as a BC Top Employer for the second consec\nReporting to the Senior Director, Data Science, the Data Analyst - Revenue & Margin will be responsible for owning the analytics infrastructure that turns raw transaction data into cost, revenue, and \nOwn and maintain the internally built COGS tracker, including the front-end portal for vendor contract terms and the backend database that stores them.\nBachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Engineering, or Finance, or equivalent experience.\n5 years in a data analyst, analytics engineer, or similar technical analytics role.\nExperience with the following tools/technology: Redshift (or an equivalent cloud data warehouse), Airflow (or an equivalent orchestration tool), SQL, and Python.\nFluency using AI as a routine part of your own work, with a repeatable process and a clear check on the output, plus experience building or introducing shared agents or tooling that other teams rely o\nExperience with usage-based, consumption, or transaction-based billing models.\nExperience with a BI/dashboarding tool (Looker, Tableau, Power BI, or similar).\nPrior experience translating contracts, quotes, or pricing agreements into code logic.\nAt Trulioo, we strive to create an interview experience that is transparent, engaging, and respectful of your"
 }
 ]
 }
