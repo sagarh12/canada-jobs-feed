@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T20:09:44+00:00",
+"updated": "2026-11-19T20:19:45+00:00",
 "jobs": [
 {
 "title": "Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad – Summer 2027, Fall 2027, Winter 2028, Summer 2028",
@@ -3136,6 +3136,116 @@
 "years": null
 },
 {
+"title": "IT Infrastructure Specialist",
+"company": "Raysa Enterprises Inc.",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=4e0f8f11d65f8cdd",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/it-infrastructure-specialist-4e0f8f11d65f8cdd",
+"skills": [
+"PowerShell",
+"AWS",
+"Azure",
+"Help desk / troubleshooting",
+"VMware / virtualization",
+"Embedded systems"
+],
+"req": "Create, update and maintain accurate technical documentation, including architecture diagrams, configuration records, operational procedures, recovery runbooks, and asset inventories. Nice to have - A"
+},
+{
+"title": "Database Engineer",
+"company": "Brock Solutions",
+"location": "Kitchener, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=ad32f661d76ec118",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.brocksolutions.com//Careers.aspx?req=DBE-KIT-26-2&type=JOBDESCR",
+"salary": "$60k-$100k",
+"skills": [
+"SQL",
+"SQL Server",
+"Azure"
+],
+"req": "University Degree or College Diploma in computer science, information systems/Technology or similar  Ability to clearly and effectively communicate with both non-technical and technical personnel  Abi"
+},
+{
+"title": "Engineer, Embedded Software",
+"company": "Analog Devices",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=aa2b66def9b13ee1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Canada-Vancouver/Engineer--Embedded-Software_R268243",
+"salary": "$11",
+"skills": [
+"Python",
+"C++",
+"C",
+"Bash/Shell",
+"Git",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"SDLC",
+"Embedded systems"
+],
+"req": "Develop and maintain technical documentation such as application notes, quick start guides, and user manuals for delivered software and tools. Minimum Qualifications:  Bachelor’s degree in Electrical \nPractical embedded software development experience beyond academic coursework, with proficiency in C and/or C++, including pointers, memory management, bit-level operations, and debugging.\nWorking knowledge of embedded processor architecture, memory-mapped peripherals, interrupts, and real-time concepts such as scheduling, synchronization, and concurrency; practical experience with bare\nHands-on experience with Git, code reviews, embedded debugging tools (e.g., GDB and JTAG/SWD), and software testing; ability to interpret datasheets and register-level documentation.\nAbility to independently deliver defined software tasks, troubleshoot technical issues, communicate design decisions and risks, and collaborate effectively with software and hardware engineers. Prefer\nExperience with Windows development (e.g., DLLs).\nExperience implementing and debugging device drivers and peripheral/communications interfaces such as SPI, I2C, and Ethernet.\nExperience with board bring-up, BSP development, and hardware/software integration, including diagnosing issues using debug probes and laboratory instruments.\nExperience with Python or shell scripting, automated build/test pipelines, and SDK release packaging; familiarity with tools such as vi and gdb. Why Join Us?\nCollaborate with a passionate an"
+},
+{
+"title": "Full-Time High School Mathematics Teacher (Science an Asset), OSSD Grades 9–12",
+"company": "Canada Outstanding International Education Group",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=d5622df2ac9fb070",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/full-time-high-school-mathematics-teacher-science-asset-ossd-grades-912-d5622df2ac9fb070",
+"salary": "$22.00–$27.00 per hour",
+"skills": [
+"Statistics"
+],
+"req": "Science teaching (as assigned): Teach Science courses where qualified, including labs and hands-on activities.\nStudent resources: Prepare supporting materials such as practice sets, formula and vocabulary sheets, learning skills and achievement charts, and exam preparation resources.\nStudent support: Identify each student’s strengths and gaps, and support students from diverse educational and linguistic backgrounds, including English language learners.\nCollaboration: Work with fellow teachers, the principal, guidance and student services staff to support student progress.\nCommunication: Keep clear, professional communication with students, parents and the administration team. What We Are Looking For  Bachelor’s degree in Mathematics or a related field such as Engineeri"
+},
+{
+"title": "Data entry operator",
+"company": "Ruito Trading Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50765609",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "IS PC Technician 1",
+"company": "FMOL Health",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=03e7c54d7c546867",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://eqtm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/52667",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "The IS Support Analyst I provides primary support services to internal users by effectively trouble-shooting, diagnosing and resolving user issues and work requests in accordance with service level ag\nPrepares, reviews and contributes to online support knowledgebase for FMOLHS applications and systems. Remains current with the latest trends in field of expertise by participating in ongoing training\nUtilizes IS project management methodology and best practices to improve individual and organizational efficiency, effectiveness, and outcomes. Experience:  2 years' experience in database application\nAssociate's degree in IT accounts for 1 year of experience. Education:  High School graduate or equivalent Special Skills:  Experience supporting MS Office, web-based applications, and remote users.\nExperience identifying and resolving hardware issues for laptops, desktops, and servers."
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -4070,7 +4180,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T180411Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T200407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Linux",
 "Networking (TCP/IP, DNS)",
@@ -7376,7 +7486,7 @@
 "req": "Grow Your Career with Us! Celebrating our 22nd anniversary this year, H2Safety Services Inc. is Canada’s largest provider of emergency response management services and solutions. Our team of industry-\nServe as the first point of contact for staff regarding office access issues, including troubleshooting and reporting lost fobs. Vendors, Purchasing & Inventory  Assist with IT purchasing requests:  L"
 },
 {
-"title": "IT Field Analyst I",
+"title": "IT Field Analyst I - Edmonton, Alberta",
 "company": "VC3",
 "location": "Edmonton, AB, CA (remote)",
 "posted": "2026-11-18",
@@ -10040,7 +10150,7 @@
 "VMware / virtualization",
 "Mobile (iOS / Android)"
 ],
-"req": "ON SITE, WA Posted 18 hours ago SERVICE DESK TECHNICIAN (Lacey, WA) CANDIDATES MUST BE LOCAL TO THE SERVICE AREA AND BE LEGALLY AUTHORIZED TO WORK IN THE UNITED STATES ON A FULL-TIME BASIS – INTERNATI"
+"req": "ON SITE, WA Posted 24 hours ago SERVICE DESK TECHNICIAN (Lacey, WA) CANDIDATES MUST BE LOCAL TO THE SERVICE AREA AND BE LEGALLY AUTHORIZED TO WORK IN THE UNITED STATES ON A FULL-TIME BASIS – INTERNATI"
 },
 {
 "title": "Tax Analyst Intern",
@@ -13305,6 +13415,46 @@
 "location": "Bolton, Ontario, Canada",
 "posted": "2026-11-18",
 "link": "https://www.linkedin.com/jobs/view/4492045757",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Engineer, Link",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4481790006",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "OT Network Engineer – Industrial Automation",
+"company": "Adecco",
+"location": "Fort McMurray, Alberta, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4480737444",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Engineer",
+"company": "MCAP",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491877740",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Administrator (Term Position)",
+"company": "Commissionaires Ottawa",
+"location": "",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491843889",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -21343,7 +21493,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 8,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619183&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18490377-duty-controller%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dbb65ef93-e2a3-11f1-8076-537128661718%26rx_job%3D2619183%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T180402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619183",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619183&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18490377-duty-controller%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dbb65ef93-e2a3-11f1-8076-537128661718%26rx_job%3D2619183%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T200403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619183",
 "salary": "$60,001 - $100,000 USD per year",
 "skills": [
 "Linux",
@@ -21904,7 +22054,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T180418Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T200416Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$85,000 - $110,000 USD per year",
 "skills": [
 "Java",
@@ -22038,7 +22188,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2621572&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative%2Fjob%2F2621572%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D05f5e359-e2c6-11f1-8097-7fdacd001780%26rx_job%3D2621572%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T180418Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2621572&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative%2Fjob%2F2621572%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D05f5e359-e2c6-11f1-8097-7fdacd001780%26rx_job%3D2621572%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T200416Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$17 - $23 USD per hour",
 "skills": [
 "Networking (TCP/IP, DNS)",
@@ -22121,7 +22271,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604939631?etd=MUVP6CXQ22IN5Y6HR2OVWLOMPZIYNWA7IYZDST72XA75ZT3EPPXEQK3337PVEZANNESDA6B3EREG2KOX3OHFIPTN2CGPTONBS63ARG2G2LAU222ZJRGQ%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604939631?etd=MUVP6CXQ22IN5Y6HR2OVWLOMPZIYNWA7IYZDST72XA75ZT3EPPXEQK3337PVEZANNESDA6B3EREG2KOX3OHFIPTN2CGPTONBS63ARGYBFVRKYHGLZGYA%3d%3d%3d%3d",
 "salary": "$17.95 - $21.09",
 "req": "Join our holiday team! We're hiring immediately for our busiest and most exciting time of the year! Whether you're looking to build new skills, gain experience, or be part of a great team, we'd love t"
 },
@@ -22368,7 +22518,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695603-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695603-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D1b898c44-e30a-11f1-acde-71e050ff558a%26rx_job%3D200695603-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261118T140458Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695603-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695603-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D1b898c44-e30a-11f1-acde-71e050ff558a%26rx_job%3D200695603-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T200407Z%26rx_vp%3Dcpc",
 "salary": "$119,100",
 "skills": [
 "Python",
@@ -25506,34 +25656,6 @@
 "source": "Twilio careers",
 "country": "US",
 "years": null
-},
-{
-"title": "IT Support Engineer",
-"company": "1Password",
-"location": "Canada",
-"posted": "2026-11-16T20:17:16.881+00:00",
-"link": "https://jobs.ashbyhq.com/1password/2bf6ea2d-82d0-4a40-9a46-60994f22cc50",
-"source": "1Password careers",
-"country": "CA",
-"years": null,
-"salary": "$500",
-"quals": [
-"Bring 3 or more years of experience in internal IT support, workplace technology, IT operations, or a related field.",
-"Troubleshoot moderately complex issues across identity and access, devices, software, Software as a Service (SaaS) applications, and workpla",
-"Apply practical knowledge of IT service management tools, including ticketing systems, knowledge bases, service catalogs, and support workfl",
-"Use basic scripting, Application Programming Interfaces (APIs), or technical integrations to improve troubleshooting and support workflows."
-],
-"skills": [
-"REST APIs",
-"Machine learning",
-"NLP",
-"Oracle",
-"Cybersecurity",
-"IAM",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting"
-],
-"req": "At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic\nThe IT Support team helps employees get the technology they need to do their best work. As an IT Support Engineer, you’ll combine hands-on troubleshooting with practical Artificial Intelligence (AI), \nBring 3 or more years of experience in internal IT support, workplace technology, IT operations, or a related field.\nUse support data and employee feedback to evaluate improvements, including resolution quality, time to resolution, repeat demand, self-service completion, and employee experience.\nHelp teammates adopt effective support practices while building deeper technical expertise in internal IT support.\nAt 1Password, we approach each individual's compensation with a promise of fair market value and internal equity commensurate with experience and specific skill set.\nYou’ll be part of a team that challenges the status quo, and is excited to experiment and iterate in search of the best solution. That said, 1Password is not for everyone https://blog.1password.com/in\n1Password is proud to be an equal opportunity employer. We are committed to fostering an inclusive, diverse and equitable workplace that is built on trust, support and respect. We welcome all individu\nRemote work is a part of our DNA. Given that our company was founded remotely in 2005, we can safely say we're experts"
 }
 ]
 }
