@@ -1,13 +1,13 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,3515,836,3515,2026-11-19
 2,SQL,Language,24%,1934,494,1934,2026-11-19
-3,REST APIs,Framework,23%,1877,470,1877,2026-11-19
+3,REST APIs,Framework,23%,1878,471,1878,2026-11-19
 4,Python,Language,23%,1822,470,1822,2026-11-19
 5,Excel,Data & AI,21%,1686,417,1686,2026-11-19
 6,Hardware setup,IT support,19%,1495,333,1495,2026-11-19
 7,System design,Practice,18%,1448,336,1448,2026-11-19
-8,Azure,Cloud & DevOps,16%,1281,340,1281,2026-11-19
-9,Microsoft 365,IT support,16%,1280,321,1280,2026-11-19
+8,Azure,Cloud & DevOps,16%,1282,341,1282,2026-11-19
+9,Microsoft 365,IT support,16%,1281,322,1281,2026-11-19
 10,Agile / Scrum,Practice,15%,1192,285,1192,2026-11-19
 11,Git,Cloud & DevOps,13%,1058,270,1058,2026-11-19
 12,CI/CD,Cloud & DevOps,13%,1038,271,1038,2026-11-19
@@ -15,7 +15,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 14,Windows,IT support,13%,1015,247,1015,2026-11-19
 15,Cybersecurity,Security,11%,909,220,909,2026-11-19
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,903,219,903,2026-11-19
-17,IAM,Security,11%,887,223,887,2026-11-19
+17,IAM,Security,11%,888,224,888,2026-11-19
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,878,217,878,2026-11-19
 19,Power BI,Data & AI,10%,798,200,798,2026-11-19
 20,JavaScript,Language,10%,785,190,785,2026-11-19
@@ -57,7 +57,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 56,PostgreSQL,Database,4%,300,73,300,2026-11-19
 57,Mobile (iOS / Android),Practice,4%,296,81,296,2026-11-19
 58,SAP,Practice,4%,295,63,295,2026-11-19
-59,NIST / ISO 27001,Security,4%,291,79,291,2026-11-19
+59,NIST / ISO 27001,Security,4%,292,80,292,2026-11-19
 60,Infrastructure as code,Cloud & DevOps,4%,282,78,282,2026-11-19
 61,macOS,IT support,3%,272,71,272,2026-11-19
 62,Node.js,Framework,3%,269,73,269,2026-11-19
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-19
 155,Keras,Data & AI,0%,1,0,1,2026-11-19
 
-,Based on 8021 postings in the last 30 days (8021 all time)
+,Based on 8022 postings in the last 30 days (8022 all time)
