@@ -1,6 +1,36 @@
 {
-"updated": "2026-11-19T01:39:48+00:00",
+"updated": "2026-11-19T01:49:51+00:00",
 "jobs": [
+{
+"title": "Software Developer - Java",
+"company": "KingswaySoft Inc.",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=b96c2b4d64665a27",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/software-developer-java-b96c2b4d64665a27",
+"salary": "$105,000.00 per year",
+"skills": [
+"Java",
+"SQL",
+"REST APIs",
+"Kafka",
+"PostgreSQL",
+"MySQL",
+"SQL Server",
+"Oracle",
+"AWS",
+"Azure",
+"Docker",
+"Microservices",
+"Testing (unit, automated)",
+"Object-oriented programming",
+"System design"
+],
+"req": "Company Overview KingswaySoft Inc. is a leading provider of integration solutions, dedicated to making data integration affordable and effortless. We serve thousands of enterprise clients across more \nA university degree (Bachelor's or higher) in Computer Science, Software Engineering, Information Technology, or a closely related quantitative/engineering discipline.\nProven track record of owning or contributing heavily to system design, technical roadmaps, and software component architecture. Required Skills:  Proficient in Java programming for enterprise-grade, \nPractical working experience implementing backend data layers, data integration workflows, and API connector frameworks (REST, SOAP, Web Services).\nExperience integrating messaging and streaming queuing architectures (such as Kafka, RabbitMQ, or equivalent middleware solutions).\nHands-on experience working within modern cloud platforms (AWS and/or Azure) to deploy scalable cloud services.\nStrong analytical, system-level problem-solving, and communication skills required to lead technical discussions. What do you actually do in this role?"
+},
 {
 "title": "Web Developer",
 "company": "",
@@ -58,36 +88,6 @@
 "SDLC"
 ],
 "req": "Overview As a Web Developer, you’ll build and improve web applications that are responsive, accessible, and easy to use. You’ll work across front-end development and back-end services, turning user fl\nParticipate in Agile software development, including planning, code reviews, and collaboration through tools such as Jira or Trello. Skills  Essential: Experience with web development, front-end devel"
-},
-{
-"title": "Software Developer - Java",
-"company": "KingswaySoft Inc.",
-"location": "Oakville, ON, CA",
-"posted": "2026-11-19",
-"link": "https://ca.indeed.com/viewjob?jk=b96c2b4d64665a27",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/software-developer-java-b96c2b4d64665a27",
-"salary": "$105,000.00 per year",
-"skills": [
-"Java",
-"SQL",
-"REST APIs",
-"Kafka",
-"PostgreSQL",
-"MySQL",
-"SQL Server",
-"Oracle",
-"AWS",
-"Azure",
-"Docker",
-"Microservices",
-"Testing (unit, automated)",
-"Object-oriented programming",
-"System design"
-],
-"req": "Company Overview KingswaySoft Inc. is a leading provider of integration solutions, dedicated to making data integration affordable and effortless. We serve thousands of enterprise clients across more \nA university degree (Bachelor's or higher) in Computer Science, Software Engineering, Information Technology, or a closely related quantitative/engineering discipline.\nProven track record of owning or contributing heavily to system design, technical roadmaps, and software component architecture. Required Skills:  Proficient in Java programming for enterprise-grade, \nPractical working experience implementing backend data layers, data integration workflows, and API connector frameworks (REST, SOAP, Web Services).\nExperience integrating messaging and streaming queuing architectures (such as Kafka, RabbitMQ, or equivalent middleware solutions).\nHands-on experience working within modern cloud platforms (AWS and/or Azure) to deploy scalable cloud services.\nStrong analytical, system-level problem-solving, and communication skills required to lead technical discussions. What do you actually do in this role?"
 },
 {
 "title": "Forward Deployed Engineer",
