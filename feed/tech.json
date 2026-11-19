@@ -1,6 +1,36 @@
 {
-"updated": "2026-11-19T16:39:51+00:00",
+"updated": "2026-11-19T16:49:50+00:00",
 "jobs": [
+{
+"title": "IT Site Specialist",
+"company": "Ramp",
+"location": "Remote · United States",
+"posted": "2026-11-19T16:43:34.003+00:00",
+"link": "https://jobs.ashbyhq.com/ramp/96fb14e0-c44f-409d-aeb4-b2e864bfa36f",
+"source": "Ramp careers",
+"country": "US",
+"years": 3,
+"salary": "$275",
+"quals": [
+"Minimum 3 years of hands-on IT support experience, ideally in a fast-paced or high-growth environment",
+"Strong knowledge in our core tech stack including Okta, Google Workspace, Slack, JAMF, Intune, Zoom, and various modern SaaS tools",
+"Experience with desk side support, ticket resolution, and knowing when to escalate to an engineering team",
+"Some hands-on exposure to IT automation or workflow tools, and an eagerness to build more"
+],
+"skills": [
+"Python",
+"Bash/Shell",
+"REST APIs",
+"IAM",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Hardware setup",
+"Google Workspace",
+"Embedded systems"
+],
+"req": "The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nTake ownership of small and large projects, working with various internal/external teams to accomplish goals\nMinimum 3 years of hands-on IT support experience, ideally in a fast-paced or high-growth environment\nExperience with desk side support, ticket resolution, and knowing when to escalate to an engineering team\nPractical AV and conference room experience, including large event support\nEmpathic, humble, and posses a strong focus on elevating end user experience\nExperience in high-growth startups\nExperience managing macOS/Windows in hybrid/remote environments.\nExperience with AI-assisted support tooling and workflow automation (e.g., Serval or similar)\nExperience coordinating hardware procurement with fulfillment vendors (e.g., Firstbase, SHI, CDW)\nGoogle Workspace or Okta Administrator experience\nExperience supporting onboarding and offboarding workflows alongside People Ops\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
+},
 {
 "title": "Financial Analyst, G&A",
 "company": "Cohere",
@@ -1399,6 +1429,292 @@
 "Embedded systems"
 ],
 "req": "Summary ----------- The employee serves as a structural engineer for the Federal Highway Administration (FHWA) Division office with responsibility for managing and promoting the Federal highway progra\nClarification from the agency This position will be filled using Direct Hire Authority; traditional rating and ranking, Veterans' Preference, and the 'Rule of Many' do not apply. Applications will be \nConduct engineering/special studies for evaluation of the State structures design and construction program and related matters; review and final acceptance of research proposals regarding structures, \nRequired documents must be submitted by the closing date.\nDirect Hire Authority/SME will be used to fill this position. CONDITIONS OF EMPLOYMENT: As a condition of employment for accepting this position, you may be required to serve a 1-year probationary per\nSELECTIVE SERVICE: Males born after 12/31/1959 must be registered for the Selective Service.\nGOVERNMENT TRAVEL CARD: This position involves travel. A government contractor-issued travel card will be issued and must be retained for official business only.\nBACKGROUND INVESTIGATION: A background security investigation is required for all selected individuals. Appointment will be subject to the applicant’s successful completion of the security investigati\nPCS/RELOCATION/RECRUITMENT: Permanent Change of Station (PCS), Relocation, and Recruitment Incentive authorization varies by position/selection and a service agreement may be require"
+},
+{
+"title": "AI Software Engineer",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=7af970ac9c0eb325",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/AI-Software-Engineer_R260032092",
+"salary": "$70,000.00 - $150,000.00",
+"skills": [
+"Python",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"ETL / data pipelines",
+"Vector databases",
+"Azure",
+"CI/CD",
+"Cybersecurity",
+"Embedded systems"
+],
+"req": "At the senior level, lead technical design for a product area, mentor engineers and set engineering patterns for reuse across teams.\nWhat you bring  3+ years of software engineering experience, including hands-on delivery of machine learning or generative AI solutions into production.\nStrong Python skills and experience with cloud platforms (Azure preferred), containers and CI/CD.\nPractical experience with LLM APIs, vector stores, retrieval patterns, and agent frameworks.\nNice to have  Experience in financial services, Capital Markets or Commercial Lending."
+},
+{
+"title": "Software Test Engineer",
+"company": "Test",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=96273d1c1c51d9fe",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/software-test-engineer-96273d1c1c51d9fe",
+"salary": "$58,000.00-$133,000.00 per year",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"SQL",
+"REST APIs",
+"MySQL",
+"SQL Server",
+"CI/CD",
+"Jenkins",
+"Git",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest",
+"Mobile (iOS / Android)"
+]
+},
+{
+"title": "Personal Assistant",
+"company": "",
+"location": "Surrey, BC, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=9658c2d81966a5a0",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/personal-assistant-9658c2d81966a5a0",
+"salary": "$25.00-$94,400.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Office Administrator",
+"company": "",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=25bff8b48f692eb3",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-25bff8b48f692eb3",
+"salary": "$20.00-$22.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Quality Engineer /SRE",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=7d99776602882c3a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quality-Engineer--SRE_R260032100",
+"salary": "$70,000.00 - $150,000.00",
+"skills": [
+"Python",
+"Java",
+"C",
+"REST APIs",
+"CI/CD",
+"Monitoring",
+"Incident response",
+"Testing (unit, automated)"
+],
+"req": "What you bring  5+ years of experience in quality engineering, SRE, DevOps or production support engineering.\nExperience with observability platforms, CI/CD, containers and cloud infrastructure."
+},
+{
+"title": "Data Engineering Intern",
+"company": "Canadian Solar",
+"location": "Kitchener, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=4d57ec0015701efa",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://canadiansolar.wd5.myworkdayjobs.com/eStorage/job/Kitchener-ON/Data-Engineering-Intern_10001603-2",
+"salary": "$20 - $25 per hour",
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"Data visualization",
+"AWS",
+"Git",
+"Linux",
+"Monitoring",
+"System design"
+],
+"req": "Participate in code reviews, testing, documentation, backlog refinement, and technical discussions. Required Qualifications and Skills:  Currently pursuing a degree in computer science, Software Engin\nBasic programming experience with Python.\nUnderstanding of basic data-engineering concepts such as: + ETL/ELT + Data ingestion/Data transformation  Familiarity with Linux and Git. Additional Asset Requirements:  Experience or coursework invol\nSustainability: We’re passionate about protecting our planet for future generations. Why You’ll Love Working With Us -----------------------------------  Join a global leader in renewable energy, back"
+},
+{
+"title": "Enterprise Asset Management Specialist",
+"company": "InnovMarine",
+"location": "Remote, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=b72ec4840654c1e4",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/enterprise-asset-management-specialist-b72ec4840654c1e4",
+"salary": "$75,000.00-$85,000.00 per year",
+"skills": [
+"SQL",
+"REST APIs",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Information Security Operations Advisor",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=65df99e832176898",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Information-Security-Operations-Advisor_R260029625-1",
+"salary": "$80,000.00 - $175,000.00",
+"skills": [
+"Cybersecurity",
+"Incident response"
+],
+"req": "Application Deadline: 12/14/2026 Address: 33 Dundas Street West Job Family Group: Technology AIJobsBFUTR Monitors, restores service, changes, supports and handles day-to-day activities 7/24/365 requir\nBuilds effective relationships with internal/external stakeholders.\nPrepares and delivers presentations for senior management.\nCollaborates with internal and external stakeholders in order to deliver on business objectives and to support operational activities for Information Security.\nProvides technical Information Security subject matter expertise.\nIdentifies opportunities to strengthen the capability of the Information Security organization at BMO, such as: sharing expertise to promote technical development and mentoring employees.\nQualifications:  Typically between 4 - 7 years of relevant experience and post-secondary degree in in Business or Computer Science, or a related field of study or an equivalent combination of formal t\nExperience in Information Security or with multiple areas of systems and computer operations (e.g. Identity & Access Management, IT operations, Certification & Key Management, Security Platform Admini\nKnowledge of Information Security support and operations concepts, practices, concepts, and technology obtained through formal training and work experience.\nDeep knowledge and technical proficiency gained through extensive education and business experience."
+},
+{
+"title": "Product Support Analyst",
+"company": "Long Tail Health Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=d1288de9b2f6dbb7",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://ats.rippling.com/lths-main/jobs/4e60002f-dbc1-4be8-934a-407f8f46b623?jobSite=Indeed",
+"salary": "$65,000 - $85,000 USD per year",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "About Long Tail Health Solutions Inc. Long Tail Health Solutions is a provider advocate, delivering a suite of technology-enabled services which discover and operationalize payer rules and behaviors t\nPreferred: Experience in a customer support or help desk role, ideally in SaaS or healthcare technology.\n2-4 years of customer support experience. Knowledge  Familiarity with support ticketing systems and basic troubleshooting workflows.\nDocumentation: Maintain accurate ticket records and contribute to a growing internal knowledge base of common issues and resolutions."
+},
+{
+"title": "GENERAL ENGINEER",
+"company": "US STRATEGIC SYSTEMS PROGRAMS (SSP)",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=080984554a40499e",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893341700",
+"salary": "$89,508 - $138,370 USD per year",
+"skills": [
+"Hardware setup"
+],
+"req": "Summary ----------- This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the \nClarification from the agency U.S. Citizens. Duties ----------  You will review the technical operations to be performed and analyze and define the system interfaces, equipment (COTS and special desig\nYou will collaborate within multidisciplinary Integrated Product Teams (IPTs) to coordinate technical project milestones, resolve engineering roadblocks, and support systems integration. Requirements \nMust be determined suitable for federal employment.\nMust participate in the direct deposit pay program.\nNew employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, \nMales born after 12-31-59 must be registered for Selective Service.\nYou will be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withd\nSuccessful completion of a pre-employment drug test (including marijuana) is required. A tentative offer of employment will be rescinded if you fail to report to the drug test appointment or fail the \nThis position may require travel from normal duty station to CONUS and OCONUS and may include remote or isolated sites. Yo"
+},
+{
+"title": "Nanofabrication and Semiconductor Package Failure Analysis Engineer",
+"company": "US National Institute of Standards and Technology",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=849dd9c5ce6120ac",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893397300",
+"salary": "$85,447 - $133,142 USD per year",
+"skills": [
+"LLMs / GenAI",
+"NIST / ISO 27001"
+],
+"req": "Summary ----------- NIST's Intelligent Systems Division is seeking a Nanofabrication and Semiconductor Package Failure Analysis Engineer to conduct cutting-edge research in nanofabrication and semicon\nClarification from the agency U.S. Citizens Duties ---------- NIST's Intelligent Systems Division leads efforts to develop, advance, and deploy measurement science and standards to accelerate the deve\nExperience with carrying out focused ion beam (FIB) and scanning electron microscopy (SEM)-based measurements and characterizations. OR 2. Master's or equivalent graduate degree OR 3. A combination of\nYou MUST select at least ONE ELIGIBILITY to be considered for this position.\nAll documents submitted for this announcement must be legible to make qualification or eligibility determinations.\nThe term may be extended for up to 6 years. NIST strives to build a flexible and encouraging work environment to bring out the best in our employees. To help our employees balance responsibilities at \nClick the Submit Application button prior to 11:59 PM (ET) on the announcement closing date. As part of the application process, you will be asked to respond to four narrative questions. While your re\nIf you are experiencing any difficulties with the online application process (anything after you have clicked the 'Apply Online' button), please contact the Agency Contact listed on this announcement \nAgency contact information Alyssa Silvas Email alyssa.silvas@nist.gov Address Intelligent Systems Divi"
+},
+{
+"title": "Dental Assistant (Expanded Function)",
+"company": "Federal Bureau of Prisons",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=6268054716fbe454",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893531900",
+"salary": "$55,339 - $69,569 USD per year",
+"req": "Summary ----------- Corrections professionals who foster a humane and secure environment and ensure public safety by preparing individuals for successful reentry into our communities. Learn more about\nClarification from the agency THIS IS A DELEGATED EXAMINING ANNOUNCEMENT OPEN TO ALL U.S. CITIZENS. • Duty Location: FCC Petersburg, VA Duties ---------- Prepares patients for dental treatment, equipm\nSelective Service Requirement  Qualifications To be considered for the position, you must meet the following qualification requirements: Public Law 97-35 requires that persons who administer radiologi\nPersons first employed by the Federal Government as radiologic personnel after the effective date of the regulation who (a) received training from institutions in a State or foreign jurisdiction that \nOther training comparable to the above in private or governmental hospitals, clinics, or schools that included formal classroom instruction and clinical training in the knowledge and skills required t\nExperience with the shipping and receiving of all lab cases sent to the dental laboratory and all necessary paperwork.\nExperience with the placement of a rubber dam and removal of temporary fillings with rotary slow-speed instruments during endodontic procedures. If applicable, credit will be given for paid and unpaid\nEducation ONLY if education is a requirement/substitution for specialized experience, applicant MUST upload legible transcripts as verification of educational requirement. Tra"
+},
+{
+"title": "Biological Science Laboratory Technician",
+"company": "US Agricultural Research Service",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=949a3f3dba0c7228",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893515000",
+"salary": "$50,460 - $80,243 USD per year",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting"
+],
+"req": "Summary ----------- This position is located within the Agricultural Research Service, Plains Area, Edward T. Schafer Agricultural Research Center, Cereal Crops Improvement Research in Fargo, ND. In t\nClarification from the agency US Citizens and Nationals; no prior Federal experience is required. Duties ----------  Independently develops or designs various aspects of research projects on the basis\nCollects, prepares, evaluates and verifies samples and supporting records. Requirements ----------------  Conditions of employment  You must be a US Citizen or US National.\nMales born after 12/31/1959 must be Selective Service registered or exempt.\nDirect Deposit - Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution.\nAs a condition of employment for accepting this position, you will be required to serve a 1-year probationary period unless previous federal service is creditable. During this time your employment wil\nThe work involves regular and recurring moderate risks or discomforts which require special safety precautions, e.g., working with contagious diseases or irritant chemicals or working outdoors. The em\nQualifications Applicants must meet all qualifications and eligibility requirements by the closing date of the announcement including specialized experience and/or education, as defined below. GS-07 S\nAdditional information  Career Transition Assistance Plan (CTAP), Reemployment Priority Lis"
+},
+{
+"title": "Recreation Fee Technician",
+"company": "U.S. National Park Service",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=e5a526c4c50f8347",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893283400",
+"salary": "$47,406 - $61,628 USD per year",
+"skills": [
+"Mobile (iOS / Android)"
+],
+"req": "Clarification from the agency This announcement is open to U.S. Citizens or Nationals; and Career transition eligibles (CTAP, ICTAP, RPL). Duties ----------  Serve as a front-line, uniformed represent\nProvide informal and formal training and education to employees, partners, volunteers, interns, cooperating association representatives, etc. regarding automated and non-automated fee processes, syste\nMales born after 12-31-59 must be registered for Selective Service.\nDirect Deposit participation required.\nYou may be required to work on-call, evenings, weekends, holidays, overtime, and shift work.\nMust have and maintain a valid driver's license throughout employment.\nYou are required to wear a uniform and comply with the uniform standards. A uniform allowance will be provided.\nYou may be required to complete training, obtain, and maintain a government credit card with travel and/or purchase authority.\nYou must be at least (1) 18 years old or (2) at least 16 years old and: (a) Have graduated from high school or been awarded a certificate equivalent to graduating from high school; or (b) Have complet\nAdditional Requirements located under Qualifications  Qualifications All qualifications must be met by the closing date of this announcement-11/25/2026-unless otherwise stated in this vacancy announce\nEducation This position does not allow substituting education for experience.\nAdditional information Additional vacancies may be filled using this job announcement. EXPLORE Act Veteran H"
+},
+{
+"title": "Data Engineer - AI",
+"company": "Princeton IT Services",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=c1c192d77092acc0",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "http://www.indeed.com/job/data-engineer-ai-c1c192d77092acc0",
+"salary": "$60 - $65 USD per hour",
+"skills": [
+"SQL",
+"Unity",
+"Spark",
+"ETL / data pipelines",
+"Databricks",
+"AWS",
+"Azure",
+"CI/CD",
+"System design"
+],
+"req": "Data Engineer (AI & Data) Job Title: Data Engineer Work Arrangement: 100% Remote Job Type : Contract Job Summary We are seeking an experienced Data Engineer with strong expertise in Databricks, PySpar\nCollaborate with data analysts, architects, and source-system teams to deliver reliable and high-quality data products. Required Skills  5+ years of experience in Data Engineering.\nStrong hands-on experience with Databricks, PySpark, and SQL.\nExpertise in Delta Lake, ETL/ELT, and large-scale data processing.\nExperience with Unity Catalog and data governance.\nExperience with Azure Data Factory (ADF) and Databricks Workflows.\nExcellent problem-solving and analytical skills. Preferred Qualifications  Experience working with healthcare or life sciences data."
 },
 {
 "title": "Software Engineer, Collections Infra",
@@ -3108,7 +3424,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/lyLKE2EuCA7wCmPhJzfKFa1yepu5-TX0vE2cMR877MY#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/vkJy11l2h0pYBsdH3wAhQv_dTjTfMyfa2QmghHNSxoQ#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "Azure",
@@ -11040,6 +11356,66 @@
 "years": null
 },
 {
+"title": "InfoSec Engineer",
+"company": "3iQ",
+"location": "",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491873032",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cybersecurity / IAM Specialist — Enterprise & Operational Technology",
+"company": "Raise",
+"location": "Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4447727899",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Implementation Specialist I",
+"company": "Alliance Technical Group",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491314371",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Analyst- Silverware",
+"company": "Fullsteam",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491320131",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Developer",
+"company": "Cohere",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4483813647",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP Analyst - EWM, MM & QM - 18 month contract",
+"company": "Polytainers Inc.",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491857293",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Business Analyst",
 "company": "OpenText",
 "location": "Waterloo, Ontario, CAN",
@@ -16478,7 +16854,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 8,
-"apply": "https://candidateportal.ceipal.com/job-details/o7Ix74_J7vl1ld25W0z2xNYWfZc8Sq1duQidkoLarjs#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/EYk5xJ7095-fungyd0x1RNe0qMEWmc_o5uKEUXS_LrE#.job_boards.Indeed",
 "skills": [
 "Help desk / troubleshooting",
 "Hardware setup",
@@ -16597,7 +16973,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 7,
-"apply": "https://candidateportal.ceipal.com/job-details/jH5zB3MP6waM82Ce2dF67JPwHfmhU9vvOqLcfdIP2c4#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/7zic5R5LZTgEIXUZX5gcC5e6OuzR0cL1_8-_xVLIyTQ#.job_boards.Indeed",
 "skills": [
 "JavaScript",
 "TypeScript",
@@ -16617,14 +16993,14 @@
 },
 {
 "title": "Data Analyst, Reinsurance Operations - Reporting (4 months contract)",
-"company": "Münchener Rückversicherungs-Gesellschaft",
+"company": "",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-11-17",
 "link": "https://ca.indeed.com/viewjob?jk=f23ff6c431308360",
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://careers.munichre.com/de/stellenbeschreibung/toronto/data-analyst-reinsurance-operations-reporting-4-months-contract/3342/46997203008",
+"apply": "https://careers.munichre.com/en/job/toronto/data-analyst-reinsurance-operations-reporting-4-months-contract/3342/46997203008",
 "salary": "$60,000",
 "skills": [
 "Python",
@@ -16640,7 +17016,7 @@
 "Help desk / troubleshooting",
 "Data structures & algorithms"
 ],
-"req": "Partner with stakeholders across actuarial, underwriting, and claims teams to support experience studies, scenario analysis, monitoring, and profitability reviews.\nAsk questions, explore possible explanations, and discuss findings and opportunities for further analysis with the team. Your Profile:  Bachelor’s degree in business, Finance, Actuarial Science, Data/\n1+ years of experience in reporting, coding, or data analysis. Insurance or reinsurance experience preferred.\nExperience with BI tools (Power BI, Tableau, etc.)."
+"req": "Location Toronto, Canada Job type Full-Time Work mode Hybrid Job level Graduate & Entry-Level Job ID 14842 Company Munich Re, Canada (Life) Employment type Temporary Area of expertise Operations & Pro\nPartner with stakeholders across actuarial, underwriting, and claims teams to support experience studies, scenario analysis, monitoring, and profitability reviews.\nAsk questions, explore possible explanations, and discuss findings and opportunities for further analysis with the team. Your Profile:  Bachelor’s degree in business, Finance, Actuarial Science, Data/\n1+ years of experience in reporting, coding, or data analysis. Insurance or reinsurance experience preferred.\nExperience with BI tools (Power BI, Tableau, etc.)."
 },
 {
 "title": "Analyst- Sales Support",
@@ -19211,7 +19587,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 10,
-"apply": "https://candidateportal.ceipal.com/job-details/TXco8HPliFFzjNkX75pSXeUhUpb4JLzVMPdCHYgi8JI#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/8qhYdNJ6aByxBNB2EEqC2uTCdN2L09SqWXRin3NooQM#.job_boards.Indeed",
 "skills": [
 "Python",
 "SQL",
@@ -19634,7 +20010,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T140654Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T160410Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$85,000 - $110,000 USD per year",
 "skills": [
 "Java",
@@ -22837,6 +23213,40 @@
 "apply": "https://www.SchoolSpring.com/jobdetail?jobId=5996055"
 },
 {
+"title": "AI Infra System Engineer",
+"company": "CIeNET International",
+"location": "Remote · United States",
+"posted": "2026-11-17",
+"link": "https://www.indeed.com/viewjob?jk=5d0618036d3eac8b",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://apply.workable.com/j/77C0356068",
+"skills": [
+"Python",
+"Bash/Shell",
+"Docker",
+"Kubernetes",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Embedded systems"
+],
+"req": "CIeNET is seeking an AI Infrastructure Systems Support Engineer to support large-scale server infrastructure deployment and operations. In this role, you will troubleshoot Linux-based infrastructure, \nIdentify potential server hardware, NIC, BIOS, BMC, and firmware failures, escalating issues to specialized engineering teams when required.\nParticipate in rotating shifts to support global infrastructure operations. Required Qualifications ---------------------------  Bachelor's degree in Computer Science, Information Technology, or a rel\nMinimum 2 years of hands-on experience with Linux operating systems.\nMinimum 2 years of experience with computer networking.\nPractical experience troubleshooting Kubernetes environments, including workload scheduling and networking.\nExperience using ticketing systems for incident tracking and escalation.\nAbility to work independently in a remote, shift-based environment. Preferred Qualifications ----------------------------  Experience supporting data center infrastructure or large-scale server deploy\nExperience with Bash or Python scripting.\nExperience with DCIM/IPAM solutions such as NetBox.\nExperience working with globally distributed support teams. Working Environment ----------------------- This is a primarily remote role supporting global infrastructure operations through a follow-the"
+},
+{
+"title": "Help Desk Technician (up to 18 months)",
+"company": "Municipality of Clarington",
+"location": "Bowmanville, Ontario, Canada",
+"posted": "2026-11-17",
+"link": "https://www.linkedin.com/jobs/view/4490697939",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Enterprise Solution Engineer - South East",
 "company": "Sigma Computing",
 "location": "Remote · United States",
@@ -23249,35 +23659,6 @@
 "Salesforce"
 ],
 "req": "Validate request details against internal systems and assess the risks and tradeoffs of each requested concession\nClassify each request against the Deal Desk request taxonomy, confirm required approvals, and route to the appropriate approvers\nConvert internal pricing into clean, customer-facing proposals that meet PointClickCare standards\nQualifications & Skills\nMinimum Qualifications\nBachelor's degree in finance, accounting, economics, analytics, or a related field\n1–3 years of experience in Revenue Operations, Sales Operations, pricing, finance, or a related analytical role\nPreferred Qualifications\nExperience with CRM tools such as Salesforce\nExperience using AI tools or automation to streamline analysis and reporting\nSaaS and/or healthcare industry experience"
-},
-{
-"title": "Software Engineer, Enterprise",
-"company": "Replit",
-"location": "Remote · United States",
-"posted": "2026-11-16T16:42:28.149+00:00",
-"link": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
-"source": "Replit careers",
-"country": "US",
-"years": null,
-"quals": [
-"Strong full stack engineering skills with experience shipping production code",
-"Experience building B2B or enterprise software products",
-"Comfort working across the stack - from databases and APIs to frontend frameworks",
-"Strong product sense and ability to translate customer needs into technical solutions"
-],
-"skills": [
-"TypeScript",
-"HTML/CSS",
-"React",
-"Node.js",
-"GraphQL",
-"REST APIs",
-"LLMs / GenAI",
-"PostgreSQL",
-"IAM",
-"System design"
-],
-"req": "We're looking for a Product Engineer to join as an early member of our new Enterprise team. The consumer story has demonstrated Replit’s magic and now we are seeing use cases emerge in the B2B space t\nYou can be part of the journey to build and scale features that help teams and organizations of any size be more productive with Replit. This is an opportunity to make meaningful impact and shape the \nCollaborate closely with Product, Design, and other Engineering teams to deliver high-quality experiences\nREQUIRED SKILLS AND EXPERIENCE:\nStrong full stack engineering skills with experience shipping production code\nExperience building B2B or enterprise software products\nExperience with modern web technologies (React, Node.js, TypeScript, or similar)\nExperience with enterprise authentication and authorization systems (SSO, SAML, SCIM)\nExperience with AI/LLM integration in applications\nUnderstanding of developer tools, internal tools, and workflows\nPrevious experience in a high-growth startup environment\nTo achieve our mission of making programming more accessible around the world, we need our team to be representative of the world. We welcome your unique perspective and experiences in shaping this pr"
 }
 ]
 }
