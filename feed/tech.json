@@ -1,6 +1,80 @@
 {
-"updated": "2026-11-19T01:59:53+00:00",
+"updated": "2026-11-19T02:09:50+00:00",
 "jobs": [
+{
+"title": "Data Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=8c7fc1e89510a230",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/data-analyst-8c7fc1e89510a230",
+"salary": "$73,100 - $88,100 USD per year",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Bash/Shell",
+"VBA",
+"ETL / data pipelines",
+"Power BI",
+"Tableau",
+"Looker",
+"Excel",
+"Data visualization",
+"SQL Server",
+"Oracle",
+"Linux",
+"Agile / Scrum",
+"SDLC"
+],
+"req": "Experience with data analytics tools, business intelligence, data visualization, dashboard development, and reporting and dashboarding tools.\nFamiliarity with Python, R, VBA, Bash (Unix shell), Talend, Visio, Excel data analysis, and software development lifecycle analysis is useful; not every tool is required."
+},
+{
+"title": "Supervised Instructor Therapist (IT)",
+"company": "Blossom Behaviour Services",
+"location": "Kitchener-Waterloo, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=80e47ced4cd54e9e",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/supervised-instructor-therapist-it-80e47ced4cd54e9e",
+"salary": "$2,000,000",
+"req": "Active Collaboration: Participate in direct supervisory overlap sessions (minimum 10% direct contact hours) and incorporate feedback to maintain treatment integrity.\nCaregiver Communication: Maintain professional, respectful communication with client families at session start/end. Required Qualifications & Experience  Education: Post-secondary diploma or degree in\nExperience: Minimum 1 year of experience delivering direct ABA therapy to children/youth with Autism Spectrum Disorder (ASD) or related developmental needs.\nPolice Clearance: Valid Police Vulnerable Sector Check (VSC) issued within the last 6 months (or willingness to obtain prior to client placement).\nAvailability: Available for weekday morning/afternoon/after-school hours (e.g., 9am – 7pm). Preferred Qualifications  Registered Behaviour Technician (RBT) course completion or enrollment in an ABA gr\nCompetitive Compensation: Transparent hourly rates based on experience."
+},
+{
+"title": "Software Developer - Java",
+"company": "KingswaySoft Inc.",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=b96c2b4d64665a27",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/software-developer-java-b96c2b4d64665a27",
+"salary": "$105,000.00 per year",
+"skills": [
+"Java",
+"SQL",
+"REST APIs",
+"Kafka",
+"PostgreSQL",
+"MySQL",
+"SQL Server",
+"Oracle",
+"AWS",
+"Azure",
+"Docker",
+"Microservices",
+"Testing (unit, automated)",
+"Object-oriented programming",
+"System design"
+],
+"req": "Company Overview KingswaySoft Inc. is a leading provider of integration solutions, dedicated to making data integration affordable and effortless. We serve thousands of enterprise clients across more \nA university degree (Bachelor's or higher) in Computer Science, Software Engineering, Information Technology, or a closely related quantitative/engineering discipline.\nProven track record of owning or contributing heavily to system design, technical roadmaps, and software component architecture. Required Skills:  Proficient in Java programming for enterprise-grade, \nPractical working experience implementing backend data layers, data integration workflows, and API connector frameworks (REST, SOAP, Web Services).\nExperience integrating messaging and streaming queuing architectures (such as Kafka, RabbitMQ, or equivalent middleware solutions).\nHands-on experience working within modern cloud platforms (AWS and/or Azure) to deploy scalable cloud services.\nStrong analytical, system-level problem-solving, and communication skills required to lead technical discussions. What do you actually do in this role?"
+},
 {
 "title": "Web Developer",
 "company": "",
@@ -60,34 +134,54 @@
 "req": "Overview As a Web Developer, you’ll build and improve web applications that are responsive, accessible, and easy to use. You’ll work across front-end development and back-end services, turning user fl\nParticipate in Agile software development, including planning, code reviews, and collaboration through tools such as Jira or Trello. Skills  Essential: Experience with web development, front-end devel"
 },
 {
-"title": "Software Developer - Java",
-"company": "KingswaySoft Inc.",
-"location": "Oakville, ON, CA",
-"posted": "2026-11-19",
-"link": "https://ca.indeed.com/viewjob?jk=b96c2b4d64665a27",
-"source": "Indeed",
+"title": "Intern, Research & Technology - EcoJet Project Engineering Management (Winter 2027)",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-11-19T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Intern%2C-Research-&-Technology-EcoJet-Project-Engineering-Management-%28Winter-2027%29-ON-L5S-1W1/1440257533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers",
 "country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/software-developer-java-b96c2b4d64665a27",
-"salary": "$105,000.00 per year",
-"skills": [
-"Java",
-"SQL",
-"REST APIs",
-"Kafka",
-"PostgreSQL",
-"MySQL",
-"SQL Server",
-"Oracle",
-"AWS",
-"Azure",
-"Docker",
-"Microservices",
-"Testing (unit, automated)",
-"Object-oriented programming",
-"System design"
-],
-"req": "Company Overview KingswaySoft Inc. is a leading provider of integration solutions, dedicated to making data integration affordable and effortless. We serve thousands of enterprise clients across more \nA university degree (Bachelor's or higher) in Computer Science, Software Engineering, Information Technology, or a closely related quantitative/engineering discipline.\nProven track record of owning or contributing heavily to system design, technical roadmaps, and software component architecture. Required Skills:  Proficient in Java programming for enterprise-grade, \nPractical working experience implementing backend data layers, data integration workflows, and API connector frameworks (REST, SOAP, Web Services).\nExperience integrating messaging and streaming queuing architectures (such as Kafka, RabbitMQ, or equivalent middleware solutions).\nHands-on experience working within modern cloud platforms (AWS and/or Azure) to deploy scalable cloud services.\nStrong analytical, system-level problem-solving, and communication skills required to lead technical discussions. What do you actually do in this role?"
+"years": null
+},
+{
+"title": "Canadian Banking - Administration & Support Internship/Co-op - Winter 2027",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19T02:00:00+00:00",
+"link": "https://jobs.scotiabank.com/job/Toronto-Canadian-Banking-Administration-&-Support-InternshipCo-op-Winter-2027-ON/605494317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Scotiabank careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Intern, SCM Data Analyst",
+"company": "Celestica",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19T02:00:00+00:00",
+"link": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-SCM-Data-Analyst-ON/1449998233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Celestica careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Intern, Supplier Quality",
+"company": "Celestica",
+"location": "Newmarket, ON, CA",
+"posted": "2026-11-19T02:00:00+00:00",
+"link": "https://careers.celestica.com/job/Newmarket-Student-Intern%2C-Supplier-Quality-ON/1450011733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Celestica careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "OT Systems/Applications Design",
+"company": "Celestica",
+"location": "Newmarket, ON, CA",
+"posted": "2026-11-19T02:00:00+00:00",
+"link": "https://careers.celestica.com/job/Newmarket-OT-SystemsApplications-Design-ON/1449844033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Celestica careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Forward Deployed Engineer",
@@ -905,7 +999,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T000441Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T020550Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Linux",
 "Networking (TCP/IP, DNS)",
@@ -6729,6 +6823,199 @@
 "years": null
 },
 {
+"title": "Junior Data Analyst",
+"company": "",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=060386ffa0ae614f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c98675a-7899-4788-8abe-5818fd363c22&ccId=19000101_000001&jobId=553043&source=IN&lang=en_CA",
+"skills": [
+"Excel"
+],
+"req": "Position Summary Reporting to the Pricing Manager, you will be responsible for maintaining and improving the quality of our item master data within NetSuite. This includes identifying and resolving du\nHelp with new item setups and supplier item imports as needed. Qualifications & Experience --------------------------------  Post-secondary diploma or degree in Business, Data Analytics, Information S\nStrong proficiency in Microsoft Excel, including:  XLOOKUP/VLOOKUP  Pivot Tables  Filters and Sorting  Text Functions  Conditional Formatting  Experience with Power Query is considered an asset.\nExperience working with ERP, PIM, or other database management systems, or the aptitude to learn new systems quickly.\nExperience with Product Information Management (PIM) or Master Data Management (MDM) systems.\nExperience in a distribution, manufacturing, wholesale, or industrial supply environment. Company Overview  The Fastener Group (TFG) is a leading industrial distribution organization specializing in f"
+},
+{
+"title": "Accounting/Reporting Analyst",
+"company": "BGIS",
+"location": "Ottawa, ON, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=3e871c22dbc1aea6",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/234404",
+"salary": "$52,864 - $66,080 per annum",
+"skills": [
+"Excel",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Business Systems Analyst (IT)",
+"company": "IREN",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=1fc111c551248b1f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://iren.careers.hibob.com/jobs/5b932c0a-939f-4fe8-9404-8b2cfe91485c",
+"salary": "$105-125K",
+"skills": [
+"Python",
+"JavaScript",
+"REST APIs",
+"IAM",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"System design",
+"SAP"
+],
+"req": "3+ years as a business systems analyst, business analyst or enterprise applications administrator.\nHands-on experience with at least one major enterprise platform (ERP, CLM, e-signature, HRIS or CRM).\nBachelor's degree in business, information systems, computer science or equivalent experience. Nice to Have  Jira/JSM, SAP S/4HANA, Ironclad, DocuSign or Workday administration.\nMicrosoft 365 / Entra ID integration; experience in SOX-audited environments.\nExperience in a fast-scaling data center, energy or technology company. Key Competencies  Stakeholder empathy  Analytical rigour  Facilitation  Delivery discipline  Run discovery with business stakeho\nActual compensation will be determined based on factors such as experience, qualifications, and market data for the region.\nTotal Compensation package may be inclusive of annual incentive bonus, and equity (long-term incentive)  Relocation assistance (as appliable and based on successful candidate circumstances) Health & W"
+},
+{
+"title": "Business Intelligence Analyst",
+"company": "Xodus Travel Services Inc.",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=477a3de18ceff740",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0b3f00a6-544c-40db-95b7-808d454f2e2e&ccId=19000101_000001&jobId=569869&source=IN&lang=en_CA",
+"skills": [
+"SQL",
+"System design"
+],
+"req": "Who we are Xodus Travel Services Inc. was established with a clear mission: to tackle and resolve the limitations within the Canadian travel insurance industry that became glaringly apparent during an\nEnhance the efficiency and scalability of reporting processes, including automating manual reports and upholding reporting standards. The skills you bring  Bachelor's degree in Computer Science, Busin\nMinimum 1 year of experience working in business intelligence, data analytics, reporting, or a related role.\nMinimum 1 year of scripting (SQL) experience, including writing queries and working with stored procedures.\nExperience working with CRM systems is an asset. What's important to us  Looking around corners: We want people who can anticipate challenges and opportunities, act with a sense of urgency, and take o"
+},
+{
+"title": "SAP Order Entry & Customer Service Specialist",
+"company": "JOHNVINCE FOODS",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=e7148d1ebd4d6b9a",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2bea7aba-3e8a-49a9-86db-3e4e54b4bbf0&ccId=19000101_000001&jobId=569029&source=IN&lang=en_CA",
+"skills": [
+"Excel",
+"Windows",
+"Help desk / troubleshooting",
+"SAP"
+],
+"req": "Position Title: SAP Order Entry & Customer Service Specialist Business Unit: Johnvince Foods Department: Customer Service / Order Desk Location: North York, Ontario (Onsite) Reports To: Tina Pellegrin\nValidate customer pricing, promotions, and product eligibility using SAP master data and condition records.\nPerform other duties and projects as assigned. What You Bring  Minimum 3–4 years of experience in customer service and SAP order entry within a CPG or food manufacturing environment.\nSAP S/4HANA experience required, particularly in the SD (Sales & Distribution) module.\nExcellent communication and interpersonal skills for internal and external collaboration.\nEnjoy plenty of snacks and access to our signature products as part of your everyday work experience.\nBuild your career within an award-winning organization, recognized as one of Canada’s Safest Manufacturers (2023, 2024) and a Canada’s Best Managed Companies Platinum Member for over a decade. We inve"
+},
+{
+"title": "Enterprise Risk Management Analyst",
+"company": "ivari",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-18",
+"link": "https://ca.indeed.com/viewjob?jk=e3e6bf9b9ed57ecb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7dfde7e8-9328-4ba2-94ed-8b8d7fe43b62&ccId=19000101_000001&jobId=11360&source=IN&lang=en_CA",
+"salary": "$30/hr",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "UI/UX Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=b1911fb9cbdb4a8b",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39438&hr_id=3859",
+"salary": "$75/hr",
+"skills": [
+"TypeScript",
+"HTML/CSS",
+"Angular",
+"REST APIs",
+"CI/CD",
+"Git",
+"Agile / Scrum",
+"System design",
+"Figma"
+],
+"req": "Experience working with Figma designs and converting them into functional applications.\nStrong hands-on experience with Angular and TypeScript.\nExperience with AI-assisted development tools.\nEnsure secure handling of sensitive healthcare information and follow HIPAA-aligned requirements. Required Qualifications:  6+ years of experience in frontend development, UI/UX engineering, or relate\nHands-on experience translating Figma designs into production-ready applications.\nExperience with REST APIs and headless architecture.\nExperience with Git, pull requests, code reviews, and CI/CD.\nStrong understanding of accessibility and frontend performance optimization. Preferred Qualifications:  Healthcare domain experience, particularly case management and care coordination.\nExperience with Angular Material or similar UI libraries.\nExperience with enterprise healthcare platforms such as CareAxis. Familiarity with AI-generated UI workflows and modern development tools Equal Opportunity Employer We are an equal opportunity employe"
+},
+{
+"title": "Salesforce Developer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=264099013ecec24e",
+"source": "Indeed",
+"country": "US",
+"years": 12,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39478&hr_id=3524",
+"salary": "$79/hour",
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"CI/CD",
+"Git",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"System design",
+"Salesforce"
+],
+"req": "Partner with architects, business analysts, and QA teams to translate functional requirements into production-ready technical solutions. Required Qualifications:  12 + years of professional Salesforce\nHands-on implementation experience with Salesforce Agentforce and Salesforce Data 360 (Data Cloud).\nExperience configuring Agentforce agents, developing custom agent actions, and integrating AI capabilities into Salesforce workflows.\nExperience developing and maintaining Salesforce integrations using REST/SOAP APIs, MuleSoft, or similar technologies.\nExperience with Salesforce DevOps practices, Git, CI/CD, automated testing, and application deployments.\nAbility to independently develop, debug, test, and deliver complex Salesforce solutions in an Agile environment. Preferred Qualifications:  Experience supporting Salesforce implementations within bank\nExperience connecting Salesforce Data 360 with cloud data platforms, enterprise data warehouses, or third-party applications.\nUnderstanding of data privacy, security, and regulatory considerations in financial services. Equal Opportunity Employer We are an equal opportunity employer. All aspects of employment including the d"
+},
+{
+"title": "Intern",
+"company": "RELI Group Inc",
+"location": "Remote · United States",
+"posted": "2026-11-18",
+"link": "https://www.indeed.com/viewjob?jk=174ef9ff4525edd1",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/9A1A1912F7C43BD4E6C7174FEA6DB24B/jobs/368768?source=Indeed",
+"salary": "$15.00 per hour",
+"skills": [
+"Linux",
+"Monitoring",
+"Cybersecurity",
+"SOC",
+"Vulnerability management",
+"IAM",
+"EDR",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"CompTIA Security+",
+"ITIL"
+]
+},
+{
+"title": "Business Co-op Student, CFO Office (Winter 2027)",
+"company": "Kinectrics",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4492003016",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Business Analyst",
 "company": "OpenText",
 "location": "Waterloo, Ontario, CAN",
@@ -7527,7 +7814,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192582&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192582%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D97c793c6-e21d-11f1-ab5f-29fe8fd450c8%26rx_job%3DR-0000192582%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T000441Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192582&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192582%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3D97c793c6-e21d-11f1-ab5f-29fe8fd450c8%26rx_job%3DR-0000192582%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T020550Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Ticketing (ServiceNow, Jira)",
 "Help desk / troubleshooting",
@@ -14752,7 +15039,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 8,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619183&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18490377-duty-controller%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dbb65ef93-e2a3-11f1-8076-537128661718%26rx_job%3D2619183%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T000414Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619183",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619183&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18490377-duty-controller%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dbb65ef93-e2a3-11f1-8076-537128661718%26rx_job%3D2619183%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T020442Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619183",
 "salary": "$60,001 - $100,000 USD per year",
 "skills": [
 "Linux",
@@ -15312,7 +15599,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T000509Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T020614Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$85,000 - $110,000 USD per year",
 "skills": [
 "Java",
@@ -15446,7 +15733,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2621572&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative%2Fjob%2F2621572%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D05f5e359-e2c6-11f1-8097-7fdacd001780%26rx_job%3D2621572%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T000509Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2621572&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative%2Fjob%2F2621572%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D05f5e359-e2c6-11f1-8097-7fdacd001780%26rx_job%3D2621572%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T020614Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$17 - $23 USD per hour",
 "skills": [
 "Networking (TCP/IP, DNS)",
@@ -15529,7 +15816,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604939631?etd=MUVP6CXQ22IN5Y6HR2OVWLOMPZIYNWA7IYZDST72XA75ZT3EPPXEQK3337PVEZANNESDA6B3EREG2KOX3OHFIPTN2CGPTONBS63ARGY4MIODXTQ42OIQ%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604939631?etd=MUVP6CXQ22IN5Y6HR2OVWLOMPZIYNWA7IYZDST72XA75ZT3EPPXEQK3337PVEZANNESDA6B3EREG2KOX3OHFIPTN2CGPTONBS63ARG5O2B5QWRQR4ZUQ%3d%3d%3d%3d",
 "salary": "$17.95 - $21.09",
 "req": "Join our holiday team! We're hiring immediately for our busiest and most exciting time of the year! Whether you're looking to build new skills, gain experience, or be part of a great team, we'd love t"
 },
@@ -17192,7 +17479,7 @@
 {
 "title": "EverPro - Customer Support Representative (Remote, CAN)",
 "company": "EverCommerce",
-"location": "Ontario, Canada (remote)",
+"location": "Toronto, Ontario, Canada (remote)",
 "posted": "2026-11-17",
 "link": "https://www.linkedin.com/jobs/view/4490198617",
 "source": "LinkedIn",
@@ -27191,7 +27478,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619147&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18485645-technical-intern%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dcd4ba9f1-e20c-11f1-a42f-9fb151d7230b%26rx_job%3D2619147%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T000414Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619147",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619147&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18485645-technical-intern%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dcd4ba9f1-e20c-11f1-a42f-9fb151d7230b%26rx_job%3D2619147%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T020442Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619147",
 "salary": "$40,000",
 "skills": [
 "Machine learning",
@@ -27891,7 +28178,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619171&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18488049-tier-1-soc-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Da2fca8d5-e260-11f1-b391-b9c81195fa2a%26rx_job%3D2619171%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T000414Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619171",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619171&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18488049-tier-1-soc-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Da2fca8d5-e260-11f1-b391-b9c81195fa2a%26rx_job%3D2619171%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T020442Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619171",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "LLMs / GenAI",
