@@ -1,6 +1,77 @@
 {
-"updated": "2026-11-20T20:39:50+00:00",
+"updated": "2026-11-20T20:49:46+00:00",
 "jobs": [
+{
+"title": "Cloud Data Infrastructure Engineer",
+"company": "ClickHouse",
+"location": "Canada",
+"posted": "2026-11-20T20:45:19.647+00:00",
+"link": "https://jobs.ashbyhq.com/clickhouse/b8799d90-9d53-40c7-be9b-6fb9cc061be0",
+"source": "ClickHouse careers",
+"country": "CA",
+"years": 5,
+"salary": "$500",
+"quals": [
+"5+ years of relevant software development industry experience building and operating scalable, fault-tolerant, distributed systems.",
+"Experience building operators with Kubernetes, controller runtime",
+"Production experience with programming languages like Go, C++",
+"You are not a stranger to PagerDuty On-call, debugging things in production and are a strong problem-solver"
+],
+"skills": [
+"Python",
+"C++",
+"Go",
+"FastAPI",
+"Pandas",
+"NumPy",
+"LLMs / GenAI",
+"Spark",
+"Kafka",
+"Statistics",
+"AWS",
+"Azure",
+"Google Cloud",
+"Kubernetes",
+"Data structures & algorithms",
+"System design"
+],
+"req": "Work closely with our ClickHouse core development team and other data plane teams, partnering with them to support auto-scaling use cases as well as other internal infrastructure improvements.\n5+ years of relevant software development industry experience building and operating scalable, fault-tolerant, distributed systems.\nExperience building operators with Kubernetes, controller runtime\nProduction experience with programming languages like Go, C++\nExpertise with a public cloud provider (AWS, GCP, Azure) and their infrastructure as a service offering (e.g., EC2).\nExperience with Data Storage, Ingestion, and Transformation (Spark, Kafka or similar tools).\nExperience with Python (uv, rye, fastAPI) Data Science (Pandas, NumPy etc) is good to have."
+},
+{
+"title": "IT Auditor",
+"company": "Snowflake",
+"location": "Remote · United States",
+"posted": "2026-11-20T20:40:36.601+00:00",
+"link": "https://jobs.ashbyhq.com/snowflake/e5806abe-d416-4dae-b086-88a519a4bc62",
+"source": "Snowflake careers",
+"country": "US",
+"years": 3,
+"quals": [
+"Bachelor’s degree in accounting, business, information systems, or related field or equivalent experience",
+"3+ years of IT audit or related work experience in high-growth, cloud-first technology companies.",
+"Recognized professional qualification(s) CA/CPA/CISA/CIA/CISSP/CCSP (Certified Cloud Security Professional) or CCSVP (Certificate of Cloud S",
+"Proven experience in supporting the execution of an end-to-end IT SOX program and control principles (e.g. COSO). Experience in auditing Sal"
+],
+"skills": [
+"Python",
+"Java",
+"SQL",
+"Snowflake",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"IAM",
+"NIST / ISO 27001",
+"Cloud security",
+"Encryption / PKI",
+"System design",
+"SDLC",
+"Salesforce",
+"CISSP"
+],
+"req": "Snowflake is growing and looking for a driven IT Audit Senior to join our team. You will report to the Manager, IT Internal Audit and help with an evolving workload with minimal supervision in a fast-\nExecute and support our IT internal controls assessments, other IT audits and investigations.\nConduct internal compliance review, ensuring adherence to frameworks like ISO 27001, ISO 42001, ISO 22301, or ISO 27017.\nAssist in all phases of internal audits including planning, fieldwork, close meetings, and reporting.\nAssist the Managers and Senior Managers to identify areas of improvement as well as recommend industry-wide best practices\nBachelor’s degree in accounting, business, information systems, or related field or equivalent experience\n3+ years of IT audit or related work experience in high-growth, cloud-first technology companies.\nRecognized professional qualification(s) CA/CPA/CISA/CIA/CISSP/CCSP (Certified Cloud Security Professional) or CCSVP (Certificate of Cloud Security Knowledge)\nProven experience in supporting the execution of an end-to-end IT SOX program and control principles (e.g. COSO). Experience in auditing Salesforce and Workday Financials is strongly preferred.\nData interpretation and data driven audit/analytics approach with experience in SQL. Java/Python readability preferred.\nCertifications like AWS, Azure and Google Cloud is a plus but not required"
+},
 {
 "title": "Software Engineer 3",
 "company": "MongoDB",
@@ -3827,6 +3898,339 @@
 "Excel"
 ],
 "req": "Do you have experience in an operations, administrative, data, coordinator or support role? Work Location: Remote"
+},
+{
+"title": "Intermediate Full-Stack Software Developer - Remote/Hybrid (Canada)",
+"company": "Infotech",
+"location": "London, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b5ee05682e926405",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://recruiting.ultipro.ca/INF5000IFTC/JobBoard/2526a5be-e33e-4de9-90ae-3b23d42b9441/OpportunityDetail?opportunityId=7342bcff-de68-4f31-bcd8-7b1e605993ca&postingId=6f38481c-d0d3-41d5-aba1-944671077324",
+"skills": [
+"Python",
+"JavaScript",
+"Ruby",
+"SQL",
+"HTML/CSS",
+"Ruby on Rails",
+"MySQL",
+"AWS",
+"Azure",
+"Agile / Scrum",
+"Salesforce"
+],
+"req": "Infotech delivers impartial, highly pertinent IT research, enabling CIOs and IT leaders to make well-informed, strategic decisions. We are currently serving over 30,000 professionals and collaborate c\nWe pride ourselves on consistent year-on-year growth, with double-digit growth even during a global pandemic.\nWe provide financial support for professional development and training. About the role We’re looking for strong Intermediate Software Developers to help us build A.I. products and services. While no e"
+},
+{
+"title": "Research Analyst, Pharmacoepidemiology",
+"company": "University of British Columbia",
+"location": "Victoria, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=daec28213e775a31",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Alternate-Site---Victoria-BC-Canada/Research-Analyst--Pharmacoepidemiology_JR26703",
+"salary": "$7,158.42 - $10,292.25 CAD",
+"skills": [
+"R",
+"SQL",
+"Statistics",
+"Microsoft 365"
+],
+"req": "Willingness to respect diverse perspectives, including perspectives in conflict with one’s own  Demonstrates a commitment to enhancing one’s own awareness, knowledge, and skills related to equity, div\nExperience with data management and programming (SAS, R, and SQL)."
+},
+{
+"title": "Risk Analyst Intern",
+"company": "Green Infrastructure Partners",
+"location": "Markham, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=51dc08e72d4c518f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gipi.wd3.myworkdayjobs.com/en-US/Careers/job/Markham-ON/Risk-Analyst-Intern_R10380",
+"skills": [
+"Python",
+"VBA",
+"REST APIs",
+"LLMs / GenAI",
+"Power BI",
+"Excel",
+"Statistics"
+],
+"req": "Come help build the future, where our work makes the world work! Location: Toronto / Markham Term: 16-month internship Reports to: Risk Director Position Overview Green Infrastructure Partners is seek\nRequired Qualifications  Currently enrolled in a co-op or internship program in engineering, computer science, data science, mathematics, statistics, or a related discipline.\nDemonstrated interest in applying AI, coding, or automation to practical problems through coursework, personal projects, or work experience.\nPreferred Assets  Experience with Python or another programming language, including working with structured data and APIs.\nExperience building AI-enabled applications or workflows using large language models, document search, or information-extraction tools. Familiarity with Excel Power Query, VBA, Power BI, or other auto\nWhat You Will Gain  Hands-on experience with risk management on major infrastructure projects.\nMentorship from experienced risk and project professionals. Development of analytical, technical, communication, and stakeholder-coordination skills."
+},
+{
+"title": "Administrator (Support & Operations)",
+"company": "HCLTech",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=80ab710ef9d9a4b6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=194969&lang=en_US&jobPipeline=Indeed",
+"skills": [
+"Azure",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Job Summary --------------- • Troubleshooting problems related to Desktop/Laptops, Windows operating systems and O365/M365 applications. • Troubleshooting Unified communication tools such as Teams vid"
+},
+{
+"title": "Technical Support Specialist",
+"company": "ASSA ABLOY Group",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=8e92a1d98e1cda39",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://assaabloy.jobs2web.com/job/Mississauga-Technical-Support-Specialist-ON-L5R-3K2/1459388533/",
+"salary": "$60,000– $72,000 per year",
+"skills": [
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Technical Support Specialist– Wesko Locks At Wesko Locks, our mission is to be the customer-centric leader of value based-locking solutions in North America. Our Mississauga-based team works together \nDevelop and deliver product training for internal and external customers.\nPerform additional duties as required. What are we looking for  3–4 years of experience in technical support, field service, electronics, mechanical systems, access control, or a similar technical rol\nDiploma or degree in a related technical field is an asset.\nExperience with technical support or ticketing systems is an asset.\nComfortable using Artificial Intelligence  Ability to work independently and collaboratively Additional Requirements  Legally eligible to work in Canada  Occasional travel up to 10% may be required  A\nContinuous professional development opportunities and an environment that fosters internal growth and mobility."
+},
+{
+"title": "SME - Azure DevOps, Terraform",
+"company": "HCLTech",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=c5f256ec158a9e0c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=196014&lang=en_US&jobPipeline=Indeed",
+"skills": [
+"Python",
+"Bash/Shell",
+"PowerShell",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Linux",
+"Infrastructure as code",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Vulnerability management",
+"IAM",
+"Cloud security",
+"Encryption / PKI",
+"Windows",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "Job Summary --------------- Cloud Engineer Position Summary We are seeking a highly skilled Cloud Engineer with strong expertise in AWS and Azure cloud platforms to design, implement, maintain, and op"
+},
+{
+"title": "SME - IBM MQ, IIB(ACE), RabbitMQ",
+"company": "HCLTech",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=f04f7671d0b591c2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=196132&lang=en_US&jobPipeline=Indeed",
+"skills": [
+"REST APIs",
+"AWS",
+"Ansible",
+"CI/CD",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Embedded systems"
+],
+"req": "Job Summary --------------- Strong hands-on experience with IBM API Connect v10, DataPower API Gateway, API Assembly and User Defined Policies (UDP).rnExperience with API onboarding, publishing, deplo"
+},
+{
+"title": "Accounts Receivable EDI / SBT Integration Specialist",
+"company": "Postmedia Network Inc.",
+"location": "Remote, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=ea9366408e5ec683",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-CA/postmedia/CANDIDATEPORTAL/jobs/10552",
+"salary": "$55,00-65,000",
+"skills": [
+"SQL",
+"REST APIs",
+"Excel",
+"Microsoft 365",
+"Help desk / troubleshooting"
+],
+"req": "Position Title: Accounts Receivable EDI / SBT Integration Specialist Position Type: Full-Time, Permanent (Existing Vacancy) Location: Remote within Canada The Company: Postmedia is a Canadian news med\nProvide technical support to internal users and customers.\nCollaborate with internal teams (AR, IT, Sales, Logistics) to identify and resolve data flow gaps.\nWork with AR Team to develop required AI solutions and automations  Additional AR Projects as assigned. Documentation and Collaboration:  Maintain technical process flow mapping and troubleshooting pr\nProvide user support and training related to EDI and SBT integrated business processes. Who you are:  Experience supporting EDI operations, SBT platforms and integration capabilities  Familiarity with\nExperience with SQL database queries.\nExperience with Marc systems magazines and book modules.\nExperience onboarding trading partners and coordinating EDI testing and certification  Strong analytical, problem-solving, organizational, and communication skills."
+},
+{
+"title": "Analyst, HR Operations",
+"company": "Woodbridge",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=92e7bae01987a77b",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://career17.sapsf.com/career?company=woodbridge&career_ns=job_listing&career_job_req_id=4202&lang=en_US&jobPipeline=Indeed",
+"salary": "$69,700 - $87,110",
+"skills": [
+"Excel",
+"Microsoft 365",
+"SAP"
+],
+"req": "Competitive Compensation & Benefits Plan  Defined Contribution Plan with additional company match – Automatic company contribution to a top quartile retirement savings plan with more incentives to mat\nServe as the technical subject-matter expert for Talent teams on SuccessFactors (TC) modules, included by not limited to Learning Management, Onboarding, Recruiting, Performance Management, and Succes\nServe as the technical subject-matter-expert for interface and uploads with third party engagement vendors.\nServe as a HR technical subject-matter-expert for Share Point - OPEX, supporting current and proposed metrics for the HR and Health, Safety and Environmental (HS&E) departments.\nServe as the technical subject-matter-expert for Sodales technical integrations, system configurations, support release management and audit modules.\nManage vendor invoicing where applicable QUALIFICATIONS  University degree or equivalent in Human Resources, Analytics,  Three to five years of experience in HR Operations or a related HR function, in\nExperience with Sharepoint and Sodales is important.\nAdvanced proficiency in Excel  Strong communication and presentation skills  Advanced use of Microsoft teams  Experience participating in global projects and programs for med-large organizations speci"
+},
+{
+"title": "Research Technician - Genotyping",
+"company": "Western University",
+"location": "London, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=e1ffed26a4b7aa40",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruit.uwo.ca/psc/hrprdwebER/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=45173&SiteId=1&PostingSeq=1",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "About Western ----------------- With an international reputation for success, Western ranks as one of Canada's top research-intensive universities. Our research excellence expands knowledge and drives"
+},
+{
+"title": "Academic Advisor",
+"company": "University of British Columbia",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b7e4f46aafb51c10",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Academic-Advisor_JR26730",
+"salary": "$7,158.42 - $10,292.25 CAD",
+"skills": [
+"Microsoft 365"
+],
+"req": "Maintains strong working relationships with faculty members, Division Chairs and numerous UBC student support offices and services.\nWorks with the UBC Sauder Recruitment and Admissions team to support efforts to attract and retain students throughout the admissions process. Work Performed Academic Advising  Assesses students’ acad\nDraws on in-depth knowledge of UBC and UBC Sauder policies and procedures to advise and coach students while considering individual circumstances. Interprets and applies policy and determines when an \nAnticipates student needs and responds to student requests offering professional advice and subject matter expertise, providing information beyond request that student is presenting.\nEvaluates and adjudicates student requests for academic concession. Evaluates documentation, liaises with faculty members, health care providers, and campus partners to decide on the appropriate type \nAdvises students, faculty and employees on the application and interpretation of policies and procedures. Offers subject matter expertise to colleagues seeking support on resolving complex student con\nEvaluates students’ academic performance to ensure they meet requirements. Reviews grades, completed credits, prior academic standing and requirements unique to each specialization and program. Author\nAdvises students on options when requirements are not met, including alternative pathways, readmission requirements, and appeal eligibility and process.\nMaintains knowledge of advi"
+},
+{
+"title": "CRM Administrator",
+"company": "Paramount Properties",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=da8630d830e60fd1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/crm-administrator-da8630d830e60fd1",
+"salary": "$48,000.00-$50,000.00 per year",
+"skills": [
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting"
+],
+"req": "As a CRM Administrator you will assist in implementing a new CRM platform across our property portfolio. You will collaborate with a small team to train site staff on the new software and provide ongo\nManage user access, roles, and permissions. What You'll Bring  BA or diploma in business administration, management, marketing, communications and/or practical skills, industry certifications or an eq\nMinimum of 1-2 years of experience working on a service desk or business support role within a professional services environment."
+},
+{
+"title": "C# .NET / Angular Developer",
+"company": "NTT DATA",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=d0b8e6e2a35bdfe3",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=vtjdnw5v1z1v2psgylbu76nbkkhb0y080epfxtsjq71b065808wxj6cim4ud5upr&SearchString=&StatesString=&source=indeed.com&id=33659462&compid=-1",
+"salary": "$30",
+"skills": [
+"JavaScript",
+"SQL",
+"HTML/CSS",
+"Angular",
+".NET",
+"REST APIs",
+"SQL Server",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Jenkins",
+"Git",
+"Microservices",
+"Agile / Scrum",
+"Object-oriented programming"
+],
+"req": "We are currently seeking a C .NET / Angular Developer to join our team in Plano, Texas (US-TX), United States (US). Job Description: C .NET / Angular Developer Summary  A Senior Application Developer \nProvide knowledge and support for application development, integration and maintenance, and input to department and project teams on project decisions. Basic Requirements  3+ years of experience in C \n3+ years of experience with Angular 16, HTML, CSS and JavaScript.\n3+ years of experience with object-oriented programming and SOLID principles.\n3+ years of REST API / Web API development.\n3+ years of microservices experience with messaging queues (e.g., pub/sub).\n3+ years of experience with SQL Server databases, SQL and writing stored procedures.\n3+ years of experience in Agile environments, working with story/task estimation and Git source control. Preferred Requirements  Experience with CI/CD tooling (e.g., Jenkins, Azure DevOps).\nExperience with containerization technologies (e.g., Docker, Kubernetes).\nGCP experience."
+},
+{
+"title": "Technical Support Specialist",
+"company": "PAR Technology",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=9e47e2d4647df811",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://jobs.ashbyhq.com/PAR%20Technology/1ca8d13b-fa4c-430e-866d-5d8aac30a210?utm_source=X8m9D5p0n4",
+"salary": "$24 - $25 USD per hour",
+"skills": [
+"Monitoring",
+"Incident response",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "For over four decades, PAR Technology Corporation (NYSE: PAR) has been a leader in restaurant technology, empowering brands worldwide to create lasting connections with their guests. Our innovative so\nPossess an understanding of and performs work related activities in accordance with and in support of the corporation Quality Policy  Ability to work weekends, holidays, and overtime as needed Unleash"
+},
+{
+"title": "Professional, Product Support",
+"company": "JLL",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=3fe90b2de382be66",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://click.appcast.io/t/KXOhbpjqOjnjzcrzdUGk-OraeVdX3rqUqeEdkbj7i5c=",
+"salary": "$69,785 - $80,625 USD per year",
+"skills": [
+"Azure",
+"Ticketing (ServiceNow, Jira)",
+"Jira",
+"Salesforce",
+"Embedded systems"
+]
+},
+{
+"title": "Freedom Boat Club - Systems Support Coordinator",
+"company": "Brunswick",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=8b9701bae11467ae",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Venice-FL/Freedom-Boat-Club---Systems-Support-Coordinator_JR-052189",
+"salary": "$43,680 - $45,760 USD per year",
+"skills": [
+"REST APIs",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Salesforce"
+]
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -14708,6 +15112,99 @@
 "location": "Burnaby, British Columbia, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4490544626",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "SAP Mobile Developer/Analyst",
+"company": "Systematix",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492508283",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Oracle Fusion Middleware (OFM) Developer",
+"company": "NTT DATA",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=9dbbfeb5fa42deca",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=vtjdnw5v1z1v2psgylbu76nbkkhb0y080epfxtsjq71b065808wxj6cim4ud5upr&SearchString=&StatesString=&source=indeed.com&id=33653764&compid=-1",
+"salary": "$50 - $58 USD per hour",
+"skills": [
+"SQL",
+"REST APIs",
+"Oracle",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"System design",
+"Salesforce",
+"SAP"
+],
+"req": "Oracle Fusion Middleware (OFM) Developer - 26-02775 1+ Years Duration 100% Remote Temp W2 or C2C NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. I\nThe role requires strong hands-on expertise in BPEL, Oracle Service Bus (OSB), Mediator, JMS, SOAP/REST web services, XML technologies, Oracle adapters, and SQL/PLSQL. The developer will work closely \nModify and remediate existing integrations as required to support application separation and divestiture activities.\nAnalyze existing application interfaces and determine required changes for the target/separated environment.\nFollow established development, change management, release management, and documentation standards. Required Skills & Experience  10+ years of hands-on Oracle Fusion Middleware / Oracle SOA integratio\n5+ years of strong hands-on experience with Oracle SOA Suite 12c.\nApproximately 3–5+ years of hands-on development experience with BPEL and Oracle Service Bus (OSB).\n3+ years of strong experience developing and maintaining SOA composites and Mediator components.\nExperience configuring and working with JMS queues.\nHands-on experience with Oracle SOA technology/application adapters.\nExperience with one or more enterprise integrations involving:  SAP  Salesforce  MQ  JMS  Socket adapters  Strong understanding of:  SOAP  REST  WSDL  JSON  XML  XSD  XSLT  XQuery  XPath  Strong worki\nExcellent written and verbal communication skills. Preferred Qualifications  Previous "
+},
+{
+"title": "Cloud Platform Engineer",
+"company": "Insight",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4476770246",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Specialist (DevOps)",
+"company": "TEKFORTUNE INC",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492724167",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Graduate Program 2027 - Consumer and Small Business (Marketing)",
+"company": "Bell",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4469820731",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Graduate",
+"company": "ACCIONA",
+"location": "Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4466814135",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Consultant - Patient Monitoring (Field: Saskatoon/Regina, SK)",
+"company": "Philips",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492505005",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer",
+"company": "Canadian Cancer Society",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4487366679",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -26191,6 +26688,16 @@
 "years": null
 },
 {
+"title": "Consultant, Risk Analytics - Retail Credit Risk Data Operations",
+"company": "CIBC",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4492066703",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Business Analyst",
 "company": "OpenText",
 "location": "Waterloo, Ontario, CAN",
@@ -26512,26 +27019,6 @@
 "posted": "2026-11-17T15:59:15-05:00",
 "link": "https://careers.toasttab.com/jobs?gh_jid=8359240",
 "source": "Toast careers",
-"country": "US",
-"years": null
-},
-{
-"title": "Software Engineer II, Support AI",
-"company": "Toast",
-"location": "Remote · United States",
-"posted": "2026-11-17T15:57:12-05:00",
-"link": "https://careers.toasttab.com/jobs?gh_jid=8386144",
-"source": "Toast careers",
-"country": "US",
-"years": null
-},
-{
-"title": "Developer Evangelist",
-"company": "Twilio",
-"location": "Remote · United States",
-"posted": "2026-11-17T15:53:26-05:00",
-"link": "https://job-boards.greenhouse.io/twilio/jobs/8396809",
-"source": "Twilio careers",
 "country": "US",
 "years": null
 }
