@@ -1,7 +1,7 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,3742,935,3742,2026-11-20
+1,Help desk / troubleshooting,IT support,44%,3744,937,3744,2026-11-20
 2,SQL,Language,24%,2059,565,2059,2026-11-20
-3,REST APIs,Framework,24%,2003,525,2003,2026-11-20
+3,REST APIs,Framework,24%,2005,527,2005,2026-11-20
 4,Python,Language,23%,1919,509,1919,2026-11-20
 5,Excel,Data & AI,21%,1771,437,1771,2026-11-20
 6,Hardware setup,IT support,19%,1590,386,1590,2026-11-20
@@ -9,12 +9,12 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 8,Azure,Cloud & DevOps,16%,1361,368,1361,2026-11-20
 9,Microsoft 365,IT support,16%,1351,351,1351,2026-11-20
 10,Agile / Scrum,Practice,15%,1271,322,1271,2026-11-20
-11,Git,Cloud & DevOps,14%,1147,313,1147,2026-11-20
+11,Git,Cloud & DevOps,13%,1147,313,1147,2026-11-20
 12,CI/CD,Cloud & DevOps,13%,1099,292,1099,2026-11-20
 13,Windows,IT support,13%,1092,288,1092,2026-11-20
 14,AWS,Cloud & DevOps,13%,1083,285,1083,2026-11-20
-15,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,972,256,972,2026-11-20
-16,Cybersecurity,Security,11%,969,246,969,2026-11-20
+15,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,974,258,974,2026-11-20
+16,Cybersecurity,Security,11%,971,248,971,2026-11-20
 17,IAM,Security,11%,946,252,946,2026-11-20
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,938,251,938,2026-11-20
 19,JavaScript,Language,10%,834,211,834,2026-11-20
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-20
 155,Keras,Data & AI,0%,1,0,1,2026-11-20
 
-,Based on 8495 postings in the last 30 days (8495 all time)
+,Based on 8497 postings in the last 30 days (8497 all time)
