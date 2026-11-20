@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T00:09:49+00:00",
+"updated": "2026-11-20T00:19:58+00:00",
 "jobs": [
 {
 "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
@@ -218,7 +218,7 @@
 "years": 2
 },
 {
-"title": "Software Engineer, Production Engineering, FinOps",
+"title": "FinOps Specialist, Production Engineering",
 "company": "Ramp",
 "location": "Remote · United States",
 "posted": "2026-11-19T18:02:36.287+00:00",
@@ -5720,6 +5720,176 @@
 "req": "Collaborate with QA, developers, data teams, and environment owners to resolve data dependencies and improve test readiness. Required Qualifications  Experience Required: typically 5+ years in data en\nStrong SQL skills and experience with relational databases such as SQL Server, PostgreSQL, or Oracle.\nProgramming or scripting experience with Python, Java, or a comparable language for data automation.\nExperience with data profiling, transformation, validation, referential integrity, and dataset management.\nExperience working in iterative software delivery teams, participating in planning, defect triage, and release validation as appropriate to the assignment. Preferred Qualifications  Experience with cl"
 },
 {
+"title": "Data Migration Specialist |12- Month Contract",
+"company": "Catalis",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=2cdae7c160e00f92",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680651",
+"skills": [
+"Python",
+"SQL",
+"Bash/Shell",
+"PowerShell",
+"REST APIs",
+"Airflow",
+"ETL / data pipelines",
+"PostgreSQL",
+"SQL Server",
+"AWS",
+"Azure",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Help desk / troubleshooting",
+"Jira",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest"
+],
+"req": "Who We Are Catalis is a leading government Software as a Service (SaaS) and integrated payments provider, powering a wide range of government operations at the municipal, county, state, and federal le\nProduce a clear failure report after each run  Help reduce migration cutover time from 5 days to 2 days, supporting guided go-lives led by the senior team Triage, Quality & Documentation  Triage failu"
+},
+{
+"title": "Security Specialist - SS",
+"company": "BC College of Nurses and Midwives",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=2fdaa04e6acabdf3",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://recruiting.ultipro.ca/BRI5003BCCN/JobBoard/08deeacb-5c41-4292-8f63-5622aa06834b/OpportunityDetail?opportunityId=32fee8af-db05-46a6-a868-32da1b652432&postingId=4a2ac3b9-d9e4-4817-a09a-5bcb6f345b06",
+"salary": "$95,000 - $105,000 per annum",
+"start": "January 4, 2027",
+"skills": [
+"REST APIs",
+"Azure",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Penetration testing",
+"IAM",
+"EDR",
+"Cloud security",
+"Encryption / PKI",
+"Microsoft 365",
+"CISSP"
+],
+"req": "Demonstrates a commitment to ongoing learning related to Indigenous cultural safety and humility and supporting organizational actions towards addressing indigenous-specific racism in BC’s health care\nMinimum of five years of experience in cloud security engineering, security architecture, information security, or a comparable technical security role.\nDemonstrated experience securing enterprise Microsoft Azure, Microsoft Entra ID, and Microsoft 365 environments, including identity governance, privileged access, Conditional Access, and role-based ac\nExperience with Microsoft Defender security services, Microsoft Sentinel, Microsoft Purview, Azure Monitor, Log Analytics, or comparable security capabilities.\nExperience with cloud security posture management, vulnerability management, incident response, threat modelling, security testing, secure software delivery, third-party assurance, and audit support.\nExperience securing high-stakes assessment, credentialing, healthcare, regulated, or public-sector environments with Canadian data-residency requirements is an asset.\nExperience securing cloud-native applications, APIs, containers, DevOps platforms, automated deployment pipelines, and cross-organizational security boundaries is an asset."
+},
+{
+"title": "Support Consultant, SAP Business One",
+"company": "Vision33",
+"location": "",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492239298",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Systems Administrator",
+"company": "Pason",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492509750",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst- REMOTE",
+"company": "Prime Therapeutics",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=bfa4a94898c81e8f",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://primetherapeutics.wd1.myworkdayjobs.com/en-US/PrimeTherapeuticsCareers/job/Home/Business-Analyst--REMOTE_R-17584",
+"salary": "$66,000 - $106,000 USD per year",
+"skills": [
+"Excel"
+]
+},
+{
+"title": "Developer, Visualizations",
+"company": "Optum",
+"location": "Remote · United States",
+"posted": "2026-11-19",
+"link": "https://www.indeed.com/viewjob?jk=a5c71f8a5487b371",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2403769&lang=en",
+"salary": "$72,800 - $130,000 USD per year",
+"skills": [
+"SQL",
+"Databricks",
+"Snowflake",
+"Power BI",
+"Data visualization",
+"Azure",
+"Data structures & algorithms",
+"System design"
+]
+},
+{
+"title": "Data Engineer",
+"company": "Canadian Cancer Society",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4487357763",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Migration Specialist (ETL/SSIS, Data Mapping)",
+"company": "FNZ",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491366177",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Geoscience Summer Students",
+"company": "ARC Resources Ltd.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4469197556",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Enterprise AI Tech Support Associate",
+"company": "Accenture",
+"location": "St. Catharines, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492114102",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Enablement and Reporting Summer Student",
+"company": "ARC Resources Ltd.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4469203368",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Software Engineer, Collections Infra",
 "company": "Notion",
 "location": "Remote · United States",
@@ -6664,7 +6834,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T220411Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192403&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192403%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dd38d7572-e2e6-11f1-bbb7-df760aded207%26rx_job%3DR-0000192403%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T000408Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Linux",
 "Networking (TCP/IP, DNS)",
@@ -10639,7 +10809,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://career-hcm03.ns2cloud.com/career?career%5fns=job%5flisting&company=PANPRD&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=18029&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=UOBV5%2b5HzAWCFbyPAIdF0eMTXIz29eYRui03xR02k7g%3d",
+"apply": "https://career-hcm03.ns2cloud.com/career?career%5fns=job%5flisting&company=PANPRD&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=18029&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=6%2by2HMT%2bjnNraKTJiwyQnJHRrRVPpesUO4FQz6wLSq8%3d",
 "skills": [
 "Excel",
 "Ticketing (ServiceNow, Jira)",
@@ -16503,6 +16673,76 @@
 "location": "",
 "posted": "2026-11-18",
 "link": "https://www.linkedin.com/jobs/view/4492227444",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Systems Analyst",
+"company": "Humber River Health",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4492104191",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior / Intermediate Software Engineer",
+"company": "BLiNQ Networks",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491871507",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Lab Support Technician",
+"company": "BLiNQ Networks",
+"location": "North York, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491885531",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern, Reliability Analyst",
+"company": "Saputo Inc.",
+"location": "Georgetown, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4492226328",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "CI Maturity Development Intern",
+"company": "Hitachi Energy",
+"location": "Stoney Creek, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4476323572",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Associate, Summer 2027 (Co-op/Internship) - 4 Months",
+"company": "BMO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4492233256",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Developer, AI Innovation",
+"company": "Kinaxis",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4492210346",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -24541,7 +24781,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 8,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619183&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18490377-duty-controller%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dbb65ef93-e2a3-11f1-8076-537128661718%26rx_job%3D2619183%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T220404Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619183",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619183&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18490377-duty-controller%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dbb65ef93-e2a3-11f1-8076-537128661718%26rx_job%3D2619183%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T000402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619183",
 "salary": "$60,001 - $100,000 USD per year",
 "skills": [
 "Linux",
@@ -25102,7 +25342,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T220423Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2634631&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fsoftware-development-engineer%2Fjob%2F2634631%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D0704e239-e2c6-11f1-b18c-7fdacd001780%26rx_job%3D2634631%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T000412Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$85,000 - $110,000 USD per year",
 "skills": [
 "Java",
@@ -25236,7 +25476,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2621572&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative%2Fjob%2F2621572%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D05f5e359-e2c6-11f1-8097-7fdacd001780%26rx_job%3D2621572%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T220423Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2621572&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative%2Fjob%2F2621572%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D05f5e359-e2c6-11f1-8097-7fdacd001780%26rx_job%3D2621572%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T000412Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$17 - $23 USD per hour",
 "skills": [
 "Networking (TCP/IP, DNS)",
@@ -25319,7 +25559,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604939631?etd=MUVP6CXQ22IN5Y6HR2OVWLOMPZIYNWA7IYZDST72XA75ZT3EPPXEQK3337PVEZANNESDA6B3EREG2KOX3OHFIPTN2CGPTONBS63ARG3NXSSVD5NWFEIQ%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/604939631?etd=MUVP6CXQ22IN5Y6HR2OVWLOMPZIYNWA7IYZDST72XA75ZT3EPPXEQK3337PVEZANNESDA6B3EREG2KOX3OHFIPTN2CGPTONBS63ARG3JKHC7IPLWMLWQ%3d%3d%3d%3d",
 "salary": "$17.95 - $21.09",
 "req": "Join our holiday team! We're hiring immediately for our busiest and most exciting time of the year! Whether you're looking to build new skills, gain experience, or be part of a great team, we'd love t"
 },
@@ -25566,7 +25806,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 2,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695603-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695603-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D1b898c44-e30a-11f1-acde-71e050ff558a%26rx_job%3D200695603-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261119T220414Z%26rx_vp%3Dcpc",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200695603-3350-en-US&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-ca%2Fdetails%2F200695603-3350%3Fboard_id%3DJB001%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D1b898c44-e30a-11f1-acde-71e050ff558a%26rx_job%3D200695603-3350-en-US%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261120T000408Z%26rx_vp%3Dcpc",
 "salary": "$119,100",
 "skills": [
 "Python",
@@ -28496,6 +28736,34 @@
 "Salesforce"
 ],
 "req": "Join iA – Transforming Pharmacy Fulfillment with Innovation and Care Are you ready to revolutionize pharmacy with cutting-edge automation technology? At iA® (Innovation Associates®), we are at the for\nMaintain cross-functional communication with engineering groups to share customer feedback on the hardware and software components of our automation solutions. What You Bring to the Table:  Bachelor's\nExperience supporting integrated software and hardware solutions in production environments.\nExperience supporting networking, firewall configurations, port access, and Active Directory.\nExperienced in mentoring or guiding peers.\nAdaptable and able to work in evolving technical environments. Even Better If You Bring:  Proficient with Microsoft Office Applications (Word, Excel, PowerPoint, Outlook)  Experience troubleshooting i\nExperience with CX Programmer, Sysmac Studio, Fanuc RoboGuide, Fanuc Codesys, or equivalent PLC and Robot programming software.\nCareer Growth – Invest in your future through iA University, tuition reimbursement for eligible degree programs and certifications, professional development funding, and ongoing opportunities to learn"
+},
+{
+"title": "Electronic Communications Analyst",
+"company": "Scotiabank",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=f61155238a82ff4b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.scotiabank.com/job/Toronto-Electronic-Communications-Analyst-ON-M5H-0B4/608119517/",
+"skills": [
+"Excel"
+],
+"req": "Requisition ID: 279459 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. Purpose: The Electronic Communications Analyst contributes to the success "
+},
+{
+"title": "Temporary Research Coordinator I",
+"company": "London Health Sciences Centre",
+"location": "London, ON, CA",
+"posted": "2026-11-17",
+"link": "https://ca.indeed.com/viewjob?jk=c102d49a5ac7a361",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.lhsc.on.ca/psc/LHCGWPRD/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=111464&SiteId=1&PostingSeq=1",
+"salary": "$34.40 to $43.00 per hour",
+"req": "Under the direction of the laboratory manager leadership will help keep the research lab space in research ready state. Qualifications ------------------  Successful completion of Bachelor's Degree is"
 },
 {
 "title": "Enterprise Solution Engineer - South East",
