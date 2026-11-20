@@ -1,77 +1,414 @@
 {
-"updated": "2026-11-20T12:59:46+00:00",
+"updated": "2026-11-20T13:09:46+00:00",
 "jobs": [
 {
-"title": "Business Analyst 2",
-"company": "State of Montana",
+"title": "Product Quality Engineer I",
+"company": "Morse Micro",
 "location": "Remote · United States",
 "posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=d4fc1328e8583f89",
-"source": "Indeed",
-"country": "US",
-"years": 5,
-"apply": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142882&tz=GMT-06%3A00&tzname=America%2FChicago",
-"salary": "$64,780 - $66,955 USD per year",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Retirement plans- The State currently contributes 9.17%, vested after 5 years of continuous employment.\nPaid vacation- starting at 15 days a year.\nSick leave- 12 days a year.\nEligibility to participate in the Public Service Loan Forgiveness (PSLF) program. Visit the Health Care and Benefits Division for more information at https://benefits.mt.gov/. In addition to employee \nVery detail oriented  Follow instructions. REQUIRED APPLICATION MATERIALS Please submit the following application material:  Resume  Complete state application Submissions incomplete or missing releva\nSome travel may be required. To be considered for any DOR position, applicants must complete and submit their application online and upload any required documents. DOR is an equal opportunity employer\nOther combinations of education or experience are evaluated on an individual basis."
-},
-{
-"title": "Technology Support Technician",
-"company": "Educational Service Dist 112",
-"location": "Remote · United States",
-"posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=11748163f8c84566",
+"link": "https://www.indeed.com/viewjob?jk=dc1424ef4d5539d4",
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://www.SchoolSpring.com/jobdetail?jobId=5999075",
-"salary": "$51,105 - $62,192 USD per year",
+"apply": "https://jobs.ashbyhq.com/morse-micro/ca01644b-bb2f-4dda-8ea3-b3c3085e62fc?utm_source=lnb2B5Y9JN",
 "skills": [
-"Windows",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Google Workspace"
+"Networking (TCP/IP, DNS)",
+"Jira",
+"Embedded systems"
 ],
-"req": "Maintain regular attendance to carry out the duties and responsibilities of the position. Other Functions: Other duties as assigned to support the success of the agency. Minimum/Preferred Qualificatio\nExperience with the Windows platform and knowledge of common Windows software including MS Office, antivirus, backup, and diagnostic applications.\nExperience supporting common productivity suites like Microsoft Office, Office 365, and Google Workspaces.\nExperience learning and supporting unfamiliar technology quickly. Preferred Qualifications and Skills: Experience in other system platforms and mobile device management solutions such as Apple and Chr\nExperience training staff on the use of technology. Working Conditions/Employment RequirementsWorking Conditions/Physical Requirements: Office environment.\nDaytime travel within Southwest Washington required. Infrequent overnight travel for training."
+"req": "Morse Micro is at the forefront of next-generation Wi-Fi technology, specializing in Wi-Fi HaLow solutions that offer extended range, lower power consumption, and enhanced penetration. Our innovative \nConduct component-level fault isolation as needed to isolate whether failures originate at the chip or PCB level, with support from senior engineers on complex cases. Customer Communication & FA Repor\nPrepare and issue FA Reports (FARs) to customers (with senior review initially), technically accurate, clearly communicating root cause, corrective action, and verification evidence.\nRespond to FAE and customer technical inquiries, translating ongoing lab findings into clear, timely communication appropriate for both technical and non-technical contacts. Cross-Time Zone Coordinati\nSupport firmware branch requests, root cause assignments, and corrective action commits; follow up proactively to prevent stalls, with increasing independence as you gain experience.\nFacilitate cross-site FA review calls (initially alongside a senior engineer): preparing agendas, presenting lab findings, capturing action items, and tracking commitments to closure. Investigation Do\nPrepare internal FA summary reports covering failure pareto, repeat failure patterns, and corrective action verification results for engineering review and management visibility. Qualifications Requir\nStrong technical writing skills: clear customer-facing FA reports and structured internal investigation documents.\nEffective cros"
 },
 {
-"title": "Software developer",
-"company": "Bosch Building Technologies",
-"location": "Ottawa, Ontario, Canada",
+"title": "Software Developer",
+"company": "Ci2 Group",
+"location": "Calgary, AB, CA (remote)",
 "posted": "2026-11-20",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50768636",
-"source": "Job Bank",
+"link": "https://ca.indeed.com/viewjob?jk=5482bdb1a54e21c6",
+"source": "Indeed",
 "country": "CA",
-"years": 3
+"years": 5,
+"apply": "http://ca.indeed.com/job/software-developer-5482bdb1a54e21c6",
+"skills": [
+"SQL",
+"HTML/CSS",
+".NET",
+"REST APIs",
+"Spark",
+"SQL Server",
+"AWS"
+],
+"req": "Join a fun and supportive software development team with over 30 years’ experience in delivering custom software projects. Ci2 Group has a great culture, great expertise, awesome clients, and very mat"
 },
 {
-"title": "23223",
-"company": "asdssd",
+"title": "Full Stack Web Developer (Police Analytics Specialist)",
+"company": "Halton Police Service",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=90e4a4b51dd33737",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://haltonpolice.talentpoolbuilder.com/Full+Stack+Web+Developer+Police+Analytics+Specialist/300082/?source=Indeed",
+"salary": "$99,308 -$110,341 per annum",
+"skills": [
+"Python",
+"JavaScript",
+"PHP",
+"R",
+"SQL",
+"HTML/CSS",
+"VBA",
+"Power BI",
+"Excel",
+"SQL Server",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "✓ Pension ✓ Dental Insurance ✓ Disability Insurance ✓ Health Insurance ✓ Life Insurance The Halton Regional Police Service contributes to the safety and well-being of more than 650,000 residents in Ha\nWhat you’ll Bring to the Role: Education:  Minimum university degree  Achieved a Technical certification such as CBIP (Certified Business Intelligence Professional) Experience, Knowledge and Skills:  \nReal-world experience with writing queries in SQL and creating reports/dashboards in PowerBI or coding web-based data tools in PHP/JavaScript."
+},
+{
+"title": "Software Support Specialist",
+"company": "Syms Strategic Group, LLC (SSG)",
 "location": "Remote · United States",
 "posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=f6c444d1fa7ff42c",
+"link": "https://www.indeed.com/viewjob?jk=38e23c7af08aa749",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://symsstrategicgroup.applytojob.com/apply/TnwhNE74Ci/Software-Support-Specialist?source=INDE&~",
+"salary": "$77,267 - $83,650 USD per year",
+"skills": [
+"Cybersecurity",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"CompTIA Security+",
+"ITIL"
+],
+"req": "This is a W-2 position  All interviews will be conducted on Microsoft Teams with your camera on; there will be no exceptions  As part of our screening process, you will be requested to provide a link "
+},
+{
+"title": "ERP Business Analyst",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=8660be61e31b2e80",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/23223-f6c444d1fa7ff42c",
-"salary": "$57 - $68 USD per hour",
+"apply": "http://www.indeed.com/job/erp-business-analyst-8660be61e31b2e80",
+"salary": "$101,000 - $142,000 USD per year",
 "skills": [
-"Linux",
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Firewalls",
-"Windows",
-"macOS",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"Jira"
+"SQL",
+"Oracle",
+"SAP"
 ],
-"req": "Essential: Experience troubleshooting computer hardware, software, operating systems, mobile devices, and network connectivity."
+"req": "Coordinate configuration changes with internal administrators and implementation partners.\nTrack project risks, dependencies, decisions, and open action items. What we’re looking for  Four or more years of ERP business analysis, systems analysis, implementation, or process-improvement exper\nExperience with systems such as SAP, Oracle, NetSuite, Microsoft Dynamics, Infor, or similar platforms.\nExperience with UAT, process mapping, and change management.\nComfortable working independently in a fully remote environment. A bachelor’s degree is preferred but not required. SQL, scripting, or integration experience is helpful but not mandatory. Benefits  Me\nCompany laptop, monitor, secure home-office equipment, and internet stipend."
+},
+{
+"title": "Shift Scheduling Software Support",
+"company": "McCarthy Uniforms",
+"location": "Scarborough, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=5c827c8f69041431",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/shift-scheduling-software-support-5c827c8f69041431",
+"salary": "$35.60-$42.72 per hour",
+"skills": [
+"Excel",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Escalate complex software bugs to platform vendors and track resolutions through completion. Experience  1+ year of experience in IT helpdesk, SaaS application support, workforce management (WFM), or "
+},
+{
+"title": "Pharmacist",
+"company": "Loblaw",
+"location": "Sydney, NS, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=8d6c8d98cae6ab21",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/pharmacist/job/R2000710537",
+"salary": "$47.15 - $61.05"
+},
+{
+"title": "Data Operations Analyst",
+"company": "Loblaw",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=c904a3d0c66fbfe7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.loblaw.ca/data-operations-analyst/job/R2000734545",
+"salary": "$52,000.00 - $71,500.00",
+"skills": [
+"Python",
+"SQL",
+"SAP"
+],
+"req": "Come make your difference in communities across Canada, where authenticity, trust and making connections is valued – as we shape the future of Canadian retail, together. Our unique position as one of \nUnderstand and communicate master data updates (e.g., maintenance, new fields, definitions, etc.) to business teams and suppliers, as required.\nMaintain clear communication and positive relationships with both internal and external collaborators.\nExperience/knowledge of SAP and working with retail master data.\nExperience working with SQL, Python, UAT Testing is an asset  Ability to balance multiple priorities and strong leadership skills.\nMust be detail oriented and highly organized.\nMust be able to work in a fast-paced environment."
+},
+{
+"title": "Occupational Therapist I - Continuing Care",
+"company": "Alberta Health Services",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=1fb42c058e4bd0d7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.albertahealthservices.ca/jobs/occupational-therapist-i-continuing-care-604590",
+"salary": "$42.51",
+"skills": [
+"Excel"
+],
+"req": "Your Opportunity: Assisted Living Alberta is dedicated to Enhancing Care in the Community, helping people be healthy, well and independent in their homes and communities. For more information Assisted\nDescription: As an Occupational Therapist (OT), you will provide evidence-informed services, with a focus on occupational performance designed to meet the needs of individuals, groups, or a community."
+},
+{
+"title": "AI/ML Developer",
+"company": "Capgemini",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=6e5ceee13f773eec",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://www.capgemini.com/jobs/600658-en_US_SAPBTP/",
+"salary": "$85,000-$96,655",
+"skills": [
+"Python",
+"JavaScript",
+"SQL",
+"REST APIs",
+"scikit-learn",
+"TensorFlow",
+"PyTorch",
+"Machine learning",
+"Deep learning",
+"LLMs / GenAI",
+"RAG",
+"NLP",
+"Computer vision",
+"LangChain",
+"ETL / data pipelines",
+"NoSQL",
+"Vector databases",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Agile / Scrum",
+"System design"
+],
+"req": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues ar\nStay current with emerging AI technologies, frameworks, and industry best practices. Required Skills & Qualifications  Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data \n4+ years of software development experience and 3+ years of hands-on experience in AI/ML development.\nProven experience building, deploying, and supporting production-grade AI/ML solutions.\nExperience with machine learning frameworks such as PyTorch, TensorFlow, and Scikit-learn.\nExperience developing Generative AI solutions using OpenAI/Azure OpenAI, LangChain, LangGraph, vector databases (Pinecone, FAISS, ChromaDB), and RAG architectures.\nExperience building and deploying solutions on cloud platforms, preferably Microsoft Azure, as well as AWS and/or GCP.\nExperience with Docker, Kubernetes, Azure Machine Learning, MLflow, GitHub Actions, Azure DevOps, and MLOps best practices including CI/CD, model monitoring, and governance.\nExperience working with SQL and NoSQL databases.\nStrong analytical, problem-solving, communication, and stakeholder management skills, with the ability to work effectively in Agile environments and collaborate across cross-functional teams. Preferre\nHands-on experience with Copilot, OpenAI, Anthropic, Gemini, or other leading LLM platforms.\nExperience develo"
+},
+{
+"title": "Mainframe Developer",
+"company": "Capgemini",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=bb7f50b78152aa1d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://www.capgemini.com/jobs/596842-en_US_SAPBTP/",
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"AWS",
+"Git",
+"Agile / Scrum"
+],
+"req": "Experience with Mainframe technologies (Mainly PL/1, IMSDB, DB2, COBOL).\nShould have experience of both development and production support.\nDebug using IDB IDZ  Able to push/deploy code using GIT  Experience on Agile.\nCoordinate activity between Product owners/Business Units to drive open action items to closure Skills:  Very strong in PL/I, IMSDB, DB2, JCL, SORT (Exp 10+)  Well experienced Health Insurance Applica\nExperience in working with COBOL, SAS, REXX, VSAM...other Mainframe Technologies  Knowledge of Webservices, REST API, Json, Message Queues(MQ)  Experience in scheduling tools like Control-M.\nExperience on git, CICD, Pipeline etc."
+},
+{
+"title": "Process and Analytical Development Specialist, Arnie Charbonneau Cancer Institute",
+"company": "University of Calgary",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=0c63837a684d9dcd",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.ucalgary.ca/jobs/18502251-process-and-analytical-development-specialist-arnie-charbonneau-cancer-institute?tm_job=39197-1A&tm_event=view&tm_company=1828",
+"skills": [
+"Statistics",
+"Help desk / troubleshooting"
+],
+"req": "Description The Arnie Charbonneau Cancer Institute in the Cumming School of Medicine invites applications for a Process and Analytical Development Specialist. This Full-time Fixed Term position is for"
+},
+{
+"title": "Software Developer",
+"company": "Box",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=8df9ec5fe3c6f433",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/software-developer-8df9ec5fe3c6f433",
+"salary": "$130,000 - $150,000 USD per year",
+"skills": [
+"JavaScript",
+"TypeScript",
+"React",
+"Node.js",
+"REST APIs",
+"Git",
+"Testing (unit, automated)"
+],
+"req": "Review code and technical designs, and help roll out changes safely to customers. What you’ll bring  Experience shipping a web application with React and JavaScript or TypeScript.\nHands-on experience building backend services or REST APIs with Node.js."
+},
+{
+"title": "Specialist, Cyber Security",
+"company": "SaskEnergy",
+"location": "Regina, SK, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=86d348c37c7d5158",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://saskenergy.wd10.myworkdayjobs.com/en-US/SaskEnergy/job/Regina-SK/Specialist--Cyber-Security_R00004519",
+"salary": "$92,716 - $132,958",
+"skills": [
+"Azure",
+"Cybersecurity",
+"SIEM",
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Penetration testing",
+"EDR",
+"Threat intelligence",
+"Microsoft 365",
+"CISSP"
+],
+"req": "SaskEnergy is seeking a Cyber Security Specialist! The Specialist provides technical leadership in cyber security to facilitate the development and day to day support activities related to current and\nOther related duties as assigned. Knowledge/Skills/Abilities ==============================  A recognized Bachelor's Degree in computer science, information systems, engineering or a related disciplin\nEight (8) years in information technology field, with at least five (5) years’ progressive experience in cyber security solution design, implementation, operations and support.\nExperience in Security Operations Centre (SOC), XDR, EDR, SIEM technologies and OT Security controls would be considered an asset.\nMust have a continuing record of professional development and continuous learning. A suitable combination of relevant education and experience may also be considered. Additional Information =========="
+},
+{
+"title": "Statistical Analyst",
+"company": "Cambium Learning Group",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=da890f5cf1231a60",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Statistical-Analyst_REQ-4701",
+"skills": [
+"LLMs / GenAI",
+"Statistics",
+"Git"
+],
+"req": "Statistical Analyst Job Location: Remote, US. Must live and reside within the United States. Job Overview: The Statistical Analyst will partner and support our Psychometrician team using specification\nApplies given formulas to obtain required statistics for various types of psychometric data.\nCommunicates concerns/insights to the project psychometrician. Job Requirements:  Advanced degree in statistics, mathematics, or a related field.\n1+ years of statistical analysis experience.\n1 year of psychometric programming experience with a testing company is preferred.\nExperience with git and R package tools (e.g., devtools) is preferred.\nExperience with Winsteps and/or IRTPRO is preferred  Experience with R Markdown a plus.\nMust be willing to continuously update knowledge and skills using new software applications available for test data analysis and efficiency enhancement. . To learn more about our organization and the "
+},
+{
+"title": "Investigations Analyst (6 months)",
+"company": "Legal Aid Ontario",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=aec6afa8071a5a5a",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=Z1FbQRwXCB17EXNxQF1WCFE6A2JEcFBdBEhYWlh5ExJaKkUaXUppLiUuQC4kXhMBcAkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0374&BRID=464350&lang=1",
+"salary": "$70,311.61 - $81,510.43 /Year",
+"skills": [
+"Python",
+"SQL",
+"Power BI",
+"Excel"
+],
+"req": "Conduct client eligibility investigations and provide reports on recommendations on course of action. Required skills & experience ---------------------------------  Excellent analytical skills.\nWell-developed written and verbal communication skills to prepare internal and external correspondence.\nKnowledge of Case Management Software, Power BI, PeopleSoft, SQL, Python and Business Intelligence tools is highly desirable. Organizational Competencies Expected:  Client Focus  Teamwork  Adaptabilit"
+},
+{
+"title": "Data entry clerk",
+"company": "Endeavor Trust Corporation",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50767864",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Digital Strategic Growth & Partnerships Analyst",
+"company": "Sanofi",
+"location": "Toronto, ON",
+"posted": "2026-11-20",
+"link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Digital-Strategic-Growth---Partnerships-Analyst_R2878636-1",
+"source": "Sanofi careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Low Voltage Technician",
+"company": "",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b2f2f285b76ee5a8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/low-voltage-technician-b2f2f285b76ee5a8",
+"salary": "$19.00 per hour"
+},
+{
+"title": "Technical Support Specialist",
+"company": "Lifetrack Medical System",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=dae0670d2ef9d64e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/technical-support-specialist-dae0670d2ef9d64e",
+"salary": "$600.00 per month",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "CaThe Technical Support Specialist, reporting to the company’s Operations Manager shall perform the following functions:  Support retention and strong promotion or advocacy among existing customers by\nContribute to and regularly update the internal Knowledge Base with resolved issues, workarounds, best practices and product’s new features.\nMaintain high-quality documentation on ticket notes, root cause analysis, and resolutions for internal transparency and future reference.\nLiaise on both internal and external stakeholders on behalf of the customer department  Collaborate with cross-functional teams and come up with solutions to help improve the overall performance of th"
+},
+{
+"title": "Tutor/Academic Consultant",
+"company": "Sigma Education",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=dc6d5f87ff76c419",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/tutoracademic-consultant-dc6d5f87ff76c419",
+"salary": "$50 - $75 USD per hour",
+"skills": [
+".NET",
+"Machine learning"
+],
+"req": "Tutor, Mentor & Academic Consultant (Remote) Sigma Education | Remote | Contract, flexible hours About Sigma Education Sigma Education is a college admissions consulting and academic mentorship firm. \nExperience working with students through tutoring, teaching, mentoring, coaching, or research supervision  Familiarity with the American college application process  The ability to explain hard ideas "
+},
+{
+"title": "USCIS FOIA Analyst",
+"company": "Pathfinder Consultants LLC",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=4192e4fa296db62f",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "http://www.indeed.com/job/uscis-foia-analyst-4192e4fa296db62f",
+"salary": "$19.81 per hour",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Perform other related duties as assigned. Qualifications & Requirements Candidates must meet the following requirements:  Minimum of 1-year of experience in FOIA/PA document processing.\nBachelor's degree preferred but not required.\nPrior experience working remotely is strongly preferred.\nMust be eligible to obtain a USCIS Public Trust clearance. Candidates with an existing clearance or completed favorable adjudication are strongly preferred.\nMust be a U.S. citizen.\n>>>>>>>>>>>>>>>>Do you have experience applying FOIA exemptions and Privacy Act protections, conducting electronic document reviews and redactions, and using FOIA processing or redaction software? If \n>>>>>>>>>>>>>>>>Are you a U.S. citizen, do you currently hold any active or previous federal security clearance or Public Trust determination, and are you willing to undergo fingerprinting and a USCIS\n>>>>>>>>>>>>>>>>What type of employment are you seeking (full-time, part-time, or either), are you available to work overtime when needed, and are you able to accommodate a flexible work schedule? Edu"
 },
 {
 "title": "Cloud Computing Engineer",
@@ -117,413 +454,76 @@
 "req": "This is a W-2 position  All interviews will be conducted on Microsoft Teams with your camera on; there will be no exceptions  As part of our screening process, you will be requested to provide a link "
 },
 {
-"title": "USCIS FOIA Analyst",
-"company": "Pathfinder Consultants LLC",
+"title": "23223",
+"company": "asdssd",
 "location": "Remote · United States",
 "posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=4192e4fa296db62f",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "http://www.indeed.com/job/uscis-foia-analyst-4192e4fa296db62f",
-"salary": "$19.81 per hour",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "Perform other related duties as assigned. Qualifications & Requirements Candidates must meet the following requirements:  Minimum of 1-year of experience in FOIA/PA document processing.\nBachelor's degree preferred but not required.\nPrior experience working remotely is strongly preferred.\nMust be eligible to obtain a USCIS Public Trust clearance. Candidates with an existing clearance or completed favorable adjudication are strongly preferred.\nMust be a U.S. citizen.\n>>>>>>>>>>>>>>>>Do you have experience applying FOIA exemptions and Privacy Act protections, conducting electronic document reviews and redactions, and using FOIA processing or redaction software? If \n>>>>>>>>>>>>>>>>Are you a U.S. citizen, do you currently hold any active or previous federal security clearance or Public Trust determination, and are you willing to undergo fingerprinting and a USCIS\n>>>>>>>>>>>>>>>>What type of employment are you seeking (full-time, part-time, or either), are you available to work overtime when needed, and are you able to accommodate a flexible work schedule? Edu"
-},
-{
-"title": "Tutor/Academic Consultant",
-"company": "Sigma Education",
-"location": "Remote · United States",
-"posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=dc6d5f87ff76c419",
+"link": "https://www.indeed.com/viewjob?jk=f6c444d1fa7ff42c",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/tutoracademic-consultant-dc6d5f87ff76c419",
-"salary": "$50 - $75 USD per hour",
+"apply": "http://www.indeed.com/job/23223-f6c444d1fa7ff42c",
+"salary": "$57 - $68 USD per hour",
 "skills": [
-".NET",
-"Machine learning"
+"Linux",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Windows",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira"
 ],
-"req": "Tutor, Mentor & Academic Consultant (Remote) Sigma Education | Remote | Contract, flexible hours About Sigma Education Sigma Education is a college admissions consulting and academic mentorship firm. \nExperience working with students through tutoring, teaching, mentoring, coaching, or research supervision  Familiarity with the American college application process  The ability to explain hard ideas "
+"req": "Essential: Experience troubleshooting computer hardware, software, operating systems, mobile devices, and network connectivity."
 },
 {
-"title": "Technical Support Specialist",
-"company": "Lifetrack Medical System",
-"location": "Remote · United States",
+"title": "Software developer",
+"company": "Bosch Building Technologies",
+"location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=dae0670d2ef9d64e",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/technical-support-specialist-dae0670d2ef9d64e",
-"salary": "$600.00 per month",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "CaThe Technical Support Specialist, reporting to the company’s Operations Manager shall perform the following functions:  Support retention and strong promotion or advocacy among existing customers by\nContribute to and regularly update the internal Knowledge Base with resolved issues, workarounds, best practices and product’s new features.\nMaintain high-quality documentation on ticket notes, root cause analysis, and resolutions for internal transparency and future reference.\nLiaise on both internal and external stakeholders on behalf of the customer department  Collaborate with cross-functional teams and come up with solutions to help improve the overall performance of th"
-},
-{
-"title": "Low Voltage Technician",
-"company": "",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=b2f2f285b76ee5a8",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/low-voltage-technician-b2f2f285b76ee5a8",
-"salary": "$19.00 per hour"
-},
-{
-"title": "Digital Strategic Growth & Partnerships Analyst",
-"company": "Sanofi",
-"location": "Toronto, ON",
-"posted": "2026-11-20",
-"link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Digital-Strategic-Growth---Partnerships-Analyst_R2878636-1",
-"source": "Sanofi careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Data entry clerk",
-"company": "Endeavor Trust Corporation",
-"location": "Vancouver, British Columbia, Canada",
-"posted": "2026-11-20",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50767864",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50768636",
 "source": "Job Bank",
 "country": "CA",
-"years": null
+"years": 3
 },
 {
-"title": "Investigations Analyst (6 months)",
-"company": "Legal Aid Ontario",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=aec6afa8071a5a5a",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=Z1FbQRwXCB17EXNxQF1WCFE6A2JEcFBdBEhYWlh5ExJaKkUaXUppLiUuQC4kXhMBcAkbUxZVSXgqWA%3D%3D&chk=ZVpaShw%3D&clid=73708&Page=JobDetails&Jobid=J1126-0374&BRID=464350&lang=1",
-"salary": "$70,311.61 - $81,510.43 /Year",
-"skills": [
-"Python",
-"SQL",
-"Power BI",
-"Excel"
-],
-"req": "Conduct client eligibility investigations and provide reports on recommendations on course of action. Required skills & experience ---------------------------------  Excellent analytical skills.\nWell-developed written and verbal communication skills to prepare internal and external correspondence.\nKnowledge of Case Management Software, Power BI, PeopleSoft, SQL, Python and Business Intelligence tools is highly desirable. Organizational Competencies Expected:  Client Focus  Teamwork  Adaptabilit"
-},
-{
-"title": "Statistical Analyst",
-"company": "Cambium Learning Group",
+"title": "Technology Support Technician",
+"company": "Educational Service Dist 112",
 "location": "Remote · United States",
 "posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=da890f5cf1231a60",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Statistical-Analyst_REQ-4701",
-"skills": [
-"LLMs / GenAI",
-"Statistics",
-"Git"
-],
-"req": "Statistical Analyst Job Location: Remote, US. Must live and reside within the United States. Job Overview: The Statistical Analyst will partner and support our Psychometrician team using specification\nApplies given formulas to obtain required statistics for various types of psychometric data.\nCommunicates concerns/insights to the project psychometrician. Job Requirements:  Advanced degree in statistics, mathematics, or a related field.\n1+ years of statistical analysis experience.\n1 year of psychometric programming experience with a testing company is preferred.\nExperience with git and R package tools (e.g., devtools) is preferred.\nExperience with Winsteps and/or IRTPRO is preferred  Experience with R Markdown a plus.\nMust be willing to continuously update knowledge and skills using new software applications available for test data analysis and efficiency enhancement. . To learn more about our organization and the "
-},
-{
-"title": "Specialist, Cyber Security",
-"company": "SaskEnergy",
-"location": "Regina, SK, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=86d348c37c7d5158",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://saskenergy.wd10.myworkdayjobs.com/en-US/SaskEnergy/job/Regina-SK/Specialist--Cyber-Security_R00004519",
-"salary": "$92,716 - $132,958",
-"skills": [
-"Azure",
-"Cybersecurity",
-"SIEM",
-"SOC",
-"Incident response",
-"Vulnerability management",
-"Penetration testing",
-"EDR",
-"Threat intelligence",
-"Microsoft 365",
-"CISSP"
-],
-"req": "SaskEnergy is seeking a Cyber Security Specialist! The Specialist provides technical leadership in cyber security to facilitate the development and day to day support activities related to current and\nOther related duties as assigned. Knowledge/Skills/Abilities ==============================  A recognized Bachelor's Degree in computer science, information systems, engineering or a related disciplin\nEight (8) years in information technology field, with at least five (5) years’ progressive experience in cyber security solution design, implementation, operations and support.\nExperience in Security Operations Centre (SOC), XDR, EDR, SIEM technologies and OT Security controls would be considered an asset.\nMust have a continuing record of professional development and continuous learning. A suitable combination of relevant education and experience may also be considered. Additional Information =========="
-},
-{
-"title": "Software Developer",
-"company": "Box",
-"location": "Remote · United States",
-"posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=8df9ec5fe3c6f433",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/software-developer-8df9ec5fe3c6f433",
-"salary": "$130,000 - $150,000 USD per year",
-"skills": [
-"JavaScript",
-"TypeScript",
-"React",
-"Node.js",
-"REST APIs",
-"Git",
-"Testing (unit, automated)"
-],
-"req": "Review code and technical designs, and help roll out changes safely to customers. What you’ll bring  Experience shipping a web application with React and JavaScript or TypeScript.\nHands-on experience building backend services or REST APIs with Node.js."
-},
-{
-"title": "Process and Analytical Development Specialist, Arnie Charbonneau Cancer Institute",
-"company": "University of Calgary",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=0c63837a684d9dcd",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://careers.ucalgary.ca/jobs/18502251-process-and-analytical-development-specialist-arnie-charbonneau-cancer-institute?tm_job=39197-1A&tm_event=view&tm_company=1828",
-"skills": [
-"Statistics",
-"Help desk / troubleshooting"
-],
-"req": "Description The Arnie Charbonneau Cancer Institute in the Cumming School of Medicine invites applications for a Process and Analytical Development Specialist. This Full-time Fixed Term position is for"
-},
-{
-"title": "Mainframe Developer",
-"company": "Capgemini",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=bb7f50b78152aa1d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://www.capgemini.com/jobs/596842-en_US_SAPBTP/",
-"skills": [
-"REST APIs",
-"LLMs / GenAI",
-"AWS",
-"Git",
-"Agile / Scrum"
-],
-"req": "Experience with Mainframe technologies (Mainly PL/1, IMSDB, DB2, COBOL).\nShould have experience of both development and production support.\nDebug using IDB IDZ  Able to push/deploy code using GIT  Experience on Agile.\nCoordinate activity between Product owners/Business Units to drive open action items to closure Skills:  Very strong in PL/I, IMSDB, DB2, JCL, SORT (Exp 10+)  Well experienced Health Insurance Applica\nExperience in working with COBOL, SAS, REXX, VSAM...other Mainframe Technologies  Knowledge of Webservices, REST API, Json, Message Queues(MQ)  Experience in scheduling tools like Control-M.\nExperience on git, CICD, Pipeline etc."
-},
-{
-"title": "AI/ML Developer",
-"company": "Capgemini",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=6e5ceee13f773eec",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://www.capgemini.com/jobs/600658-en_US_SAPBTP/",
-"salary": "$85,000-$96,655",
-"skills": [
-"Python",
-"JavaScript",
-"SQL",
-"REST APIs",
-"scikit-learn",
-"TensorFlow",
-"PyTorch",
-"Machine learning",
-"Deep learning",
-"LLMs / GenAI",
-"RAG",
-"NLP",
-"Computer vision",
-"LangChain",
-"ETL / data pipelines",
-"NoSQL",
-"Vector databases",
-"AWS",
-"Azure",
-"Google Cloud",
-"Docker",
-"Kubernetes",
-"CI/CD",
-"GitHub Actions",
-"Git",
-"Agile / Scrum",
-"System design"
-],
-"req": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues ar\nStay current with emerging AI technologies, frameworks, and industry best practices. Required Skills & Qualifications  Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data \n4+ years of software development experience and 3+ years of hands-on experience in AI/ML development.\nProven experience building, deploying, and supporting production-grade AI/ML solutions.\nExperience with machine learning frameworks such as PyTorch, TensorFlow, and Scikit-learn.\nExperience developing Generative AI solutions using OpenAI/Azure OpenAI, LangChain, LangGraph, vector databases (Pinecone, FAISS, ChromaDB), and RAG architectures.\nExperience building and deploying solutions on cloud platforms, preferably Microsoft Azure, as well as AWS and/or GCP.\nExperience with Docker, Kubernetes, Azure Machine Learning, MLflow, GitHub Actions, Azure DevOps, and MLOps best practices including CI/CD, model monitoring, and governance.\nExperience working with SQL and NoSQL databases.\nStrong analytical, problem-solving, communication, and stakeholder management skills, with the ability to work effectively in Agile environments and collaborate across cross-functional teams. Preferre\nHands-on experience with Copilot, OpenAI, Anthropic, Gemini, or other leading LLM platforms.\nExperience develo"
-},
-{
-"title": "Occupational Therapist I - Continuing Care",
-"company": "Alberta Health Services",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=1fb42c058e4bd0d7",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://careers.albertahealthservices.ca/jobs/occupational-therapist-i-continuing-care-604590",
-"salary": "$42.51",
-"skills": [
-"Excel"
-],
-"req": "Your Opportunity: Assisted Living Alberta is dedicated to Enhancing Care in the Community, helping people be healthy, well and independent in their homes and communities. For more information Assisted\nDescription: As an Occupational Therapist (OT), you will provide evidence-informed services, with a focus on occupational performance designed to meet the needs of individuals, groups, or a community."
-},
-{
-"title": "Data Operations Analyst",
-"company": "Loblaw",
-"location": "Brampton, ON, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=c904a3d0c66fbfe7",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://careers.loblaw.ca/data-operations-analyst/job/R2000734545",
-"salary": "$52,000.00 - $71,500.00",
-"skills": [
-"Python",
-"SQL",
-"SAP"
-],
-"req": "Come make your difference in communities across Canada, where authenticity, trust and making connections is valued – as we shape the future of Canadian retail, together. Our unique position as one of \nUnderstand and communicate master data updates (e.g., maintenance, new fields, definitions, etc.) to business teams and suppliers, as required.\nMaintain clear communication and positive relationships with both internal and external collaborators.\nExperience/knowledge of SAP and working with retail master data.\nExperience working with SQL, Python, UAT Testing is an asset  Ability to balance multiple priorities and strong leadership skills.\nMust be detail oriented and highly organized.\nMust be able to work in a fast-paced environment."
-},
-{
-"title": "Pharmacist",
-"company": "Loblaw",
-"location": "Sydney, NS, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=8d6c8d98cae6ab21",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://careers.loblaw.ca/pharmacist/job/R2000710537",
-"salary": "$47.15 - $61.05"
-},
-{
-"title": "Shift Scheduling Software Support",
-"company": "McCarthy Uniforms",
-"location": "Scarborough, ON, CA (remote)",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=5c827c8f69041431",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/shift-scheduling-software-support-5c827c8f69041431",
-"salary": "$35.60-$42.72 per hour",
-"skills": [
-"Excel",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting"
-],
-"req": "Escalate complex software bugs to platform vendors and track resolutions through completion. Experience  1+ year of experience in IT helpdesk, SaaS application support, workforce management (WFM), or "
-},
-{
-"title": "ERP Business Analyst",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=8660be61e31b2e80",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/erp-business-analyst-8660be61e31b2e80",
-"salary": "$101,000 - $142,000 USD per year",
-"skills": [
-"SQL",
-"Oracle",
-"SAP"
-],
-"req": "Coordinate configuration changes with internal administrators and implementation partners.\nTrack project risks, dependencies, decisions, and open action items. What we’re looking for  Four or more years of ERP business analysis, systems analysis, implementation, or process-improvement exper\nExperience with systems such as SAP, Oracle, NetSuite, Microsoft Dynamics, Infor, or similar platforms.\nExperience with UAT, process mapping, and change management.\nComfortable working independently in a fully remote environment. A bachelor’s degree is preferred but not required. SQL, scripting, or integration experience is helpful but not mandatory. Benefits  Me\nCompany laptop, monitor, secure home-office equipment, and internet stipend."
-},
-{
-"title": "Software Support Specialist",
-"company": "Syms Strategic Group, LLC (SSG)",
-"location": "Remote · United States",
-"posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=38e23c7af08aa749",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "https://symsstrategicgroup.applytojob.com/apply/TnwhNE74Ci/Software-Support-Specialist?source=INDE&~",
-"salary": "$77,267 - $83,650 USD per year",
-"skills": [
-"Cybersecurity",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"CompTIA Security+",
-"ITIL"
-],
-"req": "This is a W-2 position  All interviews will be conducted on Microsoft Teams with your camera on; there will be no exceptions  As part of our screening process, you will be requested to provide a link "
-},
-{
-"title": "Full Stack Web Developer (Police Analytics Specialist)",
-"company": "Halton Police Service",
-"location": "Oakville, ON, CA",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=90e4a4b51dd33737",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://haltonpolice.talentpoolbuilder.com/Full+Stack+Web+Developer+Police+Analytics+Specialist/300082/?source=Indeed",
-"salary": "$99,308 -$110,341 per annum",
-"skills": [
-"Python",
-"JavaScript",
-"PHP",
-"R",
-"SQL",
-"HTML/CSS",
-"VBA",
-"Power BI",
-"Excel",
-"SQL Server",
-"Help desk / troubleshooting",
-"System design"
-],
-"req": "✓ Pension ✓ Dental Insurance ✓ Disability Insurance ✓ Health Insurance ✓ Life Insurance The Halton Regional Police Service contributes to the safety and well-being of more than 650,000 residents in Ha\nWhat you’ll Bring to the Role: Education:  Minimum university degree  Achieved a Technical certification such as CBIP (Certified Business Intelligence Professional) Experience, Knowledge and Skills:  \nReal-world experience with writing queries in SQL and creating reports/dashboards in PowerBI or coding web-based data tools in PHP/JavaScript."
-},
-{
-"title": "Software Developer",
-"company": "Ci2 Group",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=5482bdb1a54e21c6",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "http://ca.indeed.com/job/software-developer-5482bdb1a54e21c6",
-"skills": [
-"SQL",
-"HTML/CSS",
-".NET",
-"REST APIs",
-"Spark",
-"SQL Server",
-"AWS"
-],
-"req": "Join a fun and supportive software development team with over 30 years’ experience in delivering custom software projects. Ci2 Group has a great culture, great expertise, awesome clients, and very mat"
-},
-{
-"title": "Product Quality Engineer I",
-"company": "Morse Micro",
-"location": "Remote · United States",
-"posted": "2026-11-20",
-"link": "https://www.indeed.com/viewjob?jk=dc1424ef4d5539d4",
+"link": "https://www.indeed.com/viewjob?jk=11748163f8c84566",
 "source": "Indeed",
 "country": "US",
 "years": 2,
-"apply": "https://jobs.ashbyhq.com/morse-micro/ca01644b-bb2f-4dda-8ea3-b3c3085e62fc?utm_source=lnb2B5Y9JN",
+"apply": "https://www.SchoolSpring.com/jobdetail?jobId=5999075",
+"salary": "$51,105 - $62,192 USD per year",
 "skills": [
-"Networking (TCP/IP, DNS)",
-"Jira",
-"Embedded systems"
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Google Workspace"
 ],
-"req": "Morse Micro is at the forefront of next-generation Wi-Fi technology, specializing in Wi-Fi HaLow solutions that offer extended range, lower power consumption, and enhanced penetration. Our innovative \nConduct component-level fault isolation as needed to isolate whether failures originate at the chip or PCB level, with support from senior engineers on complex cases. Customer Communication & FA Repor\nPrepare and issue FA Reports (FARs) to customers (with senior review initially), technically accurate, clearly communicating root cause, corrective action, and verification evidence.\nRespond to FAE and customer technical inquiries, translating ongoing lab findings into clear, timely communication appropriate for both technical and non-technical contacts. Cross-Time Zone Coordinati\nSupport firmware branch requests, root cause assignments, and corrective action commits; follow up proactively to prevent stalls, with increasing independence as you gain experience.\nFacilitate cross-site FA review calls (initially alongside a senior engineer): preparing agendas, presenting lab findings, capturing action items, and tracking commitments to closure. Investigation Do\nPrepare internal FA summary reports covering failure pareto, repeat failure patterns, and corrective action verification results for engineering review and management visibility. Qualifications Requir\nStrong technical writing skills: clear customer-facing FA reports and structured internal investigation documents.\nEffective cros"
+"req": "Maintain regular attendance to carry out the duties and responsibilities of the position. Other Functions: Other duties as assigned to support the success of the agency. Minimum/Preferred Qualificatio\nExperience with the Windows platform and knowledge of common Windows software including MS Office, antivirus, backup, and diagnostic applications.\nExperience supporting common productivity suites like Microsoft Office, Office 365, and Google Workspaces.\nExperience learning and supporting unfamiliar technology quickly. Preferred Qualifications and Skills: Experience in other system platforms and mobile device management solutions such as Apple and Chr\nExperience training staff on the use of technology. Working Conditions/Employment RequirementsWorking Conditions/Physical Requirements: Office environment.\nDaytime travel within Southwest Washington required. Infrequent overnight travel for training."
+},
+{
+"title": "Business Analyst 2",
+"company": "State of Montana",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=d4fc1328e8583f89",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142882&tz=GMT-06%3A00&tzname=America%2FChicago",
+"salary": "$64,780 - $66,955 USD per year",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Retirement plans- The State currently contributes 9.17%, vested after 5 years of continuous employment.\nPaid vacation- starting at 15 days a year.\nSick leave- 12 days a year.\nEligibility to participate in the Public Service Loan Forgiveness (PSLF) program. Visit the Health Care and Benefits Division for more information at https://benefits.mt.gov/. In addition to employee \nVery detail oriented  Follow instructions. REQUIRED APPLICATION MATERIALS Please submit the following application material:  Resume  Complete state application Submissions incomplete or missing releva\nSome travel may be required. To be considered for any DOR position, applicants must complete and submit their application online and upload any required documents. DOR is an equal opportunity employer\nOther combinations of education or experience are evaluated on an individual basis."
 },
 {
 "title": "Student talent community: future opportunities",
