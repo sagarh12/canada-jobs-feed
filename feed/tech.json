@@ -1,17 +1,22 @@
 {
-"updated": "2026-11-20T03:39:45+00:00",
+"updated": "2026-11-20T03:49:52+00:00",
 "jobs": [
 {
-"title": "Low Voltage Technician",
-"company": "",
-"location": "Edmonton, AB, CA",
+"title": "Tutor/Academic Consultant",
+"company": "Sigma Education",
+"location": "Remote · United States",
 "posted": "2026-11-20",
-"link": "https://ca.indeed.com/viewjob?jk=b2f2f285b76ee5a8",
+"link": "https://www.indeed.com/viewjob?jk=dc6d5f87ff76c419",
 "source": "Indeed",
-"country": "CA",
+"country": "US",
 "years": null,
-"apply": "http://ca.indeed.com/job/low-voltage-technician-b2f2f285b76ee5a8",
-"salary": "$19.00 per hour"
+"apply": "http://www.indeed.com/job/tutoracademic-consultant-dc6d5f87ff76c419",
+"salary": "$50 - $75 USD per hour",
+"skills": [
+".NET",
+"Machine learning"
+],
+"req": "Tutor, Mentor & Academic Consultant (Remote) Sigma Education | Remote | Contract, flexible hours About Sigma Education Sigma Education is a college admissions consulting and academic mentorship firm. \nExperience working with students through tutoring, teaching, mentoring, coaching, or research supervision  Familiarity with the American college application process  The ability to explain hard ideas "
 },
 {
 "title": "Technical Support Specialist",
@@ -28,6 +33,18 @@
 "Help desk / troubleshooting"
 ],
 "req": "CaThe Technical Support Specialist, reporting to the company’s Operations Manager shall perform the following functions:  Support retention and strong promotion or advocacy among existing customers by\nContribute to and regularly update the internal Knowledge Base with resolved issues, workarounds, best practices and product’s new features.\nMaintain high-quality documentation on ticket notes, root cause analysis, and resolutions for internal transparency and future reference.\nLiaise on both internal and external stakeholders on behalf of the customer department  Collaborate with cross-functional teams and come up with solutions to help improve the overall performance of th"
+},
+{
+"title": "Low Voltage Technician",
+"company": "",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b2f2f285b76ee5a8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/low-voltage-technician-b2f2f285b76ee5a8",
+"salary": "$19.00 per hour"
 },
 {
 "title": "Supervising Associate, Privacy and Data Protection (12-month contract)",
@@ -4494,7 +4511,7 @@
 "Networking (TCP/IP, DNS)",
 "Firewalls"
 ],
-"req": "Location: Elmsdale, NS Reporting to the Manager of Information Services, the Web Software Developer will provide project-based programming support in the design, development and implementation of web-\nAn equivalent combination of education and relevant experience.\nStrong WordPress development experience, including building, configuring, maintaining and supporting WordPress websites.\nStrong front-end web development experience with HTML, CSS, JavaScript and responsive design.\nBack-end development experience with PHP and WordPress required, Java/Spring or NodeJS would be an asset.\nExperience with relational databases such as PostgreSQL, MySQL or Microsoft SQL Server, an asset.\nExperience working with Linux and open-source software an asset.\nExperience with Docker or containerized application environments is considered an asset.\nKnowledge or experience with networking technologies such as firewalls, network switching, LAN/VLAN, WiFi and VPN is considered an asset.\nYou are a great multi-tasker, with experience managing projects or initiatives to completion, meeting requirements and deadlines.\nA collaborative, solutions-based work environment, with a high degree of autonomy."
+"req": "Location: Elmsdale, NS Do you have in-depth WordPress web development experience, including experience in multiple front and back-end technologies? Perhaps you also know your way around Linux and netw\nAn equivalent combination of education and relevant experience.\nStrong WordPress development experience, including building, configuring, maintaining and supporting WordPress websites.\nStrong front-end web development experience with HTML, CSS, JavaScript and responsive design.\nBack-end development experience with PHP and WordPress required, Java/Spring or NodeJS would be an asset.\nExperience with relational databases such as PostgreSQL, MySQL or Microsoft SQL Server, an asset.\nExperience working with Linux and open-source software an asset.\nExperience with Docker or containerized application environments is considered an asset.\nKnowledge or experience with networking technologies such as firewalls, network switching, LAN/VLAN, WiFi and VPN is considered an asset.\nYou are a great multi-tasker, with experience managing projects or initiatives to completion, meeting requirements and deadlines.\nA collaborative, solutions-based work environment, with a high degree of autonomy."
 },
 {
 "title": "IT Support Technician (Level 1)",
@@ -7190,6 +7207,44 @@
 "location": "Langford, British Columbia, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4491697002",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sessional - Faculty (ACCT 4230)",
+"company": "Thompson Rivers University",
+"location": "Kamloops, BC, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=a926c4a27938d6b7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://tru.hua.hrsmart.com/ats/js_job_details.php?site_id=148&reqid=35869",
+"req": "The Department of Accounting, Finance, and Law in the Bob Gaglardi School of Business and Economics at Thompson Rivers University invites applications for one or more sessional positions to teach the "
+},
+{
+"title": "Sessional Instructor, Bachelor of Science in Nursing",
+"company": "North Island College",
+"location": "Courtenay, BC, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=d34ef8cc7693f8e9",
+"source": "Indeed",
+"country": "CA",
+"years": 8,
+"apply": "https://careers.nic.bc.ca/postings/8259",
+"salary": "$74,727- $119,746",
+"skills": [
+"Excel"
+],
+"req": "Experience teaching adults, preferably at the post-secondary level.\nA minimum of five years’ full-time experience (within the last eight years) in one or more of the following practice areas: Community, Adult Medicine, Adult Surgery, Mental Health, Older Adult, and/or\nCurrent CPR level HCP. Required Knowledge Skills & Abilities  Experience or interest with Indigenous health and/or global health.\nExperience using a variety of creative and motivating approaches to stimulate learning within a distributed teaching-learning environment and classroom is an asset. Ability to demonstrate effective te\nExperience with and willingness to learn, online learning management systems, i.e. D2L Brightspace, Kaltura.\nProficiency in the use of computer applications, the internet, and with MS Office software applications including Word, Excel, PowerPoint, Outlook, Teams."
+},
+{
+"title": "Jr. Software Support (Vancouver Island residents ONLY)",
+"company": "Plexxis Software (For Subcontractors)",
+"location": "Victoria, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4491697003",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18154,6 +18209,26 @@
 "location": "Edmonton, Alberta, Canada",
 "posted": "2026-11-18",
 "link": "https://www.linkedin.com/jobs/view/4492045663",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Research And Development Technician",
+"company": "Teal",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4491485660",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cyber Implementation Specialist-EN",
+"company": "CAE",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-18",
+"link": "https://www.linkedin.com/jobs/view/4473679984",
 "source": "LinkedIn",
 "country": "CA",
 "years": null

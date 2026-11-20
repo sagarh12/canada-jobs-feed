@@ -1,9 +1,9 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,3611,804,3611,2026-11-20
 2,SQL,Language,24%,1975,481,1975,2026-11-20
-3,REST APIs,Framework,24%,1930,452,1930,2026-11-20
+3,REST APIs,Framework,23%,1930,452,1930,2026-11-20
 4,Python,Language,23%,1863,453,1863,2026-11-20
-5,Excel,Data & AI,21%,1721,387,1721,2026-11-20
+5,Excel,Data & AI,21%,1722,388,1722,2026-11-20
 6,Hardware setup,IT support,19%,1532,328,1532,2026-11-20
 7,System design,Practice,18%,1479,318,1479,2026-11-20
 8,Azure,Cloud & DevOps,16%,1320,327,1320,2026-11-20
@@ -27,7 +27,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 26,ETL / data pipelines,Data & AI,8%,621,149,621,2026-11-20
 27,C,Language,7%,610,132,610,2026-11-20
 28,Jira,Practice,7%,601,151,601,2026-11-20
-29,Machine learning,Data & AI,7%,551,113,551,2026-11-20
+29,Machine learning,Data & AI,7%,552,114,552,2026-11-20
 30,HTML/CSS,Language,7%,540,116,540,2026-11-20
 31,Docker,Cloud & DevOps,7%,535,136,535,2026-11-20
 32,Monitoring,Cloud & DevOps,6%,502,121,502,2026-11-20
@@ -44,7 +44,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 43,Firewalls,Security,5%,395,101,395,2026-11-20
 44,Data structures & algorithms,Practice,5%,392,85,392,2026-11-20
 45,Bash/Shell,Language,5%,389,93,389,2026-11-20
-46,.NET,Framework,5%,387,95,387,2026-11-20
+46,.NET,Framework,5%,388,96,388,2026-11-20
 47,Tableau,Data & AI,4%,352,101,352,2026-11-20
 48,Embedded systems,Practice,4%,349,82,349,2026-11-20
 49,Incident response,Security,4%,349,97,349,2026-11-20
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-20
 155,Keras,Data & AI,0%,1,0,1,2026-11-20
 
-,Based on 8212 postings in the last 30 days (8212 all time)
+,Based on 8214 postings in the last 30 days (8214 all time)
