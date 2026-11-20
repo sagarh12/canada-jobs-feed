@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T19:59:44+00:00",
+"updated": "2026-11-20T20:09:44+00:00",
 "jobs": [
 {
 "title": "Software Engineer 3",
@@ -31,22 +31,19 @@
 "country": "CA",
 "years": 3,
 "quals": [
-"3-5 years of customer-facing experience in pre-sales solutions engineering, sales engineering, technical solutions architecture, or Tier-3 i",
-"Candidates must be willing to travel up to 20-25% throughout North America.",
-"Deep operational knowledge and administrative experience configuring major enterprise LMS platforms, with verified competency managing Canva",
-"Practical fluency with 1EdTech LTI 1.3 standards and LTI Advantage Core Services (NRPS 2.0, AGS 2.0, Deep Linking 2.0), as well as general t"
+"3–5 years of customer-facing technical experience in pre-sales solutions engineering, technical implementation, or Tier-3 integration suppor",
+"Hands-on LMS administration experience, specifically configuring Canvas LMS (developer keys, API permissions, scopes, and placement configur",
+"Practical experience with LTI 1.3 (rostering, grade sync, deep linking) and RESTful APIs.",
+"Understanding of Higher Education workflows, including how academic technology supports teaching, assessment, and institutional needs."
 ],
 "skills": [
 "REST APIs",
 "LLMs / GenAI",
-"Oracle",
-"SOC",
 "IAM",
-"NIST / ISO 27001",
 "Help desk / troubleshooting",
 "System design"
 ],
-"req": "Integrations Engineers work directly alongside our account representatives to conduct technical discovery, architect tailored solution packages, map individual customer challenges back to platform cap\nThis hybrid position is a rare combination of commercial discovery, consultative stage presence before senior academic leadership (Provost, University CIOs, Deans, and Academic Technology Committees),\nBuild technical trust with senior academic leaders (Provosts, CIOs, Deans, Academic Senate committees), articulating how solutions support teaching and assessment best practices, standards alignment, \n3-5 years of customer-facing experience in pre-sales solutions engineering, sales engineering, technical solutions architecture, or Tier-3 integration engineering within EdTech or enterprise SaaS.\nCandidates must be willing to travel up to 20-25% throughout North America.\nDeep operational knowledge and administrative experience configuring major enterprise LMS platforms, with verified competency managing Canvas LMS (Developer Keys, API permissions, account-level scopes\nExperience with secondary LMS platforms (D2L Brightspace, Blackboard Learn, Moodle), Student Information Systems (Ellucian Banner/Colleague, Workday Student, Oracle PeopleSoft), HRIS, CRM, CMS, and di\nWe want every candidate to have an equitable experience. If you require assistance or a reasonable accommodation due to a disability during the application or recruiting process, please reach out to u"
+"req": "Integrations Engineers work directly alongside our account representatives to conduct technical discovery, architect tailored solution packages, map individual customer challenges back to platform cap\nThis hybrid position is a rare combination of commercial discovery, consultative stage presence before senior academic leadership (Provost, University CIOs, Deans, and Academic Technology Committees),\nBuild technical trust with senior academic leaders (Provosts, CIOs, Deans, Academic Senate committees), articulating how solutions support teaching and assessment best practices, standards alignment, \n3–5 years of customer-facing technical experience in pre-sales solutions engineering, technical implementation, or Tier-3 integration support within EdTech or enterprise SaaS.\nHands-on LMS administration experience, specifically configuring Canvas LMS (developer keys, API permissions, scopes, and placement configurations).\nPractical experience with LTI 1.3 (rostering, grade sync, deep linking) and RESTful APIs.\nStrong presentation and communication skills, with the ability to translate complex technical concepts for both IT teams and senior academic stakeholders, and troubleshoot integration challenges creat\nDirect experience working within a college or university IT, academic technology, or instructional design department.\nFamiliarity with other LMS platforms (D2L Brightspace, Blackboard, Moodle) or Student Information Systems (Banner, Workday Student, PeopleSoft).\nWe want every cand"
 },
 {
 "title": "Integration Reliability Engineer, Payments",
