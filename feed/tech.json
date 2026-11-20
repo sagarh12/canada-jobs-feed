@@ -1,6 +1,29 @@
 {
-"updated": "2026-11-20T15:59:46+00:00",
+"updated": "2026-11-20T16:09:48+00:00",
 "jobs": [
+{
+"title": "Technical Support Engineer",
+"company": "Amplitude",
+"location": "Remote · United States",
+"posted": "2026-11-20T16:04:56.712+00:00",
+"link": "https://jobs.ashbyhq.com/amplitude/cc52ed40-7eb9-426d-8684-9c124140aab2",
+"source": "Amplitude careers",
+"country": "US",
+"years": null,
+"salary": "$104,000 - $157,000",
+"skills": [
+"REST APIs",
+"ETL / data pipelines",
+"Snowflake",
+"Statistics",
+"A/B testing",
+"BigQuery",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Embedded systems"
+],
+"req": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI \nAs a Technical Support Engineer, you will provide enterprise-level experience to our customers through our extensive product knowledge of Amplitude.\nAn agent leverages their specialized knowledge and skills to research, diagnose, troubleshoot, and resolve customer issues in an accurate and timely manner. People will rely on your tech expertise wit\nProvide customers a great experience using Amplitude and working with our team\nCompleted your Bachelor’s Degree\nExperience with using SDKs and APIs, experimentation, stats, or data science\nExperience working with data pipelines or warehouse ingestion (e.g. Snowflake, BigQuery, or similar) — including debugging data freshness and backfill issues\nThe Product: Amplitude is a digital analytics platform—we help companies capture data they can trust, uncover clear insights about customer behavior, and take faster action. This empowers teams to bui\nMental health and wellness benefits including no cost employee access to Modern Health coaching & therapy Sessions and high quality physician office experience via One Medical membership (select U.S. "
+},
 {
 "title": "Business Analyst",
 "company": "Cloud Destinations",
@@ -1074,6 +1097,16 @@
 "years": null
 },
 {
+"title": "Forward Deployed AI Accelerator, Marketing",
+"company": "Stripe",
+"location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
+"posted": "2026-11-20T10:05:21-05:00",
+"link": "https://stripe.com/jobs/search?gh_jid=8406140",
+"source": "Stripe careers",
+"country": "CA",
+"years": null
+},
+{
 "title": "Data Scientist, Integrity",
 "company": "OpenAI",
 "location": "Remote · United States",
@@ -1321,6 +1354,16 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": 5
+},
+{
+"title": "CADD Co-op Student (10 - Halton Regional Centre - , 10 - Halton Regional Centre - 1151 Bronte Road, Oakville (Public Works), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-20T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/10-Halton-Regional-Centre-CADD-Co-op-Student-10/608230017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
@@ -22666,16 +22709,6 @@
 "link": "https://www.fivetran.com/careers/job?gh_jid=8201842003",
 "source": "Fivetran careers",
 "country": "US",
-"years": null
-},
-{
-"title": "Forward Deployed AI Accelerator, Marketing",
-"company": "Stripe",
-"location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
-"posted": "2026-11-17T11:05:34-05:00",
-"link": "https://stripe.com/jobs/search?gh_jid=8395851",
-"source": "Stripe careers",
-"country": "CA",
 "years": null
 }
 ]

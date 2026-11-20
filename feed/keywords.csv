@@ -1,7 +1,7 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,3667,860,3667,2026-11-20
+1,Help desk / troubleshooting,IT support,44%,3668,861,3668,2026-11-20
 2,SQL,Language,24%,2010,516,2010,2026-11-20
-3,REST APIs,Framework,24%,1968,490,1968,2026-11-20
+3,REST APIs,Framework,24%,1969,491,1969,2026-11-20
 4,Python,Language,23%,1887,477,1887,2026-11-20
 5,Excel,Data & AI,21%,1745,411,1745,2026-11-20
 6,Hardware setup,IT support,19%,1554,350,1554,2026-11-20
@@ -16,15 +16,15 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 15,Cybersecurity,Security,12%,959,236,959,2026-11-20
 16,"Networking (TCP/IP, DNS)",Cloud & DevOps,11%,954,238,954,2026-11-20
 17,IAM,Security,11%,925,231,925,2026-11-20
-18,"Ticketing (ServiceNow, Jira)",IT support,11%,919,232,919,2026-11-20
+18,"Ticketing (ServiceNow, Jira)",IT support,11%,920,233,920,2026-11-20
 19,JavaScript,Language,10%,819,196,819,2026-11-20
 20,Power BI,Data & AI,10%,816,197,816,2026-11-20
 21,"Testing (unit, automated)",Practice,9%,784,198,784,2026-11-20
-22,Statistics,Data & AI,9%,776,201,776,2026-11-20
+22,Statistics,Data & AI,9%,777,202,777,2026-11-20
 23,LLMs / GenAI,Data & AI,9%,753,178,753,2026-11-20
 24,Linux,Cloud & DevOps,9%,746,192,746,2026-11-20
 25,Java,Language,9%,713,177,713,2026-11-20
-26,ETL / data pipelines,Data & AI,7%,624,152,624,2026-11-20
+26,ETL / data pipelines,Data & AI,8%,625,153,625,2026-11-20
 27,C,Language,7%,622,144,622,2026-11-20
 28,Jira,Practice,7%,609,159,609,2026-11-20
 29,Machine learning,Data & AI,7%,558,120,558,2026-11-20
@@ -45,7 +45,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 44,Firewalls,Security,5%,401,107,401,2026-11-20
 45,.NET,Framework,5%,397,105,397,2026-11-20
 46,Bash/Shell,Language,5%,391,95,391,2026-11-20
-47,Embedded systems,Practice,4%,356,89,356,2026-11-20
+47,Embedded systems,Practice,4%,357,90,357,2026-11-20
 48,Incident response,Security,4%,354,102,354,2026-11-20
 49,Tableau,Data & AI,4%,354,103,354,2026-11-20
 50,ITIL,Certification,4%,342,84,342,2026-11-20
@@ -72,7 +72,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 71,MySQL,Database,3%,214,61,214,2026-11-20
 72,CompTIA A+,Certification,3%,211,41,211,2026-11-20
 73,EDR,Security,2%,208,57,208,2026-11-20
-74,Snowflake,Data & AI,2%,206,58,206,2026-11-20
+74,Snowflake,Data & AI,2%,207,59,207,2026-11-20
 75,CompTIA Security+,Certification,2%,198,55,198,2026-11-20
 76,SIEM,Security,2%,182,51,182,2026-11-20
 77,Go,Language,2%,180,39,180,2026-11-20
@@ -101,8 +101,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 100,Azure certification,Certification,1%,84,29,84,2026-11-20
 101,Looker,Data & AI,1%,81,30,81,2026-11-20
 102,Vue,Framework,1%,79,19,79,2026-11-20
-103,Airflow,Data & AI,1%,77,16,77,2026-11-20
-104,BigQuery,Database,1%,77,19,77,2026-11-20
+103,BigQuery,Database,1%,78,20,78,2026-11-20
+104,Airflow,Data & AI,1%,77,16,77,2026-11-20
 105,Penetration testing,Security,1%,77,20,77,2026-11-20
 106,AWS certification,Certification,1%,75,18,75,2026-11-20
 107,GraphQL,Framework,1%,75,16,75,2026-11-20
@@ -125,7 +125,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 124,Django,Framework,1%,51,17,51,2026-11-20
 125,Deep learning,Data & AI,1%,50,11,50,2026-11-20
 126,Kotlin,Language,1%,49,12,49,2026-11-20
-127,A/B testing,Data & AI,1%,47,13,47,2026-11-20
+127,A/B testing,Data & AI,1%,48,14,48,2026-11-20
 128,LangChain,Data & AI,1%,47,10,47,2026-11-20
 129,Scala,Language,1%,46,15,46,2026-11-20
 130,TensorFlow,Data & AI,1%,46,13,46,2026-11-20
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Solidity,Language,0%,2,1,2,2026-11-20
 155,Keras,Data & AI,0%,1,0,1,2026-11-20
 
-,Based on 8331 postings in the last 30 days (8331 all time)
+,Based on 8332 postings in the last 30 days (8332 all time)
