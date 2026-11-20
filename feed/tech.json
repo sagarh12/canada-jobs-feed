@@ -1,6 +1,29 @@
 {
-"updated": "2026-11-20T21:09:52+00:00",
+"updated": "2026-11-20T21:19:53+00:00",
 "jobs": [
+{
+"title": "Analyst, Strategic Finance - AI & Data Systems",
+"company": "Snowflake",
+"location": "Remote · United States",
+"posted": "2026-11-20T21:13:16.905+00:00",
+"link": "https://jobs.ashbyhq.com/snowflake/e8b43774-6ade-4c0a-ab68-9d92fc4ace7b",
+"source": "Snowflake careers",
+"country": "US",
+"years": 1,
+"skills": [
+"Python",
+"SQL",
+"Next.js",
+"Node.js",
+"Airflow",
+"dbt",
+"ETL / data pipelines",
+"Snowflake",
+"Statistics",
+"Git"
+],
+"req": "Build and ship AI-powered tools, agents, and applications on Snowflake, using Cortex Code, Claude Code, Node.js/Next.js, and unreleased beta products to better serve senior executives.\nAct as customer zero for new Snowflake AI capabilities: partner with Product Managers and Engineers, share feedback, and help promising internal prototypes graduate into the product.\nBuild V0 solutions, win internal users, and partner with Product and Engineering when they scale.\nSupport high-impact initiatives such as annual planning and projects that help Sales win in competitive accounts, and present your work directly to senior leaders.\n1+ years of relevant experience, which can include strong internships, in a quantitative role such as product management, software engineering, analytics engineering, business operations, consulting, \nA degree in mathematics, statistics, economics, data science, engineering, or another quantitative field, or equivalent practical experience.\nExperience with Snowflake, Snowpark, or Streamlit.\nThis is a rare early-career role with direct executive exposure, real ownership, and a clear path to influence the Snowflake product itself. Heavy financial modeling experience is not required: we car"
+},
 {
 "title": "Cloud Data Infrastructure Engineer",
 "company": "ClickHouse",
@@ -2120,6 +2143,7 @@
 "country": "CA",
 "years": 3,
 "apply": "https://apply.workable.com/j/A3F658A9B0",
+"salary": "$100K – $140K CAD",
 "skills": [
 "JavaScript",
 "HTML/CSS",
@@ -2133,7 +2157,7 @@
 "Agile / Scrum",
 "System design"
 ],
-"req": "About Wisedocs Wisedocs is transforming how organizations make claims decisions. Our platform combines AI with expert human review to analyze millions of documents, giving insurers, legal teams, and h\n3+ years of professional front end development experience, with strong JavaScript skills  Hands-on experience with a modern component framework such as Vue.js, React, or Angular  Strong command of HTM\nHands-on experience with LLM or agentic tooling  Experience building data-heavy interfaces such as document viewers, review tools, or labeling tools  A background in document processing, insurance, or\nTeam Events: We love bringing the team together, whether it's for a celebration, team building, or just fun. Every year this includes a company-wide onsite and our annual holiday party. Every event is"
+"req": "About Wisedocs Wisedocs is transforming how organizations make claims decisions. Our platform combines AI with expert human review to analyze millions of documents, giving insurers, legal teams, and h\n3+ years of professional front end development experience, with strong JavaScript skills  Hands-on experience with a modern component framework such as Vue.js, React, or Angular  Strong command of HTM\nTeam Events: We love bringing the team together, whether it's for a celebration, team building, or just fun. Every year this includes a company-wide onsite and our annual holiday party. Every event is"
 },
 {
 "title": "Backend Engineer",
@@ -2145,7 +2169,7 @@
 "country": "CA",
 "years": 3,
 "apply": "https://apply.workable.com/j/9EEB19F698",
-"salary": "$95K – $135K CAD",
+"salary": "$100K – $140K CAD",
 "skills": [
 "Python",
 "Django",
@@ -4241,6 +4265,286 @@
 "source": "Sun Life careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Streaming Azure Data Engineer",
+"company": "Cognizant",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=9df1575af2410ae2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071353911/streaming-azure-data-engineer/",
+"salary": "$115-125K",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Spark",
+"ETL / data pipelines",
+"Databricks",
+"Snowflake",
+"NoSQL",
+"Azure",
+"CI/CD",
+"Git",
+"Microservices",
+"Networking (TCP/IP, DNS)",
+"Encryption / PKI",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"Jest / PyTest"
+]
+},
+{
+"title": "Testing Intermediate Analyst - Officer",
+"company": "Citi",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=aaa4a81f7ecc134c",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://jobs.citi.com/job/mississauga/testing-intermediate-analyst-officer/287/103566065152",
+"salary": "$79",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"C",
+"CI/CD",
+"Git",
+"Microsoft 365",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"System design",
+"SDLC"
+],
+"req": "Discover your future at Citi -------------------------------- Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around t\nExperience in Software Quality testing.\nExperience in Automation Framework using Playwright, Selenium & Cucumber (BDD), Maven, Git & Github  Familiarity with Artificial Intelligence tools such as Co Pilot  Interfaces with development teams \nPerforms other duties and functions as assigned for testing team. Qualifications:  2+ years experience of Testing within Financial Service industry  Knowledge of the Software Development Lifecycle (SD"
+},
+{
+"title": "Python/AI Developer",
+"company": "Citi",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=37324b097979d42f",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.citi.com/job/mississauga/python-ai-developer/287/103573083376",
+"salary": "$94,300.00 - $141,500.00",
+"skills": [
+"Python",
+"Java",
+"SQL",
+"Spring Boot",
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"LangChain",
+"SQL Server",
+"Oracle",
+"AWS",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Linux",
+"Help desk / troubleshooting",
+"Jira",
+"System design"
+],
+"req": "Discover your future at Citi -------------------------------- Working at Citi is far more than just a job. A career with us means joining a team of approximately 219,000 dedicated people from around t\nPerform Integration work and L3 support for over 20+ vendor applications supporting the Tax Reporting, Tax Diligence, and Tax Withholding space. The role involves working with our vendor and internal \nActs as SME to senior stakeholders and /or other team members.\nAppropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance w\nModel Context Protocol (MCP): Understanding of or direct experience implementing MCP to establish connections between AI models and context providers.\nAPI Development: 2–5 years of experience in backend API architecture, data validation, and security protocols.\nExperience performing application integrations  Experience in systems analysis and programming of software applications  Experience in managing and implementing successful projects  Working knowledge \nJAVA Ecosystem: Experience with Java/J2ee, Spring Framework technologies, Jasper framework."
+},
+{
+"title": "Desktop Support Engineer",
+"company": "Cognizant",
+"location": "Oakville, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=b761784446d3deb6",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.cognizant.com/global-en/jobs/00071321291/desktop-support-engineer/",
+"salary": "$60,000 to $72,000",
+"skills": [
+"PowerShell",
+"Azure",
+"Vulnerability management",
+"IAM",
+"EDR",
+"Encryption / PKI",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"ITIL"
+],
+"req": "Create technical documentation, maintain knowledge articles, and identify automation opportunities to improve operational efficiency and user experience. What you need to have to be considered  Bachel\n5-7 years of hands-on experience in Desktop Support, Endpoint Engineering, or Systems Support roles within enterprise environments.\nStrong experience supporting Windows desktop operating systems and enterprise desktop applications.\nProven expertise in desktop hardware troubleshooting, operating system support, and user profile management.\nExperience managing enterprise endpoint management platforms for: + Software deployment + Patch management + Configuration management + Asset inventory + Policy enforcement  Hands-on experience with d\nExperience with incident, problem, and change management processes.\nStrong verbal and written communication skills. These will help you stand out  Experience with Microsoft Endpoint Configuration Manager (MECM/SCCM), Microsoft Intune, or equivalent endpoint management\nExperience supporting executive/VIP users."
+},
+{
+"title": "IT Operations Specialist",
+"company": "Athennian",
+"location": "Remote, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=61a54bcfb315972e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://ats.rippling.com/athennian/jobs/d6ff58fe-56ff-4ed3-b8ae-47d09e73740f?jobSite=Indeed",
+"skills": [
+"Python",
+"Bash/Shell",
+"PowerShell",
+"LLMs / GenAI",
+"AWS",
+"Networking (TCP/IP, DNS)",
+"SIEM",
+"SOC",
+"IAM",
+"EDR",
+"NIST / ISO 27001",
+"Windows",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Google Workspace",
+"Jira"
+],
+"req": "About Athennian Athennian delivers Governance Ops™ software that aligns legal, finance, tax and fund teams through a secure, integrated source of truth for entity and ownership data. The platform enab\nProcess & Documentation: Build IT processes that scale, write how-to guides, and post quarterly IT updates in Slack. Qualifications ==================  3+ years of experience in IT operations, desktop\nProven experience managing macOS & Windows fleets using MDM solutions like Jamf.\nHands-on experience with Identity & Access Management (SSO, SAML, MFA, Bitwarden/1Password) and administration of Rippling.\nHands-on Google Workspace admin experience (users, groups, shared drives, sharing and email security settings).\nExperience working with ITSM tools such as Jira Service Desk and Confluence.\nPractical, security-conscious use of AI tools such as ChatGPT or Gemini in day-to-day work. Nice to Have Skills  Scripting experience (Bash, PowerShell, Python) to automate tasks.\nExperience supporting SOC 2 or other security audits.\nExperience managing SaaS licenses, renewals, or vendors.\nExperience with KnowBe4 or similar security awareness platforms. Location We have embraced a distributed model of working across Canada, but this role must be based in the Calgary or Toronto area, wit\nWork-Life Balance: A minimum of 3 weeks vacation, 5 sick days and 6 personal/flex days, plus a company-wide winter holiday shutdown."
+},
+{
+"title": "Front Desk Receptionist",
+"company": "",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=0eb9221eb7cad37b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-0eb9221eb7cad37b",
+"salary": "$17.95-$21.00 per hour",
+"req": "Job Summary We are seeking an energetic and detail-oriented Front Desk Receptionist to be the welcoming face of our organization. In this vital role, you will serve as the first point of contact for v\nMust be available to work evening and weekend shifts. Responsibilities:  Greet visitors warmly, assist with check-in procedures, and direct them appropriately  Manage multi-line phone systems with pro"
+},
+{
+"title": "User support technician",
+"company": "HEM Innovative Solutions Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50771427",
+"source": "Job Bank",
+"country": "CA",
+"years": 1
+},
+{
+"title": "Microsoft 365 Specialist",
+"company": "Goway Travel",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=f39566ff6ecf5dc6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.ultipro.ca/GOW5000GOWT/JobBoard/30cfb287-d992-42ab-8128-0c113578d2be/OpportunityDetail?opportunityId=90c31d72-847d-4386-b466-8c1d35269c8f&postingId=33f5b0fa-7824-4dd0-9497-c29fc76db40d",
+"skills": [
+"PowerShell",
+"Cybersecurity",
+"Vulnerability management",
+"IAM",
+"EDR",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"System design"
+],
+"req": "Review Microsoft 365 Unified Audit Logs, Entra ID sign-in logs, and message traces as required.\nConfigure and maintain Microsoft Purview capabilities such as DLP, information protection, retention, and compliance controls where required. Security & Continuous Improvement  Identify gaps in Micros\nMaintain technical documentation for configurations, policies, troubleshooting procedures, and security controls. Experience & Skills Required  3 to 5 years of experience building and maintaining Micr\nDemonstrated experience building and managing Microsoft Intune policies, not just supporting an existing Intune environment.\nPractical experience configuring and tuning Microsoft Defender and Microsoft 365 security tools.\nExperience with Entra ID, Conditional Access, MFA, identity management, and RBAC.\nStrong documentation and problem-solving capabilities. Nice to Have  SharePoint Online site building or development experience, including Power Automate, Power Apps, or SPFx.\nMicrosoft Purview experience.\nExperience building and maintaining multiple Microsoft 365 tenants.\nGoway is an equal-opportunity employer. We celebrate differences and are committed to fostering an inclusive workplace for everyone. We appreciate every applicant’s interest. Please be advised that on"
+},
+{
+"title": "Title Software Customer Service Representative",
+"company": "AccuTitle LLC",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=5976ec5b596b8ec4",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/title-software-customer-service-representative-5976ec5b596b8ec4",
+"salary": "$40,000 - $50,000 USD per year",
+"skills": [
+"Excel",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "IT Service Engineer - Warehouse Automation",
+"company": "SSI SCHÄFER",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=18676c9e69970472",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c61fde4-033c-488f-81a2-aa5c11dbb9c4&ccId=19000101_000001&jobId=560206&source=IN&lang=en_US",
+"skills": [
+"Java",
+"SQL",
+"Oracle",
+"Linux",
+"Help desk / troubleshooting",
+"Object-oriented programming"
+],
+"req": "SSI SCHAEFER is a leading material handling company that’s been in business since 1937. We’re a privately held international company with lots of diversity. You may be wondering about what a material \nParticipate in customer meetings, technical projects, and ongoing training. What We're Looking For  Bachelor's degree in Computer Science, Engineering, or a related field, or an equivalent combination\nAt least 1 year of experience with Java or another object-oriented programming language.\nAt least 1 year of experience with SQL databases; Oracle experience is a plus.\nCustomer service, help desk, or technical support experience preferred.\nHoliday coverage may include extended 12-hour shifts. Build your technical skills, solve complex problems, and help keep the technology behind tomorrow's warehouses moving. Think Tomorrow with SSI SCH"
+},
+{
+"title": "CNC Programmer",
+"company": "Reps Custom Machining & Fabrication Ltd.",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=4511d8f1e3ff7563",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/cnc-programmer-4511d8f1e3ff7563",
+"salary": "$19.00-$22.00 per hour",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "The CNC programmer will be able to program for a combination of equipment including: 2-Boring Mill, 3-Vertical Mill,1- 2 axis Lathe, all using MasterCam 2019 and Fenuc Controls. The Programmer will pr"
+},
+{
+"title": "Salesforce Software Engineer",
+"company": "Contract Services Administration Trust Fund",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=4266810ed1388993",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=086fe5a7-d7df-4f17-94af-63b9a6c053da&ccId=19000101_000001&jobId=562079&source=IN&lang=en_US",
+"salary": "$145,000 - $160,680 USD per year",
+"skills": [
+"Git",
+"Help desk / troubleshooting",
+"Salesforce"
+],
+"req": "Salesforce Software Engineer Position Type Full TimeLocation U.S. - RemoteJob Shift Days Job Description Develop and maintain a Salesforce environment in collaboration with Salesforce administrators a\nTwo (2) years of experience in the job offered or as Salesforce Developer, Software Developer/ Engineer, or a related role."
+},
+{
+"title": "Special Contracts Admin II",
+"company": "Texas Health Resources",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=c3529fef0afe4b23",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://TexasHealthResources.contacthr.com/154299752",
+"skills": [
+"Ticketing (ServiceNow, Jira)"
+],
+"req": "Special Contracts Admin II – IT Business Services Bring your passion to Texas Health so we are Better + Together (Please note that the company is not currently enrolled in E-Verify) Work location: Tex\nStakeholder Collaboration: Work closely with internal stakeholders, including legal, compliance technology and key business owners to gather requirements and ensure contract terms meet business needs.\nReporting and Analysis: Assist in generating reports and analysis contract data to provide insights and support decision-making processes. 10%  Planning and Administration: Fulfill contract responsibi"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -12765,7 +13069,7 @@
 "country": "US",
 "years": 2,
 "apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=614251&source=IN&lang=en_US",
-"salary": "$85,000 - $115,000 USD per year",
+"salary": "$85,000 - $95,000 USD per year",
 "skills": [
 "SQL",
 "Tableau",
@@ -15215,6 +15519,67 @@
 "location": "Halifax, Nova Scotia, Canada",
 "posted": "2026-11-19",
 "link": "https://www.linkedin.com/jobs/view/4487366679",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business System Analyst",
+"company": "Manulife",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-19",
+"link": "https://ca.indeed.com/viewjob?jk=7a5ec585c238d77e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.manulife.com/global/en/job/JR26110505/Business-System-Analyst",
+"salary": "$86,100.00 CAD",
+"skills": [
+"SQL",
+"HTML/CSS",
+"REST APIs",
+"Azure",
+"Agile / Scrum",
+"Jira"
+],
+"req": "Description --------------- Business Systems Analyst ============================  Turn business needs into solutions that make a difference. We’re looking for a Business Systems Analyst who is curiou\nLook for opportunities to simplify processes, strengthen controls, and improve the customer experience. What You’ll Bring ---------------------  3–5 years of experience as a Business Systems Analyst, \nExperience gathering, analyzing, documenting, and validating business and system requirements.\nHands-on experience creating user stories, acceptance criteria, process flows, and business analysis documentation.\nExperience working within an Agile/Scrum delivery environment.\nExperience with Jira, Confluence, Azure DevOps, or similar tools.\nBachelor’s degree in Business, Information Systems, Computer Science, or a related field, or equivalent practical experience. Nice to Have ----------------  Experience in retirement, wealth management\nExperience supporting UAT, releases, and production implementations.\nWork alongside experienced professionals across product, operations, architecture, and engineering.\nBuild your expertise in business analysis, retirement, wealth, and technology delivery."
+},
+{
+"title": "Technical Consultant - Patient Monitoring (Field: Vancouver, BC)",
+"company": "Philips",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492186884",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System and Network Administrator",
+"company": "Robert Half",
+"location": "Newmarket, Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492500827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GenAI Engineer (LLM, RAG & Agentic AI)",
+"company": "Akkodis",
+"location": "Ontario, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4492157964",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Developer",
+"company": "Lambert Nemec Group",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-19",
+"link": "https://www.linkedin.com/jobs/view/4490354844",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
