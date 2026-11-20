@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-20T18:49:52+00:00",
+"updated": "2026-11-20T18:59:58+00:00",
 "jobs": [
 {
 "title": "Deal Desk Analyst",
@@ -25588,44 +25588,6 @@
 "source": "Collibra careers",
 "country": "US",
 "years": null
-},
-{
-"title": "Product Security Engineer",
-"company": "Hex",
-"location": "Remote · United States",
-"posted": "2026-11-17T18:59:56.248+00:00",
-"link": "https://jobs.ashbyhq.com/hex/ec7b16d7-3385-4675-9b75-86f38616a09b",
-"source": "Hex careers",
-"country": "US",
-"years": 5,
-"salary": "$100",
-"quals": [
-"Significant experience in product or application security, typically 5+ years, or equivalent experience delivering security improvements in ",
-"Strong application security fundamentals, including authentication, authorization, tenant isolation, injection vulnerabilities, and web and ",
-"Hands-on software engineering ability. You’re comfortable reading unfamiliar code, writing tools and tests, and contributing production fixe",
-"Practical experience using AI coding tools or agents in engineering or security work. You can explain workflows you’ve built, how you verifi"
-],
-"skills": [
-"Python",
-"JavaScript",
-"TypeScript",
-"React",
-"GraphQL",
-"REST APIs",
-"LLMs / GenAI",
-"Snowflake",
-"PostgreSQL",
-"Redis",
-"AWS",
-"Kubernetes",
-"Terraform",
-"CI/CD",
-"Vulnerability management",
-"Penetration testing",
-"Figma",
-"SDLC"
-],
-"req": "We’re looking for a Senior Product Security Engineer to help Hex ship secure products at the pace we’re building. You’ll partner closely with product and engineering teams to expand security coverage \nSignificant experience in product or application security, typically 5+ years, or equivalent experience delivering security improvements in production software.\nHands-on software engineering ability. You’re comfortable reading unfamiliar code, writing tools and tests, and contributing production fixes. Experience with TypeScript, JavaScript, or Python is espe\nPractical experience using AI coding tools or agents in engineering or security work. You can explain workflows you’ve built, how you verified their results, and where they failed.\nExperience integrating security into developer workflows and delivery pipelines, with attention to finding quality, developer effort, and adoption.\nExperience securing LLM applications, agent workflows, or systems that execute user-provided code.\nExperience with multi-tenant SaaS, data platforms, developer tools, or complex authorization models.\nExperience building security analysis tooling, evaluating AI-assisted vulnerability discovery, or turning penetration test and vulnerability disclosure findings into lasting engineering improvements."
 }
 ]
 }
