@@ -13,8 +13,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 12,CI/CD,Cloud & DevOps,13%,1128,277,1128,2026-11-21
 13,AWS,Cloud & DevOps,13%,1110,272,1110,2026-11-21
 14,Windows,IT support,13%,1106,270,1106,2026-11-21
-15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,1037,288,1037,2026-11-21
-16,Cybersecurity,Security,11%,999,238,999,2026-11-21
+15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,1038,289,1038,2026-11-21
+16,Cybersecurity,Security,11%,1000,239,1000,2026-11-21
 17,IAM,Security,11%,970,244,970,2026-11-21
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,960,239,960,2026-11-21
 19,JavaScript,Language,10%,854,194,854,2026-11-21
@@ -63,7 +63,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 62,macOS,IT support,3%,287,74,287,2026-11-21
 63,Microservices,Cloud & DevOps,3%,271,58,271,2026-11-21
 64,VMware / virtualization,IT support,3%,270,49,270,2026-11-21
-65,Encryption / PKI,Security,3%,252,55,252,2026-11-21
+65,Encryption / PKI,Security,3%,253,56,253,2026-11-21
 66,Jenkins,Cloud & DevOps,3%,246,65,246,2026-11-21
 67,Databricks,Data & AI,3%,243,58,243,2026-11-21
 68,Object-oriented programming,Practice,3%,242,49,242,2026-11-21
@@ -91,7 +91,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 90,Kafka,Data & AI,2%,135,27,135,2026-11-21
 91,Jest / PyTest,Practice,1%,128,31,128,2026-11-21
 92,MongoDB,Database,1%,123,30,123,2026-11-21
-93,Threat intelligence,Security,1%,118,26,118,2026-11-21
+93,Threat intelligence,Security,1%,119,27,119,2026-11-21
 94,VBA,Language,1%,116,30,116,2026-11-21
 95,CCNA,Certification,1%,95,24,95,2026-11-21
 96,Serverless,Cloud & DevOps,1%,94,26,94,2026-11-21
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,2,1,2,2026-11-21
 155,Solidity,Language,0%,2,1,2,2026-11-21
 
-,Based on 8714 postings in the last 30 days (8714 all time)
+,Based on 8715 postings in the last 30 days (8715 all time)
