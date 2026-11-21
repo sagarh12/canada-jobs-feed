@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T21:19:45+00:00",
+"updated": "2026-11-21T21:29:44+00:00",
 "jobs": [
 {
 "title": "Data Platform Engineer",
@@ -25087,41 +25087,6 @@
 "Data structures & algorithms"
 ],
 "req": "Kira is building the AI-native platform for education. We’re rethinking how teaching works by pairing educators with AI systems that can generate content, evaluate student work, and provide personaliz\nWe’re looking for exceptional fullstack engineering interns to join us for Winter 2027. You’ll work on production systems used by students and teachers, not isolated intern projects. Over 12 weeks, yo\nIntern projects typically sit directly on critical product paths, such as:\nStudent and teacher-facing product surfaces (dashboards, workflows)\nInternal tools used by curriculum and operations teams\nCurrently pursuing an undergraduate degree in Computer Science or a related field\nExperience building and shipping non-trivial projects end-to-end\nExperience building fullstack applications or APIs from scratch\nReturn offer consideration for top-performing interns\nMust be authorized to work in the U.S. for the duration of the internship\nAt Kira, we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants without regard to race, color, religion, sex, pregnancy (in"
-},
-{
-"title": "Research Engineer, Agentic Systems",
-"company": "Ramp",
-"location": "Remote · United States",
-"posted": "2026-11-18T21:30:13.928+00:00",
-"link": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
-"source": "Ramp careers",
-"country": "US",
-"years": null,
-"salary": "$275",
-"quals": [
-"Experience building applied AI systems and LLM applications that shipped",
-"Hands-on experience with multi-agent or high-fan-out LLM workloads: parallel agents, map-reduce over models, large batch inference",
-"Strong engineering in Python; you build concurrent, distributed systems that hold up in production",
-"Judgment about output: you decide what the end result should look like before you scale the swarm, and you can separate signal from agent no"
-],
-"skills": [
-"Python",
-"LLMs / GenAI",
-"Networking (TCP/IP, DNS)",
-"System design",
-"Embedded systems"
-],
-"req": "The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nExperience building applied AI systems and LLM applications that shipped\nHands-on experience with multi-agent or high-fan-out LLM workloads: parallel agents, map-reduce over models, large batch inference\nPursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."
-},
-{
-"title": "Solution Engineer - Apps & Agents",
-"company": "Microsoft",
-"location": "ON,CA",
-"posted": "2026-11-18T21:28:39+00:00",
-"link": "https://apply.careers.microsoft.com/careers/job/1970393557075400",
-"source": "Microsoft careers",
-"country": "CA",
-"years": null
 }
 ]
 }
