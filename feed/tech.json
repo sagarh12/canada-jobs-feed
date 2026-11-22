@@ -1,6 +1,55 @@
 {
-"updated": "2026-11-22T12:39:45+00:00",
+"updated": "2026-11-22T12:49:49+00:00",
 "jobs": [
+{
+"title": "Receptionist/Administrator",
+"company": "HOP Youth",
+"location": "Regina, SK, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
+"salary": "$15.82-$22.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Lovely Sugaring",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
+"salary": "$17.95-$18.00 per hour",
+"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
+},
+{
+"title": "Data Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/yjoj28f03us",
+"salary": "$100,000 - $130,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"AWS",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+]
+},
 {
 "title": "Computer Support Specialist-Journeyman",
 "company": "NuAxis Innovations",
@@ -25,55 +74,6 @@
 "ITIL"
 ],
 "req": "We are a federal IT company on a mission to make customer experience (CX) the center of every government solution. Technology is our Passion. People are our Purpose. We know tech, but we love people. \nCreate, update, and retire help desk and computer support documentation as needed. Education Required:  High school diploma or equivalent.\nHDI Analyst Certification (e.g., CSA, SCA, DST, or equivalent) required within 10 business days of hire.\nCompTIA A+ Certification – required within 90 days of hire Preferred:  Bachelor’s Degree preferred.\nApple Support Certification preferred;  Hands-on Mac device support experience preferred. Knowledge Requirements  Incident, problem, change, and ticket lifecycle management, including intake, categori\nEnterprise ticketing or ITSM tools; Remedy Service Management experience preferred.\nWorking knowledge of Microsoft Entra ID, Microsoft Azure, and Microsoft Intune, including device management, user access, and endpoint support concepts. Experience Required:  Two (2) or more years of "
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us",
-"salary": "$100,000 - $130,000 USD per year",
-"skills": [
-"Python",
-"SQL",
-"ETL / data pipelines",
-"AWS",
-"Help desk / troubleshooting",
-"Agile / Scrum"
-]
-},
-{
-"title": "Front Desk Receptionist",
-"company": "Lovely Sugaring",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
-"salary": "$17.95-$18.00 per hour",
-"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
-},
-{
-"title": "Receptionist/Administrator",
-"company": "HOP Youth",
-"location": "Regina, SK, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
-"salary": "$15.82-$22.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
 },
 {
 "title": "Developer",
@@ -1764,6 +1764,86 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4484881894",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "GBM - Trade Floor Technology Consultant Internship/Co-op - Summer 2027 (12-16 Months)",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4463563060",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Validation Engineering Co-op",
+"company": "Thermo Fisher Scientific",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492312258",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Security Engineer (Remote)",
+"company": "Joblet-AI",
+"location": "(remote)",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492890528",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Services Specialist",
+"company": "Communications & Power Industries (CPI)",
+"location": "Georgetown, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485623946",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Systems Engineer",
+"company": "SPX Technologies",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468258580",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Warehouse Automation Processes Co-Op",
+"company": "Arc'teryx Equipment",
+"location": "New Westminster, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485609524",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Intelligence Analyst - Data and Automation",
+"company": "Communications & Power Industries (CPI)",
+"location": "Georgetown, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485634062",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Retail IT Systems Administrator",
+"company": "Parkland Corporation",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483482447",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15526,6 +15606,32 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "NearSource",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50780953",
+"source": "Job Bank",
+"country": "CA",
+"years": 4
+},
+{
+"title": "CIVIL ENGINEER",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=adee10b88ea8465b",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893632700",
+"salary": "$101,375 - $131,790 USD per year",
+"skills": [
+"HTML/CSS"
+],
+"req": "Summary ----------- This is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the \nClarification from the agency U.S. CITIZENS Duties ----------  You will be directly responsible for executing in-house civil engineering design work products and services within specified milestones a\nYou will identify areas of risk associated with advanced planning, design and construction and develop mitigation strategies or alternatives. Requirements ----------------  Conditions of employment  M\nMust be determined suitable for federal employment.\nMust participate in the direct deposit pay program.\nNew employees to the Department of the Navy will be required to successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, \nMales born after 12-31-59 must be registered for Selective Service.\nYou will be required to obtain and maintain a current valid United States driver’s license.\nYou will be required to obtain and maintain an interim and/or final security clearance prior to entrance on duty. Failure to obtain and maintain the required level of clearance may result in the withd\nThis position is covered under the Defense Acquisition Workforce Improvement Act (DAWIA). Certification in the Functional Area and Tier assigned to the position, along with Continuous Learning (CL) po\nYou will be required to comple"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
