@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T21:49:48+00:00",
+"updated": "2026-11-22T21:59:57+00:00",
 "jobs": [
 {
 "title": "Computer Support Specialist-Journeyman",
@@ -18919,38 +18919,6 @@
 "source": "KPMG careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Forward Deployed Engineer, Applied ML and Data",
-"company": "Hopper",
-"location": "Canada - Remote; Toronto - Remote; Ontario - Remote; Alberta - Remote; Canada",
-"posted": "2026-11-19T22:00:19.323+00:00",
-"link": "https://jobs.ashbyhq.com/hopper/61a52170-aefe-40d1-abe1-10a1efa5d095",
-"source": "Hopper careers",
-"country": "CA",
-"years": 5,
-"skills": [
-"Machine learning",
-"Statistics",
-"Embedded systems"
-],
-"req": "5+ years building and shipping production ML systems end to end, covering data, modelling, serving and monitoring, which you will apply to a high-volume commercial use case from day one.\nStrong data engineering experience, having built and kept running pipelines over large, messy datasets, which you will use to turn partner data into one clean model.\nExperience integrating with systems you don't control, such as enterprise, on-premise or legacy platforms, and working through a customer's security and IT review, so you can get partner data flowing \nExperience building and running services that handle thousands of requests per second at sub-second response times, which you will use to serve models in production.\nTravel industry experience (airlines, hotels, OTAs, metasearch or travel technology) working with availability, rates, schedules and inventory, and the systems behind them such as GDS, NDC and airline\nBonus: experience in both airline and hotel data, or in another high-volume marketplace (e-commerce, ad tech, fintech) as well as travel, to bring patterns from other verticals to each deployment.\nBonus: forecasting, estimation or recommendation models in production, and experience working alongside a research team to turn their methods into results at a customer.\nBonus: forward-deployed, solutions or integration engineering experience at an enterprise software or data company, or an advanced degree in computer science, statistics or a related field.\nAt Hopper, we’re build"
-},
-{
-"title": "Forward Deployed Engineer, Applied ML and Data",
-"company": "Hopper",
-"location": "Remote · United States",
-"posted": "2026-11-19T22:00:17.530+00:00",
-"link": "https://jobs.ashbyhq.com/hopper/4142a491-9240-4a5c-837a-e5efc5a8ab1c",
-"source": "Hopper careers",
-"country": "US",
-"years": 5,
-"skills": [
-"Machine learning",
-"Statistics",
-"Embedded systems"
-],
-"req": "5+ years building and shipping production ML systems end to end, covering data, modelling, serving and monitoring, which you will apply to a high-volume commercial use case from day one.\nStrong data engineering experience, having built and kept running pipelines over large, messy datasets, which you will use to turn partner data into one clean model.\nExperience integrating with systems you don't control, such as enterprise, on-premise or legacy platforms, and working through a customer's security and IT review, so you can get partner data flowing \nExperience building and running services that handle thousands of requests per second at sub-second response times, which you will use to serve models in production.\nTravel industry experience (airlines, hotels, OTAs, metasearch or travel technology) working with availability, rates, schedules and inventory, and the systems behind them such as GDS, NDC and airline\nBonus: experience in both airline and hotel data, or in another high-volume marketplace (e-commerce, ad tech, fintech) as well as travel, to bring patterns from other verticals to each deployment.\nBonus: forecasting, estimation or recommendation models in production, and experience working alongside a research team to turn their methods into results at a customer.\nBonus: forward-deployed, solutions or integration engineering experience at an enterprise software or data company, or an advanced degree in computer science, statistics or a related field.\nAt Hopper, we’re build"
 }
 ]
 }
