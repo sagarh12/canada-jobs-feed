@@ -1,35 +1,6 @@
 {
-"updated": "2026-11-22T08:29:49+00:00",
+"updated": "2026-11-22T08:39:48+00:00",
 "jobs": [
-{
-"title": "Receptionist/Administrator",
-"company": "HOP Youth",
-"location": "Regina, SK, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
-"salary": "$15.82-$22.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
-},
-{
-"title": "Front Desk Receptionist",
-"company": "Lovely Sugaring",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
-"salary": "$17.95-$18.00 per hour",
-"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
-},
 {
 "title": "Data Engineer",
 "company": "Oddball",
@@ -49,6 +20,35 @@
 "Help desk / troubleshooting",
 "Agile / Scrum"
 ]
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Lovely Sugaring",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
+"salary": "$17.95-$18.00 per hour",
+"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
+},
+{
+"title": "Receptionist/Administrator",
+"company": "HOP Youth",
+"location": "Regina, SK, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
+"salary": "$15.82-$22.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
 },
 {
 "title": "Developer",
@@ -1312,16 +1312,6 @@
 "years": null
 },
 {
-"title": "Junior Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
-"posted": "2026-11-21",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "Google Workspace Administrator",
 "company": "BRP",
 "location": "",
@@ -1860,6 +1850,16 @@
 "Embedded systems"
 ],
 "req": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI \nAs a Technical Support Engineer, you will provide enterprise-level experience to our customers through our extensive product knowledge of Amplitude.\nAn agent leverages their specialized knowledge and skills to research, diagnose, troubleshoot, and resolve customer issues in an accurate and timely manner. People will rely on your tech expertise wit\nProvide customers a great experience using Amplitude and working with our team\nCompleted your Bachelor’s Degree\nExperience with using SDKs and APIs, experimentation, stats, or data science\nExperience working with data pipelines or warehouse ingestion (e.g. Snowflake, BigQuery, or similar) — including debugging data freshness and backfill issues\nThe Product: Amplitude is a digital analytics platform—we help companies capture data they can trust, uncover clear insights about customer behavior, and take faster action. This empowers teams to bui\nMental health and wellness benefits including no cost employee access to Modern Health coaching & therapy Sessions and high quality physician office experience via One Medical membership (select U.S. "
+},
+{
+"title": "Junior Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-20",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "ASIC DFT Developer",
