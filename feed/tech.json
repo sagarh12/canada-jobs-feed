@@ -1,35 +1,6 @@
 {
-"updated": "2026-11-22T10:09:51+00:00",
+"updated": "2026-11-22T10:19:44+00:00",
 "jobs": [
-{
-"title": "Receptionist/Administrator",
-"company": "HOP Youth",
-"location": "Regina, SK, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
-"salary": "$15.82-$22.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
-},
-{
-"title": "Front Desk Receptionist",
-"company": "Lovely Sugaring",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
-"salary": "$17.95-$18.00 per hour",
-"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
-},
 {
 "title": "Data Engineer",
 "company": "Oddball",
@@ -49,6 +20,35 @@
 "Help desk / troubleshooting",
 "Agile / Scrum"
 ]
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Lovely Sugaring",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
+"salary": "$17.95-$18.00 per hour",
+"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
+},
+{
+"title": "Receptionist/Administrator",
+"company": "HOP Youth",
+"location": "Regina, SK, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
+"salary": "$15.82-$22.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
 },
 {
 "title": "Developer",
@@ -832,7 +832,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T100402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
 "salary": "$100,001 - $140,000 USD per year",
 "skills": [
 "Python",
@@ -1509,6 +1509,56 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4478004641",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Application Support Analyst - Remote",
+"company": "Duck Creek Technologies",
+"location": "(remote)",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4466934441",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integration Specialist",
+"company": "Modern Niagara",
+"location": "Nepean, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4440584902",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Platform & Enablement",
+"company": "McAfee",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4439910140",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analyst, Sustainability",
+"company": "QuadReal Property Group",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4449330956",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Precision Technology Summer Associate",
+"company": "BASF",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4469357194",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -9704,7 +9754,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T100402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368",
 "salary": "$40,000",
 "skills": [
 "Networking (TCP/IP, DNS)",
@@ -11030,7 +11080,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T100402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Cybersecurity",
@@ -15125,6 +15175,22 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Digital Technology Consultant - Performance Monitoring",
+"company": "Brown and Caldwell",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=a281fc4332a04fa7",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://recruiting2.ultipro.com/BRO1018BRACA/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=ae7d8a5a-1ac1-43fb-a3db-de89ba8e9bce&postingId=ae202d39-6daa-48eb-b0e0-54b8988c07b5",
+"salary": "$95,000 - $155,000 USD per year",
+"skills": [
+"Cybersecurity"
+],
+"req": "Responsible for all aspects of small to mid-size projects with low degree of technical complexity, involving a small project staff.\nProvide training and support to less experienced colleagues for their development and understanding of digital technology consulting.\nFlexibility to adapt and execute various additional assignments based on evolving needs. Mentorship  May provide mentorship, guidance, support, and knowledge-sharing to help less experienced team memb\nExpertise in data management and data governance frameworks and policies.\nDemonstrated expertise in creating and implementing processes and plans making effective use of data and digital technology.\nUnderstanding of utility operations, asset management, and capital programs. Experience  Typically, a minimum of 5 years of relevant experience is required.\nExperience working with data from water/wastewater-related enterprise applications (e.g., CMMS, GIS, LIMS, PMIS, Asset Management.\nTypically will become certified in BC's Subject Matter Specialist (SMS) Framework and progress through the SMS competencies. Preferred Experience  Developing performance frameworks for multi-year tran"
 },
 {
 "title": "Intermediate Software Developer, DevOps",
@@ -25890,7 +25956,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619366&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18502398-business-communications-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3De0d184d8-e4cc-11f1-951a-dd1ad3de10c4%26rx_job%3D2619366%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T080403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619366",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619366&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18502398-business-communications-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3De0d184d8-e4cc-11f1-951a-dd1ad3de10c4%26rx_job%3D2619366%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T100402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619366",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Excel",
