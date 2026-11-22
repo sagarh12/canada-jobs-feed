@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T21:19:16+00:00",
+"updated": "2026-11-22T21:27:43+00:00",
 "jobs": [
 {
 "title": "Computer Support Specialist-Journeyman",
@@ -18871,44 +18871,6 @@
 "Embedded systems"
 ],
 "req": "5+ years building and shipping production ML systems end to end, covering data, modelling, serving and monitoring, which you will apply to a high-volume commercial use case from day one.\nStrong data engineering experience, having built and kept running pipelines over large, messy datasets, which you will use to turn partner data into one clean model.\nExperience integrating with systems you don't control, such as enterprise, on-premise or legacy platforms, and working through a customer's security and IT review, so you can get partner data flowing \nExperience building and running services that handle thousands of requests per second at sub-second response times, which you will use to serve models in production.\nTravel industry experience (airlines, hotels, OTAs, metasearch or travel technology) working with availability, rates, schedules and inventory, and the systems behind them such as GDS, NDC and airline\nBonus: experience in both airline and hotel data, or in another high-volume marketplace (e-commerce, ad tech, fintech) as well as travel, to bring patterns from other verticals to each deployment.\nBonus: forecasting, estimation or recommendation models in production, and experience working alongside a research team to turn their methods into results at a customer.\nBonus: forward-deployed, solutions or integration engineering experience at an enterprise software or data company, or an advanced degree in computer science, statistics or a related field.\nAt Hopper, we’re build"
-},
-{
-"title": "Forward Deployed AI Engineer, Travel Intelligence",
-"company": "Hopper",
-"location": "Canada - Remote; Toronto - Remote; Ontario - Remote; Alberta - Remote; Canada",
-"posted": "2026-11-19T21:27:41.686+00:00",
-"link": "https://jobs.ashbyhq.com/hopper/7b406c91-9059-437c-9af7-a720b98ee253",
-"source": "Hopper careers",
-"country": "CA",
-"years": null,
-"skills": [
-"Python",
-"SQL",
-"PyTorch",
-"Hugging Face",
-"Ticketing (ServiceNow, Jira)",
-"Embedded systems"
-],
-"req": "Working experience with supervised fine-tuning and at least one of preference optimization or reinforcement learning, including parameter-efficient methods such as LoRA\nExperience in travel or travel-adjacent financial services: airlines, hotels, OTAs, metasearch, travel technology, or bank travel and loyalty programs.\nConfidence presenting to and pushing back on senior customer stakeholders, including data and technology leaders\nBonus: forward-deployed, applied research or applied AI experience at an AI-native company that trains its own models for a domain\nBonus: multilingual training and evaluation, or experience with travel, airline or banking systems and data such as PSS, GDS, NDC, ticketing, loyalty and contact-centre data\nBonus: experience with agent systems and tool use, or working alongside a research team to turn their methods into results at a customer\nAt Hopper, we’re building the leading travel technology platform in the world, and we’re doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (H\nBillions of dollars in travel and travel fintech move through Hopper and HTS every year."
-},
-{
-"title": "Forward Deployed AI Engineer, Travel Intelligence",
-"company": "Hopper",
-"location": "Remote · United States",
-"posted": "2026-11-19T21:27:40.041+00:00",
-"link": "https://jobs.ashbyhq.com/hopper/1814729f-bf68-45cb-8710-aa733714a91b",
-"source": "Hopper careers",
-"country": "US",
-"years": null,
-"skills": [
-"Python",
-"SQL",
-"PyTorch",
-"Hugging Face",
-"Ticketing (ServiceNow, Jira)",
-"Embedded systems"
-],
-"req": "Working experience with supervised fine-tuning and at least one of preference optimization or reinforcement learning, including parameter-efficient methods such as LoRA\nExperience in travel or travel-adjacent financial services: airlines, hotels, OTAs, metasearch, travel technology, or bank travel and loyalty programs.\nConfidence presenting to and pushing back on senior customer stakeholders, including data and technology leaders\nBonus: forward-deployed, applied research or applied AI experience at an AI-native company that trains its own models for a domain\nBonus: multilingual training and evaluation, or experience with travel, airline or banking systems and data such as PSS, GDS, NDC, ticketing, loyalty and contact-centre data\nBonus: experience with agent systems and tool use, or working alongside a research team to turn their methods into results at a customer\nAt Hopper, we’re building the leading travel technology platform in the world, and we’re doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (H\nBillions of dollars in travel and travel fintech move through Hopper and HTS every year."
 }
 ]
 }
