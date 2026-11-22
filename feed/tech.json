@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T18:39:46+00:00",
+"updated": "2026-11-22T18:49:46+00:00",
 "jobs": [
 {
 "title": "Computer Support Specialist-Journeyman",
@@ -319,6 +319,53 @@
 "Google Workspace"
 ],
 "req": "Job Summary The Administrative Assistant supports daily office operations by coordinating communications, maintaining organized records, and completing accurate data entry. This role provides a welcom"
+},
+{
+"title": "IT Support Specialist",
+"company": "kimluha",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=e5c43318fee35956",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/it-support-specialist-e5c43318fee35956",
+"salary": "$50,000.00-$62,000.00 per year",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+"
+],
+"req": "Previous IT support experience is an asset."
+},
+{
+"title": "Remote Tier II Helpdesk Technician - MSP",
+"company": "Isny",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=2de544293ad7ce86",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "http://www.indeed.com/job/remote-tier-ii-helpdesk-technician-msp-2de544293ad7ce86",
+"salary": "$65,000 - $80,000 USD per year",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"IAM",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"CompTIA Network+",
+"CompTIA Security+"
+],
+"req": "Read before applying: Only considering candidates with 3+ years IT support experience AND a stable job history. We’re ISNY, a fast-growing Inc. 5000 IT & Cybersecurity company serving NYC. We’re looki\nHave you worked for an MSP (IT Managed Services Provider) ? Experience:  MSP: 1 year (Required) Work Location: Remote"
 },
 {
 "title": "Developer",
@@ -1102,7 +1149,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T180402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
 "salary": "$100,001 - $140,000 USD per year",
 "skills": [
 "Python",
@@ -3059,6 +3106,176 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4467127506",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "PhD Machine Learning Engineer, Intern",
+"company": "Stripe",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485641050",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineer",
+"company": "Qualcomm",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4449108641",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Talent Acquisition Coordinator",
+"company": "telMAX Inc.",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4487343562",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Legal Operations Associate, Compliance & Automation (Remote)",
+"company": "Jerry",
+"location": "Toronto, Ontario, Canada (remote)",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492313090",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Coordinator, Performance",
+"company": "Omnicom Media",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485123590",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Service Representative I",
+"company": "Kastle Systems",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485118539",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Customer Account Leader Assc (Helicopter Business Unit)",
+"company": "StandardAero",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485354796",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual Spanish - Payment Solutions Advisor",
+"company": "Propel Holdings",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493269310",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician- Trainee",
+"company": "Fike Corporation",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4477490077",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analytics Associate, CIB Business Management",
+"company": "TD",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485646325",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advanced Power BI Engineer",
+"company": "Invesco",
+"location": "Charlottetown, Prince Edward Island, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4449926570",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Office Clerk",
+"company": "OPENLANE",
+"location": "Richmond, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492853766",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Technical Services Engineer",
+"company": "MongoDB",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4478005284",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492862824",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer I, Backend (Streaming Infra)",
+"company": "Affirm",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4492871302",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power BI Developer",
+"company": "Synechron",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4493107060",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Security Advisor Specialist - Web Application Protection",
+"company": "Intact",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468005478",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -17339,6 +17556,82 @@
 "location": "",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4460132654",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Java Developer",
+"company": "Veracity Ventures Inc.",
+"location": "CA (remote)",
+"posted": "2026-11-20",
+"link": "https://ca.indeed.com/viewjob?jk=15faa620219583c7",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://veracity-ventures-inc.careerplug.com/j/037mdzg",
+"skills": [
+"Java",
+"SQL",
+"Spring Boot",
+"REST APIs",
+"Kafka",
+"Microservices",
+"System design"
+],
+"req": "Hiring: Java Backend Developer – Banking Domain We are looking for experienced Java Backend Developers with a background in the Banking / Financial Services domain. Location: Ontario, Canada Experienc\nStrong hands-on experience with Java, Spring Boot and Microservices.\nExperience developing REST APIs and backend applications.\nExperience with Kafka or messaging technologies.\nBanking or Financial Services domain experience is preferred."
+},
+{
+"title": "Order Processing Administrator",
+"company": "Abacus Brands Inc.",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4492858247",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Sales Consultant Trainee",
+"company": "Sysco Canada Inc.",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493215819",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Underwriting Analyst, Construction",
+"company": "Starr",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493212070",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant I - Safety",
+"company": "Cority",
+"location": "Remote · United States",
+"posted": "2026-11-20",
+"link": "https://www.indeed.com/viewjob?jk=3a3f57e30bb70603",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.dayforcehcm.com/en-CA/cority/CANDIDATEPORTAL/jobs/85",
+"skills": [
+"Agile / Scrum"
+],
+"req": "About Cority Cority helps customers see and prevent risks across their operations in real time. Our EHS+ platform converges people, data, and AI agents to provide a clear view of information people ca\nActively participates in the Cority PS Peer Training program. Qualifications and Characteristics of an Ideal Candidate:  A graduate of a university program in Information Technology, Occupational Heal\nBetween 1-3 years’ experience in, ideally with professional designation of (CIH, CSP, CSRP, COHN), subject matter area of this role; or, having held the Associate Consultant position at Cority for at \nAn opportunity to work in a values-driven, performance oriented, dynamic and growth focused culture  We support a remote working environment with a one-time home office allowance and subsidized monthl"
+},
+{
+"title": "Program Analyst",
+"company": "Raise",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4493211405",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
