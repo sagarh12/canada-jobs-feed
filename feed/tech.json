@@ -1,74 +1,6 @@
 {
-"updated": "2026-11-22T14:09:44+00:00",
+"updated": "2026-11-22T14:19:50+00:00",
 "jobs": [
-{
-"title": "ServiceNow Developer",
-"company": "General Dynamics Information Technology",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=56c0792b2b5ec19c",
-"source": "Indeed",
-"country": "US",
-"years": 4,
-"apply": "https://www.gdit.com/careers/job/1726b8d83/servicenow-developer/",
-"salary": "$97,750 - $132,250 USD per year",
-"skills": [
-"REST APIs",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Testing (unit, automated)"
-],
-"req": "Clearance Level None Category Software Engineering Location Remote, Working from the USA Key Skills For Success Cloud Deployment End User Support IT Service Management (ITSM) ServiceNow Administration\nAbility to travel up to 25% of the year, if needed. DESIRED QUALIFICATIONS AND EXPERIENCE:  4+ years of relevant analyst experience.\nExperience supporting federal contract program manager.\nExperience with additional ServiceNow modules beyond ITSM and SPM  Experience with ServiceNow Automated Testing Framework  Excellent organizational and time management skills; ability to manage freque\nAbility to communicate and interact effectively with internal/external teams including key stakeholders and customers.\nInternal mobility team dedicated to helping you own your career.\nAbout Our Work We are GDIT. A global technology and professional services company that delivers technology solutions and mission services to every major agency across the U.S. government, defense and "
-},
-{
-"title": "Receptionist/Administrator",
-"company": "HOP Youth",
-"location": "Regina, SK, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
-"salary": "$15.82-$22.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
-},
-{
-"title": "Front Desk Receptionist",
-"company": "Lovely Sugaring",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
-"salary": "$17.95-$18.00 per hour",
-"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
-},
-{
-"title": "Data Engineer",
-"company": "Oddball",
-"location": "Remote · United States",
-"posted": "2026-11-22",
-"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://grnh.se/yjoj28f03us",
-"salary": "$100,000 - $130,000 USD per year",
-"skills": [
-"Python",
-"SQL",
-"ETL / data pipelines",
-"AWS",
-"Help desk / troubleshooting",
-"Agile / Scrum"
-]
-},
 {
 "title": "Computer Support Specialist-Journeyman",
 "company": "NuAxis Innovations",
@@ -93,6 +25,74 @@
 "ITIL"
 ],
 "req": "We are a federal IT company on a mission to make customer experience (CX) the center of every government solution. Technology is our Passion. People are our Purpose. We know tech, but we love people. \nCreate, update, and retire help desk and computer support documentation as needed. Education Required:  High school diploma or equivalent.\nHDI Analyst Certification (e.g., CSA, SCA, DST, or equivalent) required within 10 business days of hire.\nCompTIA A+ Certification – required within 90 days of hire Preferred:  Bachelor’s Degree preferred.\nApple Support Certification preferred;  Hands-on Mac device support experience preferred. Knowledge Requirements  Incident, problem, change, and ticket lifecycle management, including intake, categori\nEnterprise ticketing or ITSM tools; Remedy Service Management experience preferred.\nWorking knowledge of Microsoft Entra ID, Microsoft Azure, and Microsoft Intune, including device management, user access, and endpoint support concepts. Experience Required:  Two (2) or more years of "
+},
+{
+"title": "Data Engineer",
+"company": "Oddball",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=7840327ec35d7a25",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://grnh.se/yjoj28f03us",
+"salary": "$100,000 - $130,000 USD per year",
+"skills": [
+"Python",
+"SQL",
+"ETL / data pipelines",
+"AWS",
+"Help desk / troubleshooting",
+"Agile / Scrum"
+]
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Lovely Sugaring",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
+"salary": "$17.95-$18.00 per hour",
+"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
+},
+{
+"title": "Receptionist/Administrator",
+"company": "HOP Youth",
+"location": "Regina, SK, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
+"salary": "$15.82-$22.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
+},
+{
+"title": "ServiceNow Developer",
+"company": "General Dynamics Information Technology",
+"location": "Remote · United States",
+"posted": "2026-11-22",
+"link": "https://www.indeed.com/viewjob?jk=56c0792b2b5ec19c",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://www.gdit.com/careers/job/1726b8d83/servicenow-developer/",
+"salary": "$97,750 - $132,250 USD per year",
+"skills": [
+"REST APIs",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Testing (unit, automated)"
+],
+"req": "Clearance Level None Category Software Engineering Location Remote, Working from the USA Key Skills For Success Cloud Deployment End User Support IT Service Management (ITSM) ServiceNow Administration\nAbility to travel up to 25% of the year, if needed. DESIRED QUALIFICATIONS AND EXPERIENCE:  4+ years of relevant analyst experience.\nExperience supporting federal contract program manager.\nExperience with additional ServiceNow modules beyond ITSM and SPM  Experience with ServiceNow Automated Testing Framework  Excellent organizational and time management skills; ability to manage freque\nAbility to communicate and interact effectively with internal/external teams including key stakeholders and customers.\nInternal mobility team dedicated to helping you own your career.\nAbout Our Work We are GDIT. A global technology and professional services company that delivers technology solutions and mission services to every major agency across the U.S. government, defense and "
 },
 {
 "title": "Developer",
@@ -876,7 +876,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
 "salary": "$100,001 - $140,000 USD per year",
 "skills": [
 "Python",
@@ -1963,6 +1963,76 @@
 "location": "",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4493288239",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Finance and Equity Analyst - Rotational Program",
+"company": "Carta",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4457708727",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Early Careers: Commercial Risk Associate",
+"company": "Aon",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4485654092",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Paralegal, Funds",
+"company": "Carta",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4458416504",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant - Cyber Defense - Offensive Security",
+"company": "KPMG Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4337171251",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supply Chain Intern (Winter 2027 - 12 months)",
+"company": "Hitachi Rail",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4483497160",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Field Service Specialist - Medical Device/Diagnostics - Northern British Columbia/Prince George",
+"company": "Werfen",
+"location": "Prince George, British Columbia, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468670342",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Geomatics Internship - May 2027",
+"company": "McElhanney",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4468809821",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -10178,7 +10248,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619368&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18503168-service-desk-agent%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Da7f4cfe7-e4ff-11f1-be5c-1fc82dd5d5db%26rx_job%3D2619368%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619368",
 "salary": "$40,000",
 "skills": [
 "Networking (TCP/IP, DNS)",
@@ -11504,7 +11574,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Cybersecurity",
@@ -15768,6 +15838,46 @@
 "location": "Ottawa, Ontario, Canada",
 "posted": "2026-11-20",
 "link": "https://www.linkedin.com/jobs/view/4492813552",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data & Analytics Specialist (Markets & Banking)",
+"company": "Bank of Canada",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4490897919",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Specialist, Intelligent Automation",
+"company": "Samuel, Son & Co.",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4489002322",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Planning Specialist",
+"company": "Ontario Northland",
+"location": "North Bay, Ontario, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4489136644",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Product Development Engineering Co-op",
+"company": "Cytiva",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-20",
+"link": "https://www.linkedin.com/jobs/view/4459990560",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -26546,7 +26656,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 6,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619366&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18502398-business-communications-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3De0d184d8-e4cc-11f1-951a-dd1ad3de10c4%26rx_job%3D2619366%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T120402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619366",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619366&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18502398-business-communications-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3De0d184d8-e4cc-11f1-951a-dd1ad3de10c4%26rx_job%3D2619366%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261122T140402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619366",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Excel",
