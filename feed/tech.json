@@ -1,35 +1,6 @@
 {
-"updated": "2026-11-22T07:49:47+00:00",
+"updated": "2026-11-22T07:59:48+00:00",
 "jobs": [
-{
-"title": "Receptionist/Administrator",
-"company": "HOP Youth",
-"location": "Regina, SK, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
-"salary": "$15.82-$22.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
-},
-{
-"title": "Front Desk Receptionist",
-"company": "Lovely Sugaring",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-22",
-"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
-"salary": "$17.95-$18.00 per hour",
-"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
-},
 {
 "title": "Data Engineer",
 "company": "Oddball",
@@ -49,6 +20,35 @@
 "Help desk / troubleshooting",
 "Agile / Scrum"
 ]
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Lovely Sugaring",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=dc4bce8583d3d3e1",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-dc4bce8583d3d3e1",
+"salary": "$17.95-$18.00 per hour",
+"req": "We’re Hiring a Receptionist (Part-Time & Full-Time) About Us: At Lovely Sugaring, we are an all-natural, all-genders hair removal spa located in the heart of Corso Italia. We use high-quality products"
+},
+{
+"title": "Receptionist/Administrator",
+"company": "HOP Youth",
+"location": "Regina, SK, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=1101d008f9393dcd",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/receptionistadministrator-1101d008f9393dcd",
+"salary": "$15.82-$22.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "WE’RE HIRING! Front Desk Receptionist Natural Connections Early Learning Inc. 190 Broad St N, Regina, Saskatchewan Position: Full-Time Join Our Growing Team! Natural Connections Early Learning Inc. is\nAssist with other operational tasks as needed. Qualifications & Skills  Previous experience in reception, office administration, or customer service preferred.\nExperience in an early childhood education setting is considered an asset.\nDo you have experience working with children? Experience:  Administrative: 1 year (required) Location:  Regina, SK S4R 2X4 (required) Work Location: In person"
 },
 {
 "title": "Two (2) Engineer",
@@ -1092,16 +1092,6 @@
 "years": null
 },
 {
-"title": "Infrastructure Analyst",
-"company": "NAV CANADA",
-"location": "Ottawa",
-"posted": "2026-11-21",
-"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8653",
-"source": "NAV CANADA careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "ASIC DFT Developer",
 "company": "Cisco",
 "location": "Vancouver, British Columbia, Canada",
@@ -1870,6 +1860,16 @@
 "Embedded systems"
 ],
 "req": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI \nAs a Technical Support Engineer, you will provide enterprise-level experience to our customers through our extensive product knowledge of Amplitude.\nAn agent leverages their specialized knowledge and skills to research, diagnose, troubleshoot, and resolve customer issues in an accurate and timely manner. People will rely on your tech expertise wit\nProvide customers a great experience using Amplitude and working with our team\nCompleted your Bachelor’s Degree\nExperience with using SDKs and APIs, experimentation, stats, or data science\nExperience working with data pipelines or warehouse ingestion (e.g. Snowflake, BigQuery, or similar) — including debugging data freshness and backfill issues\nThe Product: Amplitude is a digital analytics platform—we help companies capture data they can trust, uncover clear insights about customer behavior, and take faster action. This empowers teams to bui\nMental health and wellness benefits including no cost employee access to Modern Health coaching & therapy Sessions and high quality physician office experience via One Medical membership (select U.S. "
+},
+{
+"title": "Infrastructure Analyst",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-11-20",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8653",
+"source": "NAV CANADA careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Business Analyst",
@@ -14727,16 +14727,6 @@
 "years": null
 },
 {
-"title": "Digital Communications Specialist (8-month term)",
-"company": "NAV CANADA",
-"location": "Ottawa",
-"posted": "2026-11-20",
-"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Digital-Communications-Specialist--6-month-term-_JR-8644",
-"source": "NAV CANADA careers",
-"country": "CA",
-"years": null
-},
-{
 "title": "ASIC Verification Intern - Summer 2027",
 "company": "NVIDIA",
 "location": "Canada, Toronto",
@@ -15597,6 +15587,16 @@
 "Incident response"
 ],
 "req": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that\nProactively identify gaps in internal fraud tooling and automation, driving enhancements to improve efficiency and scale\nQualifications:\n5+ years of applied fraud experience in a high-velocity environment (fintech, consumer payments, banking, SaaS, marketplace risk, or security research)\nEnd-to-end investigation experience reconstructing attacker intent and behavior in multi-step attack sequences across accounts, devices, and identities\nPost-containment incident response experience with a deep emphasis on post-mortems and root cause analysis\nDark and grey-web navigation and investigation experience; ability to assess source credibility and translate external intelligence into actionable insights\nGraph/network analysis experience to detect linked behavioral structures or actor networks\nExperience applying AI tools and agents to accelerate investigations and research workflows\nExperience improving internal fraud tooling, automation, or case management systems\nOur mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem mo\nPlaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, "
+},
+{
+"title": "Digital Communications Specialist (8-month term)",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-11-19",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Digital-Communications-Specialist--6-month-term-_JR-8644",
+"source": "NAV CANADA careers",
+"country": "CA",
+"years": null
 },
 {
 "title": "Intermediate Software Developer",
@@ -27166,16 +27166,6 @@
 "System design"
 ],
 "req": "As a Software Engineer on Collections Infra, you’ll help scale the infrastructure behind Notion’s database block. Databases power views, boards, charts, forms, and the workflows customers use to run t\nBy the end of your first year, you’ll have helped raise the quality bar for Collections infrastructure through better architecture, observability, documentation, or system boundaries that make future \nYou’ll partner with senior engineers and product-facing teams to evolve Collections as a platform, balancing internal developer needs with the external customer experience of databases.\nCuriosity about distributed systems, microservices, and data-layer trade-offs; experience in these areas is helpful, but we care most about your ability to learn quickly and reason from first principl\nYou don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their wor\nWe hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and do\nNotion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbi"
-},
-{
-"title": "Network Designer",
-"company": "Rogers",
-"location": "Brampton, ON, CA",
-"posted": "2026-11-19T08:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Brampton-Network-Designer-ON/1442527900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers",
-"country": "CA",
-"years": 2
 }
 ]
 }
