@@ -1,5 +1,5 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,3837,853,3837,2026-11-22
+1,Help desk / troubleshooting,IT support,44%,3838,854,3838,2026-11-22
 2,SQL,Language,24%,2113,486,2113,2026-11-22
 3,REST APIs,Framework,24%,2063,473,2063,2026-11-22
 4,Python,Language,23%,1988,465,1988,2026-11-22
@@ -12,11 +12,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 11,Git,Cloud & DevOps,14%,1184,289,1184,2026-11-22
 12,CI/CD,Cloud & DevOps,13%,1131,264,1131,2026-11-22
 13,AWS,Cloud & DevOps,13%,1114,257,1114,2026-11-22
-14,Windows,IT support,13%,1108,258,1108,2026-11-22
-15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,1040,279,1040,2026-11-22
-16,Cybersecurity,Security,11%,1002,232,1002,2026-11-22
+14,Windows,IT support,13%,1109,259,1109,2026-11-22
+15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,1041,280,1041,2026-11-22
+16,Cybersecurity,Security,11%,1003,233,1003,2026-11-22
 17,IAM,Security,11%,974,242,974,2026-11-22
-18,"Ticketing (ServiceNow, Jira)",IT support,11%,960,231,960,2026-11-22
+18,"Ticketing (ServiceNow, Jira)",IT support,11%,961,232,961,2026-11-22
 19,JavaScript,Language,10%,857,181,857,2026-11-22
 20,Power BI,Data & AI,10%,853,177,853,2026-11-22
 21,Statistics,Data & AI,9%,823,208,823,2026-11-22
@@ -46,7 +46,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 45,Bash/Shell,Language,5%,414,105,414,2026-11-22
 46,.NET,Framework,5%,413,99,413,2026-11-22
 47,Incident response,Security,4%,372,97,372,2026-11-22
-48,Embedded systems,Practice,4%,370,87,370,2026-11-22
+48,Embedded systems,Practice,4%,371,88,371,2026-11-22
 49,Tableau,Data & AI,4%,370,98,370,2026-11-22
 50,C++,Language,4%,350,79,350,2026-11-22
 51,ITIL,Certification,4%,349,73,349,2026-11-22
@@ -82,7 +82,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 81,Ansible,Cloud & DevOps,2%,166,33,166,2026-11-22
 82,Selenium / Cypress,Practice,2%,166,33,166,2026-11-22
 83,RAG,Data & AI,2%,165,35,165,2026-11-22
-84,CompTIA Network+,Certification,2%,162,38,162,2026-11-22
+84,CompTIA Network+,Certification,2%,163,39,163,2026-11-22
 85,Cloud security,Security,2%,158,43,158,2026-11-22
 86,Spring Boot,Framework,2%,149,38,149,2026-11-22
 87,NoSQL,Database,2%,148,36,148,2026-11-22
@@ -93,7 +93,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 92,MongoDB,Database,1%,123,26,123,2026-11-22
 93,Threat intelligence,Security,1%,119,23,119,2026-11-22
 94,VBA,Language,1%,117,29,117,2026-11-22
-95,CCNA,Certification,1%,96,24,96,2026-11-22
+95,CCNA,Certification,1%,97,25,97,2026-11-22
 96,Serverless,Cloud & DevOps,1%,95,24,95,2026-11-22
 97,Ruby,Language,1%,91,23,91,2026-11-22
 98,Azure certification,Certification,1%,90,32,90,2026-11-22
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,2,1,2,2026-11-22
 155,Solidity,Language,0%,2,1,2,2026-11-22
 
-,Based on 8751 postings in the last 30 days (8751 all time)
+,Based on 8752 postings in the last 30 days (8752 all time)
