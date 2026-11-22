@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T17:59:49+00:00",
+"updated": "2026-11-22T18:09:52+00:00",
 "jobs": [
 {
 "title": "Computer Support Specialist-Journeyman",
@@ -17714,28 +17714,6 @@
 "source": "KPMG careers",
 "country": "CA",
 "years": 2
-},
-{
-"title": "FinOps Specialist, Production Engineering",
-"company": "Ramp",
-"location": "Remote · United States",
-"posted": "2026-11-19T18:02:36.287+00:00",
-"link": "https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49",
-"source": "Ramp careers",
-"country": "US",
-"years": null,
-"salary": "$275",
-"skills": [
-"REST APIs",
-"AWS",
-"Terraform",
-"CI/CD",
-"Monitoring",
-"Incident response",
-"System design",
-"Embedded systems"
-],
-"req": "The median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nThis is a senior individual contributor role.\nExperience profile:\nExperience improving infrastructure economics in a growing technology organization, with examples of decisions you influenced and measurable results you helped deliver.\nExperience planning large infrastructure contracts and commitments. You can model usage over multi-year terms, compare pricing and payment structures, and balance savings against overcommitment risk a\nWorking knowledge of cloud billing and pricing, including cost allocation, commitment discounts, payment structures, and the relationship between usage and cost. AWS experience is especially relevant.\nExperience with cost attribution and analysis. You can connect infrastructure spend to teams, services, products, and usage drivers, including shared resources. You work directly with cost and usage d\nPractical experience using AI tools and coding agents to analyze data, build dashboards or automations, and investigate technical questions. You can evaluate their output and recognize when deeper eng\nRelevant backgrounds include FinOps, infrastructure finance, strategic sourcing, analytics, data, and infrastructure engineering. A software engineering background is welcome, but not required.\nBonus (not required):\nDeep experience with AWS Cost and Usage Reports, Savings Pl"
 }
 ]
 }
