@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T18:29:46+00:00",
+"updated": "2026-11-22T18:39:46+00:00",
 "jobs": [
 {
 "title": "Computer Support Specialist-Journeyman",
@@ -17833,30 +17833,6 @@
 "source": "Microsoft careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Presales Solutions Engineer, Defense",
-"company": "Secureframe",
-"location": "Remote · United States",
-"posted": "2026-11-19T18:33:05.639+00:00",
-"link": "https://jobs.ashbyhq.com/secureframe/f7d8854b-f23b-42a7-9ac1-6d09bd885160",
-"source": "Secureframe careers",
-"country": "US",
-"years": null,
-"quals": [
-"Experience owning the technical sale as a Solutions Engineer, Sales Engineer, or client-facing CMMC consultant who scopes and sells engageme",
-"Hands-on CMMC Level 2 or NIST SP 800-171 readiness work with defense contractors, including scoping an environment, working with SSPs and PO",
-"Working knowledge of CMMC Levels 1 and 2, FCI and CUI, DFARS 252.204-7012, SPRS, and self-assessment and C3PAO assessment. Familiarity with ",
-"Practical architecture skills across identity, endpoints, networking, and cloud. You can read a network diagram, ask how access is controlle"
-],
-"skills": [
-"REST APIs",
-"Azure",
-"IAM",
-"NIST / ISO 27001",
-"Microsoft 365"
-],
-"req": "The Presales Solutions Engineer, Defense owns the technical side of Secureframe’s defense sales cycle, from qualification through the technical win. You’ll bring CMMC expertise to defense contractors \nExplain how NIST SP 800-171 controls, system security plans (SSPs), plans of action and milestones (POA&Ms), Supplier Performance Risk System (SPRS) scoring, and evidence support assessment readiness.\nExperience owning the technical sale as a Solutions Engineer, Sales Engineer, or client-facing CMMC consultant who scopes and sells engagements. You can describe a deal you qualified, the evaluation y\nExperience leading discovery, tailored demos, and competitive evaluations with technical and business stakeholders. You can explain a trade-off to an IT lead, plant manager, or executive.\nExperience with Microsoft GCC High, Azure Government, Entra ID, Intune, or Azure Virtual Desktop, including customer-owned or provider-managed enclaves.\nExperience supporting a CMMC assessment or credentials such as Certified CMMC Professional (CCP), Certified CMMC Assessor (CCA), or Registered Practitioner (RP).\nExperience with manufacturing or engineering environments, including CAD tools, CNC machines, and shop-floor systems.\nExperience supporting a FedRAMP authorization or scoping migrations and custom integrations with APIs or webhooks."
 }
 ]
 }
