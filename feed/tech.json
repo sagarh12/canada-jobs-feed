@@ -1,6 +1,23 @@
 {
-"updated": "2026-11-23T02:59:50+00:00",
+"updated": "2026-11-23T03:09:49+00:00",
 "jobs": [
+{
+"title": "office assistance",
+"company": "Brandt",
+"location": "Regina, SK, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=58bb5d3fe792a0cb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-assistance-58bb5d3fe792a0cb",
+"salary": "$18.00-$30.00 per hour",
+"skills": [
+"Excel",
+"Google Workspace"
+],
+"req": "Office & Financial Support: Track office supply inventory, coordinate equipment maintenance, and assist with basic invoicing, expenses, or routine bookkeeping as needed. Qualifications & Skills  Educa"
+},
 {
 "title": "Drupal Developer",
 "company": "Universal Health Hub",
@@ -25,23 +42,6 @@
 "Git"
 ],
 "req": "Company Overview Universal Health Hub provides home health care services centred on empathy, personal caregiver training, and monitoring. Its technology supports transparency and care for clients and \nQualifications  Required: Experience with Drupal and web development.\nRequired: PHP, HTML, and CSS skills relevant to Drupal development.\nRequired: Ability to use JavaScript to support interactive web experiences."
-},
-{
-"title": "office assistance",
-"company": "Brandt",
-"location": "Regina, SK, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=58bb5d3fe792a0cb",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-assistance-58bb5d3fe792a0cb",
-"salary": "$18.00-$30.00 per hour",
-"skills": [
-"Excel",
-"Google Workspace"
-],
-"req": "Office & Financial Support: Track office supply inventory, coordinate equipment maintenance, and assist with basic invoicing, expenses, or routine bookkeeping as needed. Qualifications & Skills  Educa"
 },
 {
 "title": "Cloud Applications Consultant",
