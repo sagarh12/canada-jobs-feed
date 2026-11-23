@@ -1,52 +1,6 @@
 {
-"updated": "2026-11-23T04:19:49+00:00",
+"updated": "2026-11-23T04:29:52+00:00",
 "jobs": [
-{
-"title": "Administrative and Marketing Assistant",
-"company": "So Golf Academy",
-"location": "Markham, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=1408da9da070175f",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-and-marketing-assistant-1408da9da070175f",
-"salary": "$18.00 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "Support coaches and management with program administration and daily operations. Qualifications & Skills  Strong organizational, communication, and customer service skills.\nExperience with video editing and graphic design tools, such as Canva and CapCut.\nPrevious administrative, reception, or marketing experience is preferred."
-},
-{
-"title": "CNC Setter/Operator/Programmer",
-"company": "Anikole International",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=4d2fa162ea75f5f5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cnc-setteroperatorprogrammer-4d2fa162ea75f5f5",
-"salary": "$25.00-$30.00 per hour",
-"req": "CNC Setter/Operator/Programmer Job Description Job Summary We are seeking a skilled CNC Machinist to join our dynamic manufacturing team. The ideal candidate will be responsible for making basic maste\nExperience in 4 & 5-axis machine programming and setup is a MUST.\nUtilize CAD software, such as SolidWorks, Mastercam to create and modify part designs.\nExperience with Haas Machine is highly beneficial. Specially Haas 3+2 & 5-axis machines. Qualifications  Proven experience as a CNC Setup, operator and Programmer in a manufacturing environment.\nProficiency in CAD software, particularly Mastercam; experience with other design software is a plus.\nExperience with complex aerospace parts is a huge plus.\nExperience using calipers and other precision measuring tools for quality control.\nKnowledge of welding processes is advantageous but not required."
-},
-{
-"title": "office assistance",
-"company": "Brandt",
-"location": "Regina, SK, CA",
-"posted": "2026-11-23",
-"link": "https://ca.indeed.com/viewjob?jk=58bb5d3fe792a0cb",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-assistance-58bb5d3fe792a0cb",
-"salary": "$18.00-$30.00 per hour",
-"skills": [
-"Excel",
-"Google Workspace"
-],
-"req": "Office & Financial Support: Track office supply inventory, coordinate equipment maintenance, and assist with basic invoicing, expenses, or routine bookkeeping as needed. Qualifications & Skills  Educa"
-},
 {
 "title": "Drupal Developer",
 "company": "Universal Health Hub",
@@ -71,6 +25,52 @@
 "Git"
 ],
 "req": "Company Overview Universal Health Hub provides home health care services centred on empathy, personal caregiver training, and monitoring. Its technology supports transparency and care for clients and \nQualifications  Required: Experience with Drupal and web development.\nRequired: PHP, HTML, and CSS skills relevant to Drupal development.\nRequired: Ability to use JavaScript to support interactive web experiences."
+},
+{
+"title": "office assistance",
+"company": "Brandt",
+"location": "Regina, SK, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=58bb5d3fe792a0cb",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-assistance-58bb5d3fe792a0cb",
+"salary": "$18.00-$30.00 per hour",
+"skills": [
+"Excel",
+"Google Workspace"
+],
+"req": "Office & Financial Support: Track office supply inventory, coordinate equipment maintenance, and assist with basic invoicing, expenses, or routine bookkeeping as needed. Qualifications & Skills  Educa"
+},
+{
+"title": "CNC Setter/Operator/Programmer",
+"company": "Anikole International",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=4d2fa162ea75f5f5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-setteroperatorprogrammer-4d2fa162ea75f5f5",
+"salary": "$25.00-$30.00 per hour",
+"req": "CNC Setter/Operator/Programmer Job Description Job Summary We are seeking a skilled CNC Machinist to join our dynamic manufacturing team. The ideal candidate will be responsible for making basic maste\nExperience in 4 & 5-axis machine programming and setup is a MUST.\nUtilize CAD software, such as SolidWorks, Mastercam to create and modify part designs.\nExperience with Haas Machine is highly beneficial. Specially Haas 3+2 & 5-axis machines. Qualifications  Proven experience as a CNC Setup, operator and Programmer in a manufacturing environment.\nProficiency in CAD software, particularly Mastercam; experience with other design software is a plus.\nExperience with complex aerospace parts is a huge plus.\nExperience using calipers and other precision measuring tools for quality control.\nKnowledge of welding processes is advantageous but not required."
+},
+{
+"title": "Administrative and Marketing Assistant",
+"company": "So Golf Academy",
+"location": "Markham, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=1408da9da070175f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-and-marketing-assistant-1408da9da070175f",
+"salary": "$18.00 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "Support coaches and management with program administration and daily operations. Qualifications & Skills  Strong organizational, communication, and customer service skills.\nExperience with video editing and graphic design tools, such as Canva and CapCut.\nPrevious administrative, reception, or marketing experience is preferred."
 },
 {
 "title": "Manufacturing Engineer - Mechanical",
@@ -961,6 +961,16 @@
 ]
 },
 {
+"title": "NEG00010SE - Server Administrator",
+"company": "Amyantek",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-22",
+"link": "https://www.linkedin.com/jobs/view/4493316483",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "Developer",
 "company": "Rogers",
 "location": "Toronto, ON, CA",
@@ -1742,7 +1752,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 10,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T020402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619397&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506981-devops-engineer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D58cf7cf5-e5c8-11f1-82d5-339cbe41f741%26rx_job%3D2619397%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T040403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619397",
 "salary": "$100,001 - $140,000 USD per year",
 "skills": [
 "Python",
@@ -1785,7 +1795,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://candidateportal.ceipal.com/job-details/xlZlTW27pm0T9zZTNAQuaTp6AV8qhhw5_QbutQI4GfU#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/gxujcD1W50kjd1ETXrwG1akoe1lhkiUHAndO56MorKk#.job_boards.Indeed",
 "skills": [
 "JavaScript",
 "HTML/CSS",
@@ -5141,6 +5151,26 @@
 "HTML/CSS"
 ],
 "req": "At Manulife John Hancock, we believe in investing in the future – starting with you. Our Canadian Operations Management Internship/Co-op is your launchpad to success, offering the support, structure, \nDevelop internal communications using provided templates.\nSupport end-to-end planning of internal events such as town halls, leader meetings, and workshops.\nParticipate in professional development and networking activities. Required Qualifications:  Currently enrolled in a post-secondary program (e.g. Business, Data/Analytics, Communications, Operations, "
+},
+{
+"title": "Software Engineer II, Fullstack (Ads Platform)",
+"company": "Affirm",
+"location": "Queens, Prince Edward Island, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476869904",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Fullstack (Ads Platform)",
+"company": "Affirm",
+"location": "London, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4476881205",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "Mgr. Enterprise Risk Mgmt (AI & Cyber)",
@@ -14669,7 +14699,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 4,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T020402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619395&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18506166-software-support-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D9400d646-e542-11f1-912b-3da7355c6d8e%26rx_job%3D2619395%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261123T040403Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619395",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "Cybersecurity",
