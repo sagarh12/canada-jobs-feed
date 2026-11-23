@@ -1,6 +1,31 @@
 {
-"updated": "2026-11-23T01:39:44+00:00",
+"updated": "2026-11-23T01:49:46+00:00",
 "jobs": [
+{
+"title": "Drupal Developer",
+"company": "Universal Health Hub",
+"location": "Markham, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=ec03179084a52bd5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/drupal-developer-ec03179084a52bd5",
+"salary": "$48,000.00-$50,000.00 per year",
+"quals": [
+"Required: PHP, HTML, and CSS skills relevant to Drupal development.",
+"Required: Ability to use JavaScript to support interactive web experiences."
+],
+"skills": [
+"JavaScript",
+"PHP",
+"SQL",
+"HTML/CSS",
+"REST APIs",
+"Git"
+],
+"req": "Company Overview Universal Health Hub provides home health care services centred on empathy, personal caregiver training, and monitoring. Its technology supports transparency and care for clients and \nQualifications  Required: Experience with Drupal and web development.\nRequired: PHP, HTML, and CSS skills relevant to Drupal development.\nRequired: Ability to use JavaScript to support interactive web experiences."
+},
 {
 "title": "office assistance",
 "company": "Brandt",
@@ -815,6 +840,22 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Outreach Education Specialist - Digital Ed.",
+"company": "TELUS World of Science - Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-22",
+"link": "https://ca.indeed.com/viewjob?jk=0bcca9cf6e165e97",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=01847499-58c4-4a89-8853-f5a6452f6439&ccId=19000101_000001&jobId=24863&source=IN&lang=en_CA",
+"salary": "$57,949.09 – 72,286.60 per year",
+"skills": [
+"Spark"
+],
+"req": "Posting: ESSF 1825 Affiliation: CSU 52 The Edmonton Space & Science Foundation Digital Outreach Specialist Temporary Full-Time January 4 – March 31,2028 ( up to 2 positions) Located in the heart of am\nOther related duties as required. Qualifications Knowledge and Abilities:  Knowledge and experience with inquiry-based learning.\nAbility to lift and carry up to 50 lbs. Education and Experience:  B.Ed. – Early Childhood/Elementary/Secondary with science or digital skills specialty preferred, or appropriate related education and"
 },
 {
 "title": "Developer",
@@ -4860,6 +4901,46 @@
 "location": "Moncton, New Brunswick, Canada",
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4485113330",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Engineering Trainee",
+"company": "Bunge",
+"location": "Nipawin, Saskatchewan, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4469227411",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation Specialist",
+"company": "Maple Leaf Foods Inc",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4484862635",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Technician",
+"company": "Hexagon Mining",
+"location": "Greater Sudbury, Ontario, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4469257778",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Field Service Representative (Technologist / Technician)",
+"company": "Eaton",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-21",
+"link": "https://www.linkedin.com/jobs/view/4427353815",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -19707,26 +19788,6 @@
 "source": "Scotiabank careers",
 "country": "CA",
 "years": null
-},
-{
-"title": "Manufacturing Quality Engineer, Data Center Modular Builds",
-"company": "OpenAI",
-"location": "Remote · United States",
-"posted": "2026-11-20T01:46:29.826+00:00",
-"link": "https://jobs.ashbyhq.com/openai/5a693757-8c54-43a2-abd7-44ab598d4c6e",
-"source": "OpenAI careers",
-"country": "US",
-"years": 10,
-"quals": [
-"Bachelor’s degree in electrical, mechanical, or industrial engineering.",
-"At least 10 years of data center industry experience spanning quality engineering and manufacturing engineering.",
-"Experience working with integrators and suppliers across multiple tiers to manage quality throughout the product lifecycle, from OFCI compon",
-"Ability to define CTQs and acceptance criteria, develop inspection and test checklists, review test results, and maintain auditable quality "
-],
-"skills": [
-"Hardware setup"
-],
-"req": "We work with manufacturing partners, general contractors, engineers, and operations staff from supplier qualification through commissioning. Together, we verify that equipment arrives ready for instal\nAs a Manufacturing Quality Engineer for Data Center Modular Builds, you will own supplier manufacturing and integration quality for modular systems, including hot aisle containment (HAC), modular cool\nLead supplier qualification and support product and process development for mechanical and electrical integrators.\nQualifications\nBachelor’s degree in electrical, mechanical, or industrial engineering.\nAt least 10 years of data center industry experience spanning quality engineering and manufacturing engineering.\nExperience working with integrators and suppliers across multiple tiers to manage quality throughout the product lifecycle, from OFCI component manufacturing through integration and site issue resolut\nExperience monitoring supplier production, conducting product and process audits, managing controlled documents and deviations, and using supplier scorecards to drive improvement.\nDemonstrated experience leading root-cause investigations and corrective actions for manufacturing or field issues using structured methods such as 8D and 5 Whys, and driving continuous improvement th\nExperience in supplier performance management for mission-critical facilities.\nExperience in industrial or high-volume manufacturing environments.\nOpenAI is an AI research and deployment company dedica"
 }
 ]
 }
