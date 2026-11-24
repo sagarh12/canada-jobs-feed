@@ -1,10 +1,10 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,3629,1003,4103,2026-11-24
 2,SQL,Language,24%,1980,559,2264,2026-11-24
-3,REST APIs,Framework,23%,1950,539,2204,2026-11-24
+3,REST APIs,Framework,23%,1951,540,2205,2026-11-24
 4,Python,Language,22%,1873,527,2123,2026-11-24
 5,Excel,Data & AI,21%,1740,458,1944,2026-11-24
-6,Hardware setup,IT support,18%,1518,393,1720,2026-11-24
+6,Hardware setup,IT support,18%,1520,395,1722,2026-11-24
 7,System design,Practice,18%,1481,379,1677,2026-11-24
 8,Microsoft 365,IT support,16%,1321,356,1476,2026-11-24
 9,Azure,Cloud & DevOps,16%,1303,349,1476,2026-11-24
@@ -21,7 +21,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 20,"Testing (unit, automated)",Practice,10%,807,240,892,2026-11-24
 21,Power BI,Data & AI,10%,795,198,907,2026-11-24
 22,Statistics,Data & AI,9%,756,218,866,2026-11-24
-23,LLMs / GenAI,Data & AI,9%,724,192,837,2026-11-24
+23,LLMs / GenAI,Data & AI,9%,726,194,839,2026-11-24
 24,Linux,Cloud & DevOps,9%,722,190,823,2026-11-24
 25,Java,Language,8%,703,198,800,2026-11-24
 26,C,Language,7%,609,151,684,2026-11-24
@@ -30,7 +30,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 29,HTML/CSS,Language,7%,564,146,628,2026-11-24
 30,Docker,Cloud & DevOps,7%,548,154,609,2026-11-24
 31,Machine learning,Data & AI,6%,541,129,616,2026-11-24
-32,Monitoring,Cloud & DevOps,6%,506,122,565,2026-11-24
+32,Monitoring,Cloud & DevOps,6%,507,123,566,2026-11-24
 33,Vulnerability management,Security,6%,494,154,550,2026-11-24
 34,Kubernetes,Cloud & DevOps,6%,490,132,555,2026-11-24
 35,React,Framework,6%,487,122,554,2026-11-24
@@ -47,7 +47,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 46,Firewalls,Security,5%,385,112,440,2026-11-24
 47,Embedded systems,Practice,4%,360,116,405,2026-11-24
 48,Tableau,Data & AI,4%,352,108,399,2026-11-24
-49,Incident response,Security,4%,340,100,388,2026-11-24
+49,Incident response,Security,4%,341,101,389,2026-11-24
 50,Google Workspace,IT support,4%,336,85,355,2026-11-24
 51,C++,Language,4%,328,94,375,2026-11-24
 52,ITIL,Certification,4%,322,84,369,2026-11-24
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,2,1,2,2026-11-24
 155,Solidity,Language,0%,2,0,2,2026-11-24
 
-,Based on 8330 postings in the last 30 days (9366 all time)
+,Based on 8332 postings in the last 30 days (9368 all time)
