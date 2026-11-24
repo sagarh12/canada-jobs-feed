@@ -1,71 +1,69 @@
 {
-"updated": "2026-11-24T03:09:50+00:00",
+"updated": "2026-11-24T03:19:47+00:00",
 "jobs": [
 {
-"title": "Remote Service Desk Agent - Secret Clearance Required",
-"company": "Sebastian Tech Solutions",
-"location": "Remote · United States",
+"title": "Insurance Administrative Assistant",
+"company": "HJB Financial Services Inc.",
+"location": "Stony Plain, AB, CA",
 "posted": "2026-11-24",
-"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
+"link": "https://ca.indeed.com/viewjob?jk=538e91ea792e0b37",
 "source": "Indeed",
-"country": "US",
+"country": "CA",
 "years": null,
-"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0",
-"salary": "$21.01 per hour",
+"apply": "http://ca.indeed.com/job/insurance-administrative-assistant-538e91ea792e0b37",
+"salary": "$17.00-$20.00 per hour",
+"req": "Provide general office and administrative support as required. Qualifications  Strong customer service and professional phone etiquette.\nAdministrative or clerical experience, including data entry.\nPreferred: experience in an office or front-desk setting."
+},
+{
+"title": "Software Engineer II",
+"company": "Samsara",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/mv46rk8h1us",
+"salary": "$113,645 - $191,000",
 "skills": [
-"Help desk / troubleshooting",
+"Python",
+"Java",
+"TypeScript",
+"Go",
+"React",
+"React Native",
+"GraphQL",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"MySQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Monitoring",
 "Hardware setup",
-"CompTIA A+"
+"System design",
+"Embedded systems"
 ],
-"req": "Job Description This is a unique opportunity for applicants with a High School Diploma to gain IT Skills along with real world experience to begin your CAREER! Your motivation and willingness to learn\nCreate a positive customer support experience and builds strong relationships through deep problem understanding, ensuring timely resolution or escalation, communicating promptly on progress, and hand\nEnsure the end-to-end customer experience and provide a single point-of-contact for the customer."
+"req": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) \nArchitect, build, test, and deliver full-stack products across reliable services, APIs, and web and mobile experiences, using technologies such as Golang, GraphQL, TypeScript, React, React Native, and\nBuild AI-native product experiences: integrate LLMs into safety workflows, develop agent tooling and retrieval-augmented generation (RAG), and design the interactions between AI agents and the product\nCollaborate across Engineering, Product, Design, ML, and platform teams to deliver cohesive customer experiences.\nChampion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across \nStrong programming fundamentals in a language such as Golang, Java, or Python, with experience writing clean, maintainable code and reviewing peers' code for correctness and clarity.\nExperience developing features or end-to-end solutions across backend services, APIs, and modern web applications.\nExperience or demonstrated interest in AI-native development, including integrating LLMs into products, building agentic workflows, or running evaluations to improve the quality of AI-generated output\nExperience using data, metrics, logs, tests, or tracing to investigate issues, vali"
 },
 {
-"title": "Technical Support & Operations Coordinator",
-"company": "Lyxfield Canada",
-"location": "Saint John, NB, CA (remote)",
+"title": "Customer Service Specialist",
+"company": "Polaron Solar Energy",
+"location": "North York, ON, CA (remote)",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
+"link": "https://ca.indeed.com/viewjob?jk=0352d6bc19c1b808",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7",
-"salary": "$25.00-$3,500.00 per hour",
+"apply": "https://gethired.com/job/customer-service-specialist-130?rcid=inply",
+"salary": "$38,000.00 to $43,000.00",
 "skills": [
 "Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "Update troubleshooting guides and customer instructions as products and procedures change. What you’ll bring  Experience in customer service, technical support, order processing, or office administrat"
-},
-{
-"title": "Office Administrator",
-"company": "Space Age Electric (Oshawa) Limited",
-"location": "Oshawa, ON, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=6cfc55e4d84269a6",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-6cfc55e4d84269a6",
-"salary": "$27.00-$30.00 per hour",
-"skills": [
 "Google Workspace"
 ],
-"req": "Job Overview The Office Administrator supports smooth daily operations by coordinating front-desk service, routine office administration, records, and basic bookkeeping. This role combines organized c"
-},
-{
-"title": "Administrative Assistant",
-"company": "Snoman Inc",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=8b7d37616545170b",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-8b7d37616545170b",
-"salary": "$16.50-$19.00 per hour",
-"skills": [
-"Google Workspace"
-]
+"req": "Spot patterns. Flag recurring installation issues and customer feedback trends to the installation team. Required Skills & Qualifications At least 6 months of customer-facing experience in a call cent\nA real example of turning a bad customer experience into a good one. We'll ask you about it."
 },
 {
 "title": "Software Development Engineer in Test, Quality Engineering",
@@ -108,68 +106,70 @@
 "req": "Our Story & Purpose: We’re Vancity, a member-owned credit union built on the principles of inclusion and social justice. Since 1946, our commitment to these values has helped us challenge the status q\nEnable quality metrics, test results, and failure patterns to identify opportunities to improve both the product and automation. What You'll Bring to the Team:  10+ years of experience in software dev\nStrong experience with API and integration testing.\nExperience with modern automation technologies such as Playwright, Cypress, REST Assured, Postman/Newman, Selenium or equivalent.\nExperience integrating automated tests into Azure DevOps, GitHub Actions, Jenkins, GitLab CI or equivalent CI/CD platforms.\nExperience with data validation, test data management, and SQL.\nPractical experience using AI coding assistants or Generative AI tools as part of software development or test automation workflows."
 },
 {
-"title": "Customer Service Specialist",
-"company": "Polaron Solar Energy",
-"location": "North York, ON, CA (remote)",
+"title": "Administrative Assistant",
+"company": "Snoman Inc",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=0352d6bc19c1b808",
+"link": "https://ca.indeed.com/viewjob?jk=8b7d37616545170b",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://gethired.com/job/customer-service-specialist-130?rcid=inply",
-"salary": "$38,000.00 to $43,000.00",
+"apply": "http://ca.indeed.com/job/administrative-assistant-8b7d37616545170b",
+"salary": "$16.50-$19.00 per hour",
 "skills": [
-"Help desk / troubleshooting",
+"Google Workspace"
+]
+},
+{
+"title": "Office Administrator",
+"company": "Space Age Electric (Oshawa) Limited",
+"location": "Oshawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6cfc55e4d84269a6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-6cfc55e4d84269a6",
+"salary": "$27.00-$30.00 per hour",
+"skills": [
 "Google Workspace"
 ],
-"req": "Spot patterns. Flag recurring installation issues and customer feedback trends to the installation team. Required Skills & Qualifications At least 6 months of customer-facing experience in a call cent\nA real example of turning a bad customer experience into a good one. We'll ask you about it."
+"req": "Job Overview The Office Administrator supports smooth daily operations by coordinating front-desk service, routine office administration, records, and basic bookkeeping. This role combines organized c"
 },
 {
-"title": "Software Engineer II",
-"company": "Samsara",
-"location": "Toronto, ON, CA (remote)",
+"title": "Technical Support & Operations Coordinator",
+"company": "Lyxfield Canada",
+"location": "Saint John, NB, CA (remote)",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://grnh.se/mv46rk8h1us",
-"salary": "$113,645 - $191,000",
-"skills": [
-"Python",
-"Java",
-"TypeScript",
-"Go",
-"React",
-"React Native",
-"GraphQL",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"RAG",
-"MySQL",
-"AWS",
-"Azure",
-"Google Cloud",
-"Monitoring",
-"Hardware setup",
-"System design",
-"Embedded systems"
-],
-"req": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) \nArchitect, build, test, and deliver full-stack products across reliable services, APIs, and web and mobile experiences, using technologies such as Golang, GraphQL, TypeScript, React, React Native, and\nBuild AI-native product experiences: integrate LLMs into safety workflows, develop agent tooling and retrieval-augmented generation (RAG), and design the interactions between AI agents and the product\nCollaborate across Engineering, Product, Design, ML, and platform teams to deliver cohesive customer experiences.\nChampion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across \nStrong programming fundamentals in a language such as Golang, Java, or Python, with experience writing clean, maintainable code and reviewing peers' code for correctness and clarity.\nExperience developing features or end-to-end solutions across backend services, APIs, and modern web applications.\nExperience or demonstrated interest in AI-native development, including integrating LLMs into products, building agentic workflows, or running evaluations to improve the quality of AI-generated output\nExperience using data, metrics, logs, tests, or tracing to investigate issues, vali"
-},
-{
-"title": "Insurance Administrative Assistant",
-"company": "HJB Financial Services Inc.",
-"location": "Stony Plain, AB, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=538e91ea792e0b37",
+"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/insurance-administrative-assistant-538e91ea792e0b37",
-"salary": "$17.00-$20.00 per hour",
-"req": "Provide general office and administrative support as required. Qualifications  Strong customer service and professional phone etiquette.\nAdministrative or clerical experience, including data entry.\nPreferred: experience in an office or front-desk setting."
+"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7",
+"salary": "$25.00-$3,500.00 per hour",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Update troubleshooting guides and customer instructions as products and procedures change. What you’ll bring  Experience in customer service, technical support, order processing, or office administrat"
+},
+{
+"title": "Remote Service Desk Agent - Secret Clearance Required",
+"company": "Sebastian Tech Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0",
+"salary": "$21.01 per hour",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+"
+],
+"req": "Job Description This is a unique opportunity for applicants with a High School Diploma to gain IT Skills along with real world experience to begin your CAREER! Your motivation and willingness to learn\nCreate a positive customer support experience and builds strong relationships through deep problem understanding, ensuring timely resolution or escalation, communicating promptly on progress, and hand\nEnsure the end-to-end customer experience and provide a single point-of-contact for the customer."
 },
 {
 "title": "Applied AI Engineer, Mid-Market Enterprise",
