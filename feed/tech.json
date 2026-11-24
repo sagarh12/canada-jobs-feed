@@ -1,71 +1,111 @@
 {
-"updated": "2026-11-24T03:49:51+00:00",
+"updated": "2026-11-24T03:59:46+00:00",
 "jobs": [
 {
-"title": "Remote Service Desk Agent - Secret Clearance Required",
-"company": "Sebastian Tech Solutions",
+"title": "Creative Content Intern (Travel + Lifestyle Brand)",
+"company": "Continental Confessions",
 "location": "Remote · United States",
 "posted": "2026-11-24",
-"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
+"link": "https://www.indeed.com/viewjob?jk=56ca0d260c4199ab",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0",
-"salary": "$21.01 per hour",
-"skills": [
-"Help desk / troubleshooting",
-"Hardware setup",
-"CompTIA A+"
-],
-"req": "Job Description This is a unique opportunity for applicants with a High School Diploma to gain IT Skills along with real world experience to begin your CAREER! Your motivation and willingness to learn\nCreate a positive customer support experience and builds strong relationships through deep problem understanding, ensuring timely resolution or escalation, communicating promptly on progress, and hand\nEnsure the end-to-end customer experience and provide a single point-of-contact for the customer."
+"apply": "http://www.indeed.com/job/creative-content-intern-travel-lifestyle-brand-56ca0d260c4199ab",
+"salary": "$27 - $33 USD per hour",
+"req": "Paid Social Media Video Editing Internship Remote | Part-Time | Approximately 10 Hours per Week Continental Confessions is looking for a creative, motivated content editing intern to help produce shor"
 },
 {
-"title": "Technical Support & Operations Coordinator",
-"company": "Lyxfield Canada",
-"location": "Saint John, NB, CA (remote)",
+"title": "Receptionist/Administration",
+"company": "Dyson Alarm Tech Systems",
+"location": "Lindsay, ON, CA",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
+"link": "https://ca.indeed.com/viewjob?jk=d77a7f8698964640",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7",
-"salary": "$25.00-$3,500.00 per hour",
-"skills": [
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "Update troubleshooting guides and customer instructions as products and procedures change. What you’ll bring  Experience in customer service, technical support, order processing, or office administrat"
+"apply": "http://ca.indeed.com/job/receptionistadministration-d77a7f8698964640",
+"salary": "$17.60-$24.00 per hour"
 },
 {
-"title": "Office Administrator",
-"company": "Space Age Electric (Oshawa) Limited",
-"location": "Oshawa, ON, CA",
+"title": "Investment Analyst(Private Assets)",
+"company": "Viceroy Trading Ltd.",
+"location": "Richmond, BC, CA",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=6cfc55e4d84269a6",
+"link": "https://ca.indeed.com/viewjob?jk=4712d208b8346edd",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-administrator-6cfc55e4d84269a6",
-"salary": "$27.00-$30.00 per hour",
+"apply": "http://ca.indeed.com/job/investment-analystprivate-assets-4712d208b8346edd",
+"salary": "$40,000.00-$50,000.00 per year",
 "skills": [
-"Google Workspace"
-],
-"req": "Job Overview The Office Administrator supports smooth daily operations by coordinating front-desk service, routine office administration, records, and basic bookkeeping. This role combines organized c"
-},
-{
-"title": "Administrative Assistant",
-"company": "Snoman Inc",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=8b7d37616545170b",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-8b7d37616545170b",
-"salary": "$16.50-$19.00 per hour",
-"skills": [
-"Google Workspace"
+"Python",
+"SQL",
+"Excel"
 ]
+},
+{
+"title": "Insurance Administrative Assistant",
+"company": "HJB Financial Services Inc.",
+"location": "Stony Plain, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=538e91ea792e0b37",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/insurance-administrative-assistant-538e91ea792e0b37",
+"salary": "$17.00-$20.00 per hour",
+"req": "Provide general office and administrative support as required. Qualifications  Strong customer service and professional phone etiquette.\nAdministrative or clerical experience, including data entry.\nPreferred: experience in an office or front-desk setting."
+},
+{
+"title": "Software Engineer II",
+"company": "Samsara",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://grnh.se/mv46rk8h1us",
+"salary": "$113,645 - $191,000",
+"skills": [
+"Python",
+"Java",
+"TypeScript",
+"Go",
+"React",
+"React Native",
+"GraphQL",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"MySQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Monitoring",
+"Hardware setup",
+"System design",
+"Embedded systems"
+],
+"req": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) \nArchitect, build, test, and deliver full-stack products across reliable services, APIs, and web and mobile experiences, using technologies such as Golang, GraphQL, TypeScript, React, React Native, and\nBuild AI-native product experiences: integrate LLMs into safety workflows, develop agent tooling and retrieval-augmented generation (RAG), and design the interactions between AI agents and the product\nCollaborate across Engineering, Product, Design, ML, and platform teams to deliver cohesive customer experiences.\nChampion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across \nStrong programming fundamentals in a language such as Golang, Java, or Python, with experience writing clean, maintainable code and reviewing peers' code for correctness and clarity.\nExperience developing features or end-to-end solutions across backend services, APIs, and modern web applications.\nExperience or demonstrated interest in AI-native development, including integrating LLMs into products, building agentic workflows, or running evaluations to improve the quality of AI-generated output\nExperience using data, metrics, logs, tests, or tracing to investigate issues, vali"
+},
+{
+"title": "Customer Service Specialist",
+"company": "Polaron Solar Energy",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=0352d6bc19c1b808",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gethired.com/job/customer-service-specialist-130?rcid=inply",
+"salary": "$38,000.00 to $43,000.00",
+"skills": [
+"Help desk / troubleshooting",
+"Google Workspace"
+],
+"req": "Spot patterns. Flag recurring installation issues and customer feedback trends to the installation team. Required Skills & Qualifications At least 6 months of customer-facing experience in a call cent\nA real example of turning a bad customer experience into a good one. We'll ask you about it."
 },
 {
 "title": "Software Development Engineer in Test, Quality Engineering",
@@ -108,74 +148,76 @@
 "req": "Our Story & Purpose: We’re Vancity, a member-owned credit union built on the principles of inclusion and social justice. Since 1946, our commitment to these values has helped us challenge the status q\nEnable quality metrics, test results, and failure patterns to identify opportunities to improve both the product and automation. What You'll Bring to the Team:  10+ years of experience in software dev\nStrong experience with API and integration testing.\nExperience with modern automation technologies such as Playwright, Cypress, REST Assured, Postman/Newman, Selenium or equivalent.\nExperience integrating automated tests into Azure DevOps, GitHub Actions, Jenkins, GitLab CI or equivalent CI/CD platforms.\nExperience with data validation, test data management, and SQL.\nPractical experience using AI coding assistants or Generative AI tools as part of software development or test automation workflows."
 },
 {
-"title": "Customer Service Specialist",
-"company": "Polaron Solar Energy",
-"location": "North York, ON, CA (remote)",
+"title": "Administrative Assistant",
+"company": "Snoman Inc",
+"location": "Winnipeg, MB, CA",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=0352d6bc19c1b808",
+"link": "https://ca.indeed.com/viewjob?jk=8b7d37616545170b",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://gethired.com/job/customer-service-specialist-130?rcid=inply",
-"salary": "$38,000.00 to $43,000.00",
+"apply": "http://ca.indeed.com/job/administrative-assistant-8b7d37616545170b",
+"salary": "$16.50-$19.00 per hour",
 "skills": [
-"Help desk / troubleshooting",
+"Google Workspace"
+]
+},
+{
+"title": "Office Administrator",
+"company": "Space Age Electric (Oshawa) Limited",
+"location": "Oshawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6cfc55e4d84269a6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrator-6cfc55e4d84269a6",
+"salary": "$27.00-$30.00 per hour",
+"skills": [
 "Google Workspace"
 ],
-"req": "Spot patterns. Flag recurring installation issues and customer feedback trends to the installation team. Required Skills & Qualifications At least 6 months of customer-facing experience in a call cent\nA real example of turning a bad customer experience into a good one. We'll ask you about it."
+"req": "Job Overview The Office Administrator supports smooth daily operations by coordinating front-desk service, routine office administration, records, and basic bookkeeping. This role combines organized c"
 },
 {
-"title": "Software Engineer II",
-"company": "Samsara",
-"location": "Toronto, ON, CA (remote)",
+"title": "Technical Support & Operations Coordinator",
+"company": "Lyxfield Canada",
+"location": "Saint John, NB, CA (remote)",
 "posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=f4577cec0dae3f4c",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://grnh.se/mv46rk8h1us",
-"salary": "$113,645 - $191,000",
-"skills": [
-"Python",
-"Java",
-"TypeScript",
-"Go",
-"React",
-"React Native",
-"GraphQL",
-"REST APIs",
-"Machine learning",
-"LLMs / GenAI",
-"RAG",
-"MySQL",
-"AWS",
-"Azure",
-"Google Cloud",
-"Monitoring",
-"Hardware setup",
-"System design",
-"Embedded systems"
-],
-"req": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) \nArchitect, build, test, and deliver full-stack products across reliable services, APIs, and web and mobile experiences, using technologies such as Golang, GraphQL, TypeScript, React, React Native, and\nBuild AI-native product experiences: integrate LLMs into safety workflows, develop agent tooling and retrieval-augmented generation (RAG), and design the interactions between AI agents and the product\nCollaborate across Engineering, Product, Design, ML, and platform teams to deliver cohesive customer experiences.\nChampion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across \nStrong programming fundamentals in a language such as Golang, Java, or Python, with experience writing clean, maintainable code and reviewing peers' code for correctness and clarity.\nExperience developing features or end-to-end solutions across backend services, APIs, and modern web applications.\nExperience or demonstrated interest in AI-native development, including integrating LLMs into products, building agentic workflows, or running evaluations to improve the quality of AI-generated output\nExperience using data, metrics, logs, tests, or tracing to investigate issues, vali"
-},
-{
-"title": "Insurance Administrative Assistant",
-"company": "HJB Financial Services Inc.",
-"location": "Stony Plain, AB, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=538e91ea792e0b37",
+"link": "https://ca.indeed.com/viewjob?jk=3c5ba3b513c557f7",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/insurance-administrative-assistant-538e91ea792e0b37",
-"salary": "$17.00-$20.00 per hour",
-"req": "Provide general office and administrative support as required. Qualifications  Strong customer service and professional phone etiquette.\nAdministrative or clerical experience, including data entry.\nPreferred: experience in an office or front-desk setting."
+"apply": "http://ca.indeed.com/job/technical-support-operations-coordinator-3c5ba3b513c557f7",
+"salary": "$25.00-$3,500.00 per hour",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Update troubleshooting guides and customer instructions as products and procedures change. What you’ll bring  Experience in customer service, technical support, order processing, or office administrat"
+},
+{
+"title": "Remote Service Desk Agent - Secret Clearance Required",
+"company": "Sebastian Tech Solutions",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=e9e10b2432b5b3e0",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/remote-service-desk-agent-secret-clearance-required-e9e10b2432b5b3e0",
+"salary": "$21.01 per hour",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+"
+],
+"req": "Job Description This is a unique opportunity for applicants with a High School Diploma to gain IT Skills along with real world experience to begin your CAREER! Your motivation and willingness to learn\nCreate a positive customer support experience and builds strong relationships through deep problem understanding, ensuring timely resolution or escalation, communicating promptly on progress, and hand\nEnsure the end-to-end customer experience and provide a single point-of-contact for the customer."
 },
 {
 "title": "Applied AI Engineer, Mid-Market Enterprise",
 "company": "OpenAI",
 "location": "Remote · United States",
-"posted": "2026-11-24T02:55:37.513+00:00",
+"posted": "2026-11-24T03:59:07.806+00:00",
 "link": "https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4",
 "source": "OpenAI careers",
 "country": "US",
@@ -7701,6 +7743,108 @@
 "years": null
 },
 {
+"title": "Park Guide (Seasonal)",
+"company": "U.S. National Park Service",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=0f8a1b6506674e6a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.usajobs.gov:443/job/893998700",
+"salary": "$17 - $22 USD per hour",
+"skills": [
+"Mobile (iOS / Android)"
+],
+"req": "Summary ----------- Park Guides greet visitors to educate and inform them in our National Parks. Work can include providing information on natural, cultural, or historical resources. The typical seaso\nClarification from the agency This announcement is for Lowell National Historical Park. Open to All U.S. Citizens, Interagency Career Transition Assistance Program (ICTAP), Career Transition Assistanc\nRepresent the National Park Service at special events and other outreach activities. AREA INFORMATION: Lowell National Historical Park is located in Lowell, Massachusetts, which is 35 miles northwest \nMales must meet Selective Service Registration Act requirement.\nSelectee will be required to participate in the Direct Deposit Electronics Funds Transfer Program.\nYou may be required to wear a uniform and comply with the National Park Service uniform standards. A uniform allowance will be provided.\nYou may be required to work on-call, evenings, weekends, holidays, overtime and/or shift work.\nYou may be required to operate a government (or private) motor vehicle as part of your official duties; a valid driver's license will be required in such cases. + You must be at least 18 years of age \nYou may be required to complete training, obtain and maintain a government credit card with travel and purchase authority.\nYou must be at least (1)18 years old or (2) at least 16 years old and: (a) Have graduated from high school or been awarded a certificate equivalent to graduating from high school"
+},
+{
+"title": "Meteorologist",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=6d0b1310723c0ca4",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893941500",
+"salary": "$121,785 - $158,322 USD per year",
+"skills": [
+"Statistics"
+],
+"req": "Summary ----------- This position is located in the U.S. Department of Agriculture, Office of the Chief Economist, (OCE) in Washington, DC. The position will reside within the World Agricultural Outlo\nDirects weather and meteorological data requirements with CPC weather analysts to develop the proper weather data parameters and formats required for crop-assessments.\nServes as an Editor of the Weekly Weather and Crop Bulletin, responsible for assembling the International Section and coordinating the production schedule with the Managing Editor and production staff\nRepresents OCE/WAOB at interagency task force meetings and briefings as a principal crop-weather expert, leads WAOB’s effort to compile a more comprehensive regional-level weather data base through ex\nMales born after 12/31/1959 must be Selective Service registered or exempt.\nDirect Deposit - Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution.\nIf selected, you may be required to serve a probationary or trial period as applicable to appointment type. Refer to Next Steps section for additional information.\nQualifications Applicants must meet all qualifications and eligibility requirements by the closing date of the announcement including specialized experience and/or education, as defined below. Minimum\nEducation All applicants must meet the educational requirement for the Meteorology Series 1340 as outlined in the above Qualification"
+},
+{
+"title": "Supervisory Sanitarian",
+"company": "US Indian Health Service",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=3853f12b12e126b8",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://www.usajobs.gov:443/job/893940800",
+"salary": "$147,945 - $192,331 USD per year",
+"skills": [
+"LLMs / GenAI",
+"Embedded systems"
+],
+"req": "Summary ----------- The primary duties and responsibilities of this position is responsible for planning, funding, management, and implementation of a comprehensive engineering and environmental healt\nClarification from the agency The IHS is required by law to give absolute preference to qualified applicants who meet the Secretary of the Interior's definition of Indian for appointment to vacancies \nProvides supervision and advises committee members on all matters relating to environmental health and engineering. Requirements ----------------  Conditions of employment Selectee may be subject to a\nQualifications To qualify for this position, your resume must state sufficient experience and/or education, to perform the duties of the specific position for which you are applying. Experience refers\nEducation There are no education requirements. Only attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education may be credited. Applic\nAdditional information Additional selection(s) of candidates may be possible within 240 days from the date the certificate of eligibles was issued for this announcement. Federal Employees earn annual \nIn this role, how would you use your skills and experience to improve government efficiency and effectiveness?\nYou will be asked to certify that your responses are written in your own words and that you did not use a consultant or artificial intelligence (AI) tool (such as ChatGPT or Copilot)."
+},
+{
+"title": "Health Services Assistant",
+"company": "Federal Bureau of Prisons",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=dffb156ddf0646d8",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893951000",
+"salary": "$59,543 - $81,293 USD per year",
+"req": "Summary ----------- Corrections professionals who foster a humane and secure environment and ensure public safety by preparing individuals for successful reentry into our communities. Learn more about\nClarification from the agency THIS IS A DELEGATED EXAMINING ANNOUNCEMENT OPEN TO ALL U.S. CITIZENS. • Duty Location: FDC SEATAC, WA • NOTE: A 13% RETENTION INCENTIVE MAY BE PAID TO SELECTEE(S) WHO MEE\nSelective Service Requirement  Qualifications To be considered for the position, you must meet the following qualification requirements: Education: GL-06 and GL-07: As a general rule, education is not\nExperience in scheduling health care appointments to accommodate patient treatment.\nExperience in preparing and keying medical data into a computer system.\nExperience in preparing purchase requests and coordinating orders and shipment of purchased medical items.\nExperience in preparing, processing and maintaining medical and financial forms, documents and reports. GL-07:  Experience in processing budget, medical, and other administrative documents, to include\nExperience in dealing with community hospitals and contract consultants relating to the billing and scheduling of appointments and procedures.\nExperience in monitoring and tracking orders and shipment of purchased medical items.\nExperience in maintaining financial document files including invoices, vendor files, expenditure and budget reports from Financial management, and electronic fund control files. If applicable, credit \nEdu"
+},
+{
+"title": "Environmental Protection Specialist (Environmental Protection Specialist)",
+"company": "Federal Bureau of Prisons",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=8862837885563410",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/893969400",
+"salary": "$78,009 - $101,417 USD per year",
+"req": "Summary ----------- Corrections professionals who foster a humane and secure environment and ensure public safety by preparing individuals for successful reentry into our communities. Learn more about\nClarification from the agency THIS IS A DELEGATED EXAMINING ANNOUNCEMENT OPEN TO ALL U.S. CITIZENS. • Duty Location: FCC PETERSBURG, VA Duties ---------- Responsible for the local implementation of na\nSelective Service Requirement  Qualifications To be considered for the position, you must meet the following qualification requirements: Education: Ph.D. or equivalent doctoral degree or 3 full years \nExperience working with programs pertaining to Clean air Act, Clean Water Act, Resource Conservation and Recovery Act, Toxic Substances Control Act, Federal Insecticide and Rodenticide Act, and all ot\nExperience managing, administering, and coordinating the development, implementation, and review of environmental compliance programs. OR Combination of Education and Experience: A combination of educ\nEducation ONLY if education is a requirement/substitution for specialized experience, applicant MUST upload legible transcripts as verification of educational requirement. Transcripts MUST be uploaded\nAdditional information GEOGRAPHIC LOCATION INFORMATION: This announcement is for a specific duty location. While your selection of a preferred duty assignment indicates your interest, final duty assig\nDD-214: Veterans MUST provide a DD-214 demonstrating that they have been discharged or releas"
+},
+{
+"title": "Consumer Safety Inspector",
+"company": "USDA Food Safety and Inspection Service",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=f8371872d61cb4fc",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://www.usajobs.gov:443/job/894024300",
+"salary": "$40,736 - $80,243 USD per year",
+"skills": [
+"REST APIs",
+"Statistics"
+],
+"req": "Be involved in performing health and safety verification sampling and tests for detection of specific microbes (e.g., salmonella, listeria, etc.), residues or contaminants.\nCoordinate with other Federal agencies (e.g., the Animal and Plant Health Inspection Service or U.S. Customs and Border Protection) on such matters as animal health restrictions and refused entry lots\nYou must be a US Citizen or US National.\nMales born after 12/31/1959 must be Selective Service registered or exempt.\nSuccessful completion of one-year probationary period, unless previously served. Refer to the Next Steps section for more information.\nMust be at least 18 years of age.\nDirect Deposit: Per Public Law 104-134 all Federal employees are required to have federal payments made by direct deposit to their financial institution.\nQualifications Applicants must meet all qualifications and eligibility requirements by the closing date of the announcement, including specialized experience and/or education, as defined below. Specia\nEducation Education may be used to qualify in lieu of specialized experience as described below. For the GS-05 level: Successful completion of a full 4-year course of study leading to a bachelor's deg\nAdditional information THIS POSITION REQUIRES A PRE-EMPLOYMENT PHYSICAL: Position Requirements. Applicants must:  Be physically and medically able to efficiently perform the essential job functions, w\nHave the ability to distinguish shades of color. Any significant degree of color bl"
+},
+{
+"title": "Identity & Access Management (IAM) Analyst",
+"company": "Alignerr",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493612098",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
 "title": "IT Auditor",
 "company": "Snowflake",
 "location": "Remote · United States",
@@ -14931,6 +15075,16 @@
 "posted": "2026-11-21",
 "link": "https://www.linkedin.com/jobs/view/4458310174",
 "source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Infrastructure Analyst",
+"company": "NAV CANADA",
+"location": "Ottawa",
+"posted": "2026-11-21",
+"link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Infrastructure-Analyst_JR-8653",
+"source": "NAV CANADA careers",
 "country": "CA",
 "years": null
 },
