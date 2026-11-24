@@ -1,6 +1,78 @@
 {
-"updated": "2026-11-24T01:49:50+00:00",
+"updated": "2026-11-24T01:59:59+00:00",
 "jobs": [
+{
+"title": "Customer Service Specialist",
+"company": "Polaron Solar Energy",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=0352d6bc19c1b808",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://gethired.com/job/customer-service-specialist-130?rcid=inply",
+"salary": "$38,000.00 to $43,000.00",
+"skills": [
+"Help desk / troubleshooting",
+"Google Workspace"
+],
+"req": "Spot patterns. Flag recurring installation issues and customer feedback trends to the installation team. Required Skills & Qualifications At least 6 months of customer-facing experience in a call cent\nA real example of turning a bad customer experience into a good one. We'll ask you about it."
+},
+{
+"title": "Software Development Engineer in Test, Quality Engineering",
+"company": "Vancouver City Savings Credit Union",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=6e224f5133939591",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "https://recruiting.ultipro.com/VAN5000VCSCU/JobBoard/a46cbdaa-ca2c-49b6-8d2b-e0ceaafa0e25/OpportunityDetail?opportunityId=97623d02-7a63-4c8c-abd1-602da56b6a82&postingId=e8d12546-f6b5-42ea-9d61-2f936950fec1",
+"salary": "$101,200 to $136,900 per annum",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"C",
+"SQL",
+"REST APIs",
+"LLMs / GenAI",
+"Kafka",
+"ETL / data pipelines",
+"AWS",
+"Azure",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"GitHub Actions",
+"Jenkins",
+"GitLab",
+"Git",
+"Microservices",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"System design",
+"Postman"
+],
+"req": "Our Story & Purpose: We’re Vancity, a member-owned credit union built on the principles of inclusion and social justice. Since 1946, our commitment to these values has helped us challenge the status q\nEnable quality metrics, test results, and failure patterns to identify opportunities to improve both the product and automation. What You'll Bring to the Team:  10+ years of experience in software dev\nStrong experience with API and integration testing.\nExperience with modern automation technologies such as Playwright, Cypress, REST Assured, Postman/Newman, Selenium or equivalent.\nExperience integrating automated tests into Azure DevOps, GitHub Actions, Jenkins, GitLab CI or equivalent CI/CD platforms.\nExperience with data validation, test data management, and SQL.\nPractical experience using AI coding assistants or Generative AI tools as part of software development or test automation workflows."
+},
+{
+"title": "Administrative Assistant",
+"company": "Snoman Inc",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=8b7d37616545170b",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/administrative-assistant-8b7d37616545170b",
+"salary": "$16.50-$19.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
 {
 "title": "Office Administrator",
 "company": "Space Age Electric (Oshawa) Limited",
@@ -18,19 +90,74 @@
 "req": "Job Overview The Office Administrator supports smooth daily operations by coordinating front-desk service, routine office administration, records, and basic bookkeeping. This role combines organized c"
 },
 {
-"title": "Administrative Assistant",
-"company": "Snoman Inc",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-24",
-"link": "https://ca.indeed.com/viewjob?jk=8b7d37616545170b",
-"source": "Indeed",
+"title": "Engineering New Graduate (Timmins, ON)",
+"company": "OPG",
+"location": "Timmins, ON, CA, P4N 7C0",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.opg.com/job/Timmins-Engineering-New-Graduate-%28Timmins%2C-ON%29-ON-P4N-7C0/607375317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/administrative-assistant-8b7d37616545170b",
-"salary": "$16.50-$19.00 per hour",
-"skills": [
-"Google Workspace"
-]
+"years": null
+},
+{
+"title": "Engineering New Graduate (Renfrew, ON)",
+"company": "OPG",
+"location": "Renfrew, ON, CA, K7V 0C2",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.opg.com/job/Renfrew-Engineering-New-Graduate-%28Renfrew%2C-ON%29-ON-K7V-0C2/607375617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering New Graduate (Pickering, Oshawa, or Darlington, ON)",
+"company": "OPG",
+"location": "Oshawa, ON, CA, L1H 8W8",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.opg.com/job/Oshawa-Engineering-New-Graduate-%28Pickering%2C-Oshawa%2C-or-Darlington%2C-ON%29-ON-L1H-8W8/607375417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "OPG careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Professor/Professor - Mechanical Engineering",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Mechanical-Engineering-ON/607346517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Assistant Professor - Mechanical Engineering",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Mechanical-Engineering-ON/607346417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Assistant Professor, Teaching Stream - Advanced Manufacturing & Automation",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor%2C-Teaching-Stream-Advanced-Manufacturing-&-Automation-ON/607346217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": 5
+},
+{
+"title": "Digital Communications Officer",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Digital-Communications-Officer-ON/605508917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers",
+"country": "CA",
+"years": 4
 },
 {
 "title": "Software Engineer II",
@@ -6655,6 +6782,385 @@
 "source": "Cenovus careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "IT Business Analyst (Tech)",
+"company": "Redpath Mining Contractors and Engineers",
+"location": "Vaughan, ON, CA (remote)",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=02ae6780bfb83396",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://fa-evvx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/9731",
+"skills": [
+"REST APIs",
+"Power BI",
+"Oracle",
+"IAM",
+"Hardware setup",
+"System design"
+],
+"req": "Ability to conduct research into systems issues and products as required.\nStrong customer service orientation. Experience working in a team-oriented, collaborative environment.\nAdditional Information  Global travel where required for the purpose of meeting with stakeholders, or off-site personnel/management  Working model is primarily on-site in office (weekly 4 days on-site"
+},
+{
+"title": "IT System Administrator",
+"company": "OSL Retail Services Inc",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=9fe5bf435f521fc8",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://canadaengcareers-oslrs.icims.com/jobs/105086/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$71k-78k",
+"skills": [
+"Bash/Shell",
+"PowerShell",
+"Azure",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Vulnerability management",
+"IAM",
+"EDR",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Azure certification",
+"ITIL"
+],
+"req": "Step 3: The next step is an in-person interview with the hiring Manager and Director. If this sounds like you and you are excited to be a member of our team, please apply now. Disclaimer: As part of o"
+},
+{
+"title": "Associate Dean's Assistant",
+"company": "GEORGIAN COLLEGE",
+"location": "Barrie, ON, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=36053e26b2b91939",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://aa165.taleo.net/careersection/gc_external_career_site/jobdetail.ftl?job=2600000219&tz=GMT-06%3A00&tzname=America%2FChicago",
+"salary": "$30.43",
+"skills": [
+"Excel",
+"Statistics"
+]
+},
+{
+"title": "Student, Material Handling, Minnedosa (May 2027)",
+"company": "Cenovus Energy",
+"location": "Minnedosa, MB, CA",
+"posted": "2026-11-23",
+"link": "https://ca.indeed.com/viewjob?jk=1fcb52d79501f527",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://cenovus.wd3.myworkdayjobs.com/en-US/careers/job/CA-MB-Minnedosa/Student--Material-Handling--Minnedosa--May-2027-_R-411356",
+"salary": "$1,000",
+"start": "May 2027",
+"req": "Worker Type: Student &xa;&xa;Job Post End Date: 12/07/2026 Start Date: May 2027 Location: Minnedosa, Manitoba Length of Term: 4 months About this opportunity Are you looking for an exciting Summer Co-\nWho you are Our ideal candidate will have the following minimum qualifications:  Legally authorized to work in Canada full-time for the duration of your work term and able to produce documentation upo\nSafety sensitive positions require the operation of a motor vehicle, applicants are asked to provide a recent (i.e., issued within the previous 4 weeks) original driver’s abstract, for the preceding 5\nStudents moving for their work term may be eligible to receive a lump sum relocation payment to assist with relocation expenses. o Candidates must have their own means of transportation as there is no\nLearn more about our Student and New Grad program!\nInterested in some of our past student experiences? Read their stories here . Cenovus was ranked one of Canada’s Best Employers in 2025. We’re committed to being an employer of choice in our industry \nEqual opportunity employer We believe a workplace where everyone has merit-based opportunities to grow, achieve career aspirations and feel a sense of belonging benefits our people, our company and th"
+},
+{
+"title": "Actuarial Analyst",
+"company": "Rates.ca",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493580024",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Power BI Developer / Cognos Developer",
+"company": "Conduent",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=7adac3334dc15a76",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://click.appcast.io/t/MMagb2fXq3aUm88S4nOgNgdaV-AJ4i7vFjGq7Q4IFtg=",
+"salary": "$63,140 - $82,000 USD per year",
+"skills": [
+"SQL",
+"REST APIs",
+"ETL / data pipelines",
+"Databricks",
+"Power BI",
+"Excel",
+"SQL Server",
+"Oracle",
+"Azure",
+"Git",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Jira"
+],
+"req": "Through our dedicated associates, Conduent delivers mission-critical services and solutions on behalf of Fortune 100 companies and over 500 governments - creating exceptional outcomes for our clients \nProvide production support and troubleshooting. Required Qualifications ---------------------------  Bachelor’s degree in computer science, Information Systems, Data Analytics, or related field.\n3+ years of experience in Business Intelligence and Power BI development.\nStrong expertise in Power BI Desktop, Power BI Service, DAX, and Power Query.\nExperience with data modeling and data warehousing concepts.\nExperience with Azure data services is preferred. Preferred Qualifications ----------------------------  Microsoft PL-300 Certification.\nExperience with Azure Synapse, Azure Data Factory, and Databricks."
+},
+{
+"title": "Data Scientist - Junior",
+"company": "Infoorigin Inc",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=b92a21cd9c91b3a4",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&ccId=19000101_000001&jobId=578464&source=IN&lang=en_US",
+"salary": "$65 - $75 USD per hour",
+"skills": [
+"SQL",
+"Power BI",
+"Tableau",
+"Excel",
+"Statistics",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Jira",
+"System design",
+"Salesforce"
+],
+"req": "Junior Data Scientist Location: North Carolina, USA Position: Contract- Remote Experience: Junior Level Job Responsibilities Clean, validate, transform, and organize data from multiple sources for rep"
+},
+{
+"title": "Full stack Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=1d5b9bf257ba2545",
+"source": "Indeed",
+"country": "US",
+"years": 10,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39951&hr_id=3524",
+"salary": "$76/hour",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"React",
+"Vue",
+"Node.js",
+"REST APIs",
+"DynamoDB",
+"AWS",
+"Microservices",
+"Serverless",
+"Agile / Scrum",
+"System design"
+],
+"req": "Collaborate with designers, backend engineers, product managers, and marketing teams to deliver high-quality digital experiences.\nParticipate in architecture discussions and contribute to technical decision-making for cloud and AI-enabled systems. What you need to succeed:  Bachelor’s Degree or equivalent experience in Computer \n10+ years of professional software development experience.\nExperience working with contemporary frontend frameworks like React or Vue.js.\nExperience building Node.js backend services or APIs.\nExperience interacting with RESTful APIs and OpenAPI specifications.\nExperience with AWS cloud services, such as Lambda and DynamoDB.\nAbility to work effectively in Agile or collaborative team environments. Equal Opportunity Employer We are an equal opportunity employer. All aspects of employment including the decision to hire, prom"
+},
+{
+"title": "Technical Business Analyst",
+"company": "State Street",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=cde20443732d7137",
+"source": "Indeed",
+"country": "US",
+"years": 0,
+"apply": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Senior-Technical-Business-Analyst_R-773155",
+"salary": "$65,000 - $113,750 USD per year",
+"skills": [
+"SQL",
+"SQL Server",
+"NoSQL",
+"Azure",
+"Monitoring",
+"Agile / Scrum",
+"System design"
+],
+"req": "Who we are looking for We are seeking a Technical Business Analyst with deep expertise in database administration, cloud-based data operations, and strategic planning to support the Alpha Platform's e\nProvide guidance to junior analysts and DBAs, fostering a culture of continuous learning and operational excellence in an agile environment. Qualifications:  0-2+ years of experience in product manage\nExperience with SaaS platforms, both single-tenant and multi-tenant data architecture and compliance.\nExperience leading product management and software engineering teams.\nBachelor’s in Computer Science or equivalent, and/or other work experience in a technical setting.\nExperience in Financial Services is preferred.\nExperience working with remote teams."
+},
+{
+"title": "Post Merger Integration Analyst-Remote",
+"company": "SHARED SERVICES GROUP",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=67c44f4c12e6aac5",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=68671d2f-0e18-4907-ba05-6cfd596ea74a&ccId=19000101_000003&jobId=958254&jwId=SYS:JW:001&source=IN&lang=en_US",
+"salary": "$90,000 - $140,000 USD per year",
+"skills": [
+"Salesforce"
+],
+"req": "Certerra is a growing national provider of testing, inspection, and certification services that support innovation in new product development, quality assurance, for project delivery, and engineered s\nPartners with Shared Service Center and Operational staff to share information and expertise to resolve issues with financial and project systems. QUALIFICATIONS Working knowledge of Deltek Vantagepoi"
+},
+{
+"title": "Helpdesk Analyst",
+"company": "Infoorigin Inc",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=1b925073e0367571",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e9667f95-65a1-47e2-a3ef-53654bfa7b59&ccId=19000101_000001&jobId=578483&source=IN&lang=en_US",
+"salary": "$20 - $25 USD per hour",
+"skills": [
+"PowerShell",
+"Excel",
+"AWS",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"EDR",
+"Windows",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+"
+],
+"req": "Some experience in a technical support or help desk role.\nExperience troubleshooting network connectivity, VPNs, and IP phone systems.\nExcellent communication and interpersonal skills to interact with users of varying technical expertise.\nEscalate critical issues and downtime events according to established protocols. Required Skills  Minimum of 2 years providing Epic technical support in a healthcare or clinical environment.\nExperience supporting Epic applications (e.g., Ambulatory, Inpatient, ASAP, or HIM)."
+},
+{
+"title": "PROBLEM/INCIDENT MANAGEMENT ANALYST",
+"company": "Empower AI Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=bb03947bf0b88900",
+"source": "Indeed",
+"country": "US",
+"years": 7,
+"apply": "https://careers-empowerai.icims.com/jobs/9932/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$79,390 - $122,870 USD per year",
+"skills": [
+"Power BI",
+"Excel",
+"Networking (TCP/IP, DNS)",
+"Ticketing (ServiceNow, Jira)",
+"Agile / Scrum",
+"ITIL"
+],
+"req": "Overview: Empower AI is AI for government. Empower AI gives federal agency leaders the tools to elevate the potential of their workforce with a direct path for meaningful transformation. Headquartered\nImplement and enforce the Customer-Confirmed Ticket Closure Process across Tiers 0-IV: Resolved - Awaiting Customer Confirmation status, automatic user notification, Confirm and Close / Reopen options\nMaintain the master deliverables schedule and CDRL tracker, coordinate inputs from task leads, manage Government review cycles and comment resolution, and ensure all plans and reports are delivered in\nTrack and report Surge CLIN activity, including Surge Plan status, Labor Hour Task Trackers (project, work performed, hours and costs, cumulative costs, remaining NTE balance), and mobilization timeli\nMust be a U.S. Citizen.\nMust have an Active Secret Clearance (favorably adjudicated T3/T3R) to start.\nMust be within investigation scope and/or currently enrolled in Continuous Evaluation / Continuous Vetting.\nMinimum of 5 years of experience as a management analyst, program analyst, or program control analyst supporting Federal IT services contracts.\nDemonstrated experience producing contract performance reports, deliverables trackers, meeting minutes, and executive briefing materials on a fixed cadence.\nStrong analytical skills and advanced proficiency in Excel and PowerPoint; experience with Power BI or similar tools.\nExperience coordinating across technical, finance, contracts, and G"
+},
+{
+"title": "Software Quality Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=6de2018d0f479b3c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39960&hr_id=3524",
+"salary": "$72/hour",
+"skills": [
+"CI/CD",
+"Testing (unit, automated)",
+"SDLC"
+],
+"req": "Support organizational software quality maturity and process improvement efforts. o Required Qualifications:  Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or a "
+},
+{
+"title": "Salesforce Developer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=15d4e3294e73522a",
+"source": "Indeed",
+"country": "US",
+"years": 6,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39940&hr_id=3978",
+"salary": "$86/hour",
+"skills": [
+"JavaScript",
+"HTML/CSS",
+"REST APIs",
+"Azure",
+"CI/CD",
+"IAM",
+"Salesforce"
+],
+"req": "5+ years of Service Cloud and/or Health Cloud.\nStrong hands-on experience with Apex, Visualforce, LWC, Aura, HTML5, and JavaScript.\nExperience with Salesforce Lightning and API integrations.\nSSO implementation experience.\nData migration and cloud integration experience. Mandatory Certifications:  Salesforce Certified Platform Developer I.\nSalesforce Certified Administrator. Equal Opportunity Employer We are an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will b"
+},
+{
+"title": "Science & Software Development Intern",
+"company": "Areté",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=bf035a75d1fd98f4",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed4b889e-3beb-433a-9b2c-7258324f6a83&ccId=19000101_000001&jobId=585838&source=IN&lang=en_US",
+"salary": "$30 - $35 USD per hour",
+"skills": [
+"Python",
+"C++",
+"C",
+"MATLAB",
+"Machine learning",
+"Computer vision",
+"Linux",
+"Data structures & algorithms"
+],
+"req": "Selected applicants will be subject to a government security investigation and must meet eligibility requirements for access to classified information.\nSuccessful passage of a criminal background screen is required to meet position eligibility.\nSuccessful passage of a Department of Transportation (DOT) drug test is required to meet position eligibility. Other Considerations As the health and safety of employees continues to be a priority, Ar"
+},
+{
+"title": "Appian Business Analyst",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=9555d97437e3ce0e",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=39922&hr_id=3524",
+"salary": "$74/hour",
+"skills": [
+"Agile / Scrum"
+],
+"req": "Assist with change management, stakeholder engagement, and adoption of new workflow solutions. Required Qualifications:  8+ years of Business Analyst / Systems Analyst experience in an enterprise tech\nStrong experience working on Appian workflow/process automation implementations.\nExperience creating user stories, acceptance criteria, functional requirements, and process documentation.\nStrong experience working in Agile/Scrum environments.\nExperience coordinating and leading UAT.\nAbility to effectively bridge the gap between business requirements and Appian development teams. Preferred Qualifications:  Experience supporting enterprise digital transformation and workflow modern\nExperience within insurance or financial services is preferred. Equal Opportunity Employer We are an equal opportunity employer. All aspects of employment including the decision to hire, promote, disc"
+},
+{
+"title": "Web Application QA Analyst",
+"company": "Conduent",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=9db8f6a36b2934f3",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://click.appcast.io/t/Bxxv-y-z_qyekdXrCUaSPic0gMBYBNMdAyESlSMzbXI=",
+"salary": "$57,750 - $75,000 USD per year",
+"skills": [
+"SQL",
+"REST APIs",
+"Azure",
+"CI/CD",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"SDLC",
+"Postman"
+],
+"req": "Through our dedicated associates, Conduent delivers mission-critical services and solutions on behalf of Fortune 100 companies and over 500 governments - creating exceptional outcomes for our clients \nSupport CI/CD validation and release readiness activities. Experience 3+ years of experience testing web-based business applications.\nExperience validating complex business workflows and user journeys.\nExperience working within Agile/Scrum development environments.\nExperience creating test plans, test cases, test scenarios, and defect reports. Technical Skills Strong understanding of web application testing methodologies.\nExperience with manual testing of modern web applications.\nExperience testing REST APIs using Postman or similar tools."
+},
+{
+"title": "Field Service Engineer II- Lynchburg, VA",
+"company": "Abbott",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=33a9aba807a18230",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://www.jobs.abbott/us/en/job/ABLAUS31168337ENUSEXTERNAL/Field-Service-Engineer-II-Lynchburg-VA?utm_source=indeed&utm_medium=phenom-feeds",
+"salary": "$26 - $53 USD per hour",
+"skills": [
+"Excel",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting"
+],
+"req": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and \nEmployees can qualify for free medical coverage in our Health Investment Plan (HIP) PPO medical plan in the next calendar year.\nAn excellent retirement savings plan with high employer contribution  Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to \nMust have a Valid Driver’s License. We’re hiring a Field Service Engineer II within our Diagnostics Division. This is a field-based, remote role that covers the Lynchburg, VA area. As a Field Service \nContinuous Improvement: Utilize remote support tools to maximize instrument uptime and maintain certifications through ongoing training and development. Required Qualifications:  Bachelor’s degree or \n2-5 years of experience in Engineering or Laboratory Technology."
 },
 {
 "title": "IT Auditor",
@@ -13929,76 +14435,6 @@
 "source": "Deloitte careers",
 "country": "CA",
 "years": 2
-},
-{
-"title": "Associate Professor/Professor - Data Science Computation",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-21T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Data-Science-Computation-ON/606450917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Assistant Professor - Data Science Computation",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-21T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Data-Science-Computation-ON/606449617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "PAM Solution Support Engineer",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1K5L1",
-"posted": "2026-11-21T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-PAM-Solution-Support-Engineer-ON-M1K5L1/604735317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 3
-},
-{
-"title": "Student Intern, Process and Manufacturing Engineer",
-"company": "Celestica",
-"location": "Newmarket, ON, CA",
-"posted": "2026-11-21T02:00:00+00:00",
-"link": "https://careers.celestica.com/job/Newmarket-Student-Intern%2C-Process-and-Manufacturing-Engineer-ON/1441162033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Celestica careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Student Intern, AI Project Coordinator",
-"company": "Celestica",
-"location": "Remote Employee Canada, ON, CA",
-"posted": "2026-11-21T02:00:00+00:00",
-"link": "https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern%2C-AI-Project-Coordinator-ON/1441161033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Celestica careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Professional, Engineering, Systems - Weekend Shift",
-"company": "Bombardier",
-"location": "Mississauga, ON, CA, L5S 1W1",
-"posted": "2026-11-21T02:00:00+00:00",
-"link": "https://jobs.bombardier.com/job/Mississauga-Professional%2C-Engineering%2C-Systems-Weekend-Shift-ON-L5S-1W1/1441048033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bombardier careers",
-"country": "CA",
-"years": 2
-},
-{
-"title": "Software Engineer- Global Payments Engineering",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA, M1L4S2",
-"posted": "2026-11-21T02:00:00+00:00",
-"link": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Scotiabank careers",
-"country": "CA",
-"years": 5
 }
 ]
 }
