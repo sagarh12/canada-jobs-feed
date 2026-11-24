@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T16:49:55+00:00",
+"updated": "2026-11-24T16:59:49+00:00",
 "jobs": [
 {
 "title": "DevOps Engineer",
@@ -2094,7 +2094,7 @@
 "link": "https://ca.indeed.com/viewjob?jk=085b831705e33b22",
 "source": "Indeed",
 "country": "CA",
-"years": null,
+"years": 1,
 "apply": "http://ca.indeed.com/job/applied-ai-healthcare-operations-automation-specialist-2-daysweek-085b831705e33b22",
 "salary": "$22.00-$24.00 per hour",
 "skills": [
@@ -2106,6 +2106,337 @@
 "Google Workspace"
 ],
 "req": "Build compliant AI workflows to generate plain-language and multilingual patient handouts, local SEO website FAQs/articles, seasonal health campaigns (vaccinations, travel health, minor ailments, Meds\nDemonstrated ability to teach and coach non-technical managers and write concise, easy-to-follow SOPs. Preferred Assets:  Experience in Canadian/Ontario healthcare settings, including familiarity with"
+},
+{
+"title": "Software Design/Engineer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-24",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Software Developer - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-24",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Solutions Engineering & Introduction - New Grad",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-24",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Solutions-Engineering---Introduction---New-Grad_R032118",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analyst",
+"company": "Kickstand",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=dfa42b026c3fdac4",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/data-analyst-dfa42b026c3fdac4",
+"skills": [
+"Python",
+"Power BI",
+"Tableau",
+"Statistics",
+"Data visualization"
+],
+"req": "SUMMARY Reporting to the Service Innovation & Implementation Lead, the Data Analyst supports evaluation and data analysis at Kickstand as well as data analysis to support the participation of Kickstan\nServe as a backup resource to the Data and Evaluation Implementation Specialist by assisting sites with onboarding to Kickstand’s data sharing agreement and providing ongoing support as needed. Qualif\nMinimum of five years’ data-related experience, including data management, analytics, and reporting on health, social services, evaluation, or program data.\nMinimum of two years’ related experience in social research, evaluation, and capacity building within community settings.\nAdvanced skills in data analysis software (e.g., R, Stata, Python, SPSS). Experience with R Markdown is considered an asset. Skills and Abilities  Strong verbal and written communication skills, inclu\nIntermediate experience creating data visualizations using Power BI, Tableau, R, or similar tools to communicate findings for non-technical audiences.\nPre-existing experience using Greenspace is considered an asset. Additional Information about the Role  Compensation will depend on experience and fit for the position.\nThis is a hybrid position with some required in-person meetings and flexibility to work from home.\nCollaborative and mission-driven team environment Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities that are requ"
+},
+{
+"title": "DevOps Engineer",
+"company": "",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=b1c90a33807a957e",
+"source": "Indeed",
+"country": "CA",
+"years": 10,
+"apply": "http://ca.indeed.com/job/devops-engineer-b1c90a33807a957e",
+"salary": "CAD 120k/annum",
+"skills": [
+"Python",
+"Java",
+"Kafka",
+"Oracle",
+"MongoDB",
+"Elasticsearch",
+"Docker",
+"Kubernetes",
+"Ansible",
+"CI/CD",
+"Jenkins",
+"Git",
+"Linux",
+"Monitoring",
+"Networking (TCP/IP, DNS)",
+"Firewalls",
+"Help desk / troubleshooting",
+"System design"
+]
+},
+{
+"title": "Jr./Intermediate/Senior Facility Programming and Planning Consultant",
+"company": "RESOURCE PLANNING GROUP",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f018cbfb5ed7d9ad",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/jrintermediatesenior-facility-programming-and-planning-consultant-f018cbfb5ed7d9ad",
+"salary": "$85,000.00-$120,000.00 per year",
+"skills": [
+"Excel"
+],
+"req": "RESOURCE PLANNING GROUP INC. (RPG), founded in 1976, is a Canadian specialized consulting firm focused on pre-design planning, with particular expertise in facility programming and planning. Over the \nPost-secondary education in architecture, interior design, urban planning, engineering, health-care administration, or a related field; professional accreditation or registration is an asset for inter"
+},
+{
+"title": "Technical Support Analyst",
+"company": "TrueContext Corporation",
+"location": "CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e46a49dfdeebbf2d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://truecontext.bamboohr.com/careers/53",
+"skills": [
+"REST APIs",
+"Networking (TCP/IP, DNS)",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"Mobile (iOS / Android)",
+"Salesforce"
+],
+"req": "Make the next ticket unnecessary. Recurring problems should end up as help articles and internal runbooks instead of repeat tickets. Keep the ticketing system honest while you are at it: accurate cate\nBe the early warning system. Support sees trouble before anyone else does. Pass ticket patterns and sentiment shifts to the Customer Success Manager and Account Manager so nobody is surprised at renew\nStrong hands-on experience working in Salesforce, ideally Service Cloud: you move through cases quickly, understand how cases, queues, and assignments fit together, and can build your own reports and \nNice to have:  Salesforce administrator experience or certification, ideally in Service Cloud (case routing and assignment rules, flows, page layouts and fields, reports and dashboards).\nSchedule and work setup  Shift: Monday to Friday, 8:00 AM to 4:00 PM Eastern European Time. That is 1:00 AM to 9:00 AM Eastern Time for most of the year, so your day starts well before the Ottawa team\nWork setup: A reliable high-speed internet connection and a quiet, private space for customer calls and video handoffs. We provide your laptop and the tools you need."
+},
+{
+"title": "Commercial Banking Rotational Internship (Office of Chief Data & Analytics, Business Enablement and Strategic Initiatives), Summer 2027 - 4 Months",
+"company": "BMO Financial Group",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=d3dc1e70a9eb3eea",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Commercial-Banking-Rotational-Internship--Office-of-Chief-Data---Analytics--Business-Enablement-and-Strategic-Initiatives---Summer-2027---4-Months_R260032429-1",
+"salary": "$40,500.00 - $80,000.00",
+"skills": [
+"Python",
+"SQL",
+"Tableau",
+"Excel",
+"System design"
+],
+"req": "Application Deadline: 12/27/2026 Address: 250 Yonge Street Job Family Group: Data Analytics & Reporting Internship Start Date: The internship program begins on May 3rd 2027, and concludes on August 13\nImpactful work – contribute to projects that influence business decisions and client outcomes. What You’ll Do As a rotational intern, you will work on projects across different teams. Responsibilities\nQualifications  Currently enrolled in a post-secondary program (business, analytics, data science, or related field).\nGain exposure to multiple functions in a single internship.\nWork on meaningful projects that impact the business. Build relationships and learn from experienced professionals."
+},
+{
+"title": "Backend Engineer (Platform)",
+"company": "Midnite",
+"location": "CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=52ac23482abfbcc6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.ashbyhq.com/midnite/de381430-d09f-4af4-b44b-168663322ba4?utm_source=GEOVO9l5v7",
+"salary": "$115,000–$155,000",
+"skills": [
+"Python",
+"Rust",
+"Flask",
+"FastAPI",
+"REST APIs",
+"Kafka",
+"PostgreSQL",
+"AWS",
+"Docker",
+"Terraform",
+"CI/CD",
+"Monitoring",
+"System design"
+],
+"req": "Contribute to platform work behind Midnite’s Canada launch, owning well-defined pieces end to end. Technical ------------- Our platform is primarily built in Python and hosted on AWS. Our stack includ\nHelp shape the engineering culture of our growing Canada team. We’ll expect you to ask good questions, bring ideas and see your work through, with plenty of room to grow your backend, cloud and distri\nProficiency in Python or another modern backend language, with a willingness to learn Python. Experience with Rust is a bonus.\nExperience building or maintaining APIs and working with relational databases such as PostgreSQL.\nClear communication, curiosity and a collaborative approach to solving problems. Nice to have ----------------  Experience with tools in our stack.\nExperience with event-driven systems (Kafka, SQS or similar), caching, observability or CI/CD pipelines.\nExperience investigating production incidents or improving the reliability of a service.\nExperience in a high-traffic, real-time or regulated product environment. Winnings ------------  Extended health, dental and vision coverage on top of your provincial plan.\nWe offer 33 days of paid annual vacation, including statutory holidays in your province, with additional tenure based increases (+2 days after 3 years, +3 more after 5), and unlimited paid sick days."
+},
+{
+"title": "Business Analyst",
+"company": "CACI International",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=93fc352cd9a30742",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://searchcareers.caci.com/careers/job/1443154745413",
+"salary": "$63,300 - $129,700 USD per year",
+"skills": [
+"Oracle",
+"Cybersecurity",
+"Agile / Scrum"
+],
+"req": "Job Title: Business Analyst Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: Public Trust Employee Type: Regular Percentage of Travel Required: None Type \nTranslate assessment findings into detailed functional, technical, integration, security, performance, and compliance requirements with subject matter experts.\nDevelop current-state assessments, workshop summaries, gap and risk reports, requirements specifications, and executive briefings for NASA leadership. Qualifications: Required:  Six (6) or more years \nBachelors’ degree in any discipline. Equivalent professional experience will be considered in lieu of a degree.\nMust be able to obtain and maintain a NASA Public Trust background investigation. Desired:  Experience supporting NASA programs or other federal government modernization initiatives.\nExperience with Oral Fusion Cloud HCM, HR information systems, or federal human capital management processes."
+},
+{
+"title": "Service Technician, PLC & Robotics Programmer",
+"company": "TI Automotive",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=64419bd1dc642b5e",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://tiautomotivecanada.prevueaps.com/jobs/342079-99787.html",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "TI Automotive supplies safety and performance critical products and highly engineered components to the global automotive industry. We have more than 100 years' experience of solving customers' safety\nReview schematics for electrical and pneumatic circuits using AUTO CAD software and communicate/advise to the maintenance personnel regarding fault analysis  Review the Operator Interface Controls, ad\nAbility to work independently on Fanuc, Yaskawa and ABB Programmer Work Location:This position is based out of our Brampton, Ontario facility. The role requires travel (30-35%) within Greater Toronto \nMinimum3-5 years' experience working with robotic systems, either through internships, co-op programs, or entry-level positions, is highly valuable. This experience could be gained in manufacturing, a\nFamiliarity with automotive manufacturing processes and quality standards is beneficial. Experience in a manufacturing environment, particularly in the automotive industry, provides valuable context f"
+},
+{
+"title": "Transit Police Lieutenant",
+"company": "Massachusetts Bay Transportation Authority",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=51d2f4109511c3a8",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://www.governmentjobs.com/careers/mbtama/jobs/5560243/transit-police-lieutenant",
+"salary": "$65 - $81 USD per hour",
+"req": "Investigates internal affairs complaints.\nPrepares required correspondence and reports. Maintains proper records of departmental activities.\nPerform all other duties and projects that may be assigned Additional responsibilities may include focus on one or more departments or locations. See applicable addendum for department or location spe\nProfessional level of knowledge or that which is typically acquired through a four-year degree in addition to a broad knowledge of major MBTA functions or activities.\nSix (6) to eight (8) years of related experience, of which one (1) to two (2) years must be in a supervisory capacity.\nFirearm Test. Substitutions  A High School Diploma or GED with an additional seven (7) years of directly related experience substitutes for the Bachelor’s degree requirement.\nAn Associate’s degree from an accredited institution an additional three (3) years of directly related experience substitutes for the Bachelor’s degree requirement  A Master’s degree in a related subj\nA nationally recognized certification, or statewide/professional certification in a related field substitutes for one year of experience Preferred Experience & Skills ---------------------------------\nBe at least eighteen (18) years of age, except if participating in an approved high school internship / co-op program.\nAbility to commute to assigned work locations in the Boston, MA metro area, as required by the role.\nAbility to provide internal and external customers with courteous and profe"
+},
+{
+"title": "EMR Customer Support Specialist",
+"company": "Empath Health",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=a881279b5a2e4106",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://empathhealth.wd108.myworkdayjobs.com/Empath_Health/job/West-Palm-Beach-FL/EMR-Help-Desk-Specialist--Hybrid-_APPLI013778",
+"skills": [
+"HTML/CSS",
+"REST APIs",
+"Statistics",
+"Help desk / troubleshooting"
+],
+"req": "Empath Health is seeking a tech savvy and customer-service-oriented EMR Customer Support Specialist (EMR Support Specialist). Location: Must reside in the state of Florida - fully remote Schedule: M- \nA Mission That Matters: Join a team built on kindness, compassion, and Full Life Care for All. What You’ll Need  Associate’s degree or equivalent preferred.\nRequires 1 year of experience utilizing EMR systems in a customer or patient care setting, preferably with Hospice and Home Health.\nExperience with EMR required (Home Care Home Base preferred) Unified in empathy, we serve our communities through extraordinary Full Life Care for All. Empath Health is a not-for-profit healthcare org"
+},
+{
+"title": "Customer Service Agent_Seasonal",
+"company": "Orkin",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=fde7beb7e2f77aee",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://careers.orkin.com/jobs/57961/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$16 - $18 USD per hour",
+"req": "Overview: Are you self-motivated? Do you enjoy helping people? Do you have extraordinary customer service, retention and sales experience? Can you work in a fast-paced environment? If you possess thes\nMust be available to attend training Mon - Fri from 9am - 6pm EST  Must reside in the continental US You get the advantage of a highly persuasive pitch: top-notch protection from an iconic brand name \nFounded in 1901, Orkin Pest Control is a global residential and business service provider  Consecutive years of improved earnings with over 2 million customers  Orkin is financially stable and growing"
+},
+{
+"title": "Desktop Service Engineer L1",
+"company": "MV Transportation",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=5cab61ed508954dd",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://careers.mvtransit.com/desktop-service-engineer-l1/job/R252",
+"skills": [
+"Statistics",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"Vulnerability management",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "MV Transportation is seeking an Desktop Service Engineer to provide advanced end-user support and endpoint operations while delivering an enhanced user experience. This role serves as a Tier 2/Tier 3 \nThe Desktop Service Engineer is willing to learn unfamiliar technologies, take on new responsibilities, and grow with the needs of End User Services. Work Environment and Expectations: This is a servi\nOwn assigned incidents and requests through resolution, coordinating with users, internal teams, and external vendors rather than simply transferring problems elsewhere.\nSupport conference room technology and collaboration systems, including advanced troubleshooting and coordination with vendors or other IT teams when required.\nPartner with Service Desk, Infrastructure, Security, Networking, Applications, and other technology teams to resolve issues and improve the end-to-end support experience.\nActively contribute to process improvement by identifying recurring problems, support gaps, unnecessary manual work, and opportunities for standardization, scripting, or automation where practical. Pr\nParticipate in the MV IT on-call rotation and provide after-hours support when required.\nPerform other duties, projects, and responsibilities as assigned based on changing business, technology, and operational needs. Required Qualifications:  Demonstrated commitment to customer service wi\nAt least two years of experience in IT support, endpoint support, desktop support, or a comparable technic"
+},
+{
+"title": "Infrastructure Analyst",
+"company": "T&T Supermarket",
+"location": "Richmond, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5a13007c909de029",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://recruiting.ultipro.ca/TTS5000TTSI/JobBoard/9bde3ca6-857a-4f5d-95fb-7c001f129bf1/OpportunityDetail?opportunityId=a5243d57-f05c-4f1f-af96-c19f06221ad0&postingId=6df2974a-c772-4159-aebd-261257fb3b13",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"System design"
+],
+"req": "The Opportunity Reporting to the Senior IT Manager - Technology Enablement, the Infrastructure Analyst is responsibility to bridge the gap between business requirements and technology solutions, analy\nIdentifying and resolving infrastructure-related issues, troubleshooting system failures, and  Coordinate with relevant teams to identify issues and ensure timely  Perform any other duties assigned by"
+},
+{
+"title": "HRIS Operations Analyst",
+"company": "Methodist Le Bonheur Healthcare",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=49d1977f199c522f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://methodisthealth.wd5.myworkdayjobs.com/MLH/job/Remote-Associate---Tennessee/HRIS-Operations-Analyst_R-22508-1",
+"skills": [
+"Unity",
+"Hardware setup"
+],
+"req": "If you are looking to make an impact on a meaningful scale, come join us as we embrace the Power of One! We strive to be an employer of choice and establish a reputation for being a talent rich organi\nRequired to sit for extended periods.\nWill occasionally experience stressful working conditions due to tight project schedules and hardware or software problems.\nAbility to occasionally lift and/or move equipment up to 25 pounds without assistance. Must occasionally lift and/or move equipment up to 40 pounds with assistance.\nAbility to travel to any area of the organization, both local and remote as needed. Must provide own transportation. Our Associates are passionate about what they do, the service they provide and the "
+},
+{
+"title": "SCADA Analyst",
+"company": "Fairweather, LLC",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=5d23d54f5778f0f7",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://careers-doyon.icims.com/jobs/3319/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"skills": [
+"Python",
+"C++",
+"C",
+"Windows",
+"Help desk / troubleshooting"
+],
+"req": "Document changes and provide clear changeout notes to the rotating team. Required Qualifications 1+ years of SCADA system support or architecture experience, including industrial communication protoco\n1+ years working in process control or critical-systems environments, with familiarity with PLC, DCS and real-time processes.\n1+ years working with technicians, engineers and/or support staff to troubleshoot automation or SCADA issues.\nLegally authorized to work in the US. Preferred Qualifications Experience programming and configuring AspenTech IP.21 SCADA packages.\nOil and gas production experience (well testing, allocation, gas lift, metering).\nData engineering experience moving process data to the cloud.\nSoftware development experience in one or more of: C, C++, C, AspenTech SQLPlus, Python.\nBS in Engineering or Computer Science, or equivalent years of demonstrated experience.\nStrong commitment to delivering results while maintaining a safe work environment. REASONABLE ACCOMMODATION: It is Fairweather's business philosophy and practice to provide reasonable accommodations, "
+},
+{
+"title": "Field Inventory Analyst - Dallas/Fort Worth",
+"company": "Medtronic",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=fd7b8928f470bbab",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fort-Worth-Texas-United-States-of-America/Field-Inventory-Analyst---Dallas-Fort-Worth_R81922-1",
+"salary": "$67,200 - $100,800 USD per year",
+"req": "We anticipate the application window for this opening will close on - 8 Dec 2026 Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate\nPartner with customers, Sales Representatives, Clinical Specialists, District Managers, Customer Care, Supply Chain, and other internal teams to resolve inventory needs and improve field execution. Le\nRequired Qualifications  Bachelor's degree with 2+ years of relevant experience OR advanced degree with 0+ years of relevant experience.\nValid driver's license with a driving record that meets Medtronic requirements and ability to participate in ongoing driver's license reviews. Ability to travel locally for the majority of field respo\nPreferred Qualifications  Experience in supply chain, inventory management, field inventory, or consignment inventory management.\nExperience using data and technology to analyze inventory trends, identify risks, and improve operational performance.\nExperience working directly with customers and cross-functional sales, clinical, supply chain, or customer service teams.\nExperience managing multiple operational priorities independently in a field-based environment. Experience working within regulated environments and established quality and compliance requirements."
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
@@ -11075,6 +11406,150 @@
 "location": "Calgary, Alberta, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4493676163",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Analyst Student",
+"company": "Tundra Oil & Gas",
+"location": "Virden, Manitoba, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494012731",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Windows System Administrator",
+"company": "UC Irvine Health",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=3382dc226b922a58",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.uci.edu/jobs/158006/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$53 - $81 USD per hour",
+"skills": [
+"PHP",
+"PowerShell",
+"AWS",
+"Azure",
+"Vulnerability management",
+"IAM",
+"Windows",
+"Microsoft 365",
+"VMware / virtualization"
+],
+"req": "General knowledge of other areas of IT. Thorough understanding of and experience with systems-related issues and actions that can be taken to improve or correct performance.\nDemonstrated experience writing and editing complex scripts in Microsoft PowerShell used to perform system maintenance and administration.\nAdvanced knowledge of computer security best practices and policies including demonstrated experience securing server-based software.\nDemonstrated experience administering servers in Amazon Web Services or Microsoft Azure.\nBachelor’s degree in related area and / or equivalent experience / training  3-5 yearsof experience in one or more of the following fields: Microsoft Windows server administration, virtualization tech"
+},
+{
+"title": "Back End Developer",
+"company": "RemitBee™",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494006679",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant en ventes sans fil",
+"company": "Staples Canada",
+"location": "Courtenay, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4478375855",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Wireless Sales Consultant",
+"company": "Staples Canada",
+"location": "Courtenay, British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4478367608",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Entry-Level Sales Associate",
+"company": "Motion Recruitment",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4484550736",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Engineering Designer, Transportation Structures - Barrie",
+"company": "R.V. Anderson Associates Limited",
+"location": "Barrie, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4469225101",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Offensive Security Analyst (Structured / Non-Exploit)",
+"company": "Alignerr",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493606467",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Analyst - Tandem (HPE NonStop) Infrastructure",
+"company": "Scotiabank",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494023288",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "12/02/2026 - Server Administrator",
+"company": "Horizon Computer Solutions Inc.",
+"location": "Regina, Saskatchewan, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492849504",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "M365 Administrator",
+"company": "Apptoza Inc.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493669283",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Support Analyst I (830am-5pm ET Wed-Sun) - Bilingual (English/French)",
+"company": "Intelerad",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493674283",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Operations Support Mgr-Customer Support Representative",
+"company": "TELUS Agriculture & Consumer Goods",
+"location": "British Columbia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4458426885",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
