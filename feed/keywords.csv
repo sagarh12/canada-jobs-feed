@@ -5,7 +5,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 4,Python,Language,22%,1865,519,2115,2026-11-24
 5,Excel,Data & AI,21%,1733,451,1937,2026-11-24
 6,Hardware setup,IT support,18%,1515,390,1717,2026-11-24
-7,System design,Practice,18%,1478,376,1674,2026-11-24
+7,System design,Practice,18%,1479,377,1675,2026-11-24
 8,Microsoft 365,IT support,16%,1317,352,1472,2026-11-24
 9,Azure,Cloud & DevOps,16%,1300,346,1473,2026-11-24
 10,Agile / Scrum,Practice,15%,1232,335,1403,2026-11-24
@@ -29,7 +29,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 28,ETL / data pipelines,Data & AI,7%,601,163,698,2026-11-24
 29,HTML/CSS,Language,7%,562,144,626,2026-11-24
 30,Docker,Cloud & DevOps,7%,548,154,609,2026-11-24
-31,Machine learning,Data & AI,6%,539,127,614,2026-11-24
+31,Machine learning,Data & AI,7%,540,128,615,2026-11-24
 32,Monitoring,Cloud & DevOps,6%,506,122,565,2026-11-24
 33,Vulnerability management,Security,6%,492,152,548,2026-11-24
 34,Kubernetes,Cloud & DevOps,6%,489,131,554,2026-11-24
@@ -124,8 +124,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 123,Scala,Language,1%,53,17,56,2026-11-24
 124,jQuery,Framework,1%,52,13,56,2026-11-24
 125,Kotlin,Language,1%,51,15,59,2026-11-24
-126,A/B testing,Data & AI,1%,50,17,56,2026-11-24
-127,Deep learning,Data & AI,1%,50,11,53,2026-11-24
+126,Deep learning,Data & AI,1%,51,12,54,2026-11-24
+127,A/B testing,Data & AI,1%,50,17,56,2026-11-24
 128,TensorFlow,Data & AI,1%,49,16,54,2026-11-24
 129,Computer vision,Data & AI,1%,47,12,52,2026-11-24
 130,React Native,Framework,1%,46,10,48,2026-11-24
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,2,1,2,2026-11-24
 155,Solidity,Language,0%,2,0,2,2026-11-24
 
-,Based on 8301 postings in the last 30 days (9337 all time)
+,Based on 8302 postings in the last 30 days (9338 all time)
