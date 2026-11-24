@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-24T19:29:50+00:00",
+"updated": "2026-11-24T19:39:48+00:00",
 "jobs": [
 {
 "title": "Campus Recruitment Specialist, Prairies",
@@ -3484,6 +3484,7 @@
 "country": "CA",
 "years": 3,
 "apply": "https://terradygital.humi.ca/job-board/msp/52632?source=Indeed",
+"salary": "$90,000 - $100,000",
 "skills": [
 "Python",
 "Bash/Shell",
@@ -3497,7 +3498,7 @@
 "Help desk / troubleshooting",
 "VMware / virtualization"
 ],
-"req": "About Terra Dygital Terra Dygital Solutions is an innovative IT services provider headquartered in Vancouver, BC. We are dedicated to effectively addressing a diverse range of complex IT challenges by\nHandle escalated issues and provide expert-level troubleshooting and problem resolution.\nEducation and Experience  Bachelor’s degree in computer science, Information Technology, or a related field; substantial experience may substitute for formal education.\n3-5 years of experience in system administration, managing enterprise-level systems and networks.\nExperience with Microsoft 365 and Microsoft Azure.\nExperience with security measures, vulnerability assessments, and identity access management."
+"req": "About Terra Dygital Terra Dygital Solutions is an innovative IT services provider headquartered in Vancouver, BC. We are dedicated to effectively addressing a diverse range of complex IT challenges by\nHandle escalated issues and provide expert-level troubleshooting and problem resolution.\nEducation and Experience  Bachelor’s degree in computer science, Information Technology, or a related field; substantial experience may substitute for formal education.\n3-5 years of experience in system administration, managing enterprise-level systems and networks.\nExperience with Microsoft 365 and Microsoft Azure. Experience with security measures, vulnerability assessments, and identity access management."
 },
 {
 "title": "Software Development Engineer in Test",
@@ -3622,6 +3623,369 @@
 "ITIL"
 ],
 "req": "Remote Contract (3 years 1 day) Published 4 hours ago vendor management Asset reliability IT Coordination application administration production support The Application Support Analyst will provide pro\nSupport applications operating within refinery and midstream environments while adhering to cybersecurity, change control, and operational requirements. Required Qualifications -----------------------\nExperience supporting enterprise applications in an oil & gas, refining, midstream, petrochemical, or other asset-intensive industrial environment.\nExperience troubleshooting production application issues and supporting business-critical systems.\nExperience working directly with software vendors and coordinating issue resolution."
+},
+{
+"title": "Analyst (18 months contract)",
+"company": "Canadian Tire Corporation, Ltd.",
+"location": "Oakville, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=7fd39911c4400f26",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Oakville-ON/Analyst--18-months-contract-_JR168295",
+"salary": "$27/hr",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Databricks",
+"Power BI",
+"Tableau",
+"Data visualization",
+"Google Workspace"
+],
+"req": "Collaborate with multiple parts of the business and serve as a subject matter expert."
+},
+{
+"title": "Business Project Analyst",
+"company": "Canadian Tire Corporation, Ltd.",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=4f7b6ef592d7d868",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Toronto-ON/Business-Project-Analyst_JR162836",
+"salary": "$53,000 – $88,000",
+"skills": [
+"SQL",
+"LLMs / GenAI",
+"Spark",
+"Hadoop",
+"ETL / data pipelines",
+"Databricks",
+"Power BI",
+"Tableau",
+"Azure",
+"Agile / Scrum",
+"Jira"
+],
+"req": "What You'll Do: We're looking for a Business Project Analyst who bridges business and technology. You'll keep work moving across the team, make sure deliverables land on time, and turn business needs "
+},
+{
+"title": "Application Support Analyst",
+"company": "TRI-GLOBAL SOLUTIONS GROUP INC.",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=4f1c3eb07a158d2e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://apply.tri-global.com/job/tri-global-solutions-group-inc-edmonton-alberta-5-application-support-analyst/",
+"salary": "$71.00 per hour",
+"skills": [
+"AWS",
+"Azure",
+"Google Cloud",
+"Cybersecurity",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"System design"
+],
+"req": "Confirm that required documentation is updated before incidents, problems, changes, releases, or transition activities are closed.\nSupport application reporting and operational analysis where required. Cloud and Environment Transitions:  Support application and environment transitions by documenting functional and operational req\nConfirm that required security, privacy, architecture, and operational approvals are obtained before applicable changes or releases proceed.\nContribute supporting evidence for service-level reporting and vendor-service reviews. MANDATORY SKILLS – Degree or Diploma in IT, Computer Science or related field of study. (Yes or No) – Experience "
+},
+{
+"title": "Admin Assistant/Receptionist",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=5a229629202750ed",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/admin-assistantreceptionist-5a229629202750ed",
+"salary": "$20.00-$24.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Sessional Instructional Assistant CSC148H5S Intro to Comp Sci (Autotesting)(Emerg Posting)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9b68bfc7dbe013a2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.utoronto.ca/job/Mississauga-Sessional-Instructional-Assistant-CSC148H5S-Intro-to-Comp-Sci-%28Autotesting%29%28Emerg-Posting%29-ON/608320217/",
+"salary": "$55.25/hour",
+"skills": [
+"Python",
+"Java",
+"C++",
+"Docker",
+"Testing (unit, automated)",
+"Jest / PyTest",
+"Data structures & algorithms",
+"Object-oriented programming"
+]
+},
+{
+"title": "Sessional Instructional Assistant CSC108H5S Intro to Comp Prog(Autotesting)(Emerg Posting)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=328ffd007647e55e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.utoronto.ca/job/Mississauga-Sessional-Instructional-Assistant-CSC108H5S-Intro-to-Comp-Prog%28Autotesting%29%28Emerg-Posting%29-ON/608319117/",
+"salary": "$55.25/hour",
+"skills": [
+"Python",
+"Docker",
+"Testing (unit, automated)",
+"Jest / PyTest",
+"Data structures & algorithms"
+]
+},
+{
+"title": "Sessional Instructional Assistant CSC111H5S Foundations of Comp Sci (Autotesting)(Emerg Posting)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=fdbf9b7595b6b7a9",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.utoronto.ca/job/Mississauga-Sessional-Instructional-Assistant-CSC111H5S-Foundations-of-Comp-Sci-%28Autotesting%29%28Emerg-Posting%29-ON/608322417/",
+"salary": "$55.25/hour",
+"skills": [
+"Python",
+"Docker",
+"Testing (unit, automated)",
+"Jest / PyTest",
+"Data structures & algorithms",
+"Object-oriented programming"
+]
+},
+{
+"title": "MEMS Failure Analysis Engineer",
+"company": "Lumentum Operations",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=0798da7335835013",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/MEMS-Failure-Analysis-Engineer_20261523-1",
+"salary": "$70,000 - 100,000 CAD",
+"skills": [
+"Excel",
+"Networking (TCP/IP, DNS)"
+],
+"req": "locations Canada - Ottawa (Bill Leathem) time type Full time posted on Posted Today job requisition id 20261523 It's fun to work in a company where people truly BELIEVE in what they're doing! We're co\nDocument findings and verify the effectiveness of corrective actions. What We’re Looking For Required Qualifications:  Bachelor’s degree in engineering, physics, materials science, or a related field.\nExperience with failure analysis or root-cause investigations in MEMS, semiconductor, or precision devices."
+},
+{
+"title": "Forward Deployed Engineer - AI/Data",
+"company": "Highbrow Technology Inc",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=560f668e7dfb0df1",
+"source": "Indeed",
+"country": "US",
+"years": 2,
+"apply": "http://www.indeed.com/job/forward-deployed-engineer-aidata-560f668e7dfb0df1",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"LLMs / GenAI",
+"ETL / data pipelines",
+"Looker",
+"BigQuery",
+"Google Cloud",
+"CI/CD",
+"Git",
+"Help desk / troubleshooting",
+"Testing (unit, automated)",
+"Data structures & algorithms",
+"System design",
+"SDLC"
+],
+"req": "Forward Deployed Engineer Experience: 2–5 Years Role Type: Software Engineering / Data Engineering / AI Integration Domain: Generative AI, Data Platforms, Cloud Engineering Role Overview We are lookin\nPrepare technical documentation and provide knowledge transfer to customer teams. Required Skills & Qualifications  2–5 years of experience in software engineering, data engineering, cloud engineering\nStrong programming experience in Python and SQL.\nHands-on experience with GCP and BigQuery, including data processing and querying.\nExperience building ETL/ELT pipelines and performing data transformations.\nExperience working with JSON, API authentication, and enterprise system integrations."
+},
+{
+"title": "Maintenance Technician - 2nd or 3rd 6 Months",
+"company": "City Utilities",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=1caa12206cbf374f",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://cityutilities.wd5.myworkdayjobs.com/en-US/Careers/job/Springfield-MO/Maintenance-Technician---2nd-or-3rd-6-Months_R26_456",
+"salary": "$35 - $43 USD per hour",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "Completion of courses Electricity I and II, or an approved equivalent, is required. Relevant experience with higher-voltage equipment may be considered in lieu of completing Electricity I and II or an\nA minimum of three years recent, relevant mechanical experience AND three years’ recent electrical experience of industrial equipment is required.\n+ Experience with medium to 480 voltage electrical motors and controls, large pumps, and diesel engines is required. Experience with MIG, TIG and Arc welding required.\nMaintenance Tech - 3rd 6 Months:  High school graduate or equivalent is required.\nA minimum of four years recent, relevant mechanical experience AND four years’ recent electrical experience of industrial equipment is required.\n+ Experience with up to 6000 volts of electrical maintenance of industrial equipment such as; large pumps, and diesel engines is required.\nExperience with MIG, TIG and Arc welding required. Proven additional experience with higher voltage equipment may be considered in lieu of successfully completing a training course in Electricity I an\nInternal applicants must complete the required training provided by Safety and Training to progress. Licensing/Certification: ---------------------------- Must have a valid Missouri CDL, Class A inclu\nMust have a Class \"D\" Water license or the ability to obtain within six months. Hazwoper trained at HAZMAT Technician level is preferred or ability to obtain within six months.\n+ Handle difficult and stressful situat"
+},
+{
+"title": "Production Control & Job Scheduling Coordinator",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=f3367a3cdb66dadd",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://jobs.utoronto.ca/job/Toronto-Production-Control-&-Job-Scheduling-Coordinator-ON/608309217/",
+"salary": "$64,203 - $82,181",
+"skills": [
+"Microsoft 365",
+"Help desk / troubleshooting",
+"SAP"
+],
+"req": "Date Posted: 11/24/2026 Req ID: 50983 Faculty/Division: VP-People, Finance & Digital Services Department: Enterprise Apps & Solutions Integration Campus: St. George (Downtown Toronto) Existing Vacancy\nWork to ensure program automations are functioning properly and find solutions for issues as they arise from the processing of monthly and year end jobs, and procurement processing.\nProviding orientation to others on work procedures and practices Essential Qualifications:  Advanced College Diploma (3 years) or equivalent combination of education and experience. Bachelor’s degree \nMinimum 3 years’ experience in production support or batch processing environments.\nHands-on experience with SAP (S/4HANA, SAP GUI, Fiori).\nExperience with job scheduling tools (e.g., IBM Workload Automation).\nExperience with XML or JSL (JSR 352) is an asset."
+},
+{
+"title": "Intern, Quality Systems, Analytics & Compliance",
+"company": "FormFactor, Inc.",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=0231d6bd103cc63f",
+"source": "Indeed",
+"country": "US",
+"years": 4,
+"apply": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Beaverton-OR/Intern--Quality-Systems--Analytics---Compliance_JR101372",
+"salary": "$26 - $34 USD per hour",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Power BI",
+"Tableau",
+"Excel",
+"Microsoft 365"
+],
+"req": "Forming Our Future together FormFactor, Inc. (NASDAQ: FORM), is a leading provider of essential test and measurement technologies along the full semiconductor product life cycle — from characterizatio\nParticipate in internal audit readiness activities and quality system assessments.\nParticipate in cross-functional efforts related to regulatory and customer compliance requirements. Required Qualifications:  Currently pursuing a Bachelor's degree in a field: + Engineering, Industri\nExperience using Power BI, Tableau, or similar visualization tools.\nStrong attention to detail and commitment to accuracy. Preferred Qualifications:  Coursework or project experience related to: + Data analytics, Database management, Process improvement, Quality syste"
+},
+{
+"title": "Revenue Operations Analyst",
+"company": "Motion & Control Enterprises",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=eb46cc91b801f527",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/FFA4C5EE7003C56E6918C33281B4AD02/jobs/144744?source=Indeed",
+"skills": [
+"Power BI",
+"Excel"
+],
+"req": "Develop materials and analysis that help the sales team win on value, not just price. What We're Looking For -------------------------- Must Have: 2 or more years of experience in an analytical role  \nExperience working in a B2B distribution or similar business environment.\nStrong proficiency with Microsoft Office (Outlook, Word, PowerPoint, Teams). Nice to Have:  Experience working within or closely with a Finance department.\nExperience automating tasks and workflows using Microsoft Copilot or similar tools.\nBackground in industrial distribution, manufacturing, or related sectors. About Motion & Control Enterprises --------------------------------------- Motion and Control Enterprises (MCE) is a top-50 na"
+},
+{
+"title": "Pricing Analyst",
+"company": "Motion & Control Enterprises",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=5b633bbdfbfd676c",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/FFA4C5EE7003C56E6918C33281B4AD02/jobs/144791?source=Indeed",
+"skills": [
+"Power BI",
+"Excel",
+"Data visualization"
+],
+"req": "Collaborate with Sales, Finance, and Operations to align pricing strategy with business goals. What We're Looking For -------------------------- Must Have:  2 or more years of experience in an analyti\nStrong mathematical and analytical skills with high attention to detail. Nice to Have:  Experience in a Finance department or finance-adjacent analytical role.\nExperience automating tasks and workflows using Microsoft Copilot or similar tools.\nFamiliarity with ERP or CRM systems (Epicor Prophet 21 a plus). About Motion & Control Enterprises --------------------------------------- Motion and Control Enterprises (MCE) is a top-50 national ind"
+},
+{
+"title": "Software Engineer",
+"company": "Cisco",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=0a8f3de2c421c51f",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://careers.cisco.com/global/en/job/2030706",
+"salary": "$138,100 - $256,000 USD per year",
+"skills": [
+"Python",
+"Java",
+"JavaScript",
+"TypeScript",
+"Go",
+"HTML/CSS",
+"React",
+"Angular",
+"Node.js",
+"REST APIs",
+"Kafka",
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Jenkins",
+"Git",
+"Linux",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Selenium / Cypress",
+"Jest / PyTest",
+"Data structures & algorithms",
+"System design"
+],
+"req": "The application window is expected to close on: 11/26/2026MEET THE TEAM Crosswork Infrastructure (CW Infra) is the core platform powering Service Provider (SP) automation software and a variety of app\nCollaborate with team members to review code, troubleshoot issues, and optimize solutions. MINIMUM QUALIFICATIONS  Bachelors with 5+ years of related experience, with 3+ years of experience in front-e\nExperience building and maintaining back-end services using Golang, Node.js, Python, or Java.\nHands-on experience with RHEL/CentOS Linux administration, RPM packaging, and Linux security hardening.\nExperience working with data structures, algorithms, software design, and analytical problem-solving. PREFERRED QUALIFICATIONS  Familiarity with agile methodologies, TDD, and CI/CD or image-build pipe\nExperience with unit and end-to-end testing tools such as JEST, Junit, Playwright, or Selenium.\nExperience with UEFI Secure Boot, signed kernel modules, IMA/EVM, FIPS, OpenSSL/SSH crypto libraries, and CVE patch handling."
+},
+{
+"title": "Regulatory Business System Analyst",
+"company": "Thorne Research",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=f6a849430d5454a3",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://thorne.pinpointhq.com/postings/86248894-2304-479b-8d99-274fb2575acd?utm_medium=job_board&utm_source=indeed",
+"salary": "$31 - $36 USD per hour",
+"skills": [
+"Excel",
+"Help desk / troubleshooting",
+"System design",
+"SDLC"
+],
+"req": "Description At Thorne, we work to deliver high-quality, science-backed solutions to empower individuals to take a proactive approach to their well-being. Each day begins with a mission to help others \nAssists in internal audits and inspections of various departments/processes.\nBuilds a strong working relationship with department stakeholders and subject matter experts when dealing with requirements for software business processes that impacts software maintained by the Qual\nExperience with application support, including implementation of new software or improvements.\nAbility to discuss and guide the business in creating and implementing their master data for the application.\nAssist with the execution of qualification testing for upgrades and patches. Regulatory Business System Analyst II Proficient in Regulatory Business System Analyst I responsibilities.\nEffectively gather and analyze feedback, facilitates discussions, and translates requirements into practical solutions that enhance operational efficiency, productivity, quality, and user experience.\nBasic knowledge of SaaS vendor compliance and validation practices, including vendor documentation review and support of qualification and periodic assessment activities.\nBasic experience with software configuration that includes scripting and markup languages.\nContribute to the development and maintaining of the traceability of user requirements, functional requirements, user acceptance and qualification testing.\nAssist with th"
+},
+{
+"title": "Intern - Clinical Research",
+"company": "Dozee",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=f7e9e146d10c6e03",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://jobs.lever.co/dozee/0e4a7863-9405-4e89-a961-acc4a94cf7bc?lever-source=Indeed",
+"salary": "$15 - $20 USD per hour",
+"skills": [
+"Google Cloud",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Google Workspace"
+],
+"req": "Responsibilities : Product Support & Field Deployment Serve as the on-the-ground product expert at customer and clinical sites across the Houston area and beyond.\nCoordinate with clinical staff, IRBs, and site administrators as needed. Training & Enablement Deliver product training sessions to clinical end-users, hospital staff, and internal sales or operations\nRequirement:  Bachelor's degree in Biomedical Engineering or a closely related field (Electrical Engineering, Mechanical Engineering, Health Informatics, etc.). • Strong verbal and written communicati\nProficiency with standard productivity tools (Google Workspace, video conferencing). Preferred:  1–3 years of experience in a clinical, medtech, or healthcare technology environment.\nPrior experience in a field application, clinical specialist, or technical support role."
 },
 {
 "title": "Strategic Finance Analyst II - AI & Data Systems",
@@ -13295,6 +13659,73 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4492637722",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud administrator",
+"company": "Bertram Place",
+"location": "Dundas, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50794188",
+"source": "Job Bank",
+"country": "CA",
+"years": 3
+},
+{
+"title": "AV Meeting Room Technician (MRT)",
+"company": "ET Group",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493672949",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Junior Mining Engineer/EIT",
+"company": "BBA Consultants",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4433379905",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Help Desk Technician - Tier 1",
+"company": "Mill Creek Lumber & Supply",
+"location": "Remote · United States",
+"posted": "2026-11-23",
+"link": "https://www.indeed.com/viewjob?jk=25543c4d218b406f",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/B47485951950D59E39769466E8EDA0E0/jobs/329291?source=Indeed",
+"salary": "$20 - $25 USD per hour",
+"skills": [
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Mill Creek Lumber & Supply Company, a trusted industry leader since 1934, is seeking a dedicated IT Specialist to provide Tier 1 support for Mill Creek information technology and communications system\nProvide courteous, responsive customer support by addressing inquiries, resolving concerns, and ensuring a positive customer experience.\nPerform basic IT helpdesk-related functions and technical support, quickly resolving internal customer requests as assigned by management, utilizing helpdesk management systems and tools to manage iss\nStay abreast of the latest technologies by leveraging available pertinent training on necessary existing systems and technologies. Qualifications: Strong customer service skills, including clear commu\nWhile performing the duties of this job, the employee is regularly required to sit and talk and listen, as well as safely drive company vehicles to various locations.\nOccasionally required to stand and walk; occasionally lift and/or move up to 100 pounds; ha vision abilities that include close vision and ability to adjust focus.\nWork more than eight (8) hours per day and five (5) days per week as required. Some overtime may be required, including occasional regional travel and overnight stays. Active working and travel time w\nWhile performing the duties of this job, the employee is occasionally required to stand; walk; sit; use hands to type, handle or feel objects.\nEmployee will reach with hands and arms; climb stairs; balance, stoop, kneel or crouc"
+},
+{
+"title": "Endpoints Analyst",
+"company": "Morson Edge (Canada)",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494013338",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Integrated Logistics Support Analyst",
+"company": "Fleetway Inc.",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494034920",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
