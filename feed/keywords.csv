@@ -1,6 +1,6 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,44%,3520,894,3994,2026-11-24
-2,SQL,Language,24%,1909,488,2193,2026-11-24
+1,Help desk / troubleshooting,IT support,44%,3521,895,3995,2026-11-24
+2,SQL,Language,24%,1910,489,2194,2026-11-24
 3,REST APIs,Framework,24%,1904,493,2158,2026-11-24
 4,Python,Language,22%,1807,461,2057,2026-11-24
 5,Excel,Data & AI,21%,1678,396,1882,2026-11-24
@@ -35,7 +35,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 34,Vulnerability management,Security,6%,476,136,532,2026-11-24
 35,Kubernetes,Cloud & DevOps,6%,471,113,536,2026-11-24
 36,TypeScript,Language,6%,462,110,520,2026-11-24
-37,Salesforce,Practice,5%,436,122,498,2026-11-24
+37,Salesforce,Practice,5%,437,123,499,2026-11-24
 38,SDLC,Practice,5%,432,124,489,2026-11-24
 39,SQL Server,Database,5%,417,115,500,2026-11-24
 40,PowerShell,Language,5%,411,125,461,2026-11-24
@@ -74,7 +74,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 73,CompTIA A+,Certification,2%,191,41,221,2026-11-24
 74,CompTIA Security+,Certification,2%,188,54,212,2026-11-24
 75,SIEM,Security,2%,179,48,199,2026-11-24
-76,Snowflake,Data & AI,2%,176,46,216,2026-11-24
+76,Snowflake,Data & AI,2%,177,47,217,2026-11-24
 77,GitHub Actions,Cloud & DevOps,2%,172,56,194,2026-11-24
 78,R,Language,2%,172,50,192,2026-11-24
 79,GitLab,Cloud & DevOps,2%,166,37,181,2026-11-24
@@ -86,7 +86,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 85,CompTIA Network+,Certification,2%,145,41,168,2026-11-24
 86,NoSQL,Database,2%,140,37,156,2026-11-24
 87,Spring Boot,Framework,2%,135,39,154,2026-11-24
-88,Kafka,Data & AI,2%,129,26,143,2026-11-24
+88,Kafka,Data & AI,2%,130,27,144,2026-11-24
 89,PHP,Language,2%,128,30,143,2026-11-24
 90,Jest / PyTest,Practice,2%,126,39,138,2026-11-24
 91,CISSP,Certification,1%,118,34,138,2026-11-24
@@ -105,8 +105,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 104,AWS certification,Certification,1%,75,21,83,2026-11-24
 105,Penetration testing,Security,1%,74,20,81,2026-11-24
 106,Elasticsearch,Database,1%,72,17,81,2026-11-24
-107,Swift,Language,1%,70,19,79,2026-11-24
-108,BigQuery,Database,1%,69,18,83,2026-11-24
+107,BigQuery,Database,1%,70,19,84,2026-11-24
+108,Swift,Language,1%,70,19,79,2026-11-24
 109,Figma,Practice,1%,69,16,81,2026-11-24
 110,Unity,Framework,1%,68,23,77,2026-11-24
 111,PyTorch,Data & AI,1%,68,18,75,2026-11-24
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,2,1,2,2026-11-24
 155,Solidity,Language,0%,2,0,2,2026-11-24
 
-,Based on 8059 postings in the last 30 days (9095 all time)
+,Based on 8060 postings in the last 30 days (9096 all time)
