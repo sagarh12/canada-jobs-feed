@@ -1,9 +1,9 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,44%,3676,928,4190,2026-11-25
-2,SQL,Language,24%,2015,525,2313,2026-11-25
-3,REST APIs,Framework,23%,1965,485,2238,2026-11-25
-4,Python,Language,22%,1893,487,2169,2026-11-25
-5,Excel,Data & AI,21%,1763,415,1978,2026-11-25
+2,SQL,Language,24%,2016,526,2314,2026-11-25
+3,REST APIs,Framework,23%,1966,486,2239,2026-11-25
+4,Python,Language,22%,1894,488,2170,2026-11-25
+5,Excel,Data & AI,21%,1764,416,1979,2026-11-25
 6,Hardware setup,IT support,18%,1540,360,1752,2026-11-25
 7,System design,Practice,18%,1502,365,1717,2026-11-25
 8,Microsoft 365,IT support,16%,1328,326,1498,2026-11-25
@@ -17,7 +17,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 16,Cybersecurity,Security,11%,953,239,1089,2026-11-25
 17,IAM,Security,11%,940,247,1053,2026-11-25
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,913,216,1036,2026-11-25
-19,JavaScript,Language,10%,839,196,937,2026-11-25
+19,JavaScript,Language,10%,840,197,938,2026-11-25
 20,"Testing (unit, automated)",Practice,10%,815,228,908,2026-11-25
 21,Power BI,Data & AI,10%,805,170,919,2026-11-25
 22,Statistics,Data & AI,9%,772,207,886,2026-11-25
@@ -30,11 +30,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 29,HTML/CSS,Language,7%,566,132,635,2026-11-25
 30,Docker,Cloud & DevOps,7%,551,143,621,2026-11-25
 31,Machine learning,Data & AI,6%,549,122,629,2026-11-25
-32,Monitoring,Cloud & DevOps,6%,503,124,576,2026-11-25
+32,Monitoring,Cloud & DevOps,6%,504,125,577,2026-11-25
 33,Vulnerability management,Security,6%,502,146,559,2026-11-25
 34,Kubernetes,Cloud & DevOps,6%,491,124,569,2026-11-25
-35,React,Framework,6%,490,115,564,2026-11-25
-36,TypeScript,Language,6%,475,109,541,2026-11-25
+35,React,Framework,6%,491,116,565,2026-11-25
+36,TypeScript,Language,6%,476,110,542,2026-11-25
 37,SDLC,Practice,5%,458,126,520,2026-11-25
 38,Salesforce,Practice,5%,449,117,514,2026-11-25
 39,SQL Server,Database,5%,431,114,516,2026-11-25
@@ -47,8 +47,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 46,Data structures & algorithms,Practice,5%,389,104,463,2026-11-25
 47,Embedded systems,Practice,4%,364,109,414,2026-11-25
 48,Tableau,Data & AI,4%,357,94,406,2026-11-25
-49,Incident response,Security,4%,348,98,398,2026-11-25
-50,Google Workspace,IT support,4%,340,81,362,2026-11-25
+49,Incident response,Security,4%,349,99,399,2026-11-25
+50,Google Workspace,IT support,4%,341,82,363,2026-11-25
 51,C++,Language,4%,329,84,382,2026-11-25
 52,ITIL,Certification,4%,328,75,377,2026-11-25
 53,Terraform,Cloud & DevOps,4%,322,78,367,2026-11-25
@@ -95,7 +95,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 94,Threat intelligence,Security,1%,114,21,129,2026-11-25
 95,CCNA,Certification,1%,95,22,102,2026-11-25
 96,Serverless,Cloud & DevOps,1%,93,18,102,2026-11-25
-97,Next.js,Framework,1%,90,22,100,2026-11-25
+97,Next.js,Framework,1%,91,23,101,2026-11-25
 98,Ruby,Language,1%,88,27,103,2026-11-25
 99,Azure certification,Certification,1%,86,28,96,2026-11-25
 100,Looker,Data & AI,1%,85,29,100,2026-11-25
@@ -114,9 +114,9 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 113,Redis,Database,1%,64,20,70,2026-11-25
 114,Vector databases,Database,1%,63,15,80,2026-11-25
 115,Rust,Language,1%,58,21,70,2026-11-25
-116,MATLAB,Language,1%,58,14,64,2026-11-25
-117,dbt,Data & AI,1%,57,13,69,2026-11-25
-118,FastAPI,Framework,1%,57,16,64,2026-11-25
+116,FastAPI,Framework,1%,58,17,65,2026-11-25
+117,MATLAB,Language,1%,58,14,64,2026-11-25
+118,dbt,Data & AI,1%,57,13,69,2026-11-25
 119,Scala,Language,1%,57,19,60,2026-11-25
 120,Pandas,Data & AI,1%,56,13,65,2026-11-25
 121,DynamoDB,Database,1%,55,15,62,2026-11-25
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,3,2,3,2026-11-25
 155,Solidity,Language,0%,2,0,2,2026-11-25
 
-,Based on 8447 postings in the last 30 days (9552 all time)
+,Based on 8450 postings in the last 30 days (9555 all time)
