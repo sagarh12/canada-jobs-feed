@@ -1,6 +1,16 @@
 {
-"updated": "2026-11-25T19:19:57+00:00",
+"updated": "2026-11-25T19:29:45+00:00",
 "jobs": [
+{
+"title": "Software Engineer II - AI Engineering",
+"company": "Microsoft",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25T17:27:07+00:00",
+"link": "https://apply.careers.microsoft.com/careers/job/1970393557074099",
+"source": "Microsoft careers",
+"country": "CA",
+"years": null
+},
 {
 "title": "Communications Officer",
 "company": "McGill University",
@@ -2919,6 +2929,152 @@
 "req": "About the role We're growing Quo's mobile engineering team as we invest seriously in mobile for the first time in years. You'll join an established, close-knit team of mobile engineers shipping our iO\nReliability & Quality: Helping raise the bar on our core phone experience on mobile — call quality, reliability, and performance are a real differentiator for Quo."
 },
 {
+"title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+"company": "NVIDIA",
+"location": "Canada, Toronto",
+"posted": "2026-11-25",
+"link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+"source": "NVIDIA careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Technical Support Advisor",
+"company": "GN Group",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=3abfedee2d92cb68",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://gn.wd3.myworkdayjobs.com/en-US/GN-Careers/job/ON-Toronto/Technical-Support-Advisor_R30890",
+"salary": "$70,000-90,000"
+},
+{
+"title": "CSV Systems Specialist",
+"company": "City of Red Deer",
+"location": "Red Deer, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=bddf9e226946355e",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://fa-eyjj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/10434",
+"salary": "$480",
+"skills": [
+"SQL",
+"LLMs / GenAI",
+"Excel",
+"Help desk / troubleshooting"
+],
+"req": "Accounting & Revenue Management: Track revenues, prepare journal entries, reconcile accounts, and support year-end financial processes.\nHealth & Safety Compliance: Follow and support organizational health and safety policies and procedures. As our preferred candidate, you will have:  Grade 12 supplemented by a diploma in Business Admi\nThree years’ experience working in a complex computerized/information systems environment.\nPrevious experience with CSV Systems such as Intelli, Crystal Reports and SQL software is an asset.\nPrevious experience working in a community service is an asset.\nAbility to make well-considered decisions in a responsive and open manner based upon a mixture of analysis, collaboration with others, experience, and judgment.\nMay be required to work outside regular business hours, including weekend, in order to meet deadlines, especially during system upgrades."
+},
+{
+"title": "Junior Full Stack Developer - Java",
+"company": "DIGICO",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=b242fa2a1f2a143a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "http://www.indeed.com/job/junior-full-stack-developer-java-b242fa2a1f2a143a",
+"salary": "$61,000 - $70,000 USD per year",
+"skills": [
+"Java",
+"JavaScript",
+"SQL",
+"React",
+"Angular",
+"REST APIs",
+"MySQL",
+"Oracle",
+"AWS",
+"Azure",
+"CI/CD",
+"Git",
+"Linux",
+"Microservices",
+"Agile / Scrum",
+"System design"
+],
+"req": "Your impact: By building dependable application features and APIs, you help users access consistent, useful web experiences. Qualifications  Essential: Foundational software engineering and applicatio"
+},
+{
+"title": "Storage and Data Protection Engineer",
+"company": "VLCM",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=6437124a3144480a",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.applicantpro.com/openings/vlcmtech/jobs/4288347-1902",
+"skills": [
+"Cybersecurity",
+"Help desk / troubleshooting",
+"VMware / virtualization"
+],
+"req": "Storage Solutions Architect - Sales Engineer Murray, UT ABOUT VLCM VLCM (pronounced val-com) is shaping the future of enterprise technology partnerships. As a trusted IT solution provider, we speciali\nDevelop scopes of work and assist with estimating the engineering effort required for customer projects.\nDevelop knowledge and expertise across additional storage and data protection technologies supported by VLCM.\nCollaborate with other VLCM engineers across data center, virtualization, networking, cybersecurity, and cloud technologies. WHAT WE'RE LOOKING FOR  Strong hands-on experience with enterprise storage \nExperience with EverPure storage solutions is strongly preferred.\nExperience with Cohesity data protection, backup, recovery, and related technologies is strongly preferred.\nExperience designing and implementing enterprise storage and data protection solutions.\nExperience working with virtualization platforms such as VMware and/or Microsoft Hyper-V.\nExperience troubleshooting complex infrastructure, storage, backup, and performance issues."
+},
+{
+"title": "Robotics Generalist Designer and Fabricator",
+"company": "CSR - Confined Space Robotics",
+"location": "Nisku, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=6c4555255aa89135",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "http://ca.indeed.com/job/robotics-generalist-designer-and-fabricator-6c4555255aa89135",
+"salary": "$35.00 per hour",
+"skills": [
+"Python",
+"C++",
+"Node.js",
+"Docker",
+"CI/CD",
+"Git",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Testing (unit, automated)",
+"Embedded systems"
+],
+"req": "Design the mechanical structure, mechanisms and tooling. Select and size actuators, transmissions, bearings and structural components for the expected loads and duty cycle. Check stiffness, alignment,\nUse load, torque, speed and duty-cycle calculations to select drive components. Check shaft and bearing loads, alignment, clearances and access to wear parts before releasing drawings.\nHow many years of experience do you have designing mechanical assemblies or mechanisms in 3D CAD and producing drawings for fabrication?\nHow many years of hands-on workshop experience do you have building, fitting, modifying and testing mechanical assemblies?\nHow many years of experience do you have developing or debugging ROS or ROS 2 software on physical robotic systems?\nHow many years of hands-on experience do you have wiring and troubleshooting controllers, sensors, motor drives or industrial communication links? Work Location: In person"
+},
+{
+"title": "Investigative Analyst",
+"company": "Western Reporting Inc",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=1d3b9beedd3726fa",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.paycomonline.net/v4/ats/web.php/portal/0691B3BCA11D4E7E4138EAAE95D2D98F/jobs/447456?source=Indeed",
+"salary": "$19 - $21 USD per hour"
+},
+{
+"title": "Digital Business Analyst",
+"company": "Monogram Health",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=5a37f7f7c11e638d",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://recruiting2.ultipro.com/MON1026MONOH/JobBoard/bcaf2db0-50c8-4e2f-9d65-e8e00c882a25/OpportunityDetail?opportunityId=a6b5c899-7e70-43e2-b222-55a852de92ee&postingId=aa2d6bd4-ed96-4b90-8a66-9171ccb8c87c",
+"salary": "$91,487 - $118,933 USD per year",
+"skills": [
+"Azure",
+"Jira",
+"System design"
+],
+"req": "Position: Digital Business Analyst The Digital Business Analyst is an entry-level product role focused on building foundational skills in requirements gathering, documentation, and business process an\nBenefits  Comprehensive Benefits - Medical, dental, and vision insurance, employee assistance program, employer-paid and voluntary life insurance, disability insurance, plus health and flexible spendi"
+},
+{
 "title": "AI Developer",
 "company": "OpenText",
 "location": "Richmond Hill, Ontario, CAN",
@@ -3071,6 +3227,16 @@
 "source": "University of Toronto careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Enterprise AI Governance and Operations",
+"company": "Deloitte",
+"location": "Toronto, ON, CA, M5H 0A9",
+"posted": "2026-11-25T00:00:00+00:00",
+"link": "https://careers.deloitte.ca/job/Toronto%2C-ON-Enterprise-AI-Governance-and-Operations-ON-M5H-0A9/1453881700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Deloitte careers",
+"country": "CA",
+"years": 5
 },
 {
 "title": "Software Engineer, Space Foundations — Real-Time Systems",
@@ -6996,7 +7162,7 @@
 "Excel",
 "Networking (TCP/IP, DNS)"
 ],
-"req": "locations Canada - Ottawa (Bill Leathem) time type Full time posted on Posted Today job requisition id 20261523 It's fun to work in a company where people truly BELIEVE in what they're doing! We're co\nDocument findings and verify the effectiveness of corrective actions. What We’re Looking For Required Qualifications:  Bachelor’s degree in engineering, physics, materials science, or a related field.\nExperience with failure analysis or root-cause investigations in MEMS, semiconductor, or precision devices."
+"req": "locations Canada - Ottawa (Bill Leathem) time type Full time posted on Posted Yesterday job requisition id 20261523 It's fun to work in a company where people truly BELIEVE in what they're doing! We'r\nDocument findings and verify the effectiveness of corrective actions. What We’re Looking For Required Qualifications:  Bachelor’s degree in engineering, physics, materials science, or a related field.\nExperience with failure analysis or root-cause investigations in MEMS, semiconductor, or precision devices."
 },
 {
 "title": "Forward Deployed Engineer - AI/Data",
@@ -10359,7 +10525,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNVHANMYMVZRJBLQ%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNRJWF2IMSN3CLEQ%3d%3d%3d%3d",
 "salary": "$80,000.00 - $99,000.00",
 "skills": [
 "SQL",
@@ -13912,6 +14078,86 @@
 "location": "",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494714484",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "System Administrator",
+"company": "Terra Dygital",
+"location": "Vancouver, British Columbia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494722550",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Machine Learning Engineer",
+"company": "E-IT",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494724422",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Salesforce Developer",
+"company": "Tata Consultancy Services",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494376362",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intermediate Azure Software Developer",
+"company": "Quest Software",
+"location": "Nova Scotia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494367374",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+"company": "Intel",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4472879414",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Marketing Apprentice",
+"company": "Acadium",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494348036",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst - Client Experience",
+"company": "The Citco Group Limited",
+"location": "Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4492670266",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Implementation Specialist (English/Spanish)",
+"company": "SysAid",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4484338103",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -24855,6 +25101,26 @@
 "location": "Victoria, British Columbia, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4489633892",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant I - Safety",
+"company": "Cority",
+"location": "",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493926460",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IAM Analyst (BA2) – Identity Data & User Population Management",
+"company": "ThoughtStorm",
+"location": "Fredericton, New Brunswick, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494057492",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
