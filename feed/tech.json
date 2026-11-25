@@ -1,342 +1,101 @@
 {
-"updated": "2026-11-25T10:29:49+00:00",
+"updated": "2026-11-25T10:39:47+00:00",
 "jobs": [
 {
-"title": "Computer department coordinator",
-"company": "IMP Aerospace and Defence",
-"location": "Halifax, Nova Scotia, Canada",
+"title": "DFIR Consultant",
+"company": "NCC Group",
+"location": "CA (remote)",
 "posted": "2026-11-25",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800840",
-"source": "Job Bank",
+"link": "https://ca.indeed.com/viewjob?jk=ff099736ba0343ec",
+"source": "Indeed",
 "country": "CA",
-"years": null
+"years": null,
+"apply": "https://nccgroup.pinpointhq.com/postings/63216c51-40c8-49d9-b283-dd9c5581431b?utm_medium=job_board&utm_source=indeed",
+"skills": [
+"Cybersecurity",
+"Incident response"
+],
+"req": "Description An experienced technical practitioner who independently plans and leads complex DFIR delivery. The role selects appropriate established methods, owns technical quality for substantial work\nSkills, Knowledge & Expertise  Advanced practical DFIR knowledge.\nExperience independently planning and leading complex delivery.\nHoliday Allowance: Enjoy 15 days of annual leave for 0–3 years' service, increasing to 17 days at 4 years and 20 days at 5+ years, plus 3 floating days.\nAbout NCC Group We assess, develop and manage cyber threats across our increasingly connected society. We advise global technology, manufacturers, financial institutions, critical national infrastruct"
 },
 {
-"title": "Credit Analyst II - Food & Beverage",
-"company": "City National Bank",
+"title": "Technical Support and Success Specialist (JSON and cXML)",
+"company": "PunchOut Catalogs",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=1ebdfa80e0a4d54a",
+"link": "https://www.indeed.com/viewjob?jk=ca18b20c908a3d4c",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://careers.cnb.com/jobs/jobs/15921/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-"salary": "$31 - $50 USD per hour",
-"req": "Represents basic qualifications for the position. To be considered for this position, you must at least meet the required qualifications. careers.cnb.com accepts applications on an ongoing basis, unti"
-},
-{
-"title": "Academic Advisor",
-"company": "McMaster University",
-"location": "Hamilton, ON, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=36a282f0d965aac7",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=79830&PostingSeq=1",
-"salary": "$34.99 - $49.20",
+"apply": "http://www.indeed.com/job/technical-support-and-success-specialist-json-and-cxml-ca18b20c908a3d4c",
+"salary": "$1,200 - $1,300 USD per month",
 "skills": [
-"Statistics",
-"Microsoft 365"
+"Oracle",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Jira",
+"SAP"
 ],
-"req": "Recommend students who do not meet requirements to Faculty Review Committee and provide sufficient information to warrant a consideration for acceptance.\nProvide guidance and information to students regarding appropriate procedures and policies for the submission of Petitions for Special Consideration, Senate Student Appeals, and other processes.\nDevelop customized strategies to assist students who are not academically eligible to continue in their program.\nAssess the student's academic, career, and personal stage of development and promote student growth by determining suitable developmental tasks.\nConduct formal reviews and evaluations of students' academic records to ensure eligibility to continue and to graduate from a program.\nCreate, modify, and maintain accurate master and customized degree audits to reflect current and past degree requirements.\nProduce list and ensure accuracy of eligible graduates for each convocation.\nCounsel students to ensure they understand that course and program selections adhere to established academic, prerequisite, and graduation requirements.\nEvaluate transcripts of students requesting transfer from other academic institutions for equivalencies and applications to degree programs.\nAssess the legitimacy of claims for additional transfer credits made by applicants from a wide range of national and international educational institutions.\nLiaise with faculty and staff to advocate on behalf of students.\nAct as a resource to Chairs, Associate Cha"
+"req": "Support customers’ technical teams through implementation. C. Technical expertise  Use JSON and cXML to manage data interchange and integration tasks, particularly during implementations.\nEscalate issues that need a fix to our engineering team and work with them through to resolution. Qualifications A. Essential  Proven experience in customer support roles.\nExperience handling support tickets in Zendesk, or familiarity with a similar ticketing system (such as Freshdesk, ServiceNow or Jira Service Management).\nStrong technical proficiency with JSON and cXML, including practical experience in data interchange and integration.\nAbility to manage multiple tasks effectively and meet deadlines. B. Preferred  Experience with procurement platforms such as SAP Ariba, Coupa or Taulia, including setup and management."
 },
 {
-"title": "Industrial Application Developer (Rust/C#/Python)",
-"company": "TESCO AUTOMATION",
+"title": "DoW/OneStream Financial Management and Reporting Analyst",
+"company": "RM Advisory Services, LLC",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=4b900a306c11f4d9",
+"link": "https://www.indeed.com/viewjob?jk=9cd228597972059d",
 "source": "Indeed",
 "country": "US",
-"years": 5,
-"apply": "http://www.indeed.com/job/industrial-application-developer-rustcpython-4b900a306c11f4d9",
+"years": null,
+"apply": "https://rmadvisory-openhire.silkroad.com/epostings/submit.cfm?fuseaction=app.dspjob&jobid=176&jobboardid=3338&company_id=17257&version=1",
+"skills": [
+"ETL / data pipelines",
+"Oracle",
+"SAP"
+],
+"req": "OneStream Financial Management & Reporting Specialist Can you connect complex financial data to clear, auditable reporting? Are you energized by the challenge of modernizing how Defense financial stat\nDocument financial reporting processes, internal controls, test findings, and functional specifications.\nCoordinate with government stakeholders on financial statement and Agency Financial Report reporting requirements. Required Skills  Active Secret security clearance or higher is required.\nPrior DoW financial management or financial systems modernization experience.\nHands-on experience with the Advana platform, preferably AFM.\nRequired Experienceractical OneStream experience or direct functional exposure to its financial reporting, consolidation, or performance management capabilities. Hands-on OneStream configuration, data\nExperience with DoW financial statement compilation and reporting, DDRS transition, Treasury reporting, Agency Financial Reports, or Defense Working Capital Funds.\nFamiliarity with ETL processes, SAP, Oracle, data integration, or federal internal controls. If you are ready to bring your expertise to important Defense financial modernization work, we encourage yo\nGovernment customer interview may be required depending on assignment. Interview Prep:  Describe your functional experience with DoW trial balances, general ledger, data, reconciliations, and financia\nShare examples of collaborating with engineers and accountants to deliver accurate financial report"
+},
+{
+"title": "Software Developer, Full Stack, Google Cloud Platform",
+"company": "Google",
+"location": "Waterloo, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=4847fa359c7ff2f8",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://careers.google.com/jobs/results/118617545962857158-software-developer/",
 "skills": [
 "Python",
 "Java",
+"JavaScript",
+"TypeScript",
 "C++",
-"C",
-"Rust",
-"SQL",
-"Git",
+"Go",
+"HTML/CSS",
+"Machine learning",
+"NLP",
+"Google Cloud",
+"Docker",
+"Kubernetes",
 "Linux",
-"Windows",
-"macOS",
-"Help desk / troubleshooting"
-],
-"req": "About Tesco Automation Tesco Automation is a leading system integrator and consultant specializing in substation and distribution automation, with deep expertise in IEC 61850 digital substation techno\nEstablish and maintain internal coding standards and development best practices.\nLearn and apply communication protocol specifications used in the electric utility industry, such as IEC 61850, Modbus, and MQTT/MQTTS. Qualifications and Requirements Education:  Bachelor’s or higher\nExperience developing industrial applications, such as utility, automation, or control systems, where reliability and safety are critical. Technical Expertise:  Proficiency in at least one of Rust, C,\nExperience with application frameworks and UI development.\nExperience building and deploying cross-platform applications.\nExperience with SQL and relational databases, including writing efficient queries, designing schemas, and integrating databases into applications.\nExperience with Git and collaborative development workflows.\nExperience with AI-assisted development tools or integrating AI capabilities into applications.\nExperience with C, C++, or Java is a plus.\nDo you have experience developing software for industrial, utility, automation, or control systems?"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Calgary, AB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=11c214746e691105",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Winnipeg, MB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=05fd217a4258af5e",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Edmonton, AB, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=261d701278a4f4eb",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Sarnia, ON, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=6521b025b7a1a2d1",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
-},
-{
-"title": "Business Analyst",
-"company": "Forbes Bros Group of Companies",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=01a186ae5ecb0e39",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://grnh.se/eggxit279us",
-"skills": [
-"Help desk / troubleshooting"
-],
-"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
-},
-{
-"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
-"company": "Royal Academy",
-"location": "Pitt Meadows, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d",
-"salary": "$22.00-$25.00 per hour"
-},
-{
-"title": "Silver Dollar City Resort - Revenue Analyst [YR]",
-"company": "Silver Dollar City",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=61dfe8de9eb6f291",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "https://recruiting2.ultipro.com/HER1021HEFE/JobBoard/d687235c-cb19-4675-b75c-7c6a0b525916/OpportunityDetail?opportunityId=ea0100ef-e7d2-46fc-b6d4-9e489e23c0f3&postingId=c661d647-8bff-419a-b841-217b31d2023d",
-"skills": [
-"Excel",
-"Microsoft 365"
-],
-"req": "Silver Dollar City is ushering in a new era of Ozarks hospitality with its first-ever landmark resort, a stunning six-story, craftsman-style, 262-room retreat overlooking sweeping, untouched vistas of\nOpen and track support tickets with internal IT teams or system vendors through resolution.\nProfessional Appearance and Safety: Maintain a clean, professional appearance and follow established dress code, grooming, personal hygiene, and safety requirements appropriate to the position. All st\nHigh school diploma or equivalent required; a degree in a related field preferred.\nAt least one year of hotel front desk experience required.\nExperience with OPERA or other property management and revenue management systems preferred.\nMust be able to work a flexible schedule, including evenings, weekends, and holidays, based on operational needs.\nMust successfully complete a pre-employment background screening in accordance with company policy and applicable law. Physical Requirements The physical demands described below are representative of \nHealth Insurance- Affordable health plan options (co-pay, HSA, FSA) available to all full-time seasonal and year-round employees.\nFree Tuition– Earn your degree, debt-free. 100% free tuition starting day one of employment. Learn more at https://herschend.guildeducation.com/partner (https://herschend.guildeducation.com/partner).\nSee all the benefits offered through Silver Dollar City at: https://www.silverdollarcity.com/Employment/Benefits (https://www."
-},
-{
-"title": "Customer Service Specialist – Remote",
-"company": "",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=20f42757cdc0329d",
-"source": "Indeed",
-"country": "US",
-"years": 1,
-"apply": "http://www.indeed.com/job/customer-service-specialist-remote-20f42757cdc0329d",
-"salary": "$21 - $25 USD per hour",
-"skills": [
-"Windows",
-"macOS",
-"Help desk / troubleshooting"
-],
-"req": "Customer Service Specialist – Remote Company: Cybality Location: 100% Remote About Cybality Cybality is an innovative technology company focused on delivering digital solutions that simplify everyday \nProtect customer information and follow company data privacy and security practices. Qualifications  At least one year of experience in customer service, customer support, or a client-facing role.\nReliable internet connection and the ability to work effectively in a remote environment. Preferred Qualifications  Experience supporting software or SaaS products.\nInterest in technology, artificial intelligence, and digital innovation. What We Offer  Competitive hourly compensation based on experience."
-},
-{
-"title": "Front Desk Receptionist",
-"company": "Eco Chic",
-"location": "Victoria, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=3d4763e71f89b946",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/front-desk-receptionist-3d4763e71f89b946",
-"salary": "$18.50-$19.00 per hour",
-"req": "Salon Front Desk Receptionist ecoChic AVEDA Lifestyle Salon, located in The Bay Centre in Downtown Victoria, is looking for a friendly, organized, and client-focused Front Desk Receptionist to join ou\nFollow salon policies, brand guidelines, and client privacy requirements when creating or publishing social media content. Position Requirements  High school diploma or equivalent.\nAt least one year of experience in reception, customer service, retail, hospitality, or another client-facing position; salon or spa experience is an asset.\nComfortable using computers, email, booking systems, and point-of-sale systems; experience with Fresha or a similar salon booking system is an asset.\nExperience with Canva, basic photo or video editing, or other content-creation tools is an asset."
-},
-{
-"title": "Spa Receptionist | Seasonal",
-"company": "WHISTLER DAY SPA",
-"location": "Whistler, BC, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=f78af2a61eb63a6e",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/spa-receptionist-seasonal-f78af2a61eb63a6e",
-"salary": "$22 per hour",
-"skills": [
-"Google Workspace"
-],
-"req": "Tell us briefly about your experience working independently in a front desk, hospitality, or customer service role. How comfortable are you handling guest concerns, staff call-ins, or unexpected issue"
-},
-{
-"title": "Purdue Global Full-Time Faculty, Science (Remote)",
-"company": "Purdue University",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=c2ce0859613a1fe3",
-"source": "Indeed",
-"country": "US",
-"years": 2,
-"apply": "https://careers.purdue.edu/PurdueUniversityGlobal/job/Purdue-Global-Full-Time-Faculty%2C-Science-%28Remote%29/44970-en_US",
-"salary": "$64,000",
-"req": "Req Id: 44970 Job Title: Purdue Global Full-Time Faculty, Science (Remote) ===================================================================== City: Remote/Virtual Our Opportunity: -----------------\nReports concerns regarding student academic progress to Success Coaches or Academic Advisors, as appropriate. Refers students with questions regarding financial aid, academics, attendance, and persona\nActively assists the university in retention and/or outreach efforts, which may include directly contacting students who are not engaged in the course or absent per department or campus guidelines.\nMaintains open and timely communication with students and the university via Purdue Global email. Reports student behavioral and Code of Student Conduct issues.\nMaintains and submits accurate and timely reports for student grades.\nFollows university style and branding guidelines for materials that are created for students. Providing students with materials that always meet accessibility standards. Experience: ---------------  P\nThis is a U.S.-based position. This position is open to candidates who reside and are authorized to work in the United States.\nA background check will be required for employment in this position.\nWe ask that our remote employees have access to a reliable internet connection and a dedicated, properly equipped workspace that is free of distractions. You may wish to review the Purdue Virtual Meet\nWhen applying for a faculty position at Purdue University Global, you w"
-},
-{
-"title": "GardaWorld - Set up Coordinator - Stoney Creek - 50k",
-"company": "GardaWorld",
-"location": "Hamilton, ON, CA (remote)",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=f2b2038b590c8af7",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://career4.successfactors.com/career?company=garda&career_ns=job_listing&career_job_req_id=251608&lang=en_US&jobPipeline=Indeed",
-"skills": [
 "Help desk / troubleshooting",
-"Salesforce",
-"CompTIA A+"
+"Data structures & algorithms",
+"System design"
 ],
-"req": "Job Title: Setup Coordinator II - 50k Department: Global SETUP Reports To: Setup Coordinator Supervisor Work Model: Hybrid (Primarily in person with occasional remote work) Position Summary The Setup "
+"req": "In most instances, this position requires in-person interviews as part of the hiring process This posting is for a new vacancy. Qualifications minimales:  Bachelor’s degree or equivalent practical exp\n2 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent.\n2 years of experience with software development in one or more programming languages.\nExperience in designing, building, and operating large-scale distributed systems, with a focus on scalability, fault tolerance, and reliability.\nExperience with containerization and orchestration frameworks (e.g., Kubernetes, Docker).\nExperience developing and debugging Linux kernel code.\nQualifications souhaitées:  Master's degree or PhD in Computer Science or related technical fields.\n2 years of experience with data structures and algorithms.\nExperience with file systems on Linux (VFS, Filesystems - FuSE/EROFS/TCMU, Kernel modules, etc.).\nAbility to communicate technical concepts and maintain a customer-first focus. null -------- Google's software engineers develop the next-generation technologies that change how billions of users conn\nTroubleshoot and resolve customer issues while sharing on-call rotation duties with teammates. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are commit"
 },
 {
-"title": "Office Clerk/Receptionist",
-"company": "LEARN & TALK",
-"location": "Calgary, AB, CA",
+"title": "Full-Time Infant-Toddler Educator (ECE-IT)",
+"company": "Ready Montessori Daycare",
+"location": "Richmond, BC, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=d53861a83e24bca8",
+"link": "https://ca.indeed.com/viewjob?jk=74ce0fed2b5c6840",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/office-clerkreceptionist-d53861a83e24bca8",
-"salary": "$17.00-$21.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Operational Business Analyst (6 months)",
-"company": "Legal Aid Ontario",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=d47a0b18798b2e40",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=YV5dDVBbNmkCa3dwTEhdZCNBbWBRdlZBeiYnJ0V%2FBhEuWEsZXDZucRc4P0NWUxVaB3E%3D&chk=ZVpaSh4%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1",
-"salary": "$88,311.95 - $102,377.76 /Year",
-"skills": [
-"SQL",
-"Power BI",
-"Excel",
-"Statistics"
-],
-"req": "Conduct research and support other data reporting, contributing to Committee Materials, Board materials and the President’s Report for LAO’s Senior Management and Board.\nReceive, manage, summarize, and analyze reports provided by service providers, such as the Law Society of Ontario. Required skills & experience ---------------------------------  Undergraduate degree \nExtensive knowledge and significant recent experience using Golden, SQL, PeopleSoft, and Excel; experience with Power BI and completion of PowerBI training is an asset.\nKnowledge and experience in LAO’s Roster Management process or previous Panel Management process, including providing data support for Roster Management files.\nExperience leading or contributing to large-scale organizational changes in a public-sector environment, with strong project management skills.\nExperience identifying and resolving data gaps and developing or maintaining data management solutions.\nExtensive Experience with LAO’s IT Project Management process and Modernization Initiatives.\nExtensive Experience in preparing communications plans, external communications, job aids, and training materials.\nExperience drafting correspondence to external parties in the context of roster management and litigation.\nProfessional, positive, and supportive team player with excellent organizational skills, attention to detail, and strong verbal and written communication abilities. To apply submit a cover letter & ré"
-},
-{
-"title": "Analyst, Data Operations",
-"company": "Loblaw",
-"location": "Brampton, ON, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=476bbd708289b02d",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://careers.loblaw.ca/analyst-data-operations/job/R2000737081",
-"salary": "$52,000.00 - $71,500.00",
-"skills": [
-"Python",
-"R",
-"SQL",
-"Excel",
-"SAP"
-],
-"req": "Come make your difference in communities across Canada, where authenticity, trust and making connections is valued – as we shape the future of Canadian retail, together. Our unique position as one of "
-},
-{
-"title": "Postgraduate Medical Education Coordinator, College of Medicine (Regina)",
-"company": "University of Saskatchewan",
-"location": "Regina, SK, CA",
-"posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=8e8f11702ef00a1a",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://usask.csod.com/ux/ats/careersite/14/home/requisition/15834?c=usask",
-"salary": "$53,091.00 - 82,954.00 per annum",
-"skills": [
-"Statistics"
-],
-"req": "Postgraduate Medical Education Coordinator, College of Medicine (Regina) ============================================================================ Primary Purpose: To provide training coordination,\nManage and coordinate PGME Regina Orientation with support from SHA Managers and PGME Administration annually ensuring all required sessions and education is completed, N95 mask fittings are completed\nPGME RaPID program implementation and on-site management including scheduling and operational complexities required by accreditation guidelines and education curricula of the program, educational sess\nCoordinate training and tools for post graduate administrative staff to ensure meeting above mentioned accountabilities across all sites that deliver PGME education in Regina, ensuring comparability o\nDevelop/maintain education inventory for staff and monitor training needs for the Post graduate administrative staff.\nOversee the improvement and maintenance of relationship with Regina PSA and the post graduate faculty in continuous improvement of the teaching appointment process to proactively connect and support r\nLiaise, assist, and coordinate as required accreditation surveys of medical education programs in relation to the Regina Campus.\nLiaise and collaborate with the Saskatchewan Health Authority to ensure medical education goals and objectives are achieved as they relate to medical education in such a way as to maximize the learner"
-},
-{
-"title": "IT Support",
-"company": "BIMage Consulting Pte Ltd",
-"location": "Remote · United States",
-"posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=a7a67f332df30e95",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://careerspage.io/bimage-consulting/it-support-bi101?src=17",
-"salary": "$45 - $65 USD per hour",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"Windows",
-"macOS",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Hardware setup",
-"CompTIA A+"
-],
-"req": "About the role ------------------ BIMAGE Consulting is looking for an IT Support specialist to join our team in Abbeyville. This is a full-time, fully remote, entry-level role in the Information Techn\nResponsibilities  Respond to and resolve IT support requests from staff in a timely and friendly manner  Troubleshoot hardware, software, network and account issues, both remotely and by phone or chat"
+"apply": "http://ca.indeed.com/job/full-time-infant-toddler-educator-ece-it-74ce0fed2b5c6840",
+"salary": "$22/hour"
 },
 {
 "title": "Salesforce Administrator",
@@ -370,84 +129,341 @@
 ]
 },
 {
-"title": "Full-Time Infant-Toddler Educator (ECE-IT)",
-"company": "Ready Montessori Daycare",
-"location": "Richmond, BC, CA",
+"title": "IT Support",
+"company": "BIMage Consulting Pte Ltd",
+"location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=74ce0fed2b5c6840",
+"link": "https://www.indeed.com/viewjob?jk=a7a67f332df30e95",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://careerspage.io/bimage-consulting/it-support-bi101?src=17",
+"salary": "$45 - $65 USD per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Windows",
+"macOS",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+"
+],
+"req": "About the role ------------------ BIMAGE Consulting is looking for an IT Support specialist to join our team in Abbeyville. This is a full-time, fully remote, entry-level role in the Information Techn\nResponsibilities  Respond to and resolve IT support requests from staff in a timely and friendly manner  Troubleshoot hardware, software, network and account issues, both remotely and by phone or chat"
+},
+{
+"title": "Postgraduate Medical Education Coordinator, College of Medicine (Regina)",
+"company": "University of Saskatchewan",
+"location": "Regina, SK, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=8e8f11702ef00a1a",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://usask.csod.com/ux/ats/careersite/14/home/requisition/15834?c=usask",
+"salary": "$53,091.00 - 82,954.00 per annum",
+"skills": [
+"Statistics"
+],
+"req": "Postgraduate Medical Education Coordinator, College of Medicine (Regina) ============================================================================ Primary Purpose: To provide training coordination,\nManage and coordinate PGME Regina Orientation with support from SHA Managers and PGME Administration annually ensuring all required sessions and education is completed, N95 mask fittings are completed\nPGME RaPID program implementation and on-site management including scheduling and operational complexities required by accreditation guidelines and education curricula of the program, educational sess\nCoordinate training and tools for post graduate administrative staff to ensure meeting above mentioned accountabilities across all sites that deliver PGME education in Regina, ensuring comparability o\nDevelop/maintain education inventory for staff and monitor training needs for the Post graduate administrative staff.\nOversee the improvement and maintenance of relationship with Regina PSA and the post graduate faculty in continuous improvement of the teaching appointment process to proactively connect and support r\nLiaise, assist, and coordinate as required accreditation surveys of medical education programs in relation to the Regina Campus.\nLiaise and collaborate with the Saskatchewan Health Authority to ensure medical education goals and objectives are achieved as they relate to medical education in such a way as to maximize the learner"
+},
+{
+"title": "Analyst, Data Operations",
+"company": "Loblaw",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=476bbd708289b02d",
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "http://ca.indeed.com/job/full-time-infant-toddler-educator-ece-it-74ce0fed2b5c6840",
-"salary": "$22/hour"
+"apply": "https://careers.loblaw.ca/analyst-data-operations/job/R2000737081",
+"salary": "$52,000.00 - $71,500.00",
+"skills": [
+"Python",
+"R",
+"SQL",
+"Excel",
+"SAP"
+],
+"req": "Come make your difference in communities across Canada, where authenticity, trust and making connections is valued – as we shape the future of Canadian retail, together. Our unique position as one of "
 },
 {
-"title": "Software Developer, Full Stack, Google Cloud Platform",
-"company": "Google",
-"location": "Waterloo, ON, CA",
+"title": "Operational Business Analyst (6 months)",
+"company": "Legal Aid Ontario",
+"location": "Toronto, ON, CA",
 "posted": "2026-11-25",
-"link": "https://ca.indeed.com/viewjob?jk=4847fa359c7ff2f8",
+"link": "https://ca.indeed.com/viewjob?jk=d47a0b18798b2e40",
 "source": "Indeed",
 "country": "CA",
+"years": null,
+"apply": "https://legalaid.njoyn.com/cl4/xweb/xweb.asp?tbtoken=YV5dDVBbNmkCa3dwTEhdZCNBbWBRdlZBeiYnJ0V%2FBhEuWEsZXDZucRc4P0NWUxVaB3E%3D&chk=ZVpaSh4%3D&clid=73708&Page=JobDetails&Jobid=J1126-0569&BRID=464732&lang=1",
+"salary": "$88,311.95 - $102,377.76 /Year",
+"skills": [
+"SQL",
+"Power BI",
+"Excel",
+"Statistics"
+],
+"req": "Conduct research and support other data reporting, contributing to Committee Materials, Board materials and the President’s Report for LAO’s Senior Management and Board.\nReceive, manage, summarize, and analyze reports provided by service providers, such as the Law Society of Ontario. Required skills & experience ---------------------------------  Undergraduate degree \nExtensive knowledge and significant recent experience using Golden, SQL, PeopleSoft, and Excel; experience with Power BI and completion of PowerBI training is an asset.\nKnowledge and experience in LAO’s Roster Management process or previous Panel Management process, including providing data support for Roster Management files.\nExperience leading or contributing to large-scale organizational changes in a public-sector environment, with strong project management skills.\nExperience identifying and resolving data gaps and developing or maintaining data management solutions.\nExtensive Experience with LAO’s IT Project Management process and Modernization Initiatives.\nExtensive Experience in preparing communications plans, external communications, job aids, and training materials.\nExperience drafting correspondence to external parties in the context of roster management and litigation.\nProfessional, positive, and supportive team player with excellent organizational skills, attention to detail, and strong verbal and written communication abilities. To apply submit a cover letter & ré"
+},
+{
+"title": "Office Clerk/Receptionist",
+"company": "LEARN & TALK",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=d53861a83e24bca8",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-clerkreceptionist-d53861a83e24bca8",
+"salary": "$17.00-$21.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "GardaWorld - Set up Coordinator - Stoney Creek - 50k",
+"company": "GardaWorld",
+"location": "Hamilton, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f2b2038b590c8af7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://career4.successfactors.com/career?company=garda&career_ns=job_listing&career_job_req_id=251608&lang=en_US&jobPipeline=Indeed",
+"skills": [
+"Help desk / troubleshooting",
+"Salesforce",
+"CompTIA A+"
+],
+"req": "Job Title: Setup Coordinator II - 50k Department: Global SETUP Reports To: Setup Coordinator Supervisor Work Model: Hybrid (Primarily in person with occasional remote work) Position Summary The Setup "
+},
+{
+"title": "Purdue Global Full-Time Faculty, Science (Remote)",
+"company": "Purdue University",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=c2ce0859613a1fe3",
+"source": "Indeed",
+"country": "US",
 "years": 2,
-"apply": "https://careers.google.com/jobs/results/118617545962857158-software-developer/",
+"apply": "https://careers.purdue.edu/PurdueUniversityGlobal/job/Purdue-Global-Full-Time-Faculty%2C-Science-%28Remote%29/44970-en_US",
+"salary": "$64,000",
+"req": "Req Id: 44970 Job Title: Purdue Global Full-Time Faculty, Science (Remote) ===================================================================== City: Remote/Virtual Our Opportunity: -----------------\nReports concerns regarding student academic progress to Success Coaches or Academic Advisors, as appropriate. Refers students with questions regarding financial aid, academics, attendance, and persona\nActively assists the university in retention and/or outreach efforts, which may include directly contacting students who are not engaged in the course or absent per department or campus guidelines.\nMaintains open and timely communication with students and the university via Purdue Global email. Reports student behavioral and Code of Student Conduct issues.\nMaintains and submits accurate and timely reports for student grades.\nFollows university style and branding guidelines for materials that are created for students. Providing students with materials that always meet accessibility standards. Experience: ---------------  P\nThis is a U.S.-based position. This position is open to candidates who reside and are authorized to work in the United States.\nA background check will be required for employment in this position.\nWe ask that our remote employees have access to a reliable internet connection and a dedicated, properly equipped workspace that is free of distractions. You may wish to review the Purdue Virtual Meet\nWhen applying for a faculty position at Purdue University Global, you w"
+},
+{
+"title": "Spa Receptionist | Seasonal",
+"company": "WHISTLER DAY SPA",
+"location": "Whistler, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f78af2a61eb63a6e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/spa-receptionist-seasonal-f78af2a61eb63a6e",
+"salary": "$22 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "Tell us briefly about your experience working independently in a front desk, hospitality, or customer service role. How comfortable are you handling guest concerns, staff call-ins, or unexpected issue"
+},
+{
+"title": "Front Desk Receptionist",
+"company": "Eco Chic",
+"location": "Victoria, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=3d4763e71f89b946",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/front-desk-receptionist-3d4763e71f89b946",
+"salary": "$18.50-$19.00 per hour",
+"req": "Salon Front Desk Receptionist ecoChic AVEDA Lifestyle Salon, located in The Bay Centre in Downtown Victoria, is looking for a friendly, organized, and client-focused Front Desk Receptionist to join ou\nFollow salon policies, brand guidelines, and client privacy requirements when creating or publishing social media content. Position Requirements  High school diploma or equivalent.\nAt least one year of experience in reception, customer service, retail, hospitality, or another client-facing position; salon or spa experience is an asset.\nComfortable using computers, email, booking systems, and point-of-sale systems; experience with Fresha or a similar salon booking system is an asset.\nExperience with Canva, basic photo or video editing, or other content-creation tools is an asset."
+},
+{
+"title": "Customer Service Specialist – Remote",
+"company": "",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=20f42757cdc0329d",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "http://www.indeed.com/job/customer-service-specialist-remote-20f42757cdc0329d",
+"salary": "$21 - $25 USD per hour",
+"skills": [
+"Windows",
+"macOS",
+"Help desk / troubleshooting"
+],
+"req": "Customer Service Specialist – Remote Company: Cybality Location: 100% Remote About Cybality Cybality is an innovative technology company focused on delivering digital solutions that simplify everyday \nProtect customer information and follow company data privacy and security practices. Qualifications  At least one year of experience in customer service, customer support, or a client-facing role.\nReliable internet connection and the ability to work effectively in a remote environment. Preferred Qualifications  Experience supporting software or SaaS products.\nInterest in technology, artificial intelligence, and digital innovation. What We Offer  Competitive hourly compensation based on experience."
+},
+{
+"title": "Silver Dollar City Resort - Revenue Analyst [YR]",
+"company": "Silver Dollar City",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=61dfe8de9eb6f291",
+"source": "Indeed",
+"country": "US",
+"years": 1,
+"apply": "https://recruiting2.ultipro.com/HER1021HEFE/JobBoard/d687235c-cb19-4675-b75c-7c6a0b525916/OpportunityDetail?opportunityId=ea0100ef-e7d2-46fc-b6d4-9e489e23c0f3&postingId=c661d647-8bff-419a-b841-217b31d2023d",
+"skills": [
+"Excel",
+"Microsoft 365"
+],
+"req": "Silver Dollar City is ushering in a new era of Ozarks hospitality with its first-ever landmark resort, a stunning six-story, craftsman-style, 262-room retreat overlooking sweeping, untouched vistas of\nOpen and track support tickets with internal IT teams or system vendors through resolution.\nProfessional Appearance and Safety: Maintain a clean, professional appearance and follow established dress code, grooming, personal hygiene, and safety requirements appropriate to the position. All st\nHigh school diploma or equivalent required; a degree in a related field preferred.\nAt least one year of hotel front desk experience required.\nExperience with OPERA or other property management and revenue management systems preferred.\nMust be able to work a flexible schedule, including evenings, weekends, and holidays, based on operational needs.\nMust successfully complete a pre-employment background screening in accordance with company policy and applicable law. Physical Requirements The physical demands described below are representative of \nHealth Insurance- Affordable health plan options (co-pay, HSA, FSA) available to all full-time seasonal and year-round employees.\nFree Tuition– Earn your degree, debt-free. 100% free tuition starting day one of employment. Learn more at https://herschend.guildeducation.com/partner (https://herschend.guildeducation.com/partner).\nSee all the benefits offered through Silver Dollar City at: https://www.silverdollarcity.com/Employment/Benefits (https://www."
+},
+{
+"title": "ECE-IT (Infant/Toddler Educator) Montessori Experience Required",
+"company": "Royal Academy",
+"location": "Pitt Meadows, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=da83d996d01c803d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ece-it-infanttoddler-educator-montessori-experience-required-da83d996d01c803d",
+"salary": "$22.00-$25.00 per hour"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=01a186ae5ecb0e39",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Sarnia, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=6521b025b7a1a2d1",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Edmonton, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=261d701278a4f4eb",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Winnipeg, MB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=05fd217a4258af5e",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
+},
+{
+"title": "Business Analyst",
+"company": "Forbes Bros Group of Companies",
+"location": "Calgary, AB, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=11c214746e691105",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://grnh.se/eggxit279us",
+"skills": [
+"Help desk / troubleshooting"
+],
+"req": "What You'll Bring  Diploma or bachelor's degree in Business Analysis, Information Systems, Information Technology, Business Administration, or a related field.\n5–7 years of experience in business analysis, information systems, data management, reporting, or process improvement.\nExperience with business applications, data analysis, reporting tools, workflow development, and business process optimization.\nExperience within construction, engineering, utilities, or other project-based environments is considered an asset.\nEqual Opportunity & Recruitment Forbes Bros. Group of Companies and its affiliated entities are equal opportunity employers committed to a respectful and accessible recruitment process. We make employ"
+},
+{
+"title": "Industrial Application Developer (Rust/C#/Python)",
+"company": "TESCO AUTOMATION",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=4b900a306c11f4d9",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "http://www.indeed.com/job/industrial-application-developer-rustcpython-4b900a306c11f4d9",
 "skills": [
 "Python",
 "Java",
-"JavaScript",
-"TypeScript",
 "C++",
-"Go",
-"HTML/CSS",
-"Machine learning",
-"NLP",
-"Google Cloud",
-"Docker",
-"Kubernetes",
+"C",
+"Rust",
+"SQL",
+"Git",
 "Linux",
-"Help desk / troubleshooting",
-"Data structures & algorithms",
-"System design"
+"Windows",
+"macOS",
+"Help desk / troubleshooting"
 ],
-"req": "In most instances, this position requires in-person interviews as part of the hiring process This posting is for a new vacancy. Qualifications minimales:  Bachelor’s degree or equivalent practical exp\n2 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent.\n2 years of experience with software development in one or more programming languages.\nExperience in designing, building, and operating large-scale distributed systems, with a focus on scalability, fault tolerance, and reliability.\nExperience with containerization and orchestration frameworks (e.g., Kubernetes, Docker).\nExperience developing and debugging Linux kernel code.\nQualifications souhaitées:  Master's degree or PhD in Computer Science or related technical fields.\n2 years of experience with data structures and algorithms.\nExperience with file systems on Linux (VFS, Filesystems - FuSE/EROFS/TCMU, Kernel modules, etc.).\nAbility to communicate technical concepts and maintain a customer-first focus. null -------- Google's software engineers develop the next-generation technologies that change how billions of users conn\nTroubleshoot and resolve customer issues while sharing on-call rotation duties with teammates. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are commit"
+"req": "About Tesco Automation Tesco Automation is a leading system integrator and consultant specializing in substation and distribution automation, with deep expertise in IEC 61850 digital substation techno\nEstablish and maintain internal coding standards and development best practices.\nLearn and apply communication protocol specifications used in the electric utility industry, such as IEC 61850, Modbus, and MQTT/MQTTS. Qualifications and Requirements Education:  Bachelor’s or higher\nExperience developing industrial applications, such as utility, automation, or control systems, where reliability and safety are critical. Technical Expertise:  Proficiency in at least one of Rust, C,\nExperience with application frameworks and UI development.\nExperience building and deploying cross-platform applications.\nExperience with SQL and relational databases, including writing efficient queries, designing schemas, and integrating databases into applications.\nExperience with Git and collaborative development workflows.\nExperience with AI-assisted development tools or integrating AI capabilities into applications.\nExperience with C, C++, or Java is a plus.\nDo you have experience developing software for industrial, utility, automation, or control systems?"
 },
 {
-"title": "DoW/OneStream Financial Management and Reporting Analyst",
-"company": "RM Advisory Services, LLC",
+"title": "Academic Advisor",
+"company": "McMaster University",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=36a282f0d965aac7",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=79830&PostingSeq=1",
+"salary": "$34.99 - $49.20",
+"skills": [
+"Statistics",
+"Microsoft 365"
+],
+"req": "Recommend students who do not meet requirements to Faculty Review Committee and provide sufficient information to warrant a consideration for acceptance.\nProvide guidance and information to students regarding appropriate procedures and policies for the submission of Petitions for Special Consideration, Senate Student Appeals, and other processes.\nDevelop customized strategies to assist students who are not academically eligible to continue in their program.\nAssess the student's academic, career, and personal stage of development and promote student growth by determining suitable developmental tasks.\nConduct formal reviews and evaluations of students' academic records to ensure eligibility to continue and to graduate from a program.\nCreate, modify, and maintain accurate master and customized degree audits to reflect current and past degree requirements.\nProduce list and ensure accuracy of eligible graduates for each convocation.\nCounsel students to ensure they understand that course and program selections adhere to established academic, prerequisite, and graduation requirements.\nEvaluate transcripts of students requesting transfer from other academic institutions for equivalencies and applications to degree programs.\nAssess the legitimacy of claims for additional transfer credits made by applicants from a wide range of national and international educational institutions.\nLiaise with faculty and staff to advocate on behalf of students.\nAct as a resource to Chairs, Associate Cha"
+},
+{
+"title": "Credit Analyst II - Food & Beverage",
+"company": "City National Bank",
 "location": "Remote · United States",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=9cd228597972059d",
+"link": "https://www.indeed.com/viewjob?jk=1ebdfa80e0a4d54a",
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://rmadvisory-openhire.silkroad.com/epostings/submit.cfm?fuseaction=app.dspjob&jobid=176&jobboardid=3338&company_id=17257&version=1",
-"skills": [
-"ETL / data pipelines",
-"Oracle",
-"SAP"
-],
-"req": "OneStream Financial Management & Reporting Specialist Can you connect complex financial data to clear, auditable reporting? Are you energized by the challenge of modernizing how Defense financial stat\nDocument financial reporting processes, internal controls, test findings, and functional specifications.\nCoordinate with government stakeholders on financial statement and Agency Financial Report reporting requirements. Required Skills  Active Secret security clearance or higher is required.\nPrior DoW financial management or financial systems modernization experience.\nHands-on experience with the Advana platform, preferably AFM.\nRequired Experienceractical OneStream experience or direct functional exposure to its financial reporting, consolidation, or performance management capabilities. Hands-on OneStream configuration, data\nExperience with DoW financial statement compilation and reporting, DDRS transition, Treasury reporting, Agency Financial Reports, or Defense Working Capital Funds.\nFamiliarity with ETL processes, SAP, Oracle, data integration, or federal internal controls. If you are ready to bring your expertise to important Defense financial modernization work, we encourage yo\nGovernment customer interview may be required depending on assignment. Interview Prep:  Describe your functional experience with DoW trial balances, general ledger, data, reconciliations, and financia\nShare examples of collaborating with engineers and accountants to deliver accurate financial report"
+"apply": "https://careers.cnb.com/jobs/jobs/15921/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$31 - $50 USD per hour",
+"req": "Represents basic qualifications for the position. To be considered for this position, you must at least meet the required qualifications. careers.cnb.com accepts applications on an ongoing basis, unti"
 },
 {
-"title": "Technical Support and Success Specialist (JSON and cXML)",
-"company": "PunchOut Catalogs",
-"location": "Remote · United States",
+"title": "Computer department coordinator",
+"company": "IMP Aerospace and Defence",
+"location": "Halifax, Nova Scotia, Canada",
 "posted": "2026-11-25",
-"link": "https://www.indeed.com/viewjob?jk=ca18b20c908a3d4c",
-"source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "http://www.indeed.com/job/technical-support-and-success-specialist-json-and-cxml-ca18b20c908a3d4c",
-"salary": "$1,200 - $1,300 USD per month",
-"skills": [
-"Oracle",
-"Microsoft 365",
-"Ticketing (ServiceNow, Jira)",
-"Help desk / troubleshooting",
-"Jira",
-"SAP"
-],
-"req": "Support customers’ technical teams through implementation. C. Technical expertise  Use JSON and cXML to manage data interchange and integration tasks, particularly during implementations.\nEscalate issues that need a fix to our engineering team and work with them through to resolution. Qualifications A. Essential  Proven experience in customer support roles.\nExperience handling support tickets in Zendesk, or familiarity with a similar ticketing system (such as Freshdesk, ServiceNow or Jira Service Management).\nStrong technical proficiency with JSON and cXML, including practical experience in data interchange and integration.\nAbility to manage multiple tasks effectively and meet deadlines. B. Preferred  Experience with procurement platforms such as SAP Ariba, Coupa or Taulia, including setup and management."
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50800840",
+"source": "Job Bank",
+"country": "CA",
+"years": null
 },
 {
 "title": "Consultant, Commercial Lending Data Migration - Operate",
@@ -8921,7 +8937,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": null,
-"apply": "https://candidateportal.ceipal.com/job-details/2ewzy2YqIabujOy9CGk3sDNbPpbWGH5Ucc5w994GiLA#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/HpJ8tGmRt9s1c6GkRrkfrBdR3xjvfXu5ZnXNyGR8JOQ#.job_boards.Indeed",
 "skills": [
 "SQL"
 ],
@@ -9786,6 +9802,115 @@
 "location": "New Brunswick, Canada (remote)",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4484379663",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Mid-level Data Analyst",
+"company": "Greystones Consulting Group",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=3fa32e0e8d83f871",
+"source": "Indeed",
+"country": "US",
+"years": 8,
+"apply": "https://www.appone.com/applinkportal.asp?r_id=7230062&AdCode=Indeed22222",
+"salary": "$80,000 - $120,000 USD per year",
+"skills": [
+"Python",
+"JavaScript",
+"SQL",
+"Pandas",
+"Machine learning",
+"ETL / data pipelines",
+"Data visualization",
+"Git",
+"Cybersecurity",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"SDLC"
+],
+"req": "Evaluate model performance and iterate on methodology, and present findings and recommendations to external and internal stakeholders.\nPrepare written reports, dashboards, or presentations summarizing findings from data analysis and translate complex analytical and technical concepts into clear language for target audiences. Qualific\nThis position requires candidates to obtain a Federal Public Trust Clearance. Being a US Citizen or a Lawful Permanent Resident is required when obtaining a Federal Public Trust Clearance.\nExperience supporting analytical data pipelines, system integration, and production continuity.\n2+ years of experience using Pandas or similar data mining tools in Python.\n2+ years of experience writing Common Table Expressions and window functions in SQL.\nExperience supporting analytics across both legacy and modern platforms.\nStrong data engineering and programming expertise relevant to large-scale analytics.\nExperience supporting validation, testing, and migration of analytical logic.\nMinimum three (3) years of experience supporting analytics in a fraud detection, compliance, identity theft, or similarly regulated data environment, preferably within a federal agency or large enterp\nMinimum eight (5) years of experience in data engineering, analytics engineering, or production analytics system support roles.\nExcellent verbal and written communication skills. Greystones Group is an Equal Opportunity Employer and abides by the requirements of 41 CFR §§ 60-1.4(a"
+},
+{
+"title": "Data Protection and Compliance Consultant",
+"company": "Proofpoint",
+"location": "Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486472518",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer, Asset Management Digital Solutions (AMDS)",
+"company": "KPMG Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486802592",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Recent Graduate Quality Assurance Inspector - Transportation",
+"company": "GHD",
+"location": "St. Catharines, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4468503147",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electrical Engineer-in-Training",
+"company": "Dillon Consulting Limited",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486425556",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Revenue Analyst",
+"company": "The Seaboard Transport Group",
+"location": "Dartmouth, Nova Scotia, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494441134",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Analytics & Automation Specialist, Asset Management Digital Solutions (AMDS)",
+"company": "KPMG Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4486802594",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Indigenous Engineer Intern/co-op",
+"company": "GHD",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4410331679",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Indigenous Engineer Intern/co-op",
+"company": "GHD",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4414739947",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -15087,7 +15212,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 12,
-"apply": "https://candidateportal.ceipal.com/job-details/aISpmzWANxDQwQfP_UoBNL3R5YdDCTldsJImSqZXDL8#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/gKnC_8lvWtzvo4ZoiuQdnyIbobMz1ijdgFA_oMHWW6s#.job_boards.Indeed",
 "skills": [
 "REST APIs",
 "AWS",
@@ -15106,7 +15231,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 3,
-"apply": "https://candidateportal.ceipal.com/job-details/0vnK0Iqiqa0Bj_oxBqF_3Um9KN5WdAkxCZzd-kbw9rw#.job_boards.Indeed",
+"apply": "https://candidateportal.ceipal.com/job-details/fP-rCuGcFv9KWHUobFtNI2mSE4WpFfhb59BG4RRqr-g#.job_boards.Indeed",
 "skills": [
 "Excel",
 "AWS",
@@ -20562,6 +20687,16 @@
 "SAP"
 ],
 "req": "Requisition ID: 415977 Position Number: 20049861 Posting End Date: December 1, 2026 City: Winnipeg Employer: Shared Health Site: Shared Health - HSC Material Handling Department / Unit: Category Manag\nEngage directly with internal and external stakeholders including administrators, clinicians and vendors to facilitate contracting/category management, data management, procurement, value analysis or \n3 years of experience working with analytical and reporting tools, preferably Python or R but additional exposure to SQL, SAS, ArcGIS, BOBJ or Cognos Tableau, Power BI is an asset.\n3 years of experience working with supply management modules in enterprise resources planning systems (e.g. Great Plains and SAP), electronic data interchange platforms, and contract management softwa\n3 years of experience implementing projects including familiarity with stakeholder consultation, gathering requirements, task breakdown, sequencing, defining roles and responsibilities, and reporting.\nExperience with supply chain services in the public sector is an asset. Education (Degree/Diploma/Certificate) ------------------------------------------  Post-secondary certificate or diploma in rele\nAn equivalent combination of education and experience may be considered. Certification/Licensure/Registration ----------------------------------------  Active member in good standing of an associated \nFamiliarity with public procurement best practice, procurement cycles (tenders/RFXs, evaluation strategy, supplie"
+},
+{
+"title": "Control Centre Operator, Entry Level (Temporary)",
+"company": "ATCO",
+"location": "Edmonton, Alberta, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4494012823",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
 },
 {
 "title": "IT Auditor",
