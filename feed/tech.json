@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T18:19:48+00:00",
+"updated": "2026-11-25T18:29:43+00:00",
 "jobs": [
 {
 "title": "Communications Officer",
@@ -1093,7 +1093,7 @@
 "country": "CA",
 "years": null,
 "apply": "http://ca.indeed.com/job/ai-developer-agentic-seo-platform-contract-full-time-2caee05a5df3c12a",
-"salary": "$50,000.00-$100,000.00 per year",
+"salary": "$50,000.00-$70,000.00 per year",
 "skills": [
 "TypeScript",
 "PHP",
@@ -1102,7 +1102,7 @@
 "LLMs / GenAI",
 "Git"
 ],
-"req": "Company: Neo Digital Inc. Location: Remote (Edmonton preferred - Canada-friendly; overlap with Mountain Time preferred) Engagement: Contract to start, with a high chance of a full-time hire (part-time\nTune Master Rules and per-client AI instructions so output matches brand and intent.\nRun AI-assisted briefs grounded in SERP, GSC, and competitive context. SEO operations in Pulse (secondary)  Turn Google Search Console data into prioritized URL-level action lists and execute them in \nRespect client-specific settings and naming. What we are looking forMust-have AI development (heavy)  Daily production use of AI coding assistants (Cursor, Claude Code, Copilot, or similar) with revie\nExperience building with LLMs in production: structured output (JSON/schema), validation, checklists, and iteration on prompts, not one-shot generation.\nComfortable with GitHub, staging environments, and a release process. SEO and AISEO (working knowledge)  Hands-on SEO experience on real sites (agency, in-house, or your own): on-page, intent, interna\nAgency experience with SMB verticals (home services, trades, professional services). Out of scope for this contract  Owning full product architecture or large greenfield features."
+"req": "Company: Neo Digital Inc. Location: Edmonton, Alberta Canada (Localized position) Engagement: Contract or Employment to start, with a high chance of a full-time hire (part-time or project-based hours \nWork-from-Home (Local Edmonton Candidates Only). Flexibility of working from your home office while collaborating with a local team. Please note: Although this is a work-from-home position, you must r\nTune Master Rules and per-client AI instructions so output matches brand and intent.\nRun AI-assisted briefs grounded in SERP, GSC, and competitive context. SEO operations in Pulse (secondary)  Turn Google Search Console data into prioritized URL-level action lists and execute them in \nRespect client-specific settings and naming. What we are looking forMust-have AI development (heavy)  Daily production use of AI coding assistants (Cursor, Claude Code, Copilot, or similar) with revie\nExperience building with LLMs in production: structured output (JSON/schema), validation, checklists, and iteration on prompts, not one-shot generation.\nComfortable with GitHub, staging environments, and a release process. SEO and AISEO (working knowledge)  Hands-on SEO experience on real sites (agency, in-house, or your own): on-page, intent, interna\nAgency experience with SMB verticals (home services, trades, professional services). Out of scope for this contract  Owning full product architecture or large greenfield features."
 },
 {
 "title": "Data Analyst L3 - London Administration",
@@ -2438,6 +2438,175 @@
 "System design"
 ],
 "req": "Maintain runbooks, diagrams, standards, and change records; collaborate across engineering and operations. Required Qualifications Experience Required: typically 4+ years in a related professional rol\nPractical experience with the role-specific technology stack: Kubernetes, Docker/OCI, Helm, cluster operations, ingress, networking, storage, and workload security.\nProfessional experience in cloud engineering, infrastructure, DevOps, or systems operations relevant to the role.\nExperience with scripting, automation, source control, or infrastructure as code.\nStrong documentation and cross-team collaboration skills. Preferred Qualifications Additional hands-on depth in Kubernetes, Docker/OCI, Helm, cluster operations, ingress, networking, storage, and work\nExperience with cloud services, automation, and modern delivery practices relevant to the project."
+},
+{
+"title": "Simulation software design engineer",
+"company": "The Government of Nova Scotia",
+"location": "Halifax, Nova Scotia, Canada",
+"posted": "2026-11-25",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50802559",
+"source": "Job Bank",
+"country": "CA",
+"years": null
+},
+{
+"title": "Jr. Hardware/Software Test Developer",
+"company": "Microart Services, Inc.",
+"location": "Markham, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c539a18fd93ea2ff",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/microart/CANDIDATEPORTAL/jobs/792",
+"salary": "$20.00 - $21.00 K",
+"skills": [
+"Python",
+"C++",
+"Linux",
+"Hardware setup",
+"Testing (unit, automated)"
+],
+"req": "Working closely with the internal and external design/test teams in identifying problems  Produce periodic status and operational reports.\nOther related duties and projects as assigned Qualifications:  College diploma in Electronics Technician or B.Sc. Degree in Computer Science, Electrical Engineering or related field, or equivalent wor\nExperience in electronic manufacturing preferred.\nPrograming experience in Arduino, C++, Linux, Python, and MCU."
+},
+{
+"title": "Postdoctoral Scholar - Computational Multi-Omics, Translational Oncology & Liquid Biopsy",
+"company": "University of Alberta",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=dc0864aa4e2b06da",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://iaejup.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/4663",
+"skills": [
+"Python",
+"Machine learning",
+"Statistics",
+"Docker",
+"Linux",
+"Hardware setup"
+],
+"req": "This competition is open to all applicants; however, internal applicants will be given priority consideration based on minimum qualifications, or a combination of experience, skills, and abilities bef\nDevelop and benchmark methods that integrate multiomic data, including methylation, fragmentation, copy number, and mutation, into unified, interpretable biomarkers, and evaluate their performance for\nPrepare manuscripts for peer-reviewed publication, contribute to grant applications, and present work at laboratory, institutional, and international scientific meetings.\nPhD in bioinformatics, computational biology, genomics, statistics, computer science, or a related discipline, with research experience in cancer genomics or a comparable high-dimensional biomedical s\nStrong programming and data analysis skills in Python and/or R, comfort working in a Linux and high performance computing environment, and experience building reproducible workflows (for example Nextf\nDemonstrated experience analyzing next-generation sequencing data. Experience with one or more of the following is an asset: cell-free DNA, DNA methylation, fragmentomics, long-read sequencing, single\nInterest in clinical translation and willingness to work alongside clinical and laboratory colleagues. Prior experience in a hospital or cancer centre research environment is an asset.\nExcellent oral and written communication skills are required. Application Instructions Click \"Apply Now\" to submit your resume and cover le"
+},
+{
+"title": "Graduate Mechanical Engineer (Available 2027)",
+"company": "Arup",
+"location": "Ottawa, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=de905bfdfc0e0ff7",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.arup.com/jobs/graduate-mechanical-engineer-available-2027-37595",
+"salary": "$70,250 to $72,250 per year",
+"skills": [
+"Python",
+"REST APIs",
+"Airflow"
+],
+"req": "Ottawa, Ontario, Canada Mechanical Engineering Americas Region    OTT00000U Requisition  Graduate Mechanical Engineer (Available 2027) See it differently You see the world through a unique lens and\nBachelor’s degree in mechanical, architectural engineering, or building sciences related engineering degree  Coursework in heat transfer and thermodynamics, fluid dynamics or HVAC design  Developing c"
+},
+{
+"title": "Oracle HCM Functional Consultant - Operate",
+"company": "Deloitte",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=1e194fe9504d6d7b",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.deloitte.ca/job/Oracle-HCM-Functional-Consultant-Operate/135946-en_US",
+"salary": "$68,000 - $102,000,",
+"skills": [
+"Oracle",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Healthcare Quality & Data Analyst",
+"company": "Compass Health Network",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=59c3acd455b1e96e",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://compasshealthnetwork.pinpointhq.com/postings/87cd8869-e585-42f8-ba43-f7653bfa102b?utm_medium=job_board&utm_source=indeed",
+"skills": [
+"Statistics"
+],
+"req": "Description Drive Quality Improvement & Make Data Matter in Community Healthcare We’re looking for a Healthcare Quality & Data Analyst to support our FQHC (Federally Qualified Health Care) programs by"
+},
+{
+"title": "Dashboard Developer",
+"company": "Centurion Consulting Group",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=662152916570df6b",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://centurioncg.com/job/6111-dashboard-developer/",
+"skills": [
+"Python",
+"SQL",
+"Spark",
+"ETL / data pipelines",
+"Databricks",
+"Data visualization",
+"AWS",
+"Azure",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design"
+],
+"req": "Job Title: Dashboard Developer Job ID: 6111 City: Remote State: Remote Job Type: Full-time Compensation: $ to $ We are seeking a skilled Dashboard Developer with strong experience in Databricks, Qlik \nRequired Qualifications  Hands-on experience developing dashboards and visualizations using Qlik Sense.\nExperience working with Databricks for data processing, transformation, and analytics.\nExperience integrating multiple data sources into business intelligence solutions.\nPreferred Qualifications  Experience with cloud-based data platforms such as Azure or AWS.\nExperience optimizing large-scale datasets and dashboard performance.\nExperience working in Agile development environments.\nIdeal Candidate The ideal candidate is a hands-on Dashboard Developer who combines Qlik Sense dashboard development expertise, advanced SQL skills, and practical Databricks experience. This individual"
+},
+{
+"title": "Data Engineer",
+"company": "BlueSight",
+"location": "Remote · United States",
+"posted": "2026-11-25",
+"link": "https://www.indeed.com/viewjob?jk=7e4fd7072ea1e052",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9?lever-source=Indeed",
+"salary": "$110,000 - $130,000 USD per year",
+"skills": [
+"SQL",
+"Spark",
+"ETL / data pipelines",
+"Infrastructure as code",
+"Testing (unit, automated)"
+],
+"req": "Generous insurance coverage  401k program with a company match  Fun, collaborative culture! EOE AA M/F/VET/Disability All qualified applicants will receive consideration for employment and will not be"
+},
+{
+"title": "QA Engineer",
+"company": "Suger Software",
+"location": "Vancouver, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=008758f0e01793b0",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/qa-engineer-008758f0e01793b0",
+"salary": "$80,000 - $100,000 CAD/year",
+"skills": [
+"REST APIs",
+"Snowflake",
+"Oracle",
+"AWS",
+"Azure",
+"Google Cloud",
+"CI/CD",
+"Testing (unit, automated)",
+"Salesforce"
+],
+"req": "About Us Fours (formerly Suger.io) helps B2B software companies sell through cloud marketplaces like AWS, Azure, GCP, Oracle, Alibaba, and Snowflake - now one of the fastest-growing enterprise sales c\nWork alongside a top-notch team with experience at companies like Google, Meta, Salesforce, Pave, Motive, and Square."
 },
 {
 "title": "AI Developer",
@@ -9311,7 +9480,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192885&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192885%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3De09c302b-e823-11f1-bebf-e37087aa5f47%26rx_job%3DR-0000192885%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T160411Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192885&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192885%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3De09c302b-e823-11f1-bebf-e37087aa5f47%26rx_job%3DR-0000192885%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T180406Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Python",
 "SQL",
@@ -9870,7 +10039,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNT3DKSNT6SZ327A%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNVHANMYMVZRJBLQ%3d%3d%3d%3d",
 "salary": "$80,000.00 - $99,000.00",
 "skills": [
 "SQL",
@@ -12322,7 +12491,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T160402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T180404Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "SOC",
@@ -12340,7 +12509,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619485&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515506-data-visualization-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79ad77-e888-11f1-acfa-c98ebe66deee%26rx_job%3D2619485%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T160402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619485",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619485&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515506-data-visualization-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79ad77-e888-11f1-acfa-c98ebe66deee%26rx_job%3D2619485%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261125T180404Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619485",
 "salary": "$100,001 - $140,000 USD per year",
 "skills": [
 "Data visualization"
@@ -13210,6 +13379,116 @@
 "location": "Camrose, Alberta, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4476090502",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Human Resource Analyst",
+"company": "Manitoba Hydro",
+"location": "Winnipeg, Manitoba, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494700748",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DC Operations Analyst",
+"company": "ROBINSON",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494367937",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IS Quality Assurance Analyst",
+"company": "Fidelity Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4484624401",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer - Full stack",
+"company": "HazTrack Inc.",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494392663",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Full Stack Engineer",
+"company": "3Y Health",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493976747",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data and Business Intelligence Analyst, Intern",
+"company": "Hitachi Rail",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493049178",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Snowflake Data Engineer",
+"company": "TEKFORTUNE INC",
+"location": "",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494193489",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Embedded Solutions Intern",
+"company": "Altera",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494195272",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Analyst",
+"company": "Hitachi Rail",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493035668",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Information Security Operations Engineer",
+"company": "HOOPP (Healthcare of Ontario Pension Plan)",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494176786",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AI Software Development Engineer Intern",
+"company": "Altera",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4494182754",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
