@@ -1,6 +1,22 @@
 {
-"updated": "2026-11-25T00:59:47+00:00",
+"updated": "2026-11-25T01:09:47+00:00",
 "jobs": [
+{
+"title": "Spa Receptionist | Seasonal",
+"company": "WHISTLER DAY SPA",
+"location": "Whistler, BC, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=f78af2a61eb63a6e",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/spa-receptionist-seasonal-f78af2a61eb63a6e",
+"salary": "$22 per hour",
+"skills": [
+"Google Workspace"
+],
+"req": "Tell us briefly about your experience working independently in a front desk, hospitality, or customer service role. How comfortable are you handling guest concerns, staff call-ins, or unexpected issue"
+},
 {
 "title": "Front Desk Receptionist",
 "company": "Eco Chic",
@@ -3773,7 +3789,7 @@
 "Hardware setup",
 "ITIL"
 ],
-"req": "Remote Contract (3 years 1 day) Published 4 hours ago vendor management Asset reliability IT Coordination application administration production support The Application Support Analyst will provide pro\nSupport applications operating within refinery and midstream environments while adhering to cybersecurity, change control, and operational requirements. Required Qualifications -----------------------\nExperience supporting enterprise applications in an oil & gas, refining, midstream, petrochemical, or other asset-intensive industrial environment.\nExperience troubleshooting production application issues and supporting business-critical systems.\nExperience working directly with software vendors and coordinating issue resolution."
+"req": "Remote Contract (3 years 1 day) Published 10 hours ago vendor management Asset reliability IT Coordination application administration production support The Application Support Analyst will provide pr\nSupport applications operating within refinery and midstream environments while adhering to cybersecurity, change control, and operational requirements. Required Qualifications -----------------------\nExperience supporting enterprise applications in an oil & gas, refining, midstream, petrochemical, or other asset-intensive industrial environment.\nExperience troubleshooting production application issues and supporting business-critical systems.\nExperience working directly with software vendors and coordinating issue resolution."
 },
 {
 "title": "Analyst (18 months contract)",
@@ -6936,6 +6952,334 @@
 "location": "Oakville, Ontario, Canada",
 "posted": "2026-11-24",
 "link": "https://www.linkedin.com/jobs/view/4494081848",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Engineer, Platform",
+"company": "Clio",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1da4cfcf88c2fd8f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Calgary/Data-Engineer--Platform_REQ-5712",
+"salary": "$2000",
+"skills": [
+"Python",
+"Ruby",
+"Scala",
+"SQL",
+"Spark",
+"Airflow",
+"Kafka",
+"ETL / data pipelines",
+"Databricks",
+"Data visualization",
+"AWS",
+"Terraform"
+]
+},
+{
+"title": "Operations Analyst (Methods Analyst I)",
+"company": "City of Edmonton",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=66cfe0cb62834e5a",
+"source": "Indeed",
+"country": "CA",
+"years": 2,
+"apply": "https://edmonton.taleo.net/careersection/2/jobdetail.ftl?job=56495&tz=GMT-06%3A00&tzname=America%2FChicago",
+"salary": "$41.177 - $51.444",
+"skills": [
+"Python",
+"JavaScript",
+"Tableau",
+"Statistics",
+"Data visualization",
+"Google Cloud",
+"Help desk / troubleshooting",
+"Data structures & algorithms",
+"SAP"
+],
+"req": "Job Number ============== : 56495 Are you a collaborative problem solver who thrives on turning complex data into meaningful action alongside operational leaders? As an Operations Analyst in Parks and"
+},
+{
+"title": "Data and Business Intelligence Analyst, Intern",
+"company": "Hitachi Energy",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=9e0666a5fc4c8d6d",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Data-and-Business-Intelligence-Analyst--Intern_R0151457",
+"salary": "$23-$30 CAD",
+"skills": [
+"Python",
+"SQL",
+"PowerShell",
+"Power BI",
+"SQL Server",
+"Git"
+],
+"req": "The Data and Business Intelligence Analyst (Intern) will drive data-driven decision-making by supporting the end-to-end lifecycle of Power BI reporting and data modeling. While the primary focus of th\nProcess & Quality Assurance: Documenting the data processing steps for Reports, manage testing and verification of reports, and prepare/host Gate Reviews for production releases alongside Data and Rep\nProvide technical support on Power BI and UI/UX design, as required. When available, develop prototypes of Power BI Reports based on defined requirements.\nRequired Skills and Experience The ideal candidate will be:  4th or 5th year in a Computer Science, Software Engineering, or IT program (Bachelor's or Master's) or equivalent experience  Strong presen\nDemonstrated experience developing Power BI reports, including proficiency in DAX and Power Query.\nExperience or strong familiarity with Python for data processing, scripting, or automation.\nAble to work full time (40 hours) for the agreed work term with a minimum of 2 days (16 hours) in the Toronto office  Fluent in English both in written and oral communication Strong in organizational "
+},
+{
+"title": "Systems Administrator_Level 3",
+"company": "ProServeIT",
+"location": "Charlottetown, PE, CA (remote)",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=75958c3b96ba807c",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/proserveit/67324?origin=indeed",
+"skills": [
+"SQL",
+"PowerShell",
+".NET",
+"PostgreSQL",
+"MySQL",
+"AWS",
+"Azure",
+"Google Cloud",
+"Linux",
+"Networking (TCP/IP, DNS)",
+"SIEM",
+"IAM",
+"Firewalls",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization",
+"Agile / Scrum",
+"ITIL"
+],
+"req": "ProServeIT is a leading IT solutions provider that specializes in delivering innovative technology solutions to help businesses thrive. With over 20 years of experience, we've established ourselves as"
+},
+{
+"title": "IT Support Analyst",
+"company": "Valiant TMS",
+"location": "Windsor, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=aa67d993d93be8c3",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://www.valianttms.com/job/it-support-analyst/",
+"salary": "$45,000 – 60,000",
+"skills": [
+"IAM",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "What you’ll get to do  Responsible for day-to-day first-level user support for all existing hardware, software, network/telecommunication equipment and various IT services  Work with Active Directory \nEducation: Post-Secondary Information Technology (or related) diploma or equivalent experience.\nWork Authorization: Must be legally authorized to work in Canada. Travel to the USA may be required."
+},
+{
+"title": "Systems Administrator_Level 2",
+"company": "ProServeIT",
+"location": "Remote, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=011f235ba3443935",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://secure.collage.co/jobs/proserveit/67319?origin=indeed",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"IAM",
+"Firewalls",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup",
+"VMware / virtualization"
+],
+"req": "ProServeIT is a leading IT solutions provider that specializes in delivering innovative technology solutions to help businesses thrive. With over 20 years of experience, we've established ourselves as\nCollaborate with senior administrators on infrastructure projects and improvements.\nEnsure compliance with IT security standards and best practices. We would love to hear from you if you have  A Degree in Computer Science, Information Technology, or related field  5+ years of experie\nHands-on experience with Active Directory, Group Policy, and Microsoft 365 administration  Experience supporting virtualized environments (VMware, Hyper-V, or similar)  Strong understanding of hardwar"
+},
+{
+"title": "Information Security Analyst II",
+"company": "Bell",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4493954350",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Security Engineer",
+"company": "Clio",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=e95a5eb13ace3bc1",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Cloud-Security-Engineer_REQ-5710",
+"salary": "$2000",
+"skills": [
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"Infrastructure as code",
+"Incident response",
+"Vulnerability management",
+"Penetration testing",
+"IAM",
+"Threat intelligence",
+"Cloud security"
+],
+"req": "Clio is the global leader in legal AI technology, empowering legal professionals and law firms of every size to work smarter, faster, and more securely. We are transforming the legal experience for al\nPartner with the Infrastructure Security Manager and senior engineers on the team to advocate for what we put on the roadmap.\nYou collaborate well. You work closely with your manager, senior engineers and engineering teams, and you can explain security trade-offs clearly to non-security stakeholders. You stay calm under pres\nWhat You May Have  Hands-on experience securing workloads in AWS, Azure and/or GCP.\nExperience with cloud-native security tooling such as CSPM, CWPP or CNAPP platforms.\nExperience with security automation and scripting, and with infrastructure as code frameworks such as Terraform.\nExperience securing Kubernetes and containerized environments, and integrating security into CI/CD pipelines.\nExperience with incident response, threat hunting and vulnerability management in cloud environments. Familiarity with penetration testing and cloud security assessments."
+},
+{
+"title": "ScotiaMcLeod Assistant Branch Administrator",
+"company": "Scotiabank",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=81f85a9fce718ef6",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.scotiabank.com/job/Calgary-ScotiaMcLeod-Assistant-Branch-Administrator-AB-T2P1N2/608346417/",
+"skills": [
+"Spark",
+"Excel",
+"Help desk / troubleshooting"
+],
+"req": "Requisition ID: 280193 ScotiaMcLeod, a cornerstone of Scotia Wealth Management®, is a full-service wealth management firm with a proud history dating back to 1921. Known for service excellence, truste"
+},
+{
+"title": "Technology Analyst - NodeJs",
+"company": "Infosys",
+"location": "Burnaby, BC, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=28319a9444fa40b5",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/156346BR?Codes=Indeed",
+"salary": "$ 72353 to $ 111996",
+"skills": [
+"Node.js",
+"LLMs / GenAI",
+"AWS",
+"CI/CD",
+"SDLC"
+],
+"req": "Infosys is seeking a NodeJS Developer. This position will interface with key stakeholders and apply technical proficiency across different stages of the Software Development Life Cycle including Requi\nBachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.\nAt least 4 years of Information Technology experience."
+},
+{
+"title": "Full Stack Web & eCommerce Engineer",
+"company": "ACI Learning Inc",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=356457e087ddadf8",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://grnh.se/phbi4zi89us",
+"salary": "$105,500 - $123,500 USD per year",
+"skills": [
+"TypeScript",
+"HTML/CSS",
+"React",
+"Next.js",
+"Node.js",
+"GraphQL",
+"REST APIs",
+"LLMs / GenAI",
+"A/B testing",
+"Git",
+"Cybersecurity",
+"IAM",
+"Figma"
+],
+"req": "Join the ACI Learning Adventure! ------------------------------------  Our Mission Welcome to a new era of learning, where individuals and organizations come to transform goals into measurable success\nWhat you'll do You'll be the hands-on engineer behind everything a buyer touches on our sites, from the first search result to the order confirmation. Day to day, that means shipping new features, kee"
+},
+{
+"title": "Technical Support Analyst - Tier I",
+"company": "Uniguest",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=a9cc34a7037ff989",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53abd855-df3a-4397-96fc-7f8c12a795de&ccId=19000101_000001&jobId=943570&source=IN&lang=en_US",
+"salary": "$17 - $18 USD per hour",
+"skills": [
+"Linux",
+"Windows",
+"macOS",
+"Microsoft 365",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Salesforce",
+"CompTIA A+",
+"CompTIA Network+"
+],
+"req": "Join Uniguest as a Remote Technical Support Analyst At Uniguest, our Technical Support Representatives are the trusted experts our customers rely on when they need help most. If you enjoy solving tech\nStrong verbal and written communication skills with the ability to explain technical concepts to users of all experience levels.\nExperience using CRM systems (Salesforce preferred), ticketing systems, remote support tools, SharePoint, and Microsoft Office.\nExperience with Linux is a plus but not required.\nHigh school diploma or equivalent required.\nAssociate degree in Information Technology or a related field is a plus.\nBenefits package will depend on your position, location and other eligibility requirements. About Uniguest Uniguest is the global leader in providing highly secure, fully managed customer-facing techn"
+},
+{
+"title": "Customer Support Engineer",
+"company": "Second Front Systems",
+"location": "Remote · United States",
+"posted": "2026-11-24",
+"link": "https://www.indeed.com/viewjob?jk=69be47911c968c57",
+"source": "Indeed",
+"country": "US",
+"years": 5,
+"apply": "https://jobs.ashbyhq.com/Second-Front-Systems/0ed587e4-4842-45d1-af17-139f289cf806?utm_source=WnklNXPvdx",
+"salary": "$120,000 - $145,000 USD per year",
+"skills": [
+"AWS",
+"Azure",
+"Google Cloud",
+"Docker",
+"Kubernetes",
+"CI/CD",
+"Networking (TCP/IP, DNS)",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting"
+],
+"req": "Customer Support Engineer Second Front Systems is looking for an operationally rigorous, technically self-directed, mission-focused Customer Support Engineer to strengthen our customer support functio\nEscalate critical issues to appropriate internal teams with full context and urgency assessment.\nMaintain current knowledge of DevOps practices, cloud platforms, and platform deployment models. What You Bring  Minimum 5 years in customer support engineering, DevOps, or equivalent technical suppor\nHands-on troubleshooting experience with Kubernetes, Docker, Helm across AWS, Azure, and GCP.\nTop Secret clearance eligible.\nU.S. citizenship is required for this role. Preferred  Bachelor’s Degree in Computer Science or related field.\nExperience working in a startup environment, demonstrating skills in prioritizing tasks, wearing multiple hats, and working collaboratively in a cross-functional team."
+},
+{
+"title": "Seeburger Developer",
+"company": "Infosys",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-24",
+"link": "https://ca.indeed.com/viewjob?jk=1602b3dd7f97a3d6",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/156213BR?Codes=Indeed",
+"salary": "$ 72783 to $ 105007",
+"skills": [
+"ITIL"
+],
+"req": "Infosys is looking for Seeburger Developer with strong expertise in managing L2 support operations for enterprise B2B/EDI platforms. You will also play an important role in the development, configurat"
+},
+{
+"title": "Quality Coordinator - 12 Month Contract",
+"company": "Powell",
+"location": "Acheson, Alberta, Canada",
+"posted": "2026-11-24",
+"link": "https://www.linkedin.com/jobs/view/4492669191",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -13309,7 +13653,7 @@
 "years": null
 },
 {
-"title": "Software Development Intern - Waterloo University - Web3 Core tags.new",
+"title": "Software Development Intern - Waterloo University - Web3 Core New",
 "company": "Brave Software",
 "location": "CA (remote)",
 "posted": "2026-11-23",
@@ -13373,7 +13717,7 @@
 "req": "Prepare reports and documentation to support cyber security risk assessments, incident investigations, regulatory compliance activities, and internal compliance processes.\nWhat We Are Looking For  2-4 years experience in a Cyber Security GRC role.\nExperience with US Federal security frameworks such as FedRAMP, CMMC and NIST.\nExperience with global security frameworks such as ISO27001 and SOC 2 Type 2 certification programs, including supporting internal and external audit activities.\nAbility to interpret legal or regulatory documentation and coordinate responses with internal teams and legal counsel.\nIntermediate to advanced English proficiency (B2 or higher) for handling international notifications and communications.\nExperience with compliance, monitoring, or workflow tools (e.g. Jira, Confluence, Vanta or OneTrust.\nWhat We Offer  Flexible working environment – a remote-first culture with coworking options available  Generous leave plans – including, parental leave, birthday leave, and a purchased annual leave pr"
 },
 {
-"title": "Systems Build Intern - Waterloo University year 4+ only tags.new",
+"title": "Systems Build Intern - Waterloo University year 4+ only New",
 "company": "Brave Software",
 "location": "CA (remote)",
 "posted": "2026-11-23",
@@ -17499,6 +17843,46 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-23",
 "link": "https://www.linkedin.com/jobs/view/4493927946",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst- Technology Risk and Control",
+"company": "OPTrust",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4486759773",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Site Reliability Engineer - Application Security",
+"company": "ContactMonkey",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4493937180",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst – OpenText TeamSite & SharePoint Migration",
+"company": "Infotek Consulting Inc.",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492651327",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Automation Engineer",
+"company": "Grand Software Solutions",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-23",
+"link": "https://www.linkedin.com/jobs/view/4492622574",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
