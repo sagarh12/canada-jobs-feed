@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T21:59:43+00:00",
+"updated": "2026-11-26T22:09:48+00:00",
 "jobs": [
 {
 "title": "Product Engineer - Ads Bidding",
@@ -1762,23 +1762,26 @@
 "link": "https://ca.indeed.com/viewjob?jk=6fceae2d26a4dde7",
 "source": "Indeed",
 "country": "CA",
-"years": null,
+"years": 1,
 "apply": "https://jobs.dayforcehcm.com/en-CA/firstnational/CANDIDATEPORTAL/jobs/27302",
 "salary": "$70,000 - $95,000",
 "start": "November 26, 2026",
 "skills": [
-"REST APIs",
 "Power BI",
-"Tableau",
 "Excel",
+"AWS",
+"Azure",
+"Google Cloud",
 "Cybersecurity",
-"SOC",
+"Incident response",
 "Vulnerability management",
-"Encryption / PKI",
-"Microsoft 365",
-"SDLC"
+"Penetration testing",
+"Firewalls",
+"EDR",
+"Threat intelligence",
+"Cloud security"
 ],
-"req": "Eligibility for benefits is dependent on the terms of employment The Opportunity The Junior Application Security Analyst will support the Application Security team in identifying, documenting, and tra\nWork with development teams to gather information required for security analysis.\nStay informed on basic AppSec concepts such as OWASP Top 10 and secure coding practices. The experience you need:  Strong proficiency in Microsoft PowerPoint, Excel, Word, and Office 365 tools.\nExperience with or exposure to analytical or visualization tools such as Power BI, Tableau, or Excel dashboards. Foundational Cybersecurity Knowledge:  Basic understanding of cybersecurity fundamental\nCompetitive Compensation  Comprehensive benefits program (i.e., Health Spending Account, Maternity and Parental Leave Top Up)  Extensive training programs to set our employees up for success  Modern o"
+"req": "Eligibility for benefits is dependent on the terms of employment The Opportunity The Security Analyst shall have knowledge of and experienced in running a Vulnerability Management program, and profici\nNon-business facing role but an ability to build strong relationships with internal teams, and security leadership, is essential. Vulnerability Management:  Perform security research, analysis, securi\nGood practical knowledge of data and word processing tools such as MS Word, MS Excel, MS Power BI, and MS PowerPoint. The experience you need:  Post-secondary education, University education and Techn\nExperience supporting risk acceptance / waiver processes, including documenting technical risk and compensating controls.\nCertifications and Skills  Certified Ethical Hacker (CEH)  Excellent verbal communication skills  Outstanding written skills for preparing reports and briefings  Excellent analytical and problem-solvi\nCompetitive Compensation  Comprehensive benefits program (i.e., Health Spending Account, Maternity and Parental Leave Top Up)  Extensive training programs to set our employees up for success  Modern o"
 },
 {
 "title": "Junior ITSM Analyst, IT & IS",
@@ -2915,6 +2918,43 @@
 "source": "Ciena careers",
 "country": "CA",
 "years": null
+},
+{
+"title": "Network Analyst",
+"company": "Regional Municipality of Halton",
+"location": "Oakville, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=1633a03944da8d63",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://careers.halton.ca/job/56B-Halton-Regional-Centre-Network-Analyst-56B/608437117/",
+"salary": "$87,866 - $109,823",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"IAM",
+"Firewalls",
+"Encryption / PKI",
+"Windows",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Communicate and escalate network incidents to internal and external stakeholders.\nParticipate in Cybersecurity and Disaster Recovery programs. Skills & Qualifications ----------------------------  Diploma or degree in Computer Science.\nFive (5) years hands on IT and OT Networking experience.\nExperience with Cisco Nexus and enterprise products, core and edge devices utilizing layers 2 and 3.\nExperience with Microsoft products including Windows Operating Systems, Active Directory, and MS Intune.\nNetworking certifications such as Cisco, Fortinet, Microsoft and equivalent. Working/ Employment Conditions ---------------------------------- Working Conditions  Required to serve on standby for tech\nPlease submit your application online. We will accommodate individual needs for applicants with disabilities and others who are not able to apply online. If you experience any issues with submitting y\nWe encourage applications from all qualified individuals; however, only those under consideration will be contacted.\nPersonal information collected through the job application process will only be used for the purpose of determining qualifications for employment.\nIf selected for an interview, you will be contacted by email and/or phone. Please ensure the contact information provided on your resume is up to date and that you check your email and voicemail regul"
+},
+{
+"title": "Medical Lab Technologist (OPSEU LAB) - Chem/Hemat - ExamOne",
+"company": "LifeLabs",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=2115f430d3f9e458",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://jobs.dayforcehcm.com/en-US/lifelabs/CANDIDATEPORTAL/jobs/22380",
+"start": "ASAP",
+"req": "For over 50 years, LifeLabs has been Canada’s leading provider of laboratory diagnostic information and digital health connectivity systems, enabling patients and healthcare practitioners to diagnose,\nEnsure compliance with regulatory requirements and quality assurance standards. What you will bring to the role:  College diploma or University degree in Medical Laboratory Science, or equivalent educ"
 },
 {
 "title": "Strategic Compensation & Total Rewards Analyst",
@@ -6076,7 +6116,7 @@
 "req": "Storage Solutions Architect - Sales Engineer Murray, UT ABOUT VLCM VLCM (pronounced val-com) is shaping the future of enterprise technology partnerships. As a trusted IT solution provider, we speciali\nDevelop scopes of work and assist with estimating the engineering effort required for customer projects.\nDevelop knowledge and expertise across additional storage and data protection technologies supported by VLCM.\nCollaborate with other VLCM engineers across data center, virtualization, networking, cybersecurity, and cloud technologies. WHAT WE'RE LOOKING FOR  Strong hands-on experience with enterprise storage \nExperience with EverPure storage solutions is strongly preferred.\nExperience with Cohesity data protection, backup, recovery, and related technologies is strongly preferred.\nExperience designing and implementing enterprise storage and data protection solutions.\nExperience working with virtualization platforms such as VMware and/or Microsoft Hyper-V.\nExperience troubleshooting complex infrastructure, storage, backup, and performance issues."
 },
 {
-"title": "Robotics Generalist Designer and Fabricator",
+"title": "Robotics Generalist",
 "company": "CSR - Confined Space Robotics",
 "location": "Nisku, AB, CA",
 "posted": "2026-11-25",
@@ -6084,7 +6124,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "http://ca.indeed.com/job/robotics-generalist-designer-and-fabricator-6c4555255aa89135",
+"apply": "http://ca.indeed.com/job/robotics-generalist-6c4555255aa89135",
 "salary": "$35.00 per hour",
 "skills": [
 "Python",
@@ -8311,7 +8351,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 9,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619419-OTHLOC-100000755778519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18518141-cyber-defense-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D03a3a5dd-e8ed-11f1-a36f-a9fb40833a5d%26rx_job%3D2619419-OTHLOC-100000755778519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619419-OTHLOC-100000755778519",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619419-OTHLOC-100000755778519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18518141-cyber-defense-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D03a3a5dd-e8ed-11f1-a36f-a9fb40833a5d%26rx_job%3D2619419-OTHLOC-100000755778519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619419-OTHLOC-100000755778519",
 "salary": "$120,001 - $160,000 USD per year",
 "skills": [
 "Linux",
@@ -9651,7 +9691,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 3,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619508&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18519264-program-data-and-systems-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dc28b0e5c-e8fd-11f1-8809-8f98042dec70%26rx_job%3D2619508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619508",
 "salary": "$60,001 - $100,000 USD per year",
 "skills": [
 "Excel",
@@ -10129,7 +10169,7 @@
 "source": "Indeed",
 "country": "US",
 "years": 5,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619519&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18520132-cybersecurity-specialist%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D120460%26rx_id%3Dda597e23-e940-11f1-a230-313ef2dc2adf%26rx_job%3D2619519%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619519",
 "salary": "$80,001 - $120,000 USD per year",
 "skills": [
 "Python",
@@ -10613,7 +10653,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2641508&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative-lab-remote%2Fjob%2F2641508%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D7e8fad54-e952-11f1-bb3a-fd4c339649eb%26rx_job%3D2641508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200526Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3600&rx_jobId=2641508&rx_url=https%3A%2F%2Fcareers.labcorp.com%2Fcustomer-service-support-representative-lab-remote%2Fjob%2F2641508%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D442132%26rx_id%3D7e8fad54-e952-11f1-bb3a-fd4c339649eb%26rx_job%3D2641508%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220412Z%26rx_vp%3Dcpc%26source%3Dindeed%26utm_medium%3Dorganic%26utm_source%3Dindeed",
 "salary": "$17 - $23 USD per hour",
 "skills": [
 "Networking (TCP/IP, DNS)",
@@ -12061,6 +12101,56 @@
 "location": "",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4492103557",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Treasury Business Systems Analyst (BSA) / Business Data Analyst",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493451504",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Quality Assurance Analyst",
+"company": "2iSolutions Inc.",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494692877",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Analyst",
+"company": "PwC Canada",
+"location": "Greater Toronto Area, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494965167",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Engineer",
+"company": "Valtech",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4495205335",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Microsoft 365 & Azure Cloud Specialist",
+"company": "Team Power Solutions",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494958575",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -18957,7 +19047,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 1,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192885&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192885%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3De09c302b-e823-11f1-bebf-e37087aa5f47%26rx_job%3DR-0000192885%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200443Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000192885&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000192885%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3De09c302b-e823-11f1-bebf-e37087aa5f47%26rx_job%3DR-0000192885%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic",
 "skills": [
 "Python",
 "SQL",
@@ -19516,7 +19606,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNW63Q7V6M44VZAA%3d%3d%3d%3d",
+"apply": "https://bestbuycanadaorganic.broadbeanapply.com/Job/605071938?etd=MUVP6CXQ22IN4QK7IRVYMFCUSI55Y4GCFCNUG3VGUCNCL6NGWBJC6JR5IJNNDV4OCGKOAZ2DPPZXI4HFJ6N2QHI4DKSLM45ZIZO5RNXNWACBIIM7FOYQ%3d%3d%3d%3d",
 "salary": "$80,000.00 - $99,000.00",
 "skills": [
 "SQL",
@@ -20513,7 +20603,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619464&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18513731-computer-programmer%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3Dfd68f0ad-e834-11f1-9af1-15515de9bd7b%26rx_job%3D2619464%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619464",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 ".NET",
@@ -21940,7 +22030,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200412Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3284&rx_jobId=2619491&rx_url=https%3A%2F%2Fjobs.saic.com%2Fjobs%2F18515809-security-operations-business-analyst%3Fbid%3D336%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116479%26rx_id%3D6a79e03a-e888-11f1-9d6a-c98ebe66deee%26rx_job%3D2619491%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220402Z%26rx_vp%3Dcpc%26tm_company%3D2520%26tm_event%3Dview%26tm_job%3D2619491",
 "salary": "$40,001 - $80,000 USD per year",
 "skills": [
 "SOC",
@@ -24245,7 +24335,7 @@
 "source": "Indeed",
 "country": "US",
 "years": null,
-"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3339&rx_jobId=R225285&rx_url=https%3A%2F%2Fwww.gapinc.com%2Fen-us%2FJobs%2FW52%2F85%2FAnalyst%252C-Asset-Protection-Bridge-Overnight-Shift%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116953%26rx_id%3De0287a69-e92f-11f1-9598-8dd13e93879b%26rx_job%3DR225285%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T200435Z%26rx_vp%3Dcpc%26src%3DJB-12080",
+"apply": "https://jsv3.recruitics.com/redirect?rx_cid=3339&rx_jobId=R225285&rx_url=https%3A%2F%2Fwww.gapinc.com%2Fen-us%2FJobs%2FW52%2F85%2FAnalyst%252C-Asset-Protection-Bridge-Overnight-Shift%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D116953%26rx_id%3De0287a69-e92f-11f1-9598-8dd13e93879b%26rx_job%3DR225285%26rx_medium%3Dcpc%26rx_product%3Dprogrammatic-ppc%252Ccore%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261126T220405Z%26rx_vp%3Dcpc%26src%3DJB-12080",
 "skills": [
 "SOC",
 "Incident response"
