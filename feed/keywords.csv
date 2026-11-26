@@ -1,16 +1,16 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,43%,3646,853,4278,2026-11-26
-2,SQL,Language,24%,1993,484,2363,2026-11-26
-3,REST APIs,Framework,23%,1942,459,2288,2026-11-26
+1,Help desk / troubleshooting,IT support,43%,3649,856,4281,2026-11-26
+2,SQL,Language,24%,1994,485,2364,2026-11-26
+3,REST APIs,Framework,23%,1943,460,2289,2026-11-26
 4,Python,Language,22%,1885,447,2220,2026-11-26
-5,Excel,Data & AI,21%,1766,391,2028,2026-11-26
+5,Excel,Data & AI,21%,1767,392,2029,2026-11-26
 6,Hardware setup,IT support,18%,1529,328,1790,2026-11-26
-7,System design,Practice,18%,1480,354,1761,2026-11-26
-8,Microsoft 365,IT support,16%,1326,295,1533,2026-11-26
-9,Azure,Cloud & DevOps,15%,1302,284,1531,2026-11-26
-10,Agile / Scrum,Practice,15%,1238,310,1469,2026-11-26
-11,Git,Cloud & DevOps,14%,1138,306,1334,2026-11-26
-12,CI/CD,Cloud & DevOps,13%,1073,249,1253,2026-11-26
+7,System design,Practice,18%,1481,355,1762,2026-11-26
+8,Microsoft 365,IT support,16%,1327,296,1534,2026-11-26
+9,Azure,Cloud & DevOps,15%,1303,285,1532,2026-11-26
+10,Agile / Scrum,Practice,15%,1239,311,1470,2026-11-26
+11,Git,Cloud & DevOps,14%,1139,307,1335,2026-11-26
+12,CI/CD,Cloud & DevOps,13%,1074,250,1254,2026-11-26
 13,Windows,IT support,13%,1070,262,1249,2026-11-26
 14,AWS,Cloud & DevOps,12%,1051,252,1242,2026-11-26
 15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,985,260,1145,2026-11-26
@@ -25,8 +25,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 24,LLMs / GenAI,Data & AI,9%,728,174,881,2026-11-26
 25,Java,Language,8%,690,162,826,2026-11-26
 26,Jira,Practice,7%,615,160,719,2026-11-26
-27,ETL / data pipelines,Data & AI,7%,610,150,737,2026-11-26
-28,C,Language,7%,590,122,707,2026-11-26
+27,ETL / data pipelines,Data & AI,7%,611,151,738,2026-11-26
+28,C,Language,7%,591,123,708,2026-11-26
 29,HTML/CSS,Language,7%,556,129,645,2026-11-26
 30,Docker,Cloud & DevOps,6%,546,130,635,2026-11-26
 31,Machine learning,Data & AI,6%,544,115,646,2026-11-26
@@ -37,15 +37,15 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 36,TypeScript,Language,6%,470,105,555,2026-11-26
 37,SDLC,Practice,5%,448,114,527,2026-11-26
 38,Salesforce,Practice,5%,445,108,522,2026-11-26
-39,SQL Server,Database,5%,427,104,525,2026-11-26
+39,SQL Server,Database,5%,428,105,526,2026-11-26
 40,PowerShell,Language,5%,423,94,486,2026-11-26
 41,Oracle,Database,5%,415,90,508,2026-11-26
 42,Google Cloud,Cloud & DevOps,5%,403,76,478,2026-11-26
-43,.NET,Framework,5%,399,93,459,2026-11-26
+43,.NET,Framework,5%,400,94,460,2026-11-26
 44,Bash/Shell,Language,5%,394,92,461,2026-11-26
-45,Firewalls,Security,5%,388,85,458,2026-11-26
-46,Data structures & algorithms,Practice,5%,387,95,471,2026-11-26
-47,Embedded systems,Practice,4%,376,112,434,2026-11-26
+45,Data structures & algorithms,Practice,5%,388,96,472,2026-11-26
+46,Firewalls,Security,5%,388,85,458,2026-11-26
+47,Embedded systems,Practice,4%,377,113,435,2026-11-26
 48,Tableau,Data & AI,4%,359,87,417,2026-11-26
 49,Incident response,Security,4%,348,89,407,2026-11-26
 50,Google Workspace,IT support,4%,336,75,368,2026-11-26
@@ -66,8 +66,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 65,Encryption / PKI,Security,3%,242,57,286,2026-11-26
 66,Jenkins,Cloud & DevOps,3%,229,57,273,2026-11-26
 67,Object-oriented programming,Practice,3%,225,46,263,2026-11-26
-68,Databricks,Data & AI,3%,223,59,276,2026-11-26
-69,Spark,Data & AI,3%,223,53,260,2026-11-26
+68,Spark,Data & AI,3%,224,54,261,2026-11-26
+69,Databricks,Data & AI,3%,223,59,276,2026-11-26
 70,EDR,Security,3%,212,53,240,2026-11-26
 71,Angular,Framework,2%,206,49,246,2026-11-26
 72,CompTIA A+,Certification,2%,203,41,239,2026-11-26
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,3,2,3,2026-11-26
 155,Solidity,Language,0%,2,0,2,2026-11-26
 
-,Based on 8408 postings in the last 30 days (9785 all time)
+,Based on 8413 postings in the last 30 days (9790 all time)
