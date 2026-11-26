@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T20:39:49+00:00",
+"updated": "2026-11-26T20:49:48+00:00",
 "jobs": [
 {
 "title": "Product Engineer - Ads Bidding",
@@ -24505,37 +24505,6 @@
 "source": "Dropbox careers",
 "country": "US",
 "years": null
-},
-{
-"title": "IT Systems Engineer",
-"company": "Temporal",
-"location": "Remote · United States",
-"posted": "2026-11-23T20:49:58.022+00:00",
-"link": "https://jobs.ashbyhq.com/temporal/372eafe1-5e1d-414b-8e71-56c8b30a78dc",
-"source": "Temporal careers",
-"country": "US",
-"years": 8,
-"quals": [
-"8+ years of experience in IT, systems engineering, or a similar role, with a track record of owning platforms rather than only operating the",
-"Deep expertise in at least one of: identity and access management (Okta, Entra ID), device management (MDM for macOS and Windows), or endpoi",
-"Strong scripting and automation skills (for example Python, TypeScript, Bash, or PowerShell), including working with APIs and integrating Sa",
-"Experience leading cross-functional projects to completion, including scoping, stakeholder alignment, and rollout"
-],
-"skills": [
-"Python",
-"TypeScript",
-"Bash/Shell",
-"PowerShell",
-"REST APIs",
-"LLMs / GenAI",
-"Terraform",
-"Networking (TCP/IP, DNS)",
-"IAM",
-"Firewalls",
-"Windows",
-"macOS"
-],
-"req": "Design and build automation and internal tooling that eliminates manual work: onboarding and offboarding workflows, access lifecycle management, device enrollment and posture enforcement, and self-ser\nOwn technology for our San Francisco office end to end, including network and internet connectivity, Wi-Fi, A/V, and equipment, and coordinate with ISPs and vendors\n8+ years of experience in IT, systems engineering, or a similar role, with a track record of owning platforms rather than only operating them\nDeep expertise in at least one of: identity and access management (Okta, Entra ID), device management (MDM for macOS and Windows), or endpoint security and zero trust tooling\nStrong scripting and automation skills (for example Python, TypeScript, Bash, or PowerShell), including working with APIs and integrating SaaS systems, and hands-on experience using AI coding assistan\nExperience leading cross-functional projects to completion, including scoping, stakeholder alignment, and rollout\nHands-on experience with enterprise networking (switching, Wi-Fi, firewalls, ISP circuits) and with conference room and video conferencing systems\nComfort supporting senior executives: polished, discreet, and calm under pressure, with the ability to build trust quickly\nExperience with identity governance and access lifecycle automation (for example Okta Identity Governance, group rules, access certifications)\nExperience with zero trust networking (for example Cloudflare Zero Trust) and endpoint de"
 }
 ]
 }
