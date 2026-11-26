@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T17:29:56+00:00",
+"updated": "2026-11-26T17:39:46+00:00",
 "jobs": [
 {
 "title": "Salesforce Adminstrator",
@@ -1529,6 +1529,151 @@
 "Ticketing (ServiceNow, Jira)",
 "CompTIA Security+",
 "CISSP"
+]
+},
+{
+"title": "Big data analyst",
+"company": "RxFood",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50808616",
+"source": "Job Bank",
+"country": "CA",
+"years": 2
+},
+{
+"title": "Machine Learning Engineer I",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=b304e45e1e963d48",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1524380",
+"salary": "$120,000 - $153,500 CAD",
+"skills": [
+"Python",
+"Scala",
+"R",
+"SQL",
+"Machine learning",
+"Deep learning",
+"LLMs / GenAI",
+"Azure",
+"Agile / Scrum",
+"System design"
+]
+},
+{
+"title": "Temporary Analyst - PC Support, Information Technology - JWS (35hrs)",
+"company": "HALTON DISTRICT SCHOOL BOARD",
+"location": "Burlington, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=ca82bee0801ea76b",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://hdsb.simplication.com/Applicant/jobposting/jobdetails.aspx?JOB_POSTING_ID=6031b7f0-a233-4553-ba66-0c3fc44cf9a9&PAGE=1&locale=en&maf=0&sReferer=ATEINDEEDFEEDSIMP",
+"salary": "$ 38.95 - $ 46.44 per hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA A+",
+"ITIL"
+],
+"req": "Escalates issues to appropriate teams, with supporting documentation when required.\nSupport of IT and AV equipment  Services computers and AV equipment, software, ‘Customer Replaceable Unit’ (hardware)  Prepares, delivers and sets up new and repaired equipment  Works with sites to re"
+},
+{
+"title": "AI Engineer",
+"company": "Eau Claire Partners Inc.",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9fbf85cb22e63e27",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/ai-engineer-9fbf85cb22e63e27",
+"salary": "$105,000.00 per year",
+"skills": [
+"Python",
+"SQL",
+"REST APIs",
+"Machine learning",
+"LLMs / GenAI",
+"RAG",
+"LangChain",
+"Statistics",
+"Vector databases",
+"AWS"
+]
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "",
+"location": "Brampton, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=4eec74329ee27a26",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-4eec74329ee27a26",
+"salary": "$23.00-$25.00 per hour",
+"skills": [
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Consultant, Governance & Controls",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=9726c5daae72d996",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Consultant--Governance---Controls_2623082",
+"skills": [
+"CISSP"
+],
+"req": "We’re building a relationship-oriented bank for the modern world. We need talented, passionate professionals who are dedicated to doing what’s right for our clients. At CIBC, we embrace your strengths\nAudit & Risk Assessment: You will support the preparation of risk assessment materials and engage with appropriate stakeholders to gather artifacts required for control testing. You will also attend a\nDocumentation and Reporting: You will maintain high-quality documentation of testing procedures, evidence, results, and issues to support internal governance, audit readiness, and ongoing compliance r\nSubject to plan and program terms and conditions What you need to know  CIBC is committed to creating an inclusive environment where all team members and clients feel like they belong. We seek applica\nYou need to be legally eligible to work at the location(s) specified above and, where applicable, must have a valid work or study permit."
+},
+{
+"title": "Occupational Therapist, Inpatient",
+"company": "University Health Network",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=478f5ab1c1f4acb2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://forms.uhn.ca/UHNCareers/Home/Posting/744000163894599",
+"salary": "CAD 44.45 - CAD 55.57",
+"req": "Competitive offer packages  Government organization and a member of the Healthcare of Ontario Pension Plan  Close access to Transit and UHN shuttle service  A flexible work environment  Opportunities "
+},
+{
+"title": "Power Platform Developer - Clearance Required",
+"company": "LMI",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=2941a7b99e117c32",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://careers-lmi.icims.com/jobs/15183/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+"salary": "$105,000 - $140,000 USD per year",
+"skills": [
+"C",
+"SQL",
+"PowerShell",
+".NET",
+"Power BI",
+"SQL Server",
+"Microsoft 365",
+"Help desk / troubleshooting",
+"Agile / Scrum"
 ]
 },
 {
@@ -9905,6 +10050,66 @@
 "location": "Milton, Ontario, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4479204827",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Production Support Analyst",
+"company": "BMO",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494676209",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Student Intern, AI Agent Developer and Sales Enablement",
+"company": "Celestica",
+"location": "LaSalle, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494936520",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "AWS Data Engineer",
+"company": "Apptoza Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4493451011",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Intern",
+"company": "Andersen Corporation",
+"location": "Strathroy, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494944213",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Desktop Support Technician",
+"company": "CGI",
+"location": "Southport, Manitoba, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4487007239",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "IT Services Support Analyst",
+"company": "Hamilton Family Health Team",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494663647",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
