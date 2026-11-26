@@ -1,5 +1,5 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,43%,3669,876,4301,2026-11-26
+1,Help desk / troubleshooting,IT support,43%,3670,877,4302,2026-11-26
 2,SQL,Language,24%,2003,494,2373,2026-11-26
 3,REST APIs,Framework,23%,1954,471,2300,2026-11-26
 4,Python,Language,22%,1894,456,2229,2026-11-26
@@ -13,7 +13,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 12,CI/CD,Cloud & DevOps,13%,1081,257,1261,2026-11-26
 13,Windows,IT support,13%,1075,267,1254,2026-11-26
 14,AWS,Cloud & DevOps,12%,1057,258,1248,2026-11-26
-15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,991,266,1151,2026-11-26
+15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,992,267,1152,2026-11-26
 16,Cybersecurity,Security,11%,960,230,1121,2026-11-26
 17,IAM,Security,11%,945,218,1078,2026-11-26
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,916,207,1064,2026-11-26
@@ -56,8 +56,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 55,SOC,Security,4%,315,73,377,2026-11-26
 56,SAP,Practice,4%,306,64,345,2026-11-26
 57,NIST / ISO 27001,Security,4%,303,80,359,2026-11-26
-58,Infrastructure as code,Cloud & DevOps,4%,296,76,347,2026-11-26
-59,Node.js,Framework,4%,296,74,334,2026-11-26
+58,Infrastructure as code,Cloud & DevOps,3%,296,76,347,2026-11-26
+59,Node.js,Framework,3%,296,74,334,2026-11-26
 60,PostgreSQL,Database,3%,289,71,361,2026-11-26
 61,Mobile (iOS / Android),Practice,3%,282,52,338,2026-11-26
 62,macOS,IT support,3%,282,59,325,2026-11-26
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,3,2,3,2026-11-26
 155,Solidity,Language,0%,2,0,2,2026-11-26
 
-,Based on 8457 postings in the last 30 days (9834 all time)
+,Based on 8458 postings in the last 30 days (9835 all time)
