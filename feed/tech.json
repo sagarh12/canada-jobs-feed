@@ -1,6 +1,37 @@
 {
-"updated": "2026-11-27T01:29:43+00:00",
+"updated": "2026-11-27T01:39:51+00:00",
 "jobs": [
+{
+"title": "CNC Machinist/Programmer",
+"company": "Moxy HR Inc.",
+"location": "Salmon Arm, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fcc6abb8527f9616",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-fcc6abb8527f9616",
+"salary": "$28.00 - $45.00 per hour",
+"req": "Moxy HR Inc. is a recruitment office located in the Shuswap, specializing in providing outsourced recruitment solutions to a diverse range of industries. We partner with employers to source and suppor"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
+"salary": "$80,000 CAD",
+"skills": [
+"IAM",
+"Agile / Scrum",
+"SDLC"
+],
+"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
+},
 {
 "title": "Network Administrator",
 "company": "Advanced Precast",
@@ -23,24 +54,6 @@
 "CompTIA Network+",
 "CCNA"
 ]
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
-"salary": "$80,000 CAD",
-"skills": [
-"IAM",
-"Agile / Scrum",
-"SDLC"
-],
-"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
 },
 {
 "title": "Security Sales Specialist",
@@ -3947,6 +3960,36 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Full Stack .net Engineer",
+"company": "Robotics Technologies",
+"location": "Remote · United States",
+"posted": "2026-11-26",
+"link": "https://www.indeed.com/viewjob?jk=1de8a1278f809d0e",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://roboticstechno.com/view_job?mode=apply&id=40355&hr_id=3897",
+"salary": "$73/hour",
+"skills": [
+"Java",
+"JavaScript",
+"C",
+"Go",
+"Ruby",
+"SQL",
+"React",
+"Angular",
+".NET",
+"REST APIs",
+"MySQL",
+"NoSQL",
+"Git",
+"Agile / Scrum",
+"Object-oriented programming",
+"System design"
+]
 },
 {
 "title": "Strategic Compensation & Total Rewards Analyst",
@@ -10323,7 +10366,7 @@
 "req": "Pass on any feedback or suggestions from customers to the appropriate internal team. Identify and suggest potential improvements to procedures.\nQualifications  Minimum High school diploma or equivalent combination of education and experience in Information Technology, Computer Science, or related field.\nIndustry specific certification HDI, MCP, Network+ and A+ certification preferred. HDI certification required within 1 year of hire. 1 – 2 years of providing IT technical support via phone, chat and/o\nCompetitive wages  Medical with telemedicine  Dental and Vision  Basic and Optional Life Insurance  Paid Time Off (PTO)  Maternity, Parental, Family Care  Community Volunteer Time Off  12 Paid Holiday"
 },
 {
-"title": "Manufacturing Engineer - CDU",
+"title": "Mechanical Manufacturing Engineer",
 "company": "Ecolab",
 "location": "Calgary, AB, CA",
 "posted": "2026-11-25",
@@ -10331,7 +10374,7 @@
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://jobs.ecolab.com/global/en/job/EIYEIEUSR00308947EXTERNALENGLOBAL/Manufacturing-Engineer-CDU?utm_source=srm_indeed_org",
+"apply": "https://jobs.ecolab.com/global/en/job/EIYEIEUSR00308947EXTERNALENGLOBAL/Mechanical-Manufacturing-Engineer?utm_source=srm_indeed_org",
 "salary": "$1,000",
 "skills": [
 "LLMs / GenAI",
@@ -13769,6 +13812,36 @@
 "location": "Greater Toronto Area, Canada",
 "posted": "2026-11-25",
 "link": "https://www.linkedin.com/jobs/view/4494966389",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Electrical Engineering Trainee",
+"company": "Hatch",
+"location": "Niagara Falls, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494942592",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Laboratory Quality Support",
+"company": "Lightship Security, Inc.",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4459517951",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Consultant en ventes sans fil",
+"company": "Staples Canada",
+"location": "Red Deer County, Alberta, Canada",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4494680772",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
