@@ -1,16 +1,16 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
-1,Help desk / troubleshooting,IT support,43%,3573,799,4384,2026-11-27
+1,Help desk / troubleshooting,IT support,43%,3575,801,4386,2026-11-27
 2,SQL,Language,24%,1952,448,2415,2026-11-27
 3,REST APIs,Framework,23%,1886,415,2331,2026-11-27
 4,Python,Language,22%,1845,416,2269,2026-11-27
-5,Excel,Data & AI,21%,1746,382,2092,2026-11-27
+5,Excel,Data & AI,21%,1749,385,2095,2026-11-27
 6,Hardware setup,IT support,18%,1485,300,1824,2026-11-27
 7,System design,Practice,17%,1435,327,1795,2026-11-27
 8,Microsoft 365,IT support,16%,1309,273,1574,2026-11-27
 9,Azure,Cloud & DevOps,15%,1275,255,1566,2026-11-27
 10,Agile / Scrum,Practice,15%,1205,291,1508,2026-11-27
 11,Git,Cloud & DevOps,13%,1114,283,1368,2026-11-27
-12,Windows,IT support,13%,1055,229,1276,2026-11-27
+12,Windows,IT support,13%,1057,231,1278,2026-11-27
 13,CI/CD,Cloud & DevOps,13%,1050,232,1289,2026-11-27
 14,AWS,Cloud & DevOps,12%,1028,232,1272,2026-11-27
 15,"Networking (TCP/IP, DNS)",Cloud & DevOps,12%,975,245,1175,2026-11-27
@@ -45,7 +45,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 44,Firewalls,Security,5%,380,82,474,2026-11-27
 45,Data structures & algorithms,Practice,5%,375,92,481,2026-11-27
 46,Bash/Shell,Language,5%,374,82,469,2026-11-27
-47,Embedded systems,Practice,5%,372,95,441,2026-11-27
+47,Embedded systems,Practice,4%,372,95,441,2026-11-27
 48,Incident response,Security,4%,351,77,422,2026-11-27
 49,Tableau,Data & AI,4%,350,72,423,2026-11-27
 50,Google Workspace,IT support,4%,335,68,375,2026-11-27
@@ -88,8 +88,8 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 87,Spring Boot,Framework,2%,135,24,164,2026-11-27
 88,CISSP,Certification,2%,129,35,157,2026-11-27
 89,PHP,Language,2%,127,30,157,2026-11-27
-90,Jest / PyTest,Practice,2%,124,39,152,2026-11-27
-91,VBA,Language,2%,124,41,150,2026-11-27
+90,Jest / PyTest,Practice,1%,124,39,152,2026-11-27
+91,VBA,Language,1%,124,41,150,2026-11-27
 92,Kafka,Data & AI,1%,123,32,157,2026-11-27
 93,MongoDB,Database,1%,116,20,138,2026-11-27
 94,Threat intelligence,Security,1%,113,28,138,2026-11-27
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,3,2,3,2026-11-27
 155,Solidity,Language,0%,2,0,2,2026-11-27
 
-,Based on 8264 postings in the last 30 days (10030 all time)
+,Based on 8267 postings in the last 30 days (10033 all time)
