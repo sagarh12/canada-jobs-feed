@@ -1,10 +1,10 @@
 Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Postings (last 7 days),Postings (all time),Updated
 1,Help desk / troubleshooting,IT support,43%,3593,819,4404,2026-11-27
 2,SQL,Language,24%,1962,458,2425,2026-11-27
-3,REST APIs,Framework,23%,1897,426,2342,2026-11-27
-4,Python,Language,22%,1850,421,2274,2026-11-27
+3,REST APIs,Framework,23%,1898,427,2343,2026-11-27
+4,Python,Language,22%,1851,422,2275,2026-11-27
 5,Excel,Data & AI,21%,1756,392,2102,2026-11-27
-6,Hardware setup,IT support,18%,1490,305,1829,2026-11-27
+6,Hardware setup,IT support,18%,1491,306,1830,2026-11-27
 7,System design,Practice,17%,1442,334,1802,2026-11-27
 8,Microsoft 365,IT support,16%,1320,284,1585,2026-11-27
 9,Azure,Cloud & DevOps,15%,1283,263,1574,2026-11-27
@@ -17,7 +17,7 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 16,IAM,Security,11%,938,203,1110,2026-11-27
 17,Cybersecurity,Security,11%,937,212,1148,2026-11-27
 18,"Ticketing (ServiceNow, Jira)",IT support,11%,897,185,1083,2026-11-27
-19,JavaScript,Language,10%,803,189,986,2026-11-27
+19,JavaScript,Language,10%,804,190,987,2026-11-27
 20,"Testing (unit, automated)",Practice,10%,798,199,957,2026-11-27
 21,Power BI,Data & AI,9%,788,168,973,2026-11-27
 22,Statistics,Data & AI,9%,786,188,947,2026-11-27
@@ -29,11 +29,11 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 28,C,Language,7%,574,113,722,2026-11-27
 29,Machine learning,Data & AI,7%,545,114,664,2026-11-27
 30,Docker,Cloud & DevOps,7%,545,129,660,2026-11-27
-31,HTML/CSS,Language,6%,537,123,661,2026-11-27
+31,HTML/CSS,Language,6%,538,124,662,2026-11-27
 32,Vulnerability management,Security,6%,505,129,592,2026-11-27
 33,Monitoring,Cloud & DevOps,6%,501,115,613,2026-11-27
-34,React,Framework,6%,479,103,596,2026-11-27
-35,TypeScript,Language,6%,471,105,575,2026-11-27
+34,React,Framework,6%,480,104,597,2026-11-27
+35,TypeScript,Language,6%,472,106,576,2026-11-27
 36,Kubernetes,Cloud & DevOps,6%,470,106,593,2026-11-27
 37,SDLC,Practice,5%,446,96,539,2026-11-27
 38,Salesforce,Practice,5%,445,98,534,2026-11-27
@@ -155,4 +155,4 @@ Rank,Keyword,Category,% of postings (last 30 days),Postings (last 30 days),Posti
 154,Keras,Data & AI,0%,3,2,3,2026-11-27
 155,Solidity,Language,0%,2,0,2,2026-11-27
 
-,Based on 8308 postings in the last 30 days (10074 all time)
+,Based on 8310 postings in the last 30 days (10076 all time)
