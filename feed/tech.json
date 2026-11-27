@@ -1,6 +1,37 @@
 {
-"updated": "2026-11-27T01:49:51+00:00",
+"updated": "2026-11-27T01:59:52+00:00",
 "jobs": [
+{
+"title": "CNC Machinist/Programmer",
+"company": "Moxy HR Inc.",
+"location": "Salmon Arm, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fcc6abb8527f9616",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-fcc6abb8527f9616",
+"salary": "$28.00 - $45.00 per hour",
+"req": "Moxy HR Inc. is a recruitment office located in the Shuswap, specializing in providing outsourced recruitment solutions to a diverse range of industries. We partner with employers to source and suppor"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
+"salary": "$80,000 CAD",
+"skills": [
+"IAM",
+"Agile / Scrum",
+"SDLC"
+],
+"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
+},
 {
 "title": "Network Administrator",
 "company": "Advanced Precast",
@@ -23,37 +54,6 @@
 "CompTIA Network+",
 "CCNA"
 ]
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
-"salary": "$80,000 CAD",
-"skills": [
-"IAM",
-"Agile / Scrum",
-"SDLC"
-],
-"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
-},
-{
-"title": "CNC Machinist/Programmer",
-"company": "Moxy HR Inc.",
-"location": "Salmon Arm, BC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=fcc6abb8527f9616",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-fcc6abb8527f9616",
-"salary": "$28.00 - $45.00 per hour",
-"req": "Moxy HR Inc. is a recruitment office located in the Shuswap, specializing in providing outsourced recruitment solutions to a diverse range of industries. We partner with employers to source and suppor"
 },
 {
 "title": "Security Sales Specialist",
@@ -26341,86 +26341,6 @@
 "Salesforce"
 ],
 "req": "This is a role for technically strong people who are ready to own a number. You'll need at least 1-2 years of closing experience, and technical credibility is non-negotiable.\nPartner with Solutions Engineers on more complex evaluations, and advocate for customer needs internally with Product and Engineering.\nAt least 1-2 years of closing experience carrying a quota, ideally selling technical or data infrastructure products to engineering buyers.\nA technical foundation that earns respect in engineering conversations — built through experience as a data engineer, solutions engineer/architect, software engineer, or similar role.\nComfort with the modern data stack: columnar databases, streaming ingestion (Kafka, Kinesis), cloud infrastructure, and SQL-heavy analytics workflows. Hands-on experience with ClickHouse, DuckDB, Drui\nSome customer-facing experience — whether in pre-sales, technical account management, solutions engineering, or a customer-success capacity. You've navigated technical conversations with real stakes b"
-},
-{
-"title": "Engineering New Graduate (Timmins, ON)",
-"company": "OPG",
-"location": "Timmins, ON, CA, P4N 7C0",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.opg.com/job/Timmins-Engineering-New-Graduate-%28Timmins%2C-ON%29-ON-P4N-7C0/607375317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "OPG careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Engineering New Graduate (Renfrew, ON)",
-"company": "OPG",
-"location": "Renfrew, ON, CA, K7V 0C2",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.opg.com/job/Renfrew-Engineering-New-Graduate-%28Renfrew%2C-ON%29-ON-K7V-0C2/607375617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "OPG careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Engineering New Graduate (Pickering, Oshawa, or Darlington, ON)",
-"company": "OPG",
-"location": "Oshawa, ON, CA, L1H 8W8",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.opg.com/job/Oshawa-Engineering-New-Graduate-%28Pickering%2C-Oshawa%2C-or-Darlington%2C-ON%29-ON-L1H-8W8/607375417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "OPG careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Associate Professor/Professor - Mechanical Engineering",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Mechanical-Engineering-ON/607346517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Assistant Professor - Mechanical Engineering",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Mechanical-Engineering-ON/607346417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Assistant Professor, Teaching Stream - Advanced Manufacturing & Automation",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor%2C-Teaching-Stream-Advanced-Manufacturing-&-Automation-ON/607346217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": 5
-},
-{
-"title": "Digital Communications Officer",
-"company": "University of Toronto",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://jobs.utoronto.ca/job/Toronto-Digital-Communications-Officer-ON/605508917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "University of Toronto careers",
-"country": "CA",
-"years": 4
-},
-{
-"title": "Analyst or Associate, M&A (Calgary or Edmonton)",
-"company": "EY",
-"location": "Calgary, AB, CA, T2P 1M4",
-"posted": "2026-11-24T02:00:00+00:00",
-"link": "https://careers.ey.com/ey/job/Calgary-Analyst-or-Associate%2C-M&A-%28Calgary-or-Edmonton%29-AB-T2P-1M4/1451234333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "EY careers",
-"country": "CA",
-"years": 4
 }
 ]
 }
