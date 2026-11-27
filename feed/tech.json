@@ -1,88 +1,207 @@
 {
-"updated": "2026-11-27T06:59:57+00:00",
+"updated": "2026-11-27T07:09:51+00:00",
 "jobs": [
 {
-"title": "Cloud Applications Specialist",
-"company": "DLA Piper",
-"location": "Calgary, AB, CA",
+"title": "ServiceNow Developer, IRM & Security Operations, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Calgary, AB, CA (remote)",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=af0066c6aa992e93",
+"link": "https://ca.indeed.com/viewjob?jk=2a6c5156854349ec",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA",
+"apply": "https://careers.deloitte.ca/job/ServiceNow-Developer%2C-IRM-&-Security-Operations%2C-Deloitte-Global-Technology/136063-en_US",
+"salary": "$69,000 - $114,000,",
 "skills": [
-"PowerShell",
+"JavaScript",
 "REST APIs",
-"Azure",
-"IAM",
-"Microsoft 365",
-"Help desk / troubleshooting"
-]
+"SOC",
+"Incident response",
+"Vulnerability management",
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"SDLC",
+"ITIL"
+],
+"req": "Learn from deep subject matter experts through mentoring and on the job coaching Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develo\nStay current with evolving ServiceNow capabilities and development practices and contribute to the continuous improvement of platform solutions. About the team ------------------ Deloitte Technology w\nMinimum of 5 years of application or platform development experience, including at least 3 years of hands-on ServiceNow development experience.\nHands-on experience developing, configuring, or supporting solutions within ServiceNow Integrated Risk Management (IRM) and/or Security Operations (SecOps).\nExperience with JavaScript, Business Rules, Client Scripts, UI Policies, Flow Designer, and related ServiceNow platform capabilities.\nExperience developing or supporting integrations between ServiceNow and other enterprise applications using APIs and related integration technologies.\nPreferred Qualifications:  ServiceNow Certified Application Developer (CAD) certification.\nExperience working with ServiceNow IRM capabilities such as Risk Management, Policy and Compliance Management, Audit Management, and Third-Party Risk Management.\nExperience with ServiceNow Security Operations capabilities such as Security Incident Response and Vulnerability Response.\nExperience with ServiceNow Automated Test Framework (ATF), Performance Analytics, App Engine Studio, UI Builder, Build Agent, and/or Now"
 },
 {
-"title": "Cloud Applications Specialist",
-"company": "DLA Piper",
-"location": "Vancouver, BC, CA",
+"title": "IT Service Technician",
+"company": "Flynn Group of Companies",
+"location": "Mississauga, ON, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=f657f05299ca1ccd",
+"link": "https://ca.indeed.com/viewjob?jk=45bc464d6bd37ea4",
 "source": "Indeed",
 "country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA",
+"years": 3,
+"apply": "https://jobs.lever.co/flynncompanies/f2941e6e-3dc7-49d8-a7be-38ddeb3a4655?lever-source=Indeed",
 "skills": [
 "PowerShell",
-"REST APIs",
-"Azure",
-"IAM",
+"Incident response",
+"Windows",
 "Microsoft 365",
-"Help desk / troubleshooting"
+"Ticketing (ServiceNow, Jira)",
+"Help desk / troubleshooting",
+"Hardware setup",
+"Jira",
+"SAP",
+"ITIL"
+],
+"req": "At Flynn, it's not just a job, it's a career Flynn Group of Companies, North America’s leading building envelope contractor, is looking for an IT Service Technician to join our team in our Mississauga\nMonitor ticket queues, identify trends, declare and coordinate major incidents when required, and participate in root cause analysis and corrective actions.\nParticipate in an on-call rotation, including evenings, weekends, and holidays, and travel occasionally to support regional offices and projects. Technical Skills Include:  Strong experience installin\nExperience with Microsoft 365 Apps, Microsoft Teams and Teams Rooms, Autodesk, Bluebeam, and similar business applications.\nExperience with endpoint management and automation tools such as Microsoft Intune, Windows Autopilot, MDT, and PowerShell, as well as familiarity with Microsoft Dynamics SL and SAP SuccessFactors, is \nExperience using enterprise ticketing platforms such as ServiceNow, Jira Service Management, or similar systems.\nUnderstanding of ITIL best practices and IT service management principles. What we are Seeking:  + Degree or diploma in Computer Systems, Networking, Information Technology, or equivalent experience. "
+},
+{
+"title": "Network administrator",
+"company": "Hare Motors Ltd.",
+"location": "Surrey, British Columbia, Canada",
+"posted": "2026-11-27",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50811986",
+"source": "Job Bank",
+"country": "CA",
+"years": 0
+},
+{
+"title": "Junior Customer Service and Order Desk Coordinator",
+"company": "Huer Foods Inc.",
+"location": "Langley, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=cf5ba6d5f1118c37",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "http://ca.indeed.com/job/junior-customer-service-and-order-desk-coordinator-cf5ba6d5f1118c37",
+"salary": "$22.00 per hour",
+"skills": [
+"Excel"
 ]
 },
 {
-"title": "Cloud Applications Specialist",
+"title": "Associate, Commercial Banking Associate Program – New Grad - Automotive Finance, Ontario Region",
+"company": "CIBC",
+"location": "Toronto, ON",
+"posted": "2026-11-27",
+"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Commercial-Banking-Associate-Program---New-Grad---Automotive-Finance--Ontario-Region_2624757",
+"source": "CIBC careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Research Scientist Engineer",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-27",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Research-Scientist-Engineer_R032117",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Analog Layout Engineer",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-27",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-Layout-Engineer_R032187",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Automation engineer - Global Technical Support Intern",
+"company": "Ciena",
+"location": "Ottawa",
+"posted": "2026-11-27",
+"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186",
+"source": "Ciena careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-27",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Remote Website Designer — Freelance Services for Small Businesses",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=29e4af258f2a3be5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/remote-website-designer-freelance-services-small-businesses-29e4af258f2a3be5",
+"salary": "$25 per hour",
+"skills": [
+"JavaScript",
+"HTML/CSS"
+]
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "Moxy HR Inc.",
+"location": "Salmon Arm, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fcc6abb8527f9616",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-fcc6abb8527f9616",
+"salary": "$28.00 - $45.00 per hour",
+"req": "Moxy HR Inc. is a recruitment office located in the Shuswap, specializing in providing outsourced recruitment solutions to a diverse range of industries. We partner with employers to source and suppor"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
+"salary": "$80,000 CAD",
+"skills": [
+"IAM",
+"Agile / Scrum",
+"SDLC"
+],
+"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
+},
+{
+"title": "Network Administrator",
+"company": "Advanced Precast",
+"location": "Bolton, ON, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=0e12028878ac3049",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "http://ca.indeed.com/job/network-administrator-0e12028878ac3049",
+"salary": "$42.00 per hour",
+"skills": [
+"Linux",
+"Networking (TCP/IP, DNS)",
+"IAM",
+"Firewalls",
+"Windows",
+"Help desk / troubleshooting",
+"Hardware setup",
+"CompTIA Network+",
+"CCNA"
+]
+},
+{
+"title": "Information Security Analyst",
 "company": "DLA Piper",
 "location": "Edmonton, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=0ab1ded0c11183af",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA",
-"skills": [
-"PowerShell",
-"REST APIs",
-"Azure",
-"IAM",
-"Microsoft 365",
-"Help desk / troubleshooting"
-]
-},
-{
-"title": "Information Security Analyst",
-"company": "DLA Piper",
-"location": "Vancouver, BC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=dfd8ac79651c1f96",
-"source": "Indeed",
-"country": "CA",
-"years": 5,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA",
-"skills": [
-"Cybersecurity",
-"SOC",
-"Vulnerability management",
-"IAM",
-"EDR",
-"NIST / ISO 27001"
-]
-},
-{
-"title": "Information Security Analyst",
-"company": "DLA Piper",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=52adb8866999d568",
+"link": "https://ca.indeed.com/viewjob?jk=7892981cdc7cadd7",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
@@ -118,9 +237,9 @@
 {
 "title": "Information Security Analyst",
 "company": "DLA Piper",
-"location": "Edmonton, AB, CA",
+"location": "Calgary, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=7892981cdc7cadd7",
+"link": "https://ca.indeed.com/viewjob?jk=52adb8866999d568",
 "source": "Indeed",
 "country": "CA",
 "years": 5,
@@ -135,138 +254,79 @@
 ]
 },
 {
-"title": "Network Administrator",
-"company": "Advanced Precast",
-"location": "Bolton, ON, CA",
+"title": "Information Security Analyst",
+"company": "DLA Piper",
+"location": "Vancouver, BC, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=0e12028878ac3049",
+"link": "https://ca.indeed.com/viewjob?jk=dfd8ac79651c1f96",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "http://ca.indeed.com/job/network-administrator-0e12028878ac3049",
-"salary": "$42.00 per hour",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=553357&source=IN&lang=en_CA",
 "skills": [
-"Linux",
-"Networking (TCP/IP, DNS)",
+"Cybersecurity",
+"SOC",
+"Vulnerability management",
 "IAM",
-"Firewalls",
-"Windows",
-"Help desk / troubleshooting",
-"Hardware setup",
-"CompTIA Network+",
-"CCNA"
+"EDR",
+"NIST / ISO 27001"
 ]
 },
 {
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
+"title": "Cloud Applications Specialist",
+"company": "DLA Piper",
+"location": "Edmonton, AB, CA",
 "posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"link": "https://ca.indeed.com/viewjob?jk=0ab1ded0c11183af",
 "source": "Indeed",
 "country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
-"salary": "$80,000 CAD",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA",
 "skills": [
+"PowerShell",
+"REST APIs",
+"Azure",
 "IAM",
-"Agile / Scrum",
-"SDLC"
-],
-"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
-},
-{
-"title": "CNC Machinist/Programmer",
-"company": "Moxy HR Inc.",
-"location": "Salmon Arm, BC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=fcc6abb8527f9616",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-fcc6abb8527f9616",
-"salary": "$28.00 - $45.00 per hour",
-"req": "Moxy HR Inc. is a recruitment office located in the Shuswap, specializing in providing outsourced recruitment solutions to a diverse range of industries. We partner with employers to source and suppor"
-},
-{
-"title": "Remote Website Designer — Freelance Services for Small Businesses",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=29e4af258f2a3be5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/remote-website-designer-freelance-services-small-businesses-29e4af258f2a3be5",
-"salary": "$25 per hour",
-"skills": [
-"JavaScript",
-"HTML/CSS"
+"Microsoft 365",
+"Help desk / troubleshooting"
 ]
 },
 {
-"title": "Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
+"title": "Cloud Applications Specialist",
+"company": "DLA Piper",
+"location": "Vancouver, BC, CA",
 "posted": "2026-11-27",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Automation engineer - Global Technical Support Intern",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-11-27",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Analog Layout Engineer",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-11-27",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-Layout-Engineer_R032187",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Research Scientist Engineer",
-"company": "Ciena",
-"location": "Ottawa",
-"posted": "2026-11-27",
-"link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Research-Scientist-Engineer_R032117",
-"source": "Ciena careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Associate, Commercial Banking Associate Program – New Grad - Automotive Finance, Ontario Region",
-"company": "CIBC",
-"location": "Toronto, ON",
-"posted": "2026-11-27",
-"link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Commercial-Banking-Associate-Program---New-Grad---Automotive-Finance--Ontario-Region_2624757",
-"source": "CIBC careers",
-"country": "CA",
-"years": null
-},
-{
-"title": "Junior Customer Service and Order Desk Coordinator",
-"company": "Huer Foods Inc.",
-"location": "Langley, BC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=cf5ba6d5f1118c37",
+"link": "https://ca.indeed.com/viewjob?jk=f657f05299ca1ccd",
 "source": "Indeed",
 "country": "CA",
-"years": 1,
-"apply": "http://ca.indeed.com/job/junior-customer-service-and-order-desk-coordinator-cf5ba6d5f1118c37",
-"salary": "$22.00 per hour",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA",
 "skills": [
-"Excel"
+"PowerShell",
+"REST APIs",
+"Azure",
+"IAM",
+"Microsoft 365",
+"Help desk / troubleshooting"
+]
+},
+{
+"title": "Cloud Applications Specialist",
+"company": "DLA Piper",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=af0066c6aa992e93",
+"source": "Indeed",
+"country": "CA",
+"years": 5,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=19e24c86-3c62-423b-9c3b-861d674aef5c&ccId=19000101_000001&jobId=552913&source=IN&lang=en_CA",
+"skills": [
+"PowerShell",
+"REST APIs",
+"Azure",
+"IAM",
+"Microsoft 365",
+"Help desk / troubleshooting"
 ]
 },
 {
@@ -751,7 +811,7 @@
 "years": 2,
 "apply": "https://careers.primarycarealberta.ca/jobs/registered-nurse-6657",
 "salary": "$40.76 to $55.79 per hour",
-"req": "Edmonton Zone PCA, Edmonton, Northgate Centre New Nursing - Nurse/Psych Nurse    PRI00002450 Requisition     19 hours ago Post Date  Your Opportunity: The Public Health Nurse (PHN) is a member o"
+"req": "Edmonton Zone PCA, Edmonton, Northgate Centre Nursing - Nurse/Psych Nurse    PRI00002450 Requisition     1 day ago Post Date  Your Opportunity: The Public Health Nurse (PHN) is a member of the E"
 },
 {
 "title": "Intermediate SharePoint Developer",
@@ -4752,6 +4812,31 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Canadian Capital Markets - Data Analyst Intern",
+"company": "TMX GROUP",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-26",
+"link": "https://ca.indeed.com/viewjob?jk=36afabaf437644ef",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets---Data-Analyst-Intern_R-6758",
+"salary": "$20/hour",
+"skills": [
+"Python",
+"SQL",
+"Pandas",
+"NumPy",
+"Power BI",
+"Tableau",
+"Excel",
+"Data visualization",
+"Networking (TCP/IP, DNS)",
+"Microsoft 365"
+],
+"req": "Venture outside the ordinary - TMX Careers The TMX group of companies includes leading global exchanges such as the Toronto Stock Exchange, Montreal Exchange, and numerous innovative organizations enh\nContinuous Learning: Actively contribute to team research, market structure reviews, and mentorship sessions to build strong foundational expertise in equity trading infrastructure. Must Have(s)  Curr\nFoundational understanding of Canadian equity market structure (e.g., lit vs. dark books, maker-taker models, TSX/TSX Alpha mechanics). Experience working with high-volume transaction or order-book ma"
 },
 {
 "title": "AI Research Engineer",
@@ -14891,6 +14976,72 @@
 "source": "LinkedIn",
 "country": "CA",
 "years": null
+},
+{
+"title": "Interactive Web Designer/Developer",
+"company": "MembersFirst",
+"location": "",
+"posted": "2026-11-25",
+"link": "https://www.linkedin.com/jobs/view/4479242264",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Cloud Engineer, Azure, Deloitte Global Technology",
+"company": "Deloitte",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=c1bf0c0b7c971fd2",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://careers.deloitte.ca/job/Cloud-Engineer%2C-Azure%2C-Deloitte-Global-Technology/136037-en_US",
+"salary": "$69,000 - $114,000,",
+"skills": [
+"Bash/Shell",
+"PowerShell",
+"Azure",
+"Kubernetes",
+"Terraform",
+"CI/CD",
+"GitHub Actions",
+"Git",
+"Infrastructure as code",
+"Monitoring",
+"Vulnerability management",
+"IAM",
+"Help desk / troubleshooting",
+"Agile / Scrum",
+"System design",
+"Azure certification"
+]
+},
+{
+"title": "Consultant, Product Engineering & Development",
+"company": "Deloitte",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-25",
+"link": "https://ca.indeed.com/viewjob?jk=91e3c4394f84a20c",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://careers.deloitte.ca/job/Consultant%2C-Product-Engineering-&-Development/135989-en_US",
+"salary": "$58,000 - $102,000,",
+"skills": [
+"REST APIs",
+"LLMs / GenAI",
+"RAG",
+"A/B testing",
+"Vector databases",
+"Docker",
+"CI/CD",
+"Serverless",
+"Agile / Scrum",
+"Testing (unit, automated)",
+"Figma"
+],
+"req": "Learn from deep subject matter experts through mentoring and on the job coaching - ------ What will your typical day look like? ----------------------------------------- Build first, everywhere  Desig\nContribute to reusable assets, including starter kits, reference implementations, and internal tooling, that make subsequent engagements faster.\nAssess the customer experience of the features you build, and bring user research and usability findings into your designs.\nInstrument your features and use analytics and user feedback to decide what to improve next. Contribute to winning and delivering work  Support pursuits by building working prototypes and demo compone\nCollaborate with senior consultants, architects, and delivery leads to break down work, manage dependencies, and keep engineering moving. Depending on your technical domain, you will also:  Custom dev\nCloud engineering: Build and configure solutions on a major cloud platform, including compute, serverless, containers, messaging, API management, managed databases, and identity. About the team ------\nProficiency in at least one modern application stack, and working experience in one or more of the following: o Custom software development (full-stack and cloud-native applications, application moder\nClear communication with both technical and non-technical audiences, including clients. Nice-to-have qualifications  Experience contributing to a prototype, PoC, or demo used in a client pursuit or pr\nExperience with design to"
 },
 {
 "title": "AI Developer",
