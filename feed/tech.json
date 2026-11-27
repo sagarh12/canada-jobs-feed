@@ -1,6 +1,63 @@
 {
-"updated": "2026-11-27T05:09:54+00:00",
+"updated": "2026-11-27T05:19:48+00:00",
 "jobs": [
+{
+"title": "Network Provisioning Engineer",
+"company": "Mastercard",
+"location": "Waterloo, Belgium",
+"posted": "2026-11-27",
+"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"source": "Mastercard careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Remote Website Designer — Freelance Services for Small Businesses",
+"company": "",
+"location": "Remote, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=29e4af258f2a3be5",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/remote-website-designer-freelance-services-small-businesses-29e4af258f2a3be5",
+"salary": "$25 per hour",
+"skills": [
+"JavaScript",
+"HTML/CSS"
+]
+},
+{
+"title": "CNC Machinist/Programmer",
+"company": "Moxy HR Inc.",
+"location": "Salmon Arm, BC, CA",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=fcc6abb8527f9616",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-fcc6abb8527f9616",
+"salary": "$28.00 - $45.00 per hour",
+"req": "Moxy HR Inc. is a recruitment office located in the Shuswap, specializing in providing outsourced recruitment solutions to a diverse range of industries. We partner with employers to source and suppor"
+},
+{
+"title": "Business Analyst",
+"company": "Digital Research Alliance of Canada",
+"location": "CA (remote)",
+"posted": "2026-11-27",
+"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
+"salary": "$80,000 CAD",
+"skills": [
+"IAM",
+"Agile / Scrum",
+"SDLC"
+],
+"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
+},
 {
 "title": "Network Administrator",
 "company": "Advanced Precast",
@@ -22,53 +79,6 @@
 "Hardware setup",
 "CompTIA Network+",
 "CCNA"
-]
-},
-{
-"title": "Business Analyst",
-"company": "Digital Research Alliance of Canada",
-"location": "CA (remote)",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=9f1d4ecddaf0b39f",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=61008c6c-69b0-4ac1-8727-d86f6a6d54f5&jobId=595721",
-"salary": "$80,000 CAD",
-"skills": [
-"IAM",
-"Agile / Scrum",
-"SDLC"
-],
-"req": "ABOUT DRAC The Digital Research Alliance of Canada (DRAC) serves Canadian researchers, with the objective of advancing Canada’s position as a leader in the knowledge economy on the international stage\nQUALIFICATIONS  Post-Secondary degree in Computer Science, Information Systems, Business Analysis, Engineering, Business Administration, or a related discipline, or an equivalent combination of educat\n3–5 years of progressive experience in business analysis or a related role supporting technology, software, infrastructure or service improvement initiatives.\nExperience analyzing complex technical environments, including applications, interfaces, data flows, authentication and authorization mechanisms, and operational dependencies.\nExperience developing business requirements, functional specifications, process models, and contributing to options analyses, risk assessments and implementation recommendations.\nExperience working with software development, infrastructure operations, architecture and service delivery teams.\nExperience supporting system modernization, process transformation or the introduction of new enterprise or operational platforms.\nExcellent written and verbal communication skills, including the ability to explain technical concepts and facilitate discussions among stakeholders with different areas of expertise.\nProfessional certifications such as Certified Business Analysis Professional (CBAP) or an International Institute of Business Analysis (IIBA) Product Owner"
-},
-{
-"title": "CNC Machinist/Programmer",
-"company": "Moxy HR Inc.",
-"location": "Salmon Arm, BC, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=fcc6abb8527f9616",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/cnc-machinistprogrammer-fcc6abb8527f9616",
-"salary": "$28.00 - $45.00 per hour",
-"req": "Moxy HR Inc. is a recruitment office located in the Shuswap, specializing in providing outsourced recruitment solutions to a diverse range of industries. We partner with employers to source and suppor"
-},
-{
-"title": "Remote Website Designer — Freelance Services for Small Businesses",
-"company": "",
-"location": "Remote, CA",
-"posted": "2026-11-27",
-"link": "https://ca.indeed.com/viewjob?jk=29e4af258f2a3be5",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/remote-website-designer-freelance-services-small-businesses-29e4af258f2a3be5",
-"salary": "$25 per hour",
-"skills": [
-"JavaScript",
-"HTML/CSS"
 ]
 },
 {
@@ -468,16 +478,6 @@
 "ITIL"
 ],
 "req": "Who are we looking for? We are looking for a Technical Application Support Specialist to provide advanced Tier 2 support to our external customers for issues affecting our SaaS applications and servic\nGive customers and internal stakeholders clear, timely, professional updates on findings, next steps, workarounds, and realistic expectations.\nCreate troubleshooting guides and knowledge articles, identify recurring issues, and mentor Tier 1 team members to improve technical capability and escalation quality. What you’ll bring  2+ years of e\nExperience troubleshooting REST APIs, HTTP/HTTPS, JSON, web services, and integrations using tools such as Postman.\nA diploma, degree, or equivalent practical experience in computer science, software development, information technology, or a related field. Preferred experience  Experience with Microsoft Azure App S\nExperience with Microsoft Entra ID, OAuth 2.0, OpenID Connect, SAML, and JWT .\nExperience supporting IIS-hosted ASP.NET/.NET applications .\nITIL certification or practical experience applying ITIL-based incident, problem, and change management practices in a technical support environment.\nPowerShell or other scripting experience for troubleshooting and automation."
-},
-{
-"title": "Network Provisioning Engineer",
-"company": "Mastercard",
-"location": "Waterloo, Belgium",
-"posted": "2026-11-26",
-"link": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
-"source": "Mastercard careers",
-"country": "CA",
-"years": null
 },
 {
 "title": "API Integration Engineer",
