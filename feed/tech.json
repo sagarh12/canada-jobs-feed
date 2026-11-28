@@ -1,35 +1,26 @@
 {
-"updated": "2026-11-28T01:39:50+00:00",
+"updated": "2026-11-28T01:49:49+00:00",
 "jobs": [
 {
-"title": "Office Administrator/Bookkeeper",
-"company": "T HOMES",
-"location": "Winnipeg, MB, CA",
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1249f1521f81b701",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
 "source": "Indeed",
 "country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-administratorbookkeeper-1249f1521f81b701",
-"salary": "$16.00-$19.00 per hour",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst",
 "skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Office position",
-"company": "",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1f79dabed4484757",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-position-1f79dabed4484757",
-"salary": "$20.00 per hour",
-"skills": [
-"Google Workspace"
-]
+"SQL",
+"Unity",
+"Databricks",
+"Power BI",
+"Excel",
+"Data visualization",
+"Cybersecurity"
+],
+"req": "Location: Calgary, AB, Canada Date Posted: Nov 28, 2026 Job ID: R31942 Job Status: Full-Time Description Are you a data professional who gets energized by turning messy, complex data landscapes into t"
 },
 {
 "title": "Data Governance Analyst",
@@ -53,25 +44,34 @@
 "req": "Location: Edmonton, AB, Canada Date Posted: Nov 28, 2026 Job ID: R31942 Job Status: Full-Time Description Are you a data professional who gets energized by turning messy, complex data landscapes into "
 },
 {
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Calgary, AB, CA",
+"title": "Office position",
+"company": "",
+"location": "Mississauga, ON, CA",
 "posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"link": "https://ca.indeed.com/viewjob?jk=1f79dabed4484757",
 "source": "Indeed",
 "country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-position-1f79dabed4484757",
+"salary": "$20.00 per hour",
 "skills": [
-"SQL",
-"Unity",
-"Databricks",
-"Power BI",
-"Excel",
-"Data visualization",
-"Cybersecurity"
-],
-"req": "Location: Calgary, AB, Canada Date Posted: Nov 28, 2026 Job ID: R31942 Job Status: Full-Time Description Are you a data professional who gets energized by turning messy, complex data landscapes into t"
+"Google Workspace"
+]
+},
+{
+"title": "Office Administrator/Bookkeeper",
+"company": "T HOMES",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1249f1521f81b701",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administratorbookkeeper-1249f1521f81b701",
+"salary": "$16.00-$19.00 per hour",
+"skills": [
+"Google Workspace"
+]
 },
 {
 "title": "QA Analyst",
