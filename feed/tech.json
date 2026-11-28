@@ -1,225 +1,26 @@
 {
-"updated": "2026-11-28T10:59:42+00:00",
+"updated": "2026-11-28T11:09:49+00:00",
 "jobs": [
 {
-"title": "Software Engineer Secure Code Analysis & Modernization (Remote Senior and Junior Roles)",
-"company": "Canvass Labs",
-"location": "Remote · United States",
+"title": "Clinical Applications Analyst",
+"company": "Royal Victoria Regional Health Centre",
+"location": "Barrie, ON, CA",
 "posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=ff5234ea644d6643",
+"link": "https://ca.indeed.com/viewjob?jk=1435dbb035e64e1f",
 "source": "Indeed",
-"country": "US",
-"years": null,
-"apply": "https://www.canvasslabs.com/careers",
-"salary": "$85,000 - $210,000 USD per year",
+"country": "CA",
+"years": 3,
+"apply": "https://rvh.hua.hrsmart.com/pm_module/cgi-bin/click.cgi?job_id=24694&site_id=148",
 "skills": [
-"Python",
+"JavaScript",
 "C++",
 "C",
-"LLMs / GenAI",
-"RAG",
-"Vulnerability management",
+"Windows",
 "Help desk / troubleshooting",
-"Data structures & algorithms"
+"VMware / virtualization",
+"ITIL"
 ],
-"req": "The Roles We are hiring two engineers, one senior and one junior. We are flexible on level and will calibrate scope, compensation, and equity to demonstrated depth. Both roles are full-time and U.S.-b\nPractical C/C++ experience, or strong systems-level fundamentals and a clear ability to ramp quickly on C/C++  Curiosity and good instincts about AI-generated code: a habit of questioning surprising o\nA fast learner who can take direction from senior engineers and quickly work independently.\nClear written and verbal communication, and the ability to work independently in a remote environment. Additional Depth for the Senior Role  Deep C/C++ vulnerability knowledge: memory safety, buffer o\nHands-on experience analyzing, refactoring, or modernizing legacy C/C++ systems.\nExperience with LLMs, retrieval-augmented generation, memory systems, or AI-assisted developer tooling."
-},
-{
-"title": "Pharmacist I",
-"company": "Alberta Health Services",
-"location": "St. Albert, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=0498ba8d0acb0088",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://careers.albertahealthservices.ca/jobs/pharmacist-i-606083",
-"salary": "$59.76",
-"req": "Your Opportunity: Are you a motivated and dedicated Pharmacist interested in making a meaningful impact in patient care? AHS is seeking a skilled professional to join our pharmacy team in a position a"
-},
-{
-"title": "Polymer Scientist",
-"company": "Shell",
-"location": "Remote · United States",
-"posted": "2026-11-28",
-"link": "https://www.indeed.com/viewjob?jk=0bd3de6e61dff810",
-"source": "Indeed",
-"country": "US",
-"years": 3,
-"apply": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Pennsylvania---Monaca-Chemical-Plant/Polymer-Scientist_R212560",
-"salary": "$103,000 - $155,000 USD per year",
-"start": "November 28, 2026",
-"skills": [
-"HTML/CSS",
-"Help desk / troubleshooting"
-],
-"req": "Take advantage of paid parental leave, including for non-birthing parents  Join an organization working to become one of the most diverse and inclusive in the world. We strongly encourage applicants o\nDISCLAIMER: Please note: We occasionally amend or withdraw Shell jobs and reserve the right to do so at any time, including prior to the advertised closing date. Before applying, you are advised to re"
-},
-{
-"title": "Administrative Assistant - Molecular Science",
-"company": "CAMH",
-"location": "Toronto, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=05efe2230101dd64",
-"source": "Indeed",
-"country": "CA",
-"years": 3,
-"apply": "https://iaemup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2243",
-"salary": "$54,428.08 – $68,035.11 per year"
-},
-{
-"title": "Process & Learning Analyst",
-"company": "Bayshore HealthCare",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=81eae3b21728b2ae",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "https://bayshore.taleo.net/careersection/bs_ex/jobdetail.ftl?job=26007123&tz=GMT-06%3A00&tzname=America%2FChicago",
-"salary": "$54,000",
-"req": "Reports exclusively to the Senior Manager, Process Intelligence & Workflow Engineering. Collaborates with branch leadership, Process Intelligence partners and Learning & Development stakeholders witho\nGather learner and stakeholder feedback, validate training effectiveness and recommend updates where process, system or policy changes affect learning content or branch readiness. Coordination & Safeg\nEscalate capacity, scope, branch task reception readiness or dependency risks that may affect process transition, learning deliverables or sustainable branch ownership. Qualifications ----------------\nStrong collaboration, facilitation, analytical and change-adoption skills, with the ability to convert operational requirements into practical learning and performance supports. Bayshore is committed "
-},
-{
-"title": "Technical Support Specialist (3-Month Contract)",
-"company": "Saje Natural Wellness",
-"location": "Vancouver, BC, CA (remote)",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
-"source": "Indeed",
-"country": "CA",
-"years": 1,
-"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610",
-"salary": "$30.00-$40.00/hour",
-"skills": [
-"Networking (TCP/IP, DNS)",
-"Firewalls",
-"macOS",
-"Help desk / troubleshooting",
-"Hardware setup"
-],
-"req": "Hybrid model, working locations may include Surrey Distribution Centre (101-19347 24 Ave Surrey, BC, V3Z 3S9) or Vancouver Support Office (Unit 400 - 22 East 5th Ave, Vancouver BC V5T 1G8) Overview: A\nProvide technical support for applications, services, and hardware. Troubleshoot technologies across all areas of the business (ex. POS systems, payment devices, laptops, tablets, music systems, netwo\nEngage when needed, and work cooperatively with IT peers, cross-functional partners, and external vendors that provide on-site technology support for our site locations (retail stores, distribution ce\nSupport the development and adherence of internal processes, SOPs and support-related documentation for incident, problem, and change release management.\nStage internal Team Member technology hardware and applications (PC and Mac) prior to assignment. Provide technology onboarding for new hires for the Support Office and DCs where applicable.\nMaintain an organized technical hardware inventory stock and re-order when required.\nContributes to a team environment where all Team Members consistently experience a sense of belonging and inclusion.\nPossible after-hours support for emergencies on a rotational basis, upholding the SLA for response times based on severity. We'd love to hear from you if you have:  Diploma or Certificate in Informati\nA minimum of one year of experience in a technical support role, ideally within a retail environment.\nExperience with SOPs and support-related docume"
-},
-{
-"title": "Office Administrative Assistant",
-"company": "Porto Displays",
-"location": "Aurora, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=4a402a5e3dd8656f",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-administrative-assistant-4a402a5e3dd8656f",
-"salary": "$20.00-$25.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Calgary, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst",
-"skills": [
-"SQL",
-"Unity",
-"Databricks",
-"Power BI",
-"Excel",
-"Data visualization",
-"Cybersecurity"
-],
-"req": "Location: Calgary, AB, Canada Date Posted: Nov 28, 2026 Job ID: R31942 Job Status: Full-Time Description Are you a data professional who gets energized by turning messy, complex data landscapes into t"
-},
-{
-"title": "Data Governance Analyst",
-"company": "Ledcor",
-"location": "Edmonton, AB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
-"source": "Indeed",
-"country": "CA",
-"years": 4,
-"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst",
-"skills": [
-"SQL",
-"Unity",
-"Databricks",
-"Power BI",
-"Excel",
-"Data visualization",
-"Cybersecurity"
-],
-"req": "Location: Edmonton, AB, Canada Date Posted: Nov 28, 2026 Job ID: R31942 Job Status: Full-Time Description Are you a data professional who gets energized by turning messy, complex data landscapes into "
-},
-{
-"title": "Office position",
-"company": "",
-"location": "Mississauga, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1f79dabed4484757",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-position-1f79dabed4484757",
-"salary": "$20.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Office Administrator/Bookkeeper",
-"company": "T HOMES",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=1249f1521f81b701",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/office-administratorbookkeeper-1249f1521f81b701",
-"salary": "$16.00-$19.00 per hour",
-"skills": [
-"Google Workspace"
-]
-},
-{
-"title": "Web Developer Intern",
-"company": "CREM Canada",
-"location": "Hamilton, ON, CA",
-"posted": "2026-11-28",
-"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
-"source": "Indeed",
-"country": "CA",
-"years": null,
-"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2",
-"salary": "$22 to $23 per hour",
-"skills": [
-"Python",
-"JavaScript",
-"PHP",
-"HTML/CSS",
-"React",
-"Vue",
-"Node.js",
-"MySQL",
-"Git",
-"Figma"
-]
-},
-{
-"title": "Software Engineering in Test",
-"company": "General Motors",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-11-28",
-"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Engineering-in-Test_JR-202624497-1",
-"source": "General Motors careers",
-"country": "CA",
-"years": null
+"req": "Job Description: The Meditech Clinical Application Analyst is an integral member of the Regional Digital Health (RDH) Clinical Informatics Applications team. The Clinical Applications Analyst has a sy\nCoordinate training and support departmental trainers for application(s) and provide training as required for Meditech systems. You must have access to reliable transportation and a valid driver’s lic\nDemonstrated contributor to a positive team spirit and attitude and lives the RVH Values  Ability and experience demonstrated through positive performance appraisals, work history and attendance recor\nExperience working with highly integrated teams.\nMust be able to manage several projects/tasks at one time"
 },
 {
 "title": "Engineer - Machine Learning SW Verification",
@@ -247,6 +48,226 @@
 "Embedded systems"
 ],
 "req": "Company: ------------ Qualcomm Canada ULC Job Area: ------------- Engineering Group, Engineering Group > Machine Learning Engineering General Summary: Today, more intelligence is moving to end devices\nStrong communication and analytical abilities, with a collaborative mindset. Preferred Qualifications:  Familiarity with embedded systems and Linux/Windows environments.\nExperience with CI tools such as Jenkins."
+},
+{
+"title": "Software Engineering in Test",
+"company": "General Motors",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-28",
+"link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Engineering-in-Test_JR-202624497-1",
+"source": "General Motors careers",
+"country": "CA",
+"years": null
+},
+{
+"title": "Web Developer Intern",
+"company": "CREM Canada",
+"location": "Hamilton, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=07307aede658b2f2",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/web-developer-intern-07307aede658b2f2",
+"salary": "$22 to $23 per hour",
+"skills": [
+"Python",
+"JavaScript",
+"PHP",
+"HTML/CSS",
+"React",
+"Vue",
+"Node.js",
+"MySQL",
+"Git",
+"Figma"
+]
+},
+{
+"title": "Office Administrator/Bookkeeper",
+"company": "T HOMES",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1249f1521f81b701",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administratorbookkeeper-1249f1521f81b701",
+"salary": "$16.00-$19.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Office position",
+"company": "",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1f79dabed4484757",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-position-1f79dabed4484757",
+"salary": "$20.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Edmonton, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=6c1953d67b1b433e",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523514-data-governance-analyst",
+"skills": [
+"SQL",
+"Unity",
+"Databricks",
+"Power BI",
+"Excel",
+"Data visualization",
+"Cybersecurity"
+],
+"req": "Location: Edmonton, AB, Canada Date Posted: Nov 28, 2026 Job ID: R31942 Job Status: Full-Time Description Are you a data professional who gets energized by turning messy, complex data landscapes into "
+},
+{
+"title": "Data Governance Analyst",
+"company": "Ledcor",
+"location": "Calgary, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=1e2c8b42ae77ab70",
+"source": "Indeed",
+"country": "CA",
+"years": 4,
+"apply": "https://jobs.ledcor.com/jobs/18523513-data-governance-analyst",
+"skills": [
+"SQL",
+"Unity",
+"Databricks",
+"Power BI",
+"Excel",
+"Data visualization",
+"Cybersecurity"
+],
+"req": "Location: Calgary, AB, Canada Date Posted: Nov 28, 2026 Job ID: R31942 Job Status: Full-Time Description Are you a data professional who gets energized by turning messy, complex data landscapes into t"
+},
+{
+"title": "Office Administrative Assistant",
+"company": "Porto Displays",
+"location": "Aurora, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=4a402a5e3dd8656f",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "http://ca.indeed.com/job/office-administrative-assistant-4a402a5e3dd8656f",
+"salary": "$20.00-$25.00 per hour",
+"skills": [
+"Google Workspace"
+]
+},
+{
+"title": "Technical Support Specialist (3-Month Contract)",
+"company": "Saje Natural Wellness",
+"location": "Vancouver, BC, CA (remote)",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=81d941632749210c",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://sajenaturalwellnessoffice.recruiterbox.com/jobs/fk0zatb?fjb_hash=ezLpq610",
+"salary": "$30.00-$40.00/hour",
+"skills": [
+"Networking (TCP/IP, DNS)",
+"Firewalls",
+"macOS",
+"Help desk / troubleshooting",
+"Hardware setup"
+],
+"req": "Hybrid model, working locations may include Surrey Distribution Centre (101-19347 24 Ave Surrey, BC, V3Z 3S9) or Vancouver Support Office (Unit 400 - 22 East 5th Ave, Vancouver BC V5T 1G8) Overview: A\nProvide technical support for applications, services, and hardware. Troubleshoot technologies across all areas of the business (ex. POS systems, payment devices, laptops, tablets, music systems, netwo\nEngage when needed, and work cooperatively with IT peers, cross-functional partners, and external vendors that provide on-site technology support for our site locations (retail stores, distribution ce\nSupport the development and adherence of internal processes, SOPs and support-related documentation for incident, problem, and change release management.\nStage internal Team Member technology hardware and applications (PC and Mac) prior to assignment. Provide technology onboarding for new hires for the Support Office and DCs where applicable.\nMaintain an organized technical hardware inventory stock and re-order when required.\nContributes to a team environment where all Team Members consistently experience a sense of belonging and inclusion.\nPossible after-hours support for emergencies on a rotational basis, upholding the SLA for response times based on severity. We'd love to hear from you if you have:  Diploma or Certificate in Informati\nA minimum of one year of experience in a technical support role, ideally within a retail environment.\nExperience with SOPs and support-related docume"
+},
+{
+"title": "Process & Learning Analyst",
+"company": "Bayshore HealthCare",
+"location": "Mississauga, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=81eae3b21728b2ae",
+"source": "Indeed",
+"country": "CA",
+"years": null,
+"apply": "https://bayshore.taleo.net/careersection/bs_ex/jobdetail.ftl?job=26007123&tz=GMT-06%3A00&tzname=America%2FChicago",
+"salary": "$54,000",
+"req": "Reports exclusively to the Senior Manager, Process Intelligence & Workflow Engineering. Collaborates with branch leadership, Process Intelligence partners and Learning & Development stakeholders witho\nGather learner and stakeholder feedback, validate training effectiveness and recommend updates where process, system or policy changes affect learning content or branch readiness. Coordination & Safeg\nEscalate capacity, scope, branch task reception readiness or dependency risks that may affect process transition, learning deliverables or sustainable branch ownership. Qualifications ----------------\nStrong collaboration, facilitation, analytical and change-adoption skills, with the ability to convert operational requirements into practical learning and performance supports. Bayshore is committed "
+},
+{
+"title": "Administrative Assistant - Molecular Science",
+"company": "CAMH",
+"location": "Toronto, ON, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=05efe2230101dd64",
+"source": "Indeed",
+"country": "CA",
+"years": 3,
+"apply": "https://iaemup.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2243",
+"salary": "$54,428.08 – $68,035.11 per year"
+},
+{
+"title": "Polymer Scientist",
+"company": "Shell",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=0bd3de6e61dff810",
+"source": "Indeed",
+"country": "US",
+"years": 3,
+"apply": "https://shell.wd3.myworkdayjobs.com/en-US/ShellCareers/job/Pennsylvania---Monaca-Chemical-Plant/Polymer-Scientist_R212560",
+"salary": "$103,000 - $155,000 USD per year",
+"start": "November 28, 2026",
+"skills": [
+"HTML/CSS",
+"Help desk / troubleshooting"
+],
+"req": "Take advantage of paid parental leave, including for non-birthing parents  Join an organization working to become one of the most diverse and inclusive in the world. We strongly encourage applicants o\nDISCLAIMER: Please note: We occasionally amend or withdraw Shell jobs and reserve the right to do so at any time, including prior to the advertised closing date. Before applying, you are advised to re"
+},
+{
+"title": "Pharmacist I",
+"company": "Alberta Health Services",
+"location": "St. Albert, AB, CA",
+"posted": "2026-11-28",
+"link": "https://ca.indeed.com/viewjob?jk=0498ba8d0acb0088",
+"source": "Indeed",
+"country": "CA",
+"years": 1,
+"apply": "https://careers.albertahealthservices.ca/jobs/pharmacist-i-606083",
+"salary": "$59.76",
+"req": "Your Opportunity: Are you a motivated and dedicated Pharmacist interested in making a meaningful impact in patient care? AHS is seeking a skilled professional to join our pharmacy team in a position a"
+},
+{
+"title": "Software Engineer Secure Code Analysis & Modernization (Remote Senior and Junior Roles)",
+"company": "Canvass Labs",
+"location": "Remote · United States",
+"posted": "2026-11-28",
+"link": "https://www.indeed.com/viewjob?jk=ff5234ea644d6643",
+"source": "Indeed",
+"country": "US",
+"years": null,
+"apply": "https://www.canvasslabs.com/careers",
+"salary": "$85,000 - $210,000 USD per year",
+"skills": [
+"Python",
+"C++",
+"C",
+"LLMs / GenAI",
+"RAG",
+"Vulnerability management",
+"Help desk / troubleshooting",
+"Data structures & algorithms"
+],
+"req": "The Roles We are hiring two engineers, one senior and one junior. We are flexible on level and will calibrate scope, compensation, and equity to demonstrated depth. Both roles are full-time and U.S.-b\nPractical C/C++ experience, or strong systems-level fundamentals and a clear ability to ramp quickly on C/C++  Curiosity and good instincts about AI-generated code: a habit of questioning surprising o\nA fast learner who can take direction from senior engineers and quickly work independently.\nClear written and verbal communication, and the ability to work independently in a remote environment. Additional Depth for the Senior Role  Deep C/C++ vulnerability knowledge: memory safety, buffer o\nHands-on experience analyzing, refactoring, or modernizing legacy C/C++ systems.\nExperience with LLMs, retrieval-augmented generation, memory systems, or AI-assisted developer tooling."
 },
 {
 "title": "Visier Developer & Implementation Specialist, Deloitte Global Technology",
@@ -5698,6 +5719,106 @@
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-11-27",
 "link": "https://www.linkedin.com/jobs/view/4453331933",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supplier Risk and Resiliency Analyst II",
+"company": "Zebra Technologies",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4477020411",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual One Port User Support Analyst",
+"company": "KPMG Canada",
+"location": "Saskatoon, Saskatchewan, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4452141518",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Bilingual One Port User Support Analyst",
+"company": "KPMG Canada",
+"location": "Kingston, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4452137668",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Business Reliability Analyst",
+"company": "SearchLabs",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4471112511",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "DevSecOps Engineer",
+"company": "KPMG Canada",
+"location": "Saint John, New Brunswick, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4488110231",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II, Full Stack (Card Acquisition)",
+"company": "Affirm",
+"location": "Calgary, Alberta, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4479343072",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Software Engineer II - NodeJs",
+"company": "Emburse",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4486903715",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Advanced Software Engineer",
+"company": "Honeywell Aerospace",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4488060031",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Data Migration Tester (Remote)",
+"company": "LTM",
+"location": "Toronto, Ontario, Canada (remote)",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4495590744",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Associate Salesforce Administrator",
+"company": "Applied Systems Canada",
+"location": "",
+"posted": "2026-11-27",
+"link": "https://www.linkedin.com/jobs/view/4486934306",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
@@ -12634,6 +12755,16 @@
 "location": "Charlottetown, Prince Edward Island, Canada",
 "posted": "2026-11-26",
 "link": "https://www.linkedin.com/jobs/view/4487505968",
+"source": "LinkedIn",
+"country": "CA",
+"years": null
+},
+{
+"title": "Supply Chain Cost Control Analyst",
+"company": "MHI Canada Aerospace, Inc.",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-11-26",
+"link": "https://www.linkedin.com/jobs/view/4495531560",
 "source": "LinkedIn",
 "country": "CA",
 "years": null
